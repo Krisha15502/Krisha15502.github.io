@@ -23,7 +23,8 @@
   "data": {
     "url": "https://api.economicsobservatory.com/ind/tele?vega",
     "format": {
-      "type": "json"
+      "type": "json",
+      "property": "data"
     }
   },
   "mark": {
@@ -35,6 +36,7 @@
     "x": {
       "field": "date",
       "type": "temporal",
+      "timeUnit": "year",
       "axis": {
         "title": "Year",
         "titleColor": "#122B39",
