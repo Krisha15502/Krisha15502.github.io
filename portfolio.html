@@ -3,54 +3,104 @@
 <head>
   <meta charset="UTF-8">
   <title>Portfolio | Krisha Chandnani</title>
-
+  
   <!--Vega Dependencies-->
   <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-  <style> </style>
+  
+  <!-- Link to CSS file -->
+  <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
-
 <body>
   <header>
-    <ht>Portfolio - Coding Challenges</ht>
+    <h1>Portfolio - Coding Challenges</h1> <!-- FIXED: Was <ht>, now <h1> -->
     <p>10 Weekly Tasks</p>
     <nav>
       <a href="index.html">Home</a>
       <a href="project.html">Project</a>
     </nav>
   </header>
-
-  <div class = "container">
-
-    <section class = "task-section">
+  
+  <div class="container">
+    <!-- CC1 Section -->
+    <section class="task-section">
       <h2>CC1: Hosting - Display Charts on Your Own Site</h2>
+      
       <h3>Chart 1: Food - CO2 Greenhouse Gas Emissions</h3>
       <div class="chart-container">
         <figure id="chart1_week1"></figure>
       </div>
-
+      
       <h3>Chart 2: Declining Populations</h3>
       <div class="chart-container">
         <figure id="chart2_week1"></figure>
       </div>
     </section>
-
-    <section class = "task-section">
+    
+    <!-- CC2 Section -->
+    <section class="task-section">
       <h2>CC2: Building - Create Your Own Visualisations</h2>
+      
       <h3>Chart 1: Output of Renewables in India</h3>
       <div class="chart-container">
         <figure id="chart1_week2"></figure>
       </div>
-
+      
       <h3>Chart 2: Phone Subscriber Count in India</h3>
       <div class="chart-container">
         <figure id="chart2_week2"></figure>
       </div>
     </section>
+    
+    <!-- Placeholder sections for remaining tasks -->
+    <section class="task-section">
+      <h2>CC3: Debate - Use Visualisation in Policy Commentary</h2>
+      <p class="coming-soon">Coming soon... Policy-related charts with commentary.</p>
+    </section>
+
+    <section class="task-section">
+      <h2>CC4: Replication - Recreate and Improve a Chart</h2>
+      <p class="coming-soon">Coming soon... Original chart, replication, and improvement.</p>
+    </section>
+
+    <section class="task-section">
+      <h2>CC5: Accessing Data - Scraper and API</h2>
+      <p class="coming-soon">Coming soon... Charts using live API data and web scraping.</p>
+    </section>
+
+    <section class="task-section">
+      <h2>CC6: Loops - Build a Dashboard</h2>
+      <p class="coming-soon">Coming soon... Dashboard with 6 charts using loop-based data fetching.</p>
+    </section>
+
+    <section class="task-section">
+      <h2>CC7: Maps - Base Maps and Choropleths</h2>
+      <p class="coming-soon">Coming soon... Maps of Scotland and Wales.</p>
+    </section>
+
+    <section class="task-section">
+      <h2>CC8: Big Data - Extracting Stories from Millions of Prices</h2>
+      <p class="coming-soon">Coming soon... Analysis of UK price datasets.</p>
+    </section>
+
+    <section class="task-section">
+      <h2>CC9: Two Interactive Charts</h2>
+      <p class="coming-soon">Coming soon... Charts with sliders, dropdowns, or other interactivity.</p>
+    </section>
+
+    <section class="task-section">
+      <h2>CC10: Advanced Analysis and Machine Learning</h2>
+      <p class="coming-soon">Coming soon... Advanced analytics and ML-powered visualisations.</p>
+    </section>
   </div>
   
+  <footer>
+    <p>&copy; 2025 Krisha Chandnani | <a href="https://github.com/Krisha15502">GitHub</a> | <a href="https://www.linkedin.com/in/krisha-chandnani/">LinkedIn</a></p>
+  </footer>
+  
   <script>
+    // CC1 Charts
     let chart1_week1_spec = "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/refs/heads/main/charts/library/chartBar4.json";
     vegaEmbed('#chart1_week1', chart1_week1_spec);
     
@@ -60,12 +110,8 @@
     let chart1_week2_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/Chart1_Week2.json";
     vegaEmbed('#chart1_week2', chart1_week2_spec);
     
-    let chart2_week1_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/Chart2_Week2.json";
+    let chart2_week2_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/Chart2_Week2.json";
     vegaEmbed('#chart2_week2', chart2_week2_spec);
   </script>
 </body>
 </html>
-
-  
-
-        
