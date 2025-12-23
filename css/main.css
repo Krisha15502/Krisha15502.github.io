@@ -1,1 +1,420 @@
-#Creating this as the primary styling file
+/* Main Stylesheet for Krisha Chandnani's Portfolio */
+
+/* ==================== GLOBAL STYLES ==================== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.8;
+    color: #2c3e50;
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    text-align: left;
+}
+
+/* ==================== TYPOGRAPHY ==================== */
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.8em;
+    letter-spacing: 1px;
+}
+
+h2 {
+    font-size: 2.2em;
+    color: #34495e;
+}
+
+h3 {
+    font-size: 1.6em;
+    color: #5a6c7d;
+}
+
+p {
+    margin-bottom: 15px;
+    line-height: 1.9;
+    font-size: 1.1em;
+    text-align: justify;
+}
+
+/* ==================== LINKS ==================== */
+a {
+    color: #667eea;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #764ba2;
+}
+
+/* ==================== HEADER ==================== */
+header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 80px 20px;
+    text-align: center;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    margin-bottom: 40px;
+}
+
+header h1 {
+    font-size: 3em;
+    margin-bottom: 15px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    letter-spacing: 2px;
+}
+
+header p {
+    font-size: 1.3em;
+    margin-bottom: 30px;
+    opacity: 0.95;
+    font-style: italic;
+    text-align: center;
+}
+
+/* Project page gets green header */
+.project-header {
+    background: linear-gradient(135deg, #2ecc71 0%, #27ae60 100%) !important;
+}
+
+/* ==================== NAVIGATION ==================== */
+nav {
+    margin-top: 25px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 12px 25px;
+    margin: 0 8px;
+    background: rgba(255, 255, 255, 0.25);
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    display: inline-block;
+    font-size: 1.1em;
+    font-weight: 500;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+nav a:hover {
+    background: rgba(255, 255, 255, 0.4);
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+/* ==================== SECTIONS ==================== */
+section {
+    margin: 50px 0;
+}
+
+.intro-section {
+    background: white;
+    padding: 50px;
+    margin: 50px auto;
+    border-radius: 12px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+    border-left: 5px solid #667eea;
+}
+
+.intro-section h2 {
+    color: #667eea;
+    margin-bottom: 25px;
+    font-size: 2.2em;
+    text-align: center;
+}
+
+.intro-section p {
+    font-size: 1.15em;
+    margin-bottom: 20px;
+    line-height: 2;
+    color: #34495e;
+}
+
+/* Portfolio task sections */
+.task-section {
+    background: white;
+    padding: 50px;
+    margin: 50px auto;
+    border-radius: 12px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.task-section:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.2);
+}
+
+.task-section h2 {
+    color: #667eea;
+    margin-bottom: 25px;
+    font-size: 2em;
+    border-bottom: 4px solid #667eea;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+.task-section h3 {
+    color: #764ba2;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    text-align: left;
+}
+
+.task-section p {
+    text-align: justify;
+}
+
+/* Project chart sections */
+.chart-section {
+    background: white;
+    padding: 50px;
+    margin: 50px auto;
+    border-radius: 12px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+    border-left: 5px solid #27ae60;
+}
+
+.chart-section h3 {
+    color: #27ae60;
+    margin-bottom: 25px;
+    font-size: 1.8em;
+    border-bottom: 4px solid #27ae60;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+/* ==================== CARDS (for index page) ==================== */
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 35px;
+    margin: 50px auto;
+}
+
+.card {
+    background: white;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-top: 5px solid #667eea;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+}
+
+.card h3 {
+    color: #667eea;
+    margin-bottom: 20px;
+    font-size: 1.8em;
+    text-align: center;
+}
+
+.card p {
+    margin-bottom: 25px;
+    font-size: 1.05em;
+    text-align: justify;
+}
+
+.card a {
+    display: inline-block;
+    padding: 12px 30px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    font-weight: 600;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    font-size: 1.05em;
+}
+
+.card a:hover {
+    background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+}
+
+/* ==================== CHARTS ==================== */
+.chart-container {
+    margin: 35px 0;
+    padding: 25px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    border-left: 5px solid #667eea;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+figure {
+    margin: 25px auto;
+    text-align: center;
+}
+
+.chart-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+    gap: 30px;
+    margin: 30px 0;
+}
+
+/* Make charts look better */
+#chart1_week1, #chart2_week1, #chart1_week2, #chart2_week2,
+#project_chart_1, #project_chart_2, #project_chart_3, #project_chart_4, #project_chart_5 {
+    border: 1px solid #e1e8ed;
+    border-radius: 8px;
+    padding: 10px;
+    background: white;
+}
+
+/* ==================== SPECIAL BOXES ==================== */
+.coming-soon {
+    background: linear-gradient(135deg, #fff3cd 0%, #ffe69c 100%);
+    padding: 25px;
+    border-radius: 8px;
+    border-left: 5px solid #ffc107;
+    color: #856404;
+    font-style: italic;
+    margin: 25px 0;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    text-align: center;
+    font-size: 1.05em;
+}
+
+.research-question {
+    background: linear-gradient(135deg, #e8f8f5 0%, #d1f2eb 100%);
+    padding: 35px;
+    border-radius: 10px;
+    border-left: 6px solid #27ae60;
+    margin: 35px 0;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.1);
+}
+
+.research-question h3 {
+    color: #27ae60;
+    margin-bottom: 20px;
+    font-size: 1.6em;
+    text-align: center;
+}
+
+.research-question p {
+    font-size: 1.15em;
+    line-height: 2;
+}
+
+.data-sources {
+    background: linear-gradient(135deg, #fff9e6 0%, #fff3cd 100%);
+    padding: 35px;
+    border-radius: 10px;
+    border-left: 6px solid #ffc107;
+    margin: 45px 0;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.1);
+}
+
+.data-sources h3 {
+    color: #856404;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    text-align: left;
+}
+
+.data-sources ul {
+    list-style-position: inside;
+    margin-left: 20px;
+    text-align: left;
+}
+
+.data-sources li {
+    margin-bottom: 12px;
+    font-size: 1.05em;
+    line-height: 1.8;
+}
+
+/* ==================== FOOTER ==================== */
+footer {
+    text-align: center;
+    padding: 40px 20px;
+    color: #5a6c7d;
+    margin-top: 60px;
+    background: white;
+    border-top: 3px solid #667eea;
+    box-shadow: 0 -2px 10px rgba(0,0,0,0.05);
+}
+
+footer p {
+    font-size: 1.05em;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.social-links {
+    margin-top: 20px;
+}
+
+.social-links a {
+    color: #667eea;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+    font-size: 1.05em;
+    transition: all 0.3s ease;
+}
+
+.social-links a:hover {
+    color: #764ba2;
+    transform: translateY(-2px);
+}
+
+/* ==================== RESPONSIVE DESIGN ==================== */
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+    
+    header {
+        padding: 40px 15px;
+    }
+    
+    header h1 {
+        font-size: 1.8em !important;
+    }
+    
+    nav a {
+        display: block;
+        margin: 10px auto;
+        max-width: 200px;
+    }
+    
+    .cards {
+        grid-template-columns: 1fr;
+    }
+    
+    .chart-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .task-section, .chart-section, .intro-section {
+        padding: 20px;
+    }
+}
