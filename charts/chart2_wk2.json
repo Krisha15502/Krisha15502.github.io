@@ -1,42 +1,38 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Phone Subscriber Count in India",
+    "text": "Unemployment",
     "anchor": "start",
-    "subtitle": "ODI through ECO API",
-    "fontSize": "14",
-    "subtitleFontSize": "12",
+    "subtitle": "Rate, % | Source: CSO (WB) through ECO API",
+    "fontSize": 14,
+    "subtitleFontSize": 12,
     "color": "#000000",
     "subtitleColor": "#000000"
   },
-  "height": "250",
-  "width": "container",
-  "autosize": {
-    "type": "fit",
-    "contains": "padding"
-  },
+  "height": 250,
+  "width": 650,
   "background": "#ffffff",
   "view": {
     "fill": "#ffffff",
     "strokeOpacity": 0
   },
   "data": {
-    "url": "https://api.economicsobservatory.com/ind/tele?vega",
+    "url": "https://api.economicsobservatory.com/ind/unem?vega",
     "format": {
       "type": "json"
     }
   },
   "mark": {
     "type": "line",
-    "color": "#008cb4",
-    "strokeWidth": "2"
+    "color": "#f4134d",
+    "strokeWidth": 2
   },
   "encoding": {
     "x": {
       "field": "date",
       "type": "temporal",
       "axis": {
-        "title": "Year",
+        "title": "",
         "titleColor": "#122B39",
         "grid": false
       }
@@ -45,10 +41,10 @@
       "field": "value",
       "type": "quantitative",
       "axis": {
-        "title": "No. of Phone Subscribers (Millions)",
+        "title": "",
         "titleColor": "#122B39",
         "grid": false
       }
     }
   }
-}:1
+}
