@@ -1,0 +1,157 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Climate Vulnerability vs CO2 Emissions Per Capita",
+    "subtitle": "Developing Countries Face the Consequences of Climate Change",
+    "fontSize": 18,
+    "subtitleFontSize": 13,
+    "anchor": "middle",
+    "font": "Times New Roman",
+    "subtitleFont": "Times New Roman",
+    "fontWeight": "bold"
+  },
+  "width": 600,
+  "height": 500,
+  "config": {"font": "Times New Roman"},
+  "resolve": {"legend": {"color": "independent"}},
+  "layer": [
+    {
+      "data": {
+        "values": [
+          {
+            "quadrant": "High Risk, Low Emissions",
+            "x_start": 0,
+            "x_end": 9,
+            "y_start": 5,
+            "y_end": 10,
+            "color": "#ffcccc"
+          },
+          {
+            "quadrant": "High Risk, High Emissions",
+            "x_start": 9,
+            "x_end": 18,
+            "y_start": 5,
+            "y_end": 10,
+            "color": "#ffffff"
+          },
+          {
+            "quadrant": "Low Risk, Low Emissions",
+            "x_start": 0,
+            "x_end": 9,
+            "y_start": 0,
+            "y_end": 5,
+            "color": "#ffffff"
+          },
+          {
+            "quadrant": "Low Risk, High Emissions",
+            "x_start": 9,
+            "x_end": 18,
+            "y_start": 0,
+            "y_end": 5,
+            "color": "#e6f4ea"
+          }
+        ]
+      },
+      "mark": {"type": "rect", "opacity": 0.3},
+      "encoding": {
+        "x": {"field": "x_start", "type": "quantitative"},
+        "x2": {"field": "x_end"},
+        "y": {"field": "y_start", "type": "quantitative"},
+        "y2": {"field": "y_end"},
+        "color": {
+          "field": "color",
+          "type": "nominal",
+          "scale": null,
+          "legend": null
+        },
+        "tooltip": {"field": "quadrant", "type": "nominal"}
+      }
+    },
+    {
+      "data": {"values": [{"x": 9}]},
+      "mark": {
+        "type": "rule",
+        "strokeDash": [5, 5],
+        "color": "#666",
+        "strokeWidth": 2
+      },
+      "encoding": {"x": {"field": "x", "type": "quantitative"}}
+    },
+    {
+      "data": {"values": [{"y": 5}]},
+      "mark": {
+        "type": "rule",
+        "strokeDash": [5, 5],
+        "color": "#666",
+        "strokeWidth": 2
+      },
+      "encoding": {"y": {"field": "y", "type": "quantitative"}}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/data/vulnerability_developing.csv"
+      },
+      "mark": {"type": "circle", "size": 800, "opacity": 0.8},
+      "encoding": {
+        "x": {
+          "field": "emissions_pc",
+          "type": "quantitative",
+          "title": "CO2 Emissions Per Capita (Metric Tons)",
+          "scale": {"domain": [0, 17]},
+          "axis": {
+            "grid": false,
+            "titleFont": "Times New Roman",
+            "labelFont": "Times New Roman",
+            "titleFontSize": 13,
+            "labelFontSize": 11
+          }
+        },
+        "y": {
+          "field": "vulnerability",
+          "type": "quantitative",
+          "title": "Climate Vulnerability Score (0-10)",
+          "scale": {"domain": [0, 10]},
+          "axis": {
+            "grid": false,
+            "titleFont": "Times New Roman",
+            "labelFont": "Times New Roman",
+            "titleFontSize": 13,
+            "labelFontSize": 11
+          }
+        },
+        "color": {
+          "field": "region",
+          "type": "nominal",
+          "scale": {
+            "domain": ["Africa", "Asia", "Europe", "Americas", "Oceania"],
+            "range": ["#404788ff", "#e67e22", "#FE4A49", "#0B6E4F", "#18020C"]
+          },
+          "legend": {
+            "title": "Region",
+            "titleFont": "Times New Roman",
+            "labelFont": "Times New Roman",
+            "titleFontSize": 12,
+            "labelFontSize": 11,
+            "orient": "right"
+          }
+        },
+        "tooltip": [
+          {"field": "country", "type": "nominal", "title": "Country"},
+          {
+            "field": "vulnerability",
+            "type": "quantitative",
+            "title": "Vulnerability Score",
+            "format": ".1f"
+          },
+          {
+            "field": "emissions_pc",
+            "type": "quantitative",
+            "title": "CO2 Per Capita (t)",
+            "format": ".1f"
+          },
+          {"field": "region", "type": "nominal", "title": "Region"}
+        ]
+      }
+    }
+  ]
+}
