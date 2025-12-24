@@ -1,0 +1,135 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Western banks' China businesses falter",
+    "subtitle": "Rmb, mn",
+    "fontSize": 15,
+    "subtitleFontSize": 11,
+    "anchor": "start",
+    "font": "Arial",
+    "subtitleFont": "Arial"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/main/data/china_banks_data.csv"
+  },
+  "transform": [
+    {
+      "fold": ["investment_banking_revenue", "net_income"],
+      "as": ["metric", "value"]
+    }
+  ],
+  "columns": 4,
+  "facet": {
+    "field": "bank",
+    "type": "nominal",
+    "header": {
+      "title": null,
+      "labelFontSize": 12,
+      "labelFont": "Arial",
+      "labelPadding": 3
+    },
+    "sort": [
+      "Credit Suisse",
+      "Deutsche Bank",
+      "Goldman Sachs",
+      "HSBC",
+      "JPMorgan",
+      "Morgan Stanley",
+      "UBS"
+    ]
+  },
+  "resolve": {"scale": {"x": "independent", "y": "independent"}},
+  "spec": {
+    "width": 135,
+    "height": 105,
+    "layer": [
+      {
+        "mark": {
+          "type": "rule",
+          "strokeDash": [2, 2],
+          "color": "#aaa",
+          "strokeWidth": 0.8
+        },
+        "encoding": {"y": {"datum": 0}}
+      },
+      {
+        "mark": {
+          "type": "line",
+          "point": {"filled": true, "size": 45},
+          "strokeWidth": 2.5
+        },
+        "encoding": {
+          "x": {
+            "field": "year",
+            "type": "quantitative",
+            "axis": {
+              "title": null,
+              "labelFontSize": 10,
+              "labelFont": "Arial",
+              "grid": false,
+              "ticks": true,
+              "tickSize": 3,
+              "domain": false,
+              "tickCount": 5,
+              "labelExpr": "datum.value == 2018 || datum.value == 2022 ? format(datum.value, 'd') : ''",
+              "format": "d"
+            },
+            "scale": {"domain": [2018, 2022]}
+          },
+          "y": {
+            "field": "value",
+            "type": "quantitative",
+            "scale": {"domain": [-600, 600]},
+            "axis": {
+              "title": null,
+              "labelFontSize": 10,
+              "labelFont": "Arial",
+              "grid": true,
+              "gridColor": "#d9d9d9",
+              "gridOpacity": 0.6,
+              "ticks": true,
+              "tickSize": 3,
+              "tickCount": 10,
+              "labelExpr": "datum.value == -400 || datum.value == -200 || datum.value == 0 || datum.value == 200 || datum.value == 600 ? format(datum.value, '') : ''"
+            }
+          },
+          "color": {
+            "field": "metric",
+            "type": "nominal",
+            "scale": {
+              "domain": ["investment_banking_revenue", "net_income"],
+              "range": ["#2b5c8a", "#d6478e"]
+            },
+            "legend": {
+              "title": null,
+              "orient": "top",
+              "labelFontSize": 10,
+              "labelFont": "Arial",
+              "symbolSize": 70,
+              "symbolStrokeWidth": 0,
+              "labelExpr": "datum.label == 'investment_banking_revenue' ? 'Investment banking revenue' : 'Net income'",
+              "direction": "horizontal",
+              "symbolType": "circle"
+            }
+          },
+          "tooltip": [
+            {"field": "bank", "type": "nominal", "title": "Bank"},
+            {"field": "year", "type": "quantitative", "title": "Year"},
+            {"field": "metric", "type": "nominal", "title": "Metric"},
+            {
+              "field": "value",
+              "type": "quantitative",
+              "title": "Value (Rmb mn)",
+              "format": ","
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "config": {
+    "view": {"stroke": "#e5e5e5", "strokeWidth": 0.5},
+    "font": "Arial",
+    "background": "#F2DFCE"
+  }
+}
