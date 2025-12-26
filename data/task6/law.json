@@ -1,0 +1,132 @@
+{
+  "location": "Law",
+  "total_unis": 21,
+  "ratings": [
+    {
+      "name": "Aberystwyth University",
+      "degree": "Law",
+      "satisfaction": "98",
+      "year": "2019"
+    },
+    {
+      "name": "University of Lincoln",
+      "degree": "Law",
+      "satisfaction": "95",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Leeds",
+      "degree": "Law",
+      "satisfaction": "92",
+      "year": "2019"
+    },
+    {
+      "name": "The University of East Anglia",
+      "degree": "Law",
+      "satisfaction": "90",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Liverpool",
+      "degree": "Law",
+      "satisfaction": "89",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Kent",
+      "degree": "Law",
+      "satisfaction": "89",
+      "year": "2019"
+    },
+    {
+      "name": "The Open University",
+      "degree": "Law",
+      "satisfaction": "86",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Essex",
+      "degree": "Law",
+      "satisfaction": "86",
+      "year": "2019"
+    },
+    {
+      "name": "University of Exeter",
+      "degree": "Law",
+      "satisfaction": "85",
+      "year": "2019"
+    },
+    {
+      "name": "University of Greenwich",
+      "degree": "Law",
+      "satisfaction": "84",
+      "year": "2019"
+    },
+    {
+      "name": "Anglia Ruskin University",
+      "degree": "Law",
+      "satisfaction": "83",
+      "year": "2019"
+    },
+    {
+      "name": "University of Bristol",
+      "degree": "Law",
+      "satisfaction": "82",
+      "year": "2019"
+    },
+    {
+      "name": "University of Nottingham",
+      "degree": "Law",
+      "satisfaction": "82",
+      "year": "2019"
+    },
+    {
+      "name": "University of Birmingham",
+      "degree": "Law",
+      "satisfaction": "80",
+      "year": "2019"
+    },
+    {
+      "name": "University of Hertfordshire",
+      "degree": "Law",
+      "satisfaction": "79",
+      "year": "2019"
+    },
+    {
+      "name": "University of Bristol",
+      "degree": "Law",
+      "satisfaction": "78",
+      "year": "2019"
+    },
+    {
+      "name": "University of Edinburgh",
+      "degree": "Law",
+      "satisfaction": "78",
+      "year": "2019"
+    },
+    {
+      "name": "Brunel University",
+      "degree": "Law",
+      "satisfaction": "77",
+      "year": "2019"
+    },
+    {
+      "name": "Middlesex University",
+      "degree": "Law",
+      "satisfaction": "76",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Manchester",
+      "degree": "Law",
+      "satisfaction": "73",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Surrey",
+      "degree": "Law",
+      "satisfaction": "71",
+      "year": "2019"
+    }
+  ]
+}

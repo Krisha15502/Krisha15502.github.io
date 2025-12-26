@@ -1,0 +1,78 @@
+{
+  "location": "Architecture",
+  "total_unis": 12,
+  "ratings": [
+    {
+      "name": "Coventry University",
+      "degree": "Architecture",
+      "satisfaction": "92",
+      "year": "2019"
+    },
+    {
+      "name": "University of Hertfordshire",
+      "degree": "Architecture",
+      "satisfaction": "92",
+      "year": "2019"
+    },
+    {
+      "name": "Newcastle University",
+      "degree": "Architecture",
+      "satisfaction": "86",
+      "year": "2019"
+    },
+    {
+      "name": "Anglia Ruskin University",
+      "degree": "Architecture",
+      "satisfaction": "82",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Leeds",
+      "degree": "Architecture",
+      "satisfaction": "80",
+      "year": "2019"
+    },
+    {
+      "name": "University of Birmingham",
+      "degree": "Architecture",
+      "satisfaction": "80",
+      "year": "2019"
+    },
+    {
+      "name": "University of Birmingham",
+      "degree": "Architecture",
+      "satisfaction": "80",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Kent",
+      "degree": "Architecture",
+      "satisfaction": "75",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Manchester",
+      "degree": "Architecture",
+      "satisfaction": "75",
+      "year": "2019"
+    },
+    {
+      "name": "University of Greenwich",
+      "degree": "Architecture",
+      "satisfaction": "72",
+      "year": "2019"
+    },
+    {
+      "name": "University of Edinburgh",
+      "degree": "Architecture",
+      "satisfaction": "69",
+      "year": "2019"
+    },
+    {
+      "name": "University of Lincoln",
+      "degree": "Architecture",
+      "satisfaction": "33",
+      "year": "2019"
+    }
+  ]
+}

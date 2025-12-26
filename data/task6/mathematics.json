@@ -1,0 +1,126 @@
+{
+  "location": "Mathematics",
+  "total_unis": 20,
+  "ratings": [
+    {
+      "name": "University of Lincoln",
+      "degree": "Mathematics",
+      "satisfaction": "96",
+      "year": "2019"
+    },
+    {
+      "name": "University of Birmingham",
+      "degree": "Mathematics",
+      "satisfaction": "93",
+      "year": "2019"
+    },
+    {
+      "name": "University of Greenwich",
+      "degree": "Mathematics",
+      "satisfaction": "93",
+      "year": "2019"
+    },
+    {
+      "name": "The Open University",
+      "degree": "Mathematics",
+      "satisfaction": "92",
+      "year": "2019"
+    },
+    {
+      "name": "Newcastle University",
+      "degree": "Mathematics",
+      "satisfaction": "91",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Kent",
+      "degree": "Mathematics",
+      "satisfaction": "89",
+      "year": "2019"
+    },
+    {
+      "name": "University of Exeter",
+      "degree": "Mathematics",
+      "satisfaction": "88",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Manchester",
+      "degree": "Mathematics",
+      "satisfaction": "88",
+      "year": "2019"
+    },
+    {
+      "name": "University of Birmingham",
+      "degree": "Mathematics",
+      "satisfaction": "87",
+      "year": "2019"
+    },
+    {
+      "name": "University of Nottingham",
+      "degree": "Mathematics",
+      "satisfaction": "86",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Liverpool",
+      "degree": "Mathematics",
+      "satisfaction": "86",
+      "year": "2019"
+    },
+    {
+      "name": "The University of East Anglia",
+      "degree": "Mathematics",
+      "satisfaction": "85",
+      "year": "2019"
+    },
+    {
+      "name": "Brunel University",
+      "degree": "Mathematics",
+      "satisfaction": "85",
+      "year": "2019"
+    },
+    {
+      "name": "University of Bristol",
+      "degree": "Mathematics",
+      "satisfaction": "85",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Leeds",
+      "degree": "Mathematics",
+      "satisfaction": "84",
+      "year": "2019"
+    },
+    {
+      "name": "Coventry University",
+      "degree": "Mathematics",
+      "satisfaction": "82",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Essex",
+      "degree": "Mathematics",
+      "satisfaction": "81",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Surrey",
+      "degree": "Mathematics",
+      "satisfaction": "80",
+      "year": "2019"
+    },
+    {
+      "name": "Middlesex University",
+      "degree": "Mathematics",
+      "satisfaction": "80",
+      "year": "2019"
+    },
+    {
+      "name": "University of Hertfordshire",
+      "degree": "Mathematics",
+      "satisfaction": "75",
+      "year": "2019"
+    }
+  ]
+}

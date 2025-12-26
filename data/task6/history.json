@@ -1,0 +1,114 @@
+{
+  "location": "History",
+  "total_unis": 18,
+  "ratings": [
+    {
+      "name": "Anglia Ruskin University",
+      "degree": "History",
+      "satisfaction": "96",
+      "year": "2019"
+    },
+    {
+      "name": "University of Greenwich",
+      "degree": "History",
+      "satisfaction": "96",
+      "year": "2019"
+    },
+    {
+      "name": "University of Lincoln",
+      "degree": "History",
+      "satisfaction": "94",
+      "year": "2019"
+    },
+    {
+      "name": "Aberystwyth University",
+      "degree": "History",
+      "satisfaction": "91",
+      "year": "2019"
+    },
+    {
+      "name": "The Open University",
+      "degree": "History",
+      "satisfaction": "90",
+      "year": "2019"
+    },
+    {
+      "name": "Coventry University",
+      "degree": "History",
+      "satisfaction": "90",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Essex",
+      "degree": "History",
+      "satisfaction": "90",
+      "year": "2019"
+    },
+    {
+      "name": "Brunel University",
+      "degree": "History",
+      "satisfaction": "89",
+      "year": "2019"
+    },
+    {
+      "name": "University of Birmingham",
+      "degree": "History",
+      "satisfaction": "88",
+      "year": "2019"
+    },
+    {
+      "name": "The University of East Anglia",
+      "degree": "History",
+      "satisfaction": "87",
+      "year": "2019"
+    },
+    {
+      "name": "University of Nottingham",
+      "degree": "History",
+      "satisfaction": "86",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Kent",
+      "degree": "History",
+      "satisfaction": "86",
+      "year": "2019"
+    },
+    {
+      "name": "University of Hertfordshire",
+      "degree": "History",
+      "satisfaction": "85",
+      "year": "2019"
+    },
+    {
+      "name": "University of Exeter",
+      "degree": "History",
+      "satisfaction": "85",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Leeds",
+      "degree": "History",
+      "satisfaction": "83",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Manchester",
+      "degree": "History",
+      "satisfaction": "78",
+      "year": "2019"
+    },
+    {
+      "name": "Newcastle University",
+      "degree": "History",
+      "satisfaction": "76",
+      "year": "2019"
+    },
+    {
+      "name": "University of Edinburgh",
+      "degree": "History",
+      "satisfaction": "75",
+      "year": "2019"
+    }
+  ]
+}

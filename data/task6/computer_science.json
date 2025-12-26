@@ -1,0 +1,90 @@
+{
+  "location": "ComputerScience",
+  "total_unis": 14,
+  "ratings": [
+    {
+      "name": "The Open University",
+      "degree": "Computer Science",
+      "satisfaction": "84",
+      "year": "2019"
+    },
+    {
+      "name": "University of Exeter",
+      "degree": "Computer Science",
+      "satisfaction": "83",
+      "year": "2019"
+    },
+    {
+      "name": "Aberystwyth University",
+      "degree": "Computer Science",
+      "satisfaction": "83",
+      "year": "2019"
+    },
+    {
+      "name": "Brunel University",
+      "degree": "Computer Science",
+      "satisfaction": "82",
+      "year": "2019"
+    },
+    {
+      "name": "University of Birmingham",
+      "degree": "Computer Science",
+      "satisfaction": "82",
+      "year": "2019"
+    },
+    {
+      "name": "Middlesex University",
+      "degree": "Computer Science",
+      "satisfaction": "79",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Essex",
+      "degree": "Computer Science",
+      "satisfaction": "79",
+      "year": "2019"
+    },
+    {
+      "name": "University of Bristol",
+      "degree": "Computer Science",
+      "satisfaction": "77",
+      "year": "2019"
+    },
+    {
+      "name": "Coventry University",
+      "degree": "Computer Science",
+      "satisfaction": "75",
+      "year": "2019"
+    },
+    {
+      "name": "University of Hertfordshire",
+      "degree": "Computer Science",
+      "satisfaction": "74",
+      "year": "2019"
+    },
+    {
+      "name": "Anglia Ruskin University",
+      "degree": "Computer Science",
+      "satisfaction": "71",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Kent",
+      "degree": "Computer Science",
+      "satisfaction": "70",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Liverpool",
+      "degree": "Computer Science",
+      "satisfaction": "68",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Surrey",
+      "degree": "Computer Science",
+      "satisfaction": "67",
+      "year": "2019"
+    }
+  ]
+}

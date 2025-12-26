@@ -1,0 +1,108 @@
+{
+  "location": "Biology",
+  "total_unis": 17,
+  "ratings": [
+    {
+      "name": "University of Exeter",
+      "degree": "Biology",
+      "satisfaction": "93",
+      "year": "2019"
+    },
+    {
+      "name": "The University of East Anglia",
+      "degree": "Biology",
+      "satisfaction": "91",
+      "year": "2019"
+    },
+    {
+      "name": "Anglia Ruskin University",
+      "degree": "Biology",
+      "satisfaction": "90",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Essex",
+      "degree": "Biology",
+      "satisfaction": "90",
+      "year": "2019"
+    },
+    {
+      "name": "University of Lincoln",
+      "degree": "Biology",
+      "satisfaction": "88",
+      "year": "2019"
+    },
+    {
+      "name": "University of Bristol",
+      "degree": "Biology",
+      "satisfaction": "88",
+      "year": "2019"
+    },
+    {
+      "name": "University of Hertfordshire",
+      "degree": "Biology",
+      "satisfaction": "88",
+      "year": "2019"
+    },
+    {
+      "name": "The Open University",
+      "degree": "Biology",
+      "satisfaction": "87",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Manchester",
+      "degree": "Biology",
+      "satisfaction": "86",
+      "year": "2019"
+    },
+    {
+      "name": "Newcastle University",
+      "degree": "Biology",
+      "satisfaction": "85",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Leeds",
+      "degree": "Biology",
+      "satisfaction": "84",
+      "year": "2019"
+    },
+    {
+      "name": "University of Greenwich",
+      "degree": "Biology",
+      "satisfaction": "83",
+      "year": "2019"
+    },
+    {
+      "name": "The University of Kent",
+      "degree": "Biology",
+      "satisfaction": "80",
+      "year": "2019"
+    },
+    {
+      "name": "Brunel University",
+      "degree": "Biology",
+      "satisfaction": "79",
+      "year": "2019"
+    },
+    {
+      "name": "Coventry University",
+      "degree": "Biology",
+      "satisfaction": "78",
+      "year": "2019"
+    },
+    {
+      "name": "Middlesex University",
+      "degree": "Biology",
+      "satisfaction": "63",
+      "year": "2019"
+    },
+    {
+      "name": "Writtle University College",
+      "degree": "Biology",
+      "satisfaction": "20",
+      "year": "2019"
+    }
+  ]
+}
