@@ -1,0 +1,205 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Monthly Rainfall in Indian Subdivisions has Decreased in a Century",
+    "subtitle": "Monthly rainfall (mm) across meteorological subdivisions",
+    "fontSize": 18,
+    "subtitleFontSize": 13,
+    "anchor": "middle",
+    "font": "Times New Roman",
+    "subtitleFont": "Times New Roman",
+    "fontWeight": "bold"
+  },
+  "config": {"font": "Times New Roman"},
+  "data": {
+    "url": "https://api.data.gov.in/resource/440dbca7-86ce-4bf6-b1af-83af2855757e?api-key=579b464db66ec23bdd00000141820b58eb954eb960aeede13b04a600&format=json&limit=10000",
+    "format": {"type": "json", "property": "records"}
+  },
+  "transform": [
+    {"filter": "datum.year == '1901' || datum.year == '2001'"},
+    {
+      "fold": [
+        "jan",
+        "feb",
+        "mar",
+        "apr",
+        "may",
+        "jun",
+        "jul",
+        "aug",
+        "sep",
+        "oct",
+        "nov",
+        "dec"
+      ],
+      "as": ["month", "rainfall"]
+    },
+    {"calculate": "toNumber(datum.rainfall)", "as": "rainfall_num"},
+    {
+      "calculate": "datum.month == 'jan' ? 'January' : datum.month == 'feb' ? 'February' : datum.month == 'mar' ? 'March' : datum.month == 'apr' ? 'April' : datum.month == 'may' ? 'May' : datum.month == 'jun' ? 'June' : datum.month == 'jul' ? 'July' : datum.month == 'aug' ? 'August' : datum.month == 'sep' ? 'September' : datum.month == 'oct' ? 'October' : datum.month == 'nov' ? 'November' : datum.month == 'dec' ? 'December' : datum.month",
+      "as": "month_full"
+    }
+  ],
+  "hconcat": [
+    {
+      "title": {
+        "text": "1901",
+        "fontSize": 16,
+        "font": "Times New Roman",
+        "fontWeight": "bold"
+      },
+      "width": 280,
+      "height": 600,
+      "transform": [{"filter": "datum.year == '1901'"}],
+      "mark": {
+        "type": "rect",
+        "tooltip": true,
+        "stroke": "white",
+        "strokeWidth": 1
+      },
+      "encoding": {
+        "y": {
+          "field": "subdivision",
+          "type": "nominal",
+          "title": "Subdivision",
+          "sort": null,
+          "axis": {
+            "titleFont": "Times New Roman",
+            "titleFontSize": 13,
+            "titleFontWeight": "bold",
+            "labelFont": "Times New Roman",
+            "labelFontSize": 9,
+            "labelLimit": 200
+          }
+        },
+        "x": {
+          "field": "month",
+          "type": "nominal",
+          "title": "Month",
+          "sort": [
+            "jan",
+            "feb",
+            "mar",
+            "apr",
+            "may",
+            "jun",
+            "jul",
+            "aug",
+            "sep",
+            "oct",
+            "nov",
+            "dec"
+          ],
+          "axis": {
+            "titleFont": "Times New Roman",
+            "titleFontSize": 13,
+            "titleFontWeight": "bold",
+            "labelFont": "Times New Roman",
+            "labelFontSize": 10,
+            "labelAngle": -45
+          }
+        },
+        "color": {
+          "field": "rainfall_num",
+          "type": "quantitative",
+          "title": "Rainfall (mm)",
+          "scale": {"scheme": "goldgreen", "domain": [0, 1000]},
+          "legend": {
+            "titleFont": "Times New Roman",
+            "titleFontSize": 12,
+            "labelFont": "Times New Roman",
+            "labelFontSize": 10,
+            "orient": "right",
+            "gradientLength": 250,
+            "direction": "vertical"
+          }
+        },
+        "tooltip": [
+          {"field": "subdivision", "type": "nominal", "title": "Subdivision"},
+          {"field": "month_full", "type": "nominal", "title": "Month"},
+          {
+            "field": "rainfall_num",
+            "type": "quantitative",
+            "title": "Rainfall (mm)",
+            "format": ".1f"
+          },
+          {"field": "year", "type": "nominal", "title": "Year"}
+        ]
+      }
+    },
+    {
+      "title": {
+        "text": "2001",
+        "fontSize": 16,
+        "font": "Times New Roman",
+        "fontWeight": "bold"
+      },
+      "width": 280,
+      "height": 600,
+      "transform": [{"filter": "datum.year == '2001'"}],
+      "mark": {
+        "type": "rect",
+        "tooltip": true,
+        "stroke": "white",
+        "strokeWidth": 1
+      },
+      "encoding": {
+        "y": {
+          "field": "subdivision",
+          "type": "nominal",
+          "title": null,
+          "sort": null,
+          "axis": {
+            "labelFont": "Times New Roman",
+            "labelFontSize": 9,
+            "labels": false
+          }
+        },
+        "x": {
+          "field": "month",
+          "type": "nominal",
+          "title": "Month",
+          "sort": [
+            "jan",
+            "feb",
+            "mar",
+            "apr",
+            "may",
+            "jun",
+            "jul",
+            "aug",
+            "sep",
+            "oct",
+            "nov",
+            "dec"
+          ],
+          "axis": {
+            "titleFont": "Times New Roman",
+            "titleFontSize": 13,
+            "titleFontWeight": "bold",
+            "labelFont": "Times New Roman",
+            "labelFontSize": 10,
+            "labelAngle": -45
+          }
+        },
+        "color": {
+          "field": "rainfall_num",
+          "type": "quantitative",
+          "scale": {"scheme": "goldgreen", "domain": [0, 1000]},
+          "legend": null
+        },
+        "tooltip": [
+          {"field": "subdivision", "type": "nominal", "title": "Subdivision"},
+          {"field": "month_full", "type": "nominal", "title": "Month"},
+          {
+            "field": "rainfall_num",
+            "type": "quantitative",
+            "title": "Rainfall (mm)",
+            "format": ".1f"
+          },
+          {"field": "year", "type": "nominal", "title": "Year"}
+        ]
+      }
+    }
+  ]
+}
