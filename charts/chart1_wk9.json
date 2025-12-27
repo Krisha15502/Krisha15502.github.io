@@ -1,0 +1,143 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Box Office Revenue by Genre (2000-2024)",
+    "subtitle": "Select a genre to highlight | Revenue in millions USD",
+    "fontSize": 18,
+    "subtitleFontSize": 13,
+    "anchor": "middle",
+    "font": "Times New Roman",
+    "fontWeight": "bold"
+  },
+  "width": 700,
+  "height": 450,
+  "config": {"font": "Times New Roman"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/main/data/box_office_by_genre.csv"
+  },
+  "params": [
+    {
+      "name": "genre_select",
+      "value": "All",
+      "bind": {
+        "input": "select",
+        "options": [
+          "All",
+          "Action",
+          "Comedy",
+          "Drama",
+          "SciFi",
+          "Horror",
+          "Animation",
+          "Romance",
+          "Thriller"
+        ],
+        "labels": [
+          "All Genres",
+          "Action",
+          "Comedy",
+          "Drama",
+          "Sci-Fi",
+          "Horror",
+          "Animation",
+          "Romance",
+          "Thriller"
+        ],
+        "name": "Select Genre: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "fold": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "SciFi",
+        "Horror",
+        "Animation",
+        "Romance",
+        "Thriller"
+      ],
+      "as": ["genre", "revenue"]
+    },
+    {"filter": "genre_select == 'All' || datum.genre == genre_select"}
+  ],
+  "mark": {"type": "area", "opacity": 0.8, "tooltip": true},
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "quantitative",
+      "title": "Year",
+      "axis": {
+        "titleFont": "Times New Roman",
+        "titleFontSize": 14,
+        "titleFontWeight": "bold",
+        "labelFont": "Times New Roman",
+        "labelFontSize": 12,
+        "format": "d",
+        "grid": false
+      }
+    },
+    "y": {
+      "field": "revenue",
+      "type": "quantitative",
+      "title": "Revenue (Million USD)",
+      "axis": {
+        "titleFont": "Times New Roman",
+        "titleFontSize": 14,
+        "titleFontWeight": "bold",
+        "labelFont": "Times New Roman",
+        "labelFontSize": 12,
+        "grid": true,
+        "gridColor": "#e0e0e0"
+      }
+    },
+    "color": {
+      "field": "genre",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "SciFi",
+          "Horror",
+          "Animation",
+          "Romance",
+          "Thriller"
+        ],
+        "range": [
+          "#43B929",
+          "#0E402D",
+          "#DD1C1A",
+          "#F0C808",
+          "#5A0002",
+          "#2274A5",
+          "#EDA4BD",
+          "#001D4A"
+        ]
+      },
+      "legend": {
+        "title": "Genre",
+        "titleFont": "Times New Roman",
+        "titleFontSize": 13,
+        "titleFontWeight": "bold",
+        "labelFont": "Times New Roman",
+        "labelFontSize": 11,
+        "orient": "right"
+      }
+    },
+    "order": {"field": "genre", "type": "nominal"},
+    "tooltip": [
+      {"field": "year", "type": "quantitative", "title": "Year", "format": "d"},
+      {"field": "genre", "type": "nominal", "title": "Genre"},
+      {
+        "field": "revenue",
+        "type": "quantitative",
+        "title": "Revenue ($M)",
+        "format": ","
+      }
+    ]
+  }
+}

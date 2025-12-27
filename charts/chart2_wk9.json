@@ -1,0 +1,154 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "International Tourist Arrivals by Origin Region",
+    "subtitle": {
+      "expr": "'Year: ' + year_select + ' | Number of tourists arriving from each region (millions)'"
+    },
+    "fontSize": 18,
+    "subtitleFontSize": 13,
+    "anchor": "middle",
+    "font": "Times New Roman",
+    "fontWeight": "bold"
+  },
+  "width": 600,
+  "height": 450,
+  "config": {"font": "Times New Roman"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/main/data/tourism_by_region.csv"
+  },
+  "params": [
+    {
+      "name": "year_select",
+      "value": 2015,
+      "bind": {
+        "input": "range",
+        "min": 2015,
+        "max": 2024,
+        "step": 1,
+        "name": "Select Year: "
+      }
+    },
+    {
+      "name": "show_Europe",
+      "value": true,
+      "bind": {"input": "checkbox", "name": "Europe "}
+    },
+    {
+      "name": "show_Asia",
+      "value": true,
+      "bind": {"input": "checkbox", "name": "Asia "}
+    },
+    {
+      "name": "show_Americas",
+      "value": true,
+      "bind": {"input": "checkbox", "name": "Americas "}
+    },
+    {
+      "name": "show_Africa",
+      "value": true,
+      "bind": {"input": "checkbox", "name": "Africa "}
+    },
+    {
+      "name": "show_Middle_East",
+      "value": true,
+      "bind": {"input": "checkbox", "name": "Middle East "}
+    },
+    {
+      "name": "show_Oceania",
+      "value": true,
+      "bind": {"input": "checkbox", "name": "Oceania "}
+    }
+  ],
+  "transform": [
+    {"filter": "datum.year == year_select"},
+    {
+      "fold": [
+        "Europe",
+        "Asia",
+        "Americas",
+        "Africa",
+        "Middle_East",
+        "Oceania"
+      ],
+      "as": ["region", "arrivals"]
+    },
+    {
+      "filter": "(datum.region == 'Europe' && show_Europe) || (datum.region == 'Asia' && show_Asia) || (datum.region == 'Americas' && show_Americas) || (datum.region == 'Africa' && show_Africa) || (datum.region == 'Middle_East' && show_Middle_East) || (datum.region == 'Oceania' && show_Oceania)"
+    }
+  ],
+  "mark": {"type": "bar", "tooltip": true},
+  "encoding": {
+    "x": {
+      "field": "country",
+      "type": "nominal",
+      "title": "Destination Country",
+      "axis": {
+        "titleFont": "Times New Roman",
+        "titleFontSize": 14,
+        "titleFontWeight": "bold",
+        "labelFont": "Times New Roman",
+        "labelFontSize": 11,
+        "labelAngle": 0
+      }
+    },
+    "y": {
+      "field": "arrivals",
+      "type": "quantitative",
+      "title": "Tourist Arrivals (Millions)",
+      "axis": {
+        "titleFont": "Times New Roman",
+        "titleFontSize": 14,
+        "titleFontWeight": "bold",
+        "labelFont": "Times New Roman",
+        "labelFontSize": 12,
+        "grid": true,
+        "gridColor": "#e0e0e0"
+      }
+    },
+    "color": {
+      "field": "region",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Europe",
+          "Asia",
+          "Americas",
+          "Africa",
+          "Middle_East",
+          "Oceania"
+        ],
+        "range": [
+          "#ECA400",
+          "#317B22",
+          "#983628",
+          "#04395E",
+          "#E086D3",
+          "#92DCE5"
+        ]
+      },
+      "legend": {
+        "title": "Origin Region",
+        "titleFont": "Times New Roman",
+        "titleFontSize": 13,
+        "titleFontWeight": "bold",
+        "labelFont": "Times New Roman",
+        "labelFontSize": 11,
+        "orient": "right",
+        "labelExpr": "datum.label == 'Middle_East' ? 'Middle East' : datum.label"
+      }
+    },
+    "xOffset": {"field": "region", "type": "nominal"},
+    "tooltip": [
+      {"field": "country", "type": "nominal", "title": "Destination"},
+      {"field": "region", "type": "nominal", "title": "Origin Region"},
+      {
+        "field": "arrivals",
+        "type": "quantitative",
+        "title": "Arrivals (M)",
+        "format": ".1f"
+      },
+      {"field": "year", "type": "quantitative", "title": "Year"}
+    ]
+  }
+}
