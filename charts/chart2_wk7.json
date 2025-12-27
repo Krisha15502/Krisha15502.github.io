@@ -1,0 +1,62 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Welsh Language Speakers by Local Authority",
+    "subtitle": "Percentage of population able to speak Welsh (Census 2021)",
+    "fontSize": 18,
+    "subtitleFontSize": 13,
+    "anchor": "middle",
+    "font": "Times New Roman",
+    "fontWeight": "bold"
+  },
+  "width": 600,
+  "height": 500,
+  "config": {"font": "Times New Roman"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/jhellingsdata/RADataHub/refs/heads/main/MappingWorkshop/geo_data/LAD_WLS_2025_05.topojson",
+    "format": {"type": "topojson", "feature": "object_name"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.LAD25CD",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/data/wales_welsh_speakers.csv"
+        },
+        "key": "geo_id",
+        "fields": ["percentage_welsh"]
+      }
+    }
+  ],
+  "mark": {"type": "geoshape", "stroke": "black", "strokeWidth": 0.5},
+  "encoding": {
+    "color": {
+      "field": "percentage_welsh",
+      "type": "quantitative",
+      "scale": {"scheme": "purpleblue"},
+      "legend": {
+        "title": "Welsh speakers (%)",
+        "orient": "bottom",
+        "direction": "horizontal",
+        "titleFont": "Times New Roman",
+        "labelFont": "Times New Roman",
+        "titleFontSize": 12,
+        "labelFontSize": 11
+      }
+    },
+    "tooltip": [
+      {
+        "field": "properties.LAD25NM",
+        "type": "nominal",
+        "title": "Local Authority"
+      },
+      {
+        "field": "percentage_welsh",
+        "type": "quantitative",
+        "title": "Welsh Speakers (%)",
+        "format": ",.1f"
+      }
+    ]
+  },
+  "projection": {"type": "mercator", "center": [-4, 52.4], "scale": 7500}
+}

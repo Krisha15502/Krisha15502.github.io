@@ -1,0 +1,77 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Scottish Whisky Distilleries",
+    "subtitle": "86 distilleries colour-coded by smokiness",
+    "fontSize": 18,
+    "subtitleFontSize": 13,
+    "anchor": "middle",
+    "font": "Times New Roman",
+    "fontWeight": "bold"
+  },
+  "width": 600,
+  "height": 600,
+  "config": {"font": "Times New Roman"},
+  "projection": {"type": "mercator", "center": [-5, 57], "scale": 2500},
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/jhellingsdata/RADataHub/refs/heads/main/MappingWorkshop/geo_data/scotland.topojson",
+        "format": {"type": "topojson", "feature": "data"}
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "#fffde0",
+        "stroke": "#9b9760",
+        "strokeWidth": 1.5
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/main/data/scotland_whisky_distilleries.csv"
+      },
+      "mark": {
+        "type": "square",
+        "filled": true,
+        "size": 100,
+        "opacity": 0.85,
+        "tooltip": true,
+        "stroke": "white",
+        "strokeWidth": 1.5
+      },
+      "encoding": {
+        "longitude": {"field": "Lon", "type": "quantitative"},
+        "latitude": {"field": "Lat", "type": "quantitative"},
+        "color": {
+          "field": "Smoky",
+          "type": "quantitative",
+          "scale": {"scheme": "reds", "domain": [0, 4]},
+          "legend": {
+            "title": "Smokiness Level (0-4)",
+            "titleFont": "Times New Roman",
+            "titleFontSize": 12,
+            "labelFont": "Times New Roman",
+            "labelFontSize": 10,
+            "orient": "right"
+          }
+        },
+        "tooltip": [
+          {"field": "Distillery", "type": "nominal", "title": "Distillery"},
+          {"field": "Postcode", "type": "nominal", "title": "Postcode"},
+          {
+            "field": "Smoky",
+            "type": "quantitative",
+            "title": "Smokiness (0-4)"
+          },
+          {"field": "Body", "type": "quantitative", "title": "Body (0-4)"},
+          {
+            "field": "Sweetness",
+            "type": "quantitative",
+            "title": "Sweetness (0-4)"
+          },
+          {"field": "Medicinal", "type": "quantitative", "title": "Medicinal"}
+        ]
+      }
+    }
+  ]
+}
