@@ -1,0 +1,148 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Optimal Number of Clusters",
+    "subtitle": "Inertia (Elbow Method) & Silhouette Score",
+    "fontSize": 16,
+    "subtitleFontSize": 12,
+    "anchor": "middle",
+    "font": "Times New Roman",
+    "fontWeight": "bold"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/main/data/cluster_analysis.csv"
+  },
+  "config": {"font": "Times New Roman"},
+  "hconcat": [
+    {
+      "title": {
+        "text": "Elbow Method (Inertia)",
+        "fontSize": 14,
+        "font": "Times New Roman",
+        "fontWeight": "bold"
+      },
+      "width": 300,
+      "height": 250,
+      "layer": [
+        {
+          "mark": {
+            "type": "rule",
+            "strokeDash": [4, 4],
+            "color": "#95a5a6",
+            "strokeWidth": 2
+          },
+          "encoding": {"x": {"datum": 19}}
+        },
+        {
+          "mark": {
+            "type": "line",
+            "point": {"filled": true, "size": 50, "color": "#e74c3c"},
+            "color": "#e74c3c",
+            "strokeWidth": 3
+          },
+          "encoding": {
+            "x": {
+              "field": "k",
+              "type": "quantitative",
+              "title": "Number of Clusters (k)",
+              "axis": {
+                "titleFont": "Times New Roman",
+                "titleFontSize": 12,
+                "labelFont": "Times New Roman",
+                "labelFontSize": 10,
+                "format": "d"
+              },
+              "scale": {"domain": [2, 30]}
+            },
+            "y": {
+              "field": "inertia",
+              "type": "quantitative",
+              "title": "Inertia",
+              "axis": {
+                "titleFont": "Times New Roman",
+                "titleFontSize": 12,
+                "labelFont": "Times New Roman",
+                "labelFontSize": 10
+              },
+              "scale": {"domain": [650, 900]}
+            },
+            "tooltip": [
+              {"field": "k", "type": "quantitative", "title": "k"},
+              {
+                "field": "inertia",
+                "type": "quantitative",
+                "title": "Inertia",
+                "format": ".2f"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "text": "Silhouette Score",
+        "fontSize": 14,
+        "font": "Times New Roman",
+        "fontWeight": "bold"
+      },
+      "width": 300,
+      "height": 250,
+      "layer": [
+        {
+          "mark": {
+            "type": "rule",
+            "strokeDash": [4, 4],
+            "color": "#95a5a6",
+            "strokeWidth": 2
+          },
+          "encoding": {"x": {"datum": 19}}
+        },
+        {
+          "mark": {
+            "type": "line",
+            "point": {"filled": true, "size": 50, "color": "#238520"},
+            "color": "#238520",
+            "strokeWidth": 3
+          },
+          "encoding": {
+            "x": {
+              "field": "k",
+              "type": "quantitative",
+              "title": "Number of Clusters (k)",
+              "axis": {
+                "titleFont": "Times New Roman",
+                "titleFontSize": 12,
+                "labelFont": "Times New Roman",
+                "labelFontSize": 10,
+                "format": "d"
+              },
+              "scale": {"domain": [2, 30]}
+            },
+            "y": {
+              "field": "silhouette",
+              "type": "quantitative",
+              "title": "Silhouette Score",
+              "axis": {
+                "titleFont": "Times New Roman",
+                "titleFontSize": 12,
+                "labelFont": "Times New Roman",
+                "labelFontSize": 10
+              },
+              "scale": {"domain": [0, 0.08]}
+            },
+            "tooltip": [
+              {"field": "k", "type": "quantitative", "title": "k"},
+              {
+                "field": "silhouette",
+                "type": "quantitative",
+                "title": "Silhouette",
+                "format": ".3f"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
