@@ -1,0 +1,1001 @@
+paper_id,title,cluster,citations,year,pca_x,pca_y
+1,HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming,16,10,2025,0.03542420792939095,0.35052951288823747
+2,Beyond Memorization: A Multi-Modal Ordinal Regression Benchmark to Expose Popularity Bias in Vision-Language Models,12,10,2025,0.23253277846497086,0.06751699691144772
+3,Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty,11,10,2025,0.12808556229783538,0.216303018427434
+4,Autonomous Uncertainty Quantification for Computational Point-of-care Sensors,10,10,2025,-0.25390822397786617,-0.12493797958877882
+5,Streaming Video Instruction Tuning,16,10,2025,0.09863984763074302,0.2606929801947794
+6,Fast SAM2 with Text-Driven Token Pruning,16,10,2025,0.02993482130652749,0.3052358078849586
+7,C2LLM Technical Report: A New Frontier in Code Retrieval via Adaptive Cross-Attention Pooling,17,10,2025,0.19914400430439005,-0.004557748675157441
+8,TICON: A Slide-Level Tile Contextualizer for Histopathology Representation Learning,2,10,2025,0.03873474471463353,0.04147699729527842
+9,Your Reasoning Benchmark May Not Test Reasoning: Revealing Perception Bottleneck in Abstract Reasoning Benchmarks,15,10,2025,0.3975997162192712,-0.10058926670507345
+10,Measuring all the noises of LLM Evals,5,10,2025,0.021747447162569232,-0.13985570836438904
+11,Towards Practical Automatic Piano Reduction using BERT with Semi-supervised Learning,3,10,2025,-0.23237913583912576,-0.18426180580061827
+12,Parallel Token Prediction for Language Models,2,10,2025,0.10177871261001384,0.09566941521418552
+13,An Allele-Centric Pan-Graph-Matrix Representation for Scalable Pangenome Analysis,8,10,2025,-0.12769274049953339,-0.027758406017685967
+14,Variationally correct operator learning: Reduced basis neural operator with a posteriori error estimation,10,10,2025,-0.2658891464705616,-0.06419927100242681
+15,"Scaling Laws for Economic Productivity: Experimental Evidence in LLM-Assisted Consulting, Data Analyst, and Management Tasks",5,10,2025,0.20904982648784254,-0.2344630580060954
+16,Does the Data Processing Inequality Reflect Practice? On the Utility of Low-Level Tasks,3,10,2025,-0.13103636186726772,-0.05545984398820081
+17,Learning to Solve PDEs on Neural Shape Representations,10,10,2025,-0.161419967615427,-0.004934786540834611
+18,A Plan Reuse Mechanism for LLM-Driven Agent,5,10,2025,0.2182823019824291,-0.24290897416643242
+19,A Note on Publicly Verifiable Quantum Money with Low Quantum Computational Resources,7,10,2025,-0.1499270211728054,-0.09419922983790745
+20,AndroidLens: Long-latency Evaluation with Nested Sub-targets for Android GUI Agents,0,10,2025,0.11686554637383523,-0.018636848102587644
+21,Transcriptome-Conditioned Personalized De Novo Drug Generation for AML Using Metaheuristic Assembly and Target-Driven Filtering,14,10,2025,-0.09648593388702917,0.024330454817889736
+22,Quadrupped-Legged Robot Movement Plan Generation using Large Language Model,5,10,2025,0.1978244303077897,-0.09066188171693247
+23,Model Merging via Multi-Teacher Knowledge Distillation,3,10,2025,0.0684324199592516,0.05785823037936755
+24,Post-Processing Mask-Based Table Segmentation for Structural Coordinate Extraction,9,10,2025,-0.12947720978019717,0.11333922683395826
+25,Surgical Scene Segmentation using a Spike-Driven Video Transformer with Real-Time Potential,16,10,2025,-0.0721587360330768,0.062181291907384605
+26,"SMART SLM: Structured Memory and Reasoning Transformer, A Small Language Model for Accurate Document Assistance",2,10,2025,0.05930950157198365,-0.08963484237967559
+27,GriDiT: Factorized Grid-Based Diffusion for Efficient Long Image Sequence Generation,11,10,2025,-0.00038848318917584666,0.37866475149337264
+28,ACD: Direct Conditional Control for Video Diffusion Models via Attention Supervision,16,10,2025,-0.02929832704809622,0.3877298640889769
+29,AnyAD: Unified Any-Modality Anomaly Detection in Incomplete Multi-Sequence MRI,9,10,2025,-0.0198928647328043,0.14117846391765038
+30,ReaSeq: Unleashing World Knowledge via Reasoning for Sequential Modeling,15,10,2025,0.34440173876581587,-0.12052062164926326
+31,DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation,16,10,2025,0.07575405092146294,0.3146359578489283
+32,Uncertainty in security: managing cyber senescence,14,10,2025,-0.06507372734653619,-0.035948299299446665
+33,CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents,17,10,2025,0.2437992476666461,-0.15574202128887502
+34,Industrial Ouroboros: Deep Lateral Movement via Living Off the Plant,10,10,2025,-0.1937222658070752,-0.10222942720646945
+35,Learning Factors in AI-Augmented Education: A Comparative Study of Middle and High School Students,18,10,2025,-0.07095401168604118,-0.20423306833687205
+36,LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation,8,10,2025,0.011742897784010583,-0.02134397761323258
+37,Improving the Convergence Rate of Ray Search Optimization for Query-Efficient Hard-Label Attacks,14,11,2025,-0.18630722495665666,0.011833706284530902
+38,Assessing the Software Security Comprehension of Large Language Models,17,12,2025,0.4049791444363141,-0.20514377509965462
+39,SegMo: Segment-aligned Text to 3D Human Motion Generation,4,13,2025,0.027949378416451866,0.24624307740300777
+40,Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking,17,14,2025,0.30304338707929906,-0.0802130880426451
+41,RoboCade: Gamifying Robot Data Collection,3,15,2025,-0.07645106043087245,0.0002688187085150913
+42,UniTacHand: Unified Spatio-Tactile Representation for Human to Robotic Hand Skill Transfer,3,16,2025,-0.0755129688424724,-0.032883189063890816
+43,MiST: Understanding the Role of Mid-Stage Scientific Training in Developing Chemical Reasoning Models,15,17,2025,0.34153762195598547,-0.11265432461999966
+44,PhononBench:A Large-Scale Phonon-Based Benchmark for Dynamical Stability in Crystal Generation,17,18,2025,0.15098711504851786,0.048392522862824736
+45,Relative Localization System Design for SnailBot: A Modular Self-reconfigurable Robot,14,19,2025,-0.07515468490944828,-0.037473106823050266
+46,Leveraging Lightweight Entity Extraction for Scalable Event-Based Image Retrieval,13,20,2025,0.12396911936421748,0.18292844687164442
+47,RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic,0,21,2025,0.21805237882252432,-0.10963935610420168
+48,Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3,14,22,2025,-0.1290107495200234,-0.015613154909806755
+49,Latent Implicit Visual Reasoning,12,23,2025,0.32457387784660374,0.22850426567793242
+50,Microtopia: Exploring the Impact of Interdisciplinary Projects on Ethnic Minority Female Pupils' Perceptions of Computer Science,18,24,2025,-0.20360137459021657,-0.18059058630727975
+51,Causal-driven attribution (CDA): Estimating channel influence without user-level data,8,10,2025,-0.09672263578080408,-0.04150480221450694
+52,Human Motion Estimation with Everyday Wearables,4,10,2025,-0.01256701965730665,0.16826693600240317
+53,Analytic and Variational Stability of Deep Learning Systems,10,10,2025,-0.285558452207085,-0.14180308556383664
+54,SpidR-Adapt: A Universal Speech Representation Model for Few-Shot Adaptation,3,10,2025,0.017654395478885736,-0.012321801712478436
+55,Cruising the Spectrum: Joint Spectrum Mobility and Antenna Array Management for Mobile (cm/mm)Wave Connectivity,1,10,2025,-0.11436859035513668,-0.08860748133507387
+56,Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation,6,10,2025,-0.03413628724047485,0.2112895656551451
+57,Flocking phase transition and threat responses in bio-inspired autonomous drone swarms,4,10,2025,-0.07565662870318215,0.10250619025469163
+58,An O($nlogn$) approximate knapsack algorithm,14,10,2025,-0.1490222858110996,-0.08993876202416763
+59,VisRes Bench: On Evaluating the Visual Reasoning Capabilities of VLMs,12,10,2025,0.3794958113107711,0.15012359339104434
+60,Adjusted Kolmogorov Complexity of Binary Words with Empirical Entropy Normalization,14,10,2025,-0.09873984935469722,-0.055452892344897746
+61,UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement,6,10,2025,0.003225715709550951,0.36894902857973877
+62,Towards Arbitrary Motion Completing via Hierarchical Continuous Representation,4,10,2025,-0.11983631607205307,0.15447222894169052
+63,Equivariant Multiscale Learned Invertible Reconstruction for Cone Beam CT: From Simulated to Real Data,3,10,2025,-0.18764954015448876,-0.00032847212050803493
+64,A Turn Toward Better Alignment: Few-Shot Generative Adaptation with Equivariant Feature Rotation,2,10,2025,0.013337383712240436,0.08889378158310646
+65,A Unified Framework for EEG Seizure Detection Using Universum-Integrated Generalized Eigenvalues Proximal Support Vector Machine,9,10,2025,-0.1360819941115922,-0.04309580296084421
+66,A Community-Enhanced Graph Representation Model for Link Prediction,8,10,2025,-0.1702140734051389,-0.0304910018273072
+67,BALLAST: Bandit-Assisted Learning for Latency-Aware Stable Timeouts in Raft,14,10,2025,-0.15375073826499966,-0.051608991464638904
+68,ElfCore: A 28nm Neural Processor Enabling Dynamic Structured Sparse Training and Online Self-Supervised Learning with Activity-Dependent Weight Update,10,10,2025,-0.209654801583371,-0.0710231721890526
+69,MODE: Multi-Objective Adaptive Coreset Selection,3,10,2025,-0.12465567936386954,-0.011672247463946584
+70,ORCA: Object Recognition and Comprehension for Archiving Marine Species,12,10,2025,0.12329307211498361,0.2082551472420052
+71,Encrypted Traffic Detection in Resource Constrained IoT Networks: A Diffusion Model and LLM Integrated Framework,11,10,2025,-0.01418998504763139,0.020558016756690937
+72,Emotion Diffusion in Real and Simulated Social Graphs: Structural Limits of LLM-Based Social Simulation,5,10,2025,0.052561661015993244,-0.06570999149544686
+73,Declarative distributed broadcast using three-valued modal logic and semitopologies,17,10,2025,0.11718750549428064,-0.11030696447292342
+74,TGC-Net: A Structure-Aware and Semantically-Aligned Framework for Text-Guided Medical Image Segmentation,13,10,2025,0.11594423397081755,0.2508298596217503
+75,SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation,8,10,2025,-0.05304503897717371,-0.0728545926806412
+76,AutoBaxBuilder: Bootstrapping Code Security Benchmarking,17,10,2025,0.2913840057438078,-0.10546573077714745
+77,Approximation Schemes for Planar Graph Connectivity Problems,8,10,2025,-0.18133712511963498,-0.0688300452715619
+78,A Real-World Evaluation of LLM Medication Safety Reviews in NHS Primary Care,5,10,2025,0.2158133382197161,-0.22768723114434
+79,MarineEval: Assessing the Marine Intelligence of Vision-Language Models,12,10,2025,0.23523212925870787,0.0802336898197579
+80,ClarifyMT-Bench: Benchmarking and Improving Multi-Turn Clarification for Conversational Large Language Models,5,10,2025,0.38585998564739027,-0.18059563131979456
+81,STLDM: Spatio-Temporal Latent Diffusion Model for Precipitation Nowcasting,11,10,2025,-0.04640117953332688,0.11689907249715488
+82,Synecdoche: Efficient and Accurate In-Network Traffic Classification via Direct Packet Sequential Pattern Matching,2,10,2025,-0.20380298478982564,-0.04078122024713719
+83,A Mechanistic Analysis of Transformers for Dynamical Systems,2,10,2025,-0.04883830671263496,0.009054754342305097
+84,Coding-Logic Correspondence: Turning Information and Communication Networks into Logical Formulae via Hypergraph Heyting Algebra,10,10,2025,-0.21207529439542694,-0.11580164854108509
+85,Beyond Context: Large Language Models Failure to Grasp Users Intent,17,10,2025,0.2736802091102553,-0.14840077389114048
+86,Robust and Efficient MuJoCo-based Model Predictive Control via Web of Affine Spaces Derivatives,14,10,2025,-0.056965710906446344,-0.07147304004751742
+87,Semi-Supervised Learning for Large Language Models Safety and Content Moderation,17,11,2025,0.1809207102934834,-0.16263504461382933
+88,Semantic Refinement with LLMs for Graph Representations,8,12,2025,-0.044870234462005124,-0.052343891015179486
+89,Volatile Organic Compounds for Stress Detection: A Scoping Review and Exploratory Feasibility Study with Low-Cost Sensors,14,13,2025,-0.07495081627567117,-0.05075969217595156
+90,FreeInpaint: Tuning-free Prompt Alignment and Visual Rationality Enhancement in Image Inpainting,11,14,2025,0.0714864375342502,0.39950045087997865
+91,Shared Representation Learning for High-Dimensional Multi-Task Forecasting under Resource Contention in Cloud-Native Backends,2,15,2025,-0.08185469993534862,0.010294349484837324
+92,TexAvatars : Hybrid Texel-3D Representations for Stable Rigging of Photorealistic Gaussian Head Avatars,6,16,2025,-0.16286426164855225,0.20923572369272544
+93,UniRec-0.1B: Unified Text and Formula Recognition with 0.1B Parameters,13,17,2025,0.11435178515443989,0.14917908617427758
+94,T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation,16,18,2025,0.18414290094629973,0.2874105286139403
+95,Global End-Effector Pose Control of an Underactuated Aerial Manipulator via Reinforcement Learning,1,19,2025,-0.11201845600845463,-0.1303722760394912
+96,Verification of E-Voting Algorithms in Dafny,14,20,2025,-0.012986907357780013,-0.09699698751605924
+97,Hierarchical Modeling Approach to Fast and Accurate Table Recognition,2,21,2025,-0.056275867809969064,-0.018275758864093997
+98,Dyna-Style Reinforcement Learning Modeling and Control of Non-linear Dynamics,1,22,2025,-0.21182070855975635,-0.17546452422387124
+99,LLM Personas as a Substitute for Field Experiments in Method Benchmarking,14,23,2025,-0.03671023962226738,-0.07597779583100848
+100,UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer,6,24,2025,0.05823922784677751,0.33787724136590963
+101,Blurb-Refined Inference from Crowdsourced Book Reviews using Hierarchical Genre Mining with Dual-Path Graph Convolutions,8,10,2025,-0.029009952768535432,0.006556413776443112
+102,Understanding Scaling Laws in Deep Neural Networks via Feature Learning Dynamics,10,10,2025,-0.2027381182329212,-0.07273237723724132
+103,Agentic Explainable Artificial Intelligence (Agentic XAI) Approach To Explore Better Explanation,18,10,2025,0.19031363803875812,-0.21694359285630518
+104,Language-Guided Grasp Detection with Coarse-to-Fine Learning for Robotic Manipulation,12,10,2025,0.21675112207300784,0.1440495395560475
+105,Multimodal Skeleton-Based Action Representation Learning via Decomposition and Composition,13,10,2025,-0.06005460103021891,0.06642205603941365
+106,Beyond Pixel Simulation: Pathology Image Generation via Diagnostic Semantic Tokens and Prototype Control,13,10,2025,0.12419919814753519,0.30743087522217644
+107,Making AI Work: An Autoethnography of a Workaround in Higher Education,18,10,2025,0.07093378152751802,-0.2240234669743168
+108,DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors,6,10,2025,0.11790059374458349,0.32119250167566926
+109,Optical Flow-Guided 6DoF Object Pose Tracking with an Event Camera,4,10,2025,-0.09106870070102803,0.22413604980103013
+110,Matrix Completion Via Reweighted Logarithmic Norm Minimization,14,10,2025,-0.14026362604155915,0.10527901523253805
+111,zkFL-Health: Blockchain-Enabled Zero-Knowledge Federated Learning for Medical AI Privacy,18,10,2025,0.014244407963654794,-0.14792491161083582
+112,Device-Independent Anonymous Communication in Quantum Networks,7,10,2025,-0.20251838189563165,-0.11879732420080642
+113,Tracing Energy Flow: Learning Tactile-based Grasping Force Control to Prevent Slippage in Dynamic Object Interaction,4,10,2025,-0.08680725945820389,0.10898015107083578
+114,When LLMs fall short in Deductive Coding: Model Comparison and Human AI Collaboration Workflow Design,18,10,2025,0.22891300583478963,-0.22551263541834243
+115,A Large-Depth-Range Layer-Based Hologram Dataset for Machine Learning-Based 3D Computer-Generated Holography,6,10,2025,-0.029954752336944147,0.15731946901762342
+116,Agentic Multi-Persona Framework for Evidence-Aware Fake News Detection,9,10,2025,0.20660632268494292,0.03352778792803411
+117,Next-Scale Prediction: A Self-Supervised Approach for Real-World Image Denoising,2,10,2025,1.7310234426228045e-05,0.20508912389556247
+118,A Design Study Process Model for Medical Visualization,14,10,2025,-0.029854185327775465,-0.01592797160820578
+119,Quantum Homotopy Algorithm for Solving Nonlinear PDEs and Flow Problems,7,10,2025,-0.1994222591088117,-0.1254521219353864
+120,Multi-Attribute guided Thermal Face Image Translation based on Latent Diffusion Model,2,10,2025,-0.07211736595738047,0.28202000284510387
+121,Critical Points of Degenerate Metrics on Algebraic Varieties: A Tale of Overparametrization,14,10,2025,-0.18383531124212082,-0.19492612560194406
+122,Artificial or Just Artful? Do LLMs Bend the Rules in Programming?,17,10,2025,0.3158347216767992,-0.13818980902313405
+123,Policy-Conditioned Policies for Multi-Agent Task Solving,1,10,2025,0.12144076577306598,-0.2967343780744758
+124,Towards Better Search with Domain-Aware Text Embeddings for C2C Marketplaces,2,10,2025,0.06969848278722773,0.03282959072292875
+125,Enhancing diffusion models with Gaussianization preprocessing,11,10,2025,0.02185738045318524,0.2225072385122779
+126,Efficient and Robust Video Defense Framework against 3D-field Personalized Talking Face,16,10,2025,-0.07075416467108668,0.44663385008802403
+127,Rethinking Supervised Fine-Tuning: Emphasizing Key Answer Tokens for Improved LLM Accuracy,5,10,2025,0.2580562561083563,-0.04991460406505944
+128,FluencyVE: Marrying Temporal-Aware Mamba with Bypass Attention for Video Editing,16,10,2025,0.01173114181676801,0.39927089584929826
+129,Granular-ball Guided Masking: Structure-aware Data Augmentation,3,10,2025,-0.06632153151451589,0.07680786269857923
+130,LLM Swiss Round: Aggregating Multi-Benchmark Performance via Competitive Swiss-System Dynamics,5,10,2025,0.2379557650067358,-0.06135882238603532
+131,ESCHER: Efficient and Scalable Hypergraph Evolution Representation with Application to Triad Counting,14,10,2025,-0.10488996309984658,-0.007314558560236846
+132,GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs,17,10,2025,0.15110893071426373,-0.10484514428374538
+133,Learning from Neighbors with PHIBP: Predicting Infectious Disease Dynamics in Data-Sparse Environments,3,10,2025,-0.1745268550512069,-0.025176123776948448
+134,Learning from Next-Frame Prediction: Autoregressive Video Modeling Encodes Effective Representations,16,10,2025,0.04226564089793844,0.32667108834357605
+135,MVInverse: Feed-forward Multi-view Inverse Rendering in Seconds,2,10,2025,0.04640332225419447,0.13829650669550747
+136,Distilling the Essence: Efficient Reasoning Distillation via Sequence Truncation,15,10,2025,0.32042541932360386,-0.12367193490002823
+137,CoSeNet: A Novel Approach for Optimal Segmentation of Correlation Matrices,14,11,2025,-0.25397133930959787,-0.1109942742489682
+138,LLM-Empowered Agentic AI for QoE-Aware Network Slicing Management in Industrial IoT,18,12,2025,-0.006606418770333315,-0.21518964141339372
+139,TrafficSimAgent: A Hierarchical Agent Framework for Autonomous Traffic Simulation with MCP Control,0,13,2025,0.03988452046369472,-0.16538885573392853
+140,Multimodal Sensing for Robot-Assisted Sub-Tissue Feature Detection in Physiotherapy Palpation,9,14,2025,-0.04099873134768425,0.143936579192814
+141,FinAgent: An Agentic AI Framework Integrating Personal Finance and Nutrition Planning,18,15,2025,-0.0067932314388200144,-0.1785624811650636
+142,Mental Health Self-Disclosure on Social Media throughout the Pandemic Period,14,16,2025,-0.12461235035795938,-0.05464448472300967
+143,PUFM++: Point Cloud Upsampling via Enhanced Flow Matching,2,17,2025,-0.005659091891478989,0.13141954802039701
+144,AegisAgent: An Autonomous Defense Agent Against Prompt Injection Attacks in LLM-HARs,5,18,2025,0.2592414686551432,-0.2699169499194896
+145,A Blockchain-Monitored Agentic AI Architecture for Trusted Perception-Reasoning-Action Pipelines,18,19,2025,0.05925720624214069,-0.17474249430720037
+146,Knowledge-Driven 3D Semantic Spectrum Map: KE-VQ-Transformer Based UAV Semantic Communication and Map Completion,6,20,2025,-0.055529577729560145,0.06660705441714941
+147,Automatic Replication of LLM Mistakes in Medical Conversations,5,21,2025,0.3539509528730294,-0.1858855397621406
+148,Leveraging Overfitting for Low-Complexity and Modality-Agnostic Joint Source-Channel Coding,14,22,2025,-0.09688730966186856,0.019457345996597455
+149,X-ray Insights Unleashed: Pioneering the Enhancement of Multi-Label Long-Tail Data,11,23,2025,-0.026708168061778288,0.14042173894896437
+150,GenTSE: Enhancing Target Speaker Extraction via a Coarse-to-Fine Generative Language Model,3,24,2025,0.08088315605439782,0.07856882052153699
+151,XGrid-Mapping: Explicit Implicit Hybrid Grid Submaps for Efficient Incremental Neural LiDAR Mapping,2,10,2025,-0.14048482128223003,0.05853767107227434
+152,SPOT!: Map-Guided LLM Agent for Unsupervised Multi-CCTV Dynamic Object Tracking,0,10,2025,-0.048283457271409105,-0.016119855420293958
+153,Generalised Linear Models in Deep Bayesian RL with Learnable Basis Functions,10,10,2025,-0.15985914012848274,-0.11936927119485033
+154,DAO-Agent: Zero Knowledge-Verified Incentives for Decentralized Multi-Agent Coordination,0,10,2025,0.07677535499778458,-0.18825851640493457
+155,Mesh-Attention: A New Communication-Efficient Distributed Attention with Improved Data Locality,10,10,2025,-0.08060391348637375,0.024829254648568024
+156,Deadline-Aware Online Scheduling for LLM Fine-Tuning with Spot Market Predictions,1,10,2025,-0.11192959401857451,-0.09961854669814584
+157,Neutralization of IMU-Based GPS Spoofing Detection using external IMU sensor and feedback methodology,9,10,2025,-0.13963189197106096,-0.033182589034879376
+158,Generalization of Diffusion Models Arises with a Balanced Representation Space,11,10,2025,-0.06509006493940964,0.17947539056785594
+159,Time-Bucketed Balance Records: Bounded-Storage Ephemeral Tokens for Resource-Constrained Systems,14,10,2025,-0.16684982779231394,-0.07479990286538744
+160,Fairness in the k-Server Problem,14,10,2025,-0.17488498198104666,-0.12039191809535912
+161,Can Agentic AI Match the Performance of Human Data Scientists?,18,10,2025,0.08851767396569518,-0.14628983308956814
+162,ReACT-Drug: Reaction-Template Guided Reinforcement Learning for de novo Drug Design,1,10,2025,-0.08527020150858729,-0.10260050290683739
+163,One Tool Is Enough: Reinforcement Learning for Repository-Level LLM Agents,5,10,2025,0.13650242777899443,-0.1337666026496966
+164,Solving Functional PDEs with Gaussian Processes and Applications to Functional Renormalization Group Equations,14,10,2025,-0.19027935977510665,-0.0740781664300221
+165,Reflection Pretraining Enables Token-Level Self-Correction in Biological Sequence Models,15,10,2025,0.38233033019765494,-0.11923969681427338
+166,Diving into 3D Parallelism with Heterogeneous Spot Instance GPUs: Design and Implications,6,10,2025,0.03274114749842055,0.06387480425849805
+167,From Human Bias to Robot Choice: How Occupational Contexts and Racial Priming Shape Robot Selection,0,10,2025,0.10992595165985065,-0.16086471783077
+168,MultiMind at SemEval-2025 Task 7: Crosslingual Fact-Checked Claim Retrieval via Multi-Source Alignment,3,10,2025,0.015521827382145964,-0.03429750581654344
+169,Neural Probe-Based Hallucination Detection for Large Language Models,9,10,2025,0.050947495653405214,-0.01142476954902906
+170,"Foundation Model-based Evaluation of Neuropsychiatric Disorders: A Lifespan-Inclusive, Multi-Modal, and Multi-Lingual Study",2,10,2025,0.07484135851845977,0.04798706975016031
+171,SLIDE: Simultaneous Model Downloading and Inference at the Wireless Network Edge,14,10,2025,-0.0835694142729995,-0.0849448375948761
+172,SACodec: Asymmetric Quantization with Semantic Anchoring for Low-Bitrate High-Fidelity Neural Speech Codecs,2,10,2025,-0.01909419444872963,0.1151181229143221
+173,AirGS: Real-Time 4D Gaussian Streaming for Free-Viewpoint Video Experiences,16,10,2025,-0.046513026516157345,0.2533385443866942
+174,A Multi-fidelity Double-Delta Wing Dataset and Empirical Scaling Laws for GNN-based Aerodynamic Field Surrogate,3,10,2025,-0.09165173445229177,-0.012271773105106834
+175,ETP-R1: Evolving Topological Planning with Reinforcement Fine-tuning for Vision-Language Navigation in Continuous Environments,8,10,2025,0.08276251452723607,-0.022550168450252553
+176,Stochastic well-structured transition systems,14,10,2025,-0.04841911850593399,-0.15426585965789913
+177,Pioneering Multimodal Emotion Recognition in the Era of Large Models: From Closed Sets to Open Vocabularies,13,10,2025,0.3329145405217816,0.01636827082471258
+178,Beyond Artifacts: Real-Centric Envelope Modeling for Reliable AI-Generated Image Detection,9,10,2025,0.00018152425708272183,0.1724669623185838
+179,Reasoning-Driven Amodal Completion: Collaborative Agents and Perceptual Evaluation,15,10,2025,0.2586280221443286,0.02390597858891564
+180,Transductive Visual Programming: Evolving Tool Libraries from Experience for Spatial Reasoning,12,10,2025,0.2384005028590877,0.1625631997008697
+181,Guardrailed Elasticity Pricing: A Churn-Aware Forecasting Playbook for Subscription Strategy,14,10,2025,-0.1260647770209265,-0.04478933371806961
+182,Certifiable Alignment of GNSS and Local Frames via Lagrangian Duality,14,10,2025,-0.11998033027864256,-0.027240951379703022
+183,Decoding Predictive Inference in Visual Language Processing via Spatiotemporal Neural Coherence,10,10,2025,-0.07335421578648864,0.012783676241937181
+184,Quantile Rendering: Efficiently Embedding High-dimensional Feature on 3D Gaussian Splatting,6,10,2025,-0.11440759350747805,0.29422203361111066
+185,"Uncovering Hierarchical Structure in LLM Embeddings with $δ$-Hyperbolicity, Ultrametricity, and Neighbor Joining",5,10,2025,0.1776315296024547,-0.21563038559223094
+186,Clever Hans in Chemistry: Chemist Style Signals Confound Activity Prediction on Public Benchmarks,3,10,2025,-0.07301630364695963,-0.045758912413494536
+187,Self-supervised Multiplex Consensus Mamba for General Image Fusion,2,11,2025,0.019591661647020867,0.2771954934341586
+188,RevFFN: Memory-Efficient Full-Parameter Fine-Tuning of Mixture-of-Experts LLMs with Reversible Blocks,17,12,2025,0.18779211414900945,-0.030927537947561857
+189,MMSRARec: Summarization and Retrieval Augumented Sequential Recommendation Based on Multimodal Large Language Model,13,13,2025,0.16227950646472417,0.09879195295709743
+190,Towards a General Framework for Predicting and Explaining the Hardness of Graph-based Combinatorial Optimization Problems using Machine Learning and Association Rule Mining,8,14,2025,-0.25892490182052946,-0.14197834563100514
+191,Where Did This Sentence Come From? Tracing Provenance in LLM Reasoning Distillation,15,15,2025,0.27610711347172723,-0.10464021760857915
+192,PanoGrounder: Bridging 2D and 3D with Panoramic Scene Representations for VLM-based 3D Visual Grounding,6,16,2025,0.1367919308307959,0.30948629271124883
+193,DiEC: Diffusion Embedded Clustering,11,17,2025,-0.13874924354979373,0.1184750217240561
+194,Efficient Computation of Integer-constrained Cones for Conformal Parameterizations,14,18,2025,-0.1944675589655173,-0.045194820304653965
+195,Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction,18,19,2025,-0.12812841251340423,-0.16864872440416775
+196,Benchmarking and Enhancing VLM for Compressed Image Understanding,12,20,2025,0.04107649997359362,0.2166179906062392
+197,When Experts Speak:Sequential LLM-Bayesian Learning for Startup Success Prediction,5,21,2025,0.11716541029513694,-0.0996512407822938
+198,DGSAN: Dual-Graph Spatiotemporal Attention Network for Pulmonary Nodule Malignancy Prediction,8,22,2025,-0.11355724592095227,0.13599145806980473
+199,Accurate and Diverse Recommendations via Propensity-Weighted Linear Autoencoders,14,23,2025,-0.08520435092010546,-0.08451164704933788
+200,Time-Efficient Evaluation and Enhancement of Adversarial Robustness in Deep Neural Networks,10,24,2025,-0.1589660004326082,-0.10834213584186114
+201,Beyond Weight Adaptation: Feature-Space Domain Injection for Cross-Modal Ship Re-Identification,2,10,2025,0.012023608443946024,0.13488838449040627
+202,Stretchable and High-Precision Optical Tactile Sensor for Trajectory Tracking of Parallel Mechanisms,2,10,2025,-0.08386494390669874,0.03691014015740959
+203,From GNNs to Symbolic Surrogates via Kolmogorov-Arnold Networks for Delay Prediction,10,10,2025,-0.1758629517543711,-0.043419933144182306
+204,The Silent Scholar Problem: A Probabilistic Framework for Breaking Epistemic Asymmetry in LLM Agents,0,10,2025,0.09337865764865667,-0.19930744212312362
+205,Uplink RSMA Performance Analysis with Rate Adaptation: A Stochastic Geometry Approach,2,10,2025,-0.10134766685843762,0.010905931270942032
+206,Architectural Trade-offs in Small Language Models Under Compute Constraints,2,10,2025,0.1631814865426128,0.0018778866267248632
+207,Proprioception Enhances Vision Language Model in Generating Captions and Subtask Segmentations for Robot Task,4,10,2025,0.06358739558018184,0.20554268221790875
+208,Better Call Graphs: A New Dataset of Function Call Graphs for Malware Classification,8,10,2025,-0.05469670202077257,0.043987824047874796
+209,NeRV360: Neural Representation for 360-Degree Videos with a Viewport Decoder,16,10,2025,-0.14126550764748014,0.14078249348335836
+210,In-Place BWT and Lyndon Array Construction in Constant Space,14,10,2025,-0.17182343564625638,-0.03836226136241979
+211,Early warning signals for loss of control,14,10,2025,-0.09261816286481546,-0.10743713409723883
+212,Lightweight framework for underground pipeline recognition and spatial localization based on multi-view 2D GPR images,6,10,2025,-0.13560179211042225,0.1259934789198533
+213,Robustness Certificates for Neural Networks against Adversarial Attacks,3,10,2025,-0.17053857215366133,-0.10370311987579049
+214,(Im)possibility of Incentive Design for Challenge-based Blockchain Protocols,14,10,2025,-0.09817622233075815,-0.062464813049855586
+215,Memory-Efficient Acceleration of Block Low-Rank Foundation Models on Resource Constrained GPUs,2,10,2025,-0.0029474640067542893,-0.029405488409390265
+216,"pokiSEC: A Multi-Architecture, Containerized Ephemeral Malware Detonation Sandbox",9,10,2025,-0.06404881030052456,0.06014824072378312
+217,ALIVE: An Avatar-Lecture Interactive Video Engine with Content-Aware Retrieval for Real-Time Interaction,13,10,2025,0.04198742366369987,0.05752352317014982
+218,NVIDIA Nemotron 3: Efficient and Open Intelligence,15,10,2025,0.24477871513999416,-0.06528907113540798
+219,How important is Recall for Measuring Retrieval Quality?,13,10,2025,0.11084250879132586,0.013344501214947695
+220,"Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",15,10,2025,0.31184270478019455,0.014703594958171454
+221,YCB-Handovers Dataset: Analyzing Object Weight Impact on Human Handovers to Adapt Robotic Handover Motion,4,10,2025,0.010739787380142382,0.09090612858174964
+222,MAR:Multi-Agent Reflexion Improves Reasoning Abilities in LLMs,5,10,2025,0.3645915867592324,-0.2788021076884678
+223,Input-Adaptive Visual Preprocessing for Efficient Fast Vision-Language Model Inference,12,10,2025,0.07706481587500692,0.24150771885632843
+224,CHAMMI-75: pre-training multi-channel models with heterogeneous microscopy images,3,10,2025,0.05760125686144622,0.1307094743905407
+225,Context-Sensitive Abstractions for Reinforcement Learning with Parameterized Actions,0,10,2025,-0.03795609056512822,-0.01407739132017857
+226,"NotSoTiny: A Large, Living Benchmark for RTL Code Generation",17,10,2025,0.2785528555641903,-0.045967759832061944
+227,MediEval: A Unified Medical Benchmark for Patient-Contextual and Knowledge-Grounded Reasoning in LLMs,17,10,2025,0.3429937666450583,-0.1449560819047412
+228,Defending against adversarial attacks using mixture of experts,3,10,2025,-0.11407503056170101,-0.09251310134392172
+229,EssayCBM: Rubric-Aligned Concept Bottleneck Models for Transparent Essay Grading,5,10,2025,0.14430940939692571,-0.06338079172081072
+230,Learning to Sense for Driving: Joint Optics-Sensor-Model Co-Design for Semantic Segmentation,10,10,2025,-0.06577483303398687,-0.012530004325602822
+231,FedMPDD: Communication-Efficient Federated Learning with Privacy Preservation Attributes via Projected Directional Derivative,10,10,2025,-0.19400818326623437,-0.07438727848571809
+232,GraphFire-X: Physics-Informed Graph Attention Networks and Structural Gradient Boosting for Building-Scale Wildfire Preparedness at the Wildland-Urban Interface,8,10,2025,-0.15738365566473445,-0.044986161263870006
+233,Semantic Deception: When Reasoning Models Can't Compute an Addition,15,10,2025,0.41926428992657944,-0.1719034141123845
+234,Weighted MCC: A Robust Measure of Multiclass Classifier Performance for Observations with Individual Weights,2,10,2025,-0.04490891372241607,-0.021445924920419107
+235,Hardware-Algorithm Co-Design for Hyperdimensional Computing Based on Memristive System-on-Chip,14,10,2025,-0.1570475535266104,-0.13378101935631528
+236,Safety Alignment of LMs via Non-cooperative Games,0,10,2025,0.07807082984442537,-0.1098998630568546
+237,A Benchmark for Evaluating Outcome-Driven Constraint Violations in Autonomous AI Agents,0,11,2025,0.20681743661859486,-0.15453048933841146
+238,Assessing Coronary Microvascular Dysfunction using Angiography-based Data-driven Methods,3,12,2025,-0.18590418708766207,-0.05068969688486626
+239,Measuring Mechanistic Independence: Can Bias Be Removed Without Erasing Demographics?,2,13,2025,0.02984649542991978,-0.03672200966953771
+240,RHAPSODY: Execution of Hybrid AI-HPC Workflows at Scale,18,14,2025,0.03811557919788231,-0.1141518223866907
+241,Investigating Model Editing for Unlearning in Large Language Models,2,15,2025,0.08372720923294387,-0.10417061891030877
+242,X-GridAgent: An LLM-Powered Agentic AI System for Assisting Power Grid Analysis,5,16,2025,0.18747416630335392,-0.11591141929790719
+243,Symbolic regression for defect interactions in 2D materials,10,17,2025,-0.3028105031003329,-0.11250552027508666
+244,NULLBUS: Multimodal Mixed-Supervision for Breast Ultrasound Segmentation via Nullable Global-Local Prompts,13,18,2025,0.03488391925367744,0.2525575270543368
+245,Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints,13,19,2025,0.2597268526240079,0.2111340372694533
+246,Large Language Models Approach Expert Pedagogical Quality in Math Tutoring but Differ in Instructional and Linguistic Profiles,5,20,2025,0.2721686390214092,-0.08575468776697924
+247,Towards Optimal Performance and Action Consistency Guarantees in Dec-POMDPs with Inconsistent Beliefs and Limited Communication,0,21,2025,-0.03950832291962671,-0.10708954266019778
+248,Improving Matrix Exponential for Generative AI Flows: A Taylor-Based Approach Beyond Paterson--Stockmeyer,14,22,2025,-0.14728544577833363,-0.030854677214375258
+249,Sark: Oblivious Integrity Without Global State,14,23,2025,-0.09706503559993974,-0.0275309056806228
+250,Adversarial Training for Failure-Sensitive User Simulation in Mental Health Dialogue Optimization,3,24,2025,0.0159454710542695,-0.0027536702992665865
+251,OccuFly: A 3D Vision Benchmark for Semantic Scene Completion from the Aerial Perspective,6,10,2025,0.005725672615873718,0.27458736598726113
+252,A General Purpose Method for Robotic Interception of Non-Cooperative Dynamic Targets,4,10,2025,-0.18691097613179838,0.01108849398304255
+253,Subgroup Discovery with the Cox Model,14,10,2025,-0.15432800067647065,-0.05705373426062992
+254,TS-Arena Technical Report -- A Pre-registered Live Forecasting Platform,3,10,2025,-0.009308892542255313,0.00947339781432735
+255,Generalization of RLVR Using Causal Reasoning as a Testbed,15,10,2025,0.2607403220002293,-0.1307438208274711
+256,TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior,3,10,2025,0.1449622576911505,-0.0010310784819861944
+257,Bridging Efficiency and Safety: Formal Verification of Neural Networks with Early Exits,10,10,2025,-0.1729309380732418,-0.131481813748807
+258,Stabilizing Multimodal Autoencoders: A Theoretical and Empirical Analysis of Fusion Strategies,13,10,2025,0.01720687097743868,0.07427862291226289
+259,Fixed-time control with prescribed performance for path following of underwater gliders,14,10,2025,-0.1364404492712503,0.011364022049130531
+260,A Physics Informed Neural Network For Deriving MHD State Vectors From Global Active Regions Observations,2,10,2025,-0.1354408927084701,-0.01144391174543392
+261,TrashDet: Iterative Neural Architecture Search for Efficient Waste Detection,9,10,2025,-0.18358660140818872,-0.013774575204712428
+262,AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent,15,10,2025,0.3798402069068451,-0.13517800016713508
+263,AI-Driven Green Cognitive Radio Networks for Sustainable 6G Communication,10,10,2025,-0.21870439451584922,-0.24552572762255948
+264,VL4Gaze: Unleashing Vision-Language Models for Gaze Following,12,10,2025,0.3145661857408742,0.12598801074630026
+265,Towards a Security Plane for 6G Ecosystems,10,10,2025,-0.11507278426226206,-0.03345713851183312
+266,FEM-Bench: A Structured Scientific Reasoning Benchmark for Evaluating Code-Generating LLMs,15,10,2025,0.40953513940478103,-0.18932957177119816
+267,Shifted Partial Derivative Polynomial Rank and Codimension,2,10,2025,-0.04084142526238101,-0.003942485804742886
+268,SA-DiffuSeq: Addressing Computational and Scalability Challenges in Long-Document Generation with Sparse Attention,11,10,2025,0.021181893265526212,0.2573712525338405
+269,From artificial to organic: Rethinking the roots of intelligence for digital health,18,10,2025,-0.025999178719723213,-0.2070400828719645
+270,Learning-Enabled Elastic Network Topology for Distributed ISAC Service Provisioning,10,10,2025,-0.2693202558248341,-0.15495265057301114
+271,SoK: Speedy Secure Finality,10,10,2025,-0.1004205553923559,-0.05927112816154105
+272,From Pilots to Practices: A Scoping Review of GenAI-Enabled Personalization in Computer Science Education,18,10,2025,0.01712601619470288,-0.10415459158074579
+273,Real-World Adversarial Attacks on RF-Based Drone Detectors,9,10,2025,-0.05933713210762775,0.10807698934809574
+274,Anytime Metaheuristic Framework for Global Route Optimization in Expected-Time Mobile Search,14,10,2025,-0.10320707380042857,0.024524662457146337
+275,Anota: Identifying Business Logic Vulnerabilities via Annotation-Based Sanitization,2,10,2025,0.04327346803996229,-0.03104259140291499
+276,Process Analytics -- Data-driven Business Process Management,3,10,2025,-0.07656024581479458,-0.07900400223031372
+277,SemanticGen: Video Generation in Semantic Space,16,10,2025,0.008935051003639546,0.36685961067714556
+278,LongVideoAgent: Multi-Agent Reasoning with Long Videos,0,10,2025,0.17945221236330067,-0.13945355046347582
+279,SpatialTree: How Spatial Abilities Branch Out in MLLMs,15,10,2025,0.1755624406318956,0.024701728068468886
+280,Active Intelligence in Video Avatars via Closed-loop World Modeling,16,10,2025,0.13195734113630672,0.23761843792351717
+281,Making Large Language Models Efficient Dense Retrievers,5,10,2025,0.3287976136160584,-0.03391215063026728
+282,FedPOD: the deployable units of training for federated learning,3,10,2025,-0.22611672885308048,-0.12129749213584991
+283,Saddle-to-Saddle Dynamics Explains A Simplicity Bias Across Neural Network Architectures,10,10,2025,-0.24959888433703956,-0.06927345814827796
+284,Repurposing Video Diffusion Transformers for Robust Point Tracking,16,10,2025,0.005068732694881094,0.3333329757423821
+285,Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning,1,10,2025,-0.03970268900941519,-0.10881359230810755
+286,MoE-DiffuSeq: Enhancing Long-Document Diffusion Models with Sparse Attention and Mixture of Experts,11,10,2025,0.05389141428796157,0.27727885600528257
+287,On the near-tightness of $χ\leq 2r$: a general $σ$-ary construction and a binary case via LFSRs,14,11,2025,-0.06081164324421645,-0.00792434147645918
+288,Cube Bench: A Benchmark for Spatial Visual Reasoning in MLLMs,15,12,2025,0.2919616359104077,0.059121019726935044
+289,LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing,12,13,2025,0.1365769986334674,0.16668363908426756
+290,Leveraging High-Fidelity Digital Models and Reinforcement Learning for Mission Engineering: A Case Study of Aerial Firefighting Under Perfect Information,1,14,2025,-0.10824495730408401,-0.23525907372850902
+291,Certified Lower Bounds and Efficient Estimation of Minimum Accuracy in Quantum Kernel Methods,7,15,2025,-0.1743269087883334,-0.05364673268785209
+292,Quantum Gates from Wolfram Model Multiway Rewriting Systems,7,16,2025,-0.14357743918257002,-0.14067201903716134
+293,Automated stereotactic radiosurgery planning using a human-in-the-loop reasoning large language model agent,15,17,2025,0.3642865657767219,-0.28472370121805884
+294,A human-centered approach to reframing job satisfaction in the BIM-enabled construction industry,14,18,2025,-0.024079686097600046,-0.10346431564476594
+295,Making Sense of Private Advertising: A Principled Approach to a Complex Ecosystem,14,19,2025,-0.05149740729442616,-0.040920736964539
+296,Relu and softplus neural nets as zero-sum turn-based games,10,20,2025,-0.32272714900353805,-0.13587915151848756
+297,Can LLMs Predict Their Own Failures? Self-Awareness via Internal Circuits,17,21,2025,0.28000442127034547,-0.06523673509018317
+298,Improving ML Training Data with Gold-Standard Quality Metrics,3,22,2025,-0.09870418818664436,0.06744624243325106
+299,Performative Policy Gradient: Optimality in Performative Reinforcement Learning,1,23,2025,-0.18877636555921537,-0.1802769330813387
+300,"Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs",11,24,2025,0.2381063889269761,0.04506227194528941
+301,The Limitations and Power of NP-Oracle-Based Functional Synthesis Techniques,14,10,2025,-0.1710570311072748,-0.09955616429417381
+302,Composing Mini Oscilloscope on Embedded Systems,14,10,2025,-0.14541163356781048,-0.09462181266049362
+303,Distilling to Hybrid Attention Models via KL-Guided Layer Selection,2,10,2025,-0.03644174753322608,0.07157356128265947
+304,LEAD: Minimizing Learner-Expert Asymmetry in End-to-End Driving,3,10,2025,-0.021854861938551035,-0.00468505403282716
+305,Shallow Neural Networks Learn Low-Degree Spherical Polynomials with Learnable Channel Attention,10,10,2025,-0.2429680651603902,-0.04287078812137752
+306,FlashVLM: Text-Guided Visual Token Selection for Large Multimodal Models,12,10,2025,0.1677980816344829,0.43625627544080614
+307,Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models,6,10,2025,0.17703474617453008,0.21023679209107862
+308,Multi-Grained Text-Guided Image Fusion for Multi-Exposure and Multi-Focus Scenarios,13,10,2025,0.11599601592271307,0.35883125805033417
+309,Information-theoretic signatures of causality in Bayesian networks and hypergraphs,10,10,2025,-0.14862976113967008,-0.06839965582100911
+310,LLM-Based Authoring of Agent-Based Narratives through Scene Descriptions,0,10,2025,0.1804755638145659,-0.2290460155241441
+311,Advancing Multimodal Teacher Sentiment Analysis:The Large-Scale T-MED Dataset & The Effective AAM-TSA Model,13,10,2025,-0.004223141531592885,0.1171587041119523
+312,AlignPose: Generalizable 6D Pose Estimation via Multi-view Feature-metric Alignment,2,10,2025,-0.0597760608534192,0.18229586532276534
+313,ARBITER: AI-Driven Filtering for Role-Based Access Control,5,10,2025,0.047507226351631605,-0.16573133134616186
+314,Over-the-Air Goal-Oriented Communications,10,10,2025,-0.2783365355845782,-0.09852686603780673
+315,SirenPose: Dynamic Scene Reconstruction via Geometric Supervision,4,10,2025,-0.11448206412516061,0.20982049873329056
+316,ScoreMatchingRiesz: Auto-DML with Infinitesimal Classification,14,10,2025,-0.22328269641303894,-0.03923121867550346
+317,Benchmarking LLMs for Predictive Applications in the Intensive Care Units,17,10,2025,0.30499960324522707,-0.12470306040635654
+318,"Expected Revenue, Risk, and Grid Impact of Bitcoin Mining: A Decision-Theoretic Perspective",14,10,2025,-0.04929366174648274,-0.015380194993109489
+319,Explainable time-series forecasting with sampling-free SHAP for Transformers,2,10,2025,-0.1578451037217569,-0.028059978401426214
+320,Recurrent Off-Policy Deep Reinforcement Learning Doesn't Have to be Slow,1,10,2025,-0.1549230884610494,-0.11609051153675888
+321,Bridging Modalities and Transferring Knowledge: Enhanced Multimodal Understanding and Recognition,13,10,2025,0.13145438647794416,0.15568477734560415
+322,Nebula: Enable City-Scale 3D Gaussian Splatting in Virtual Reality via Collaborative Rendering and Accelerated Stereo Rasterization,4,10,2025,-0.04542565720319043,0.26754972698812773
+323,Step-DeepResearch Technical Report,0,10,2025,0.081394456764915,-0.08880680789662966
+324,Multi-temporal Adaptive Red-Green-Blue and Long-Wave Infrared Fusion for You Only Look Once-Based Landmine Detection from Unmanned Aerial Systems,9,10,2025,-0.0880575116571337,0.009659715562622415
+325,The Design of an Interactive Proof Mode for Dafny,14,10,2025,-0.07351819655230928,-0.028483496088726946
+326,WOC: Dual-Path Weighted Object Consensus Made Efficient,2,10,2025,-0.1023872670519847,0.012860388157623736
+327,"SweRank+: Multilingual, Multi-Turn Code Ranking for Software Issue Localization",17,10,2025,0.2185179330823309,-0.03025124506087029
+328,Coherence in the brain unfolds across separable temporal regimes,5,10,2025,0.13930188644531025,-0.07706421674453257
+329,UTDesign: A Unified Framework for Stylized Text Editing and Generation in Graphic Design Images,13,10,2025,0.06940648614199318,0.2695758875651031
+330,Drift-Corrected Monocular VIO and Perception-Aware Planning for Autonomous Drone Racing,18,10,2025,-0.02345422051814524,-0.01655836475118082
+331,Bohrium + SciMaster: Building the Infrastructure and Ecosystem for Agentic Science at Scale,18,10,2025,0.17771728437603188,-0.21692383592596326
+332,Snapshot 3D image projection using a diffractive decoder,6,10,2025,-0.07004611162425614,0.42137231652358853
+333,The Aligned Economic Index & The State Switching Model,14,10,2025,-0.08580244180201278,0.02789651118537416
+334,Laser: Governing Long-Horizon Agentic Search via Structured Protocol and Context Register,15,10,2025,0.4039915451247982,-0.12086126681409921
+335,When Natural Strategies Meet Fuzziness and Resource-Bounded Actions (Extended Version),0,10,2025,0.04963461248939658,-0.11994034527867929
+336,Beyond Motion Pattern: An Empirical Study of Physical Forces for Human Motion Understanding,4,10,2025,0.04772044795566989,0.21779411713043897
+337,Machine Learning to Predict Digital Frustration from Clickstream Data,3,11,2025,-0.09863968577736465,-0.09627439492857189
+338,Dual-Encoder Transformer-Based Multimodal Learning for Ischemic Stroke Lesion Segmentation Using Diffusion MRI,11,12,2025,-0.07606776635102994,0.13174946362038997
+339,High Dimensional Data Decomposition for Anomaly Detection of Textured Images,9,13,2025,-0.10171537111301343,0.13510233595614266
+340,Skin Lesion Classification Using a Soft Voting Ensemble of Convolutional Neural Networks,9,14,2025,-0.1793216989727384,-0.025848314515442596
+341,Evasion-Resilient Detection of DNS-over-HTTPS Data Exfiltration: A Practical Evaluation and Toolkit,9,15,2025,-0.09062993204578826,-0.008035381358829316
+342,Simplifying Multi-Task Architectures Through Task-Specific Normalization,2,16,2025,-0.0027499404147039302,-0.016828269380815226
+343,Chain-of-Anomaly Thoughts with Large Vision-Language Models,15,17,2025,0.39153255504091367,-0.05151707680316508
+344,DETACH : Decomposed Spatio-Temporal Alignment for Exocentric Video and Ambient Sensors with Staged Learning,16,18,2025,-0.03015563246883597,0.2137022094698079
+345,AUDRON: A Deep Learning Framework with Fused Acoustic Signatures for Drone Type Recognition,9,19,2025,-0.24373564220870925,-0.05929931019825042
+346,ChatGPT: Excellent Paper! Accept It. Editor: Imposter Found! Review Rejected,5,20,2025,0.27940351592711676,-0.269166321533091
+347,Sentiment-Aware Extractive and Abstractive Summarization for Unstructured Text Mining,2,21,2025,-0.002136929033040862,0.07737544338964136
+348,BRIDGE: Budget-aware Reasoning via Intermediate Distillation with Guided Examples,15,22,2025,0.21323791849473273,-0.04526067510308748
+349,iblock: Accurate and Scalable Bitcoin Simulations with OMNeT++,14,23,2025,-0.07164870323357977,0.026130263799358792
+350,GeoTransolver: Learning Physics on Irregular Domains Using Multi-scale Geometry Aware Physics Attention Transformer,2,24,2025,-0.0653704617090218,0.08112797346009458
+351,Symmaries: Automatic Inference of Formal Security Summaries for Java Programs,17,10,2025,-0.023684637251667567,-0.021389091443117455
+352,Resilient Packet Forwarding: A Reinforcement Learning Approach to Routing in Gaussian Interconnected Networks with Clustered Faults,10,10,2025,-0.24685962723592988,-0.1835433354344386
+353,Contingency Model-based Control (CMC) for Communicationless Cooperative Collision Avoidance in Robot Swarms,14,10,2025,-0.12148788430318355,-0.0410611651864719
+354,Viterbi State Selection for Discrete Pinching Antenna Systems,14,10,2025,-0.17929560894287117,-0.04392134587250874
+355,Generative Digital Twins: Vision-Language Simulation Models for Executable Industrial Systems,12,10,2025,0.2813603198786946,0.051079367034026664
+356,Anisotropic Green Coordinates,14,10,2025,-0.1496264542594201,0.04891043280194198
+357,Identifying Appropriately-Sized Services with Deep Reinforcement Learning,1,10,2025,-0.03066449592542059,-0.08866680848821501
+358,A Covariance-Surrogate Framework for Movable-Antenna Enabled Anti-Jamming with Unknown Jammers,14,10,2025,-0.1425911634161662,-0.0837214833554729
+359,SmartSplat: Feature-Smart Gaussians for Scalable Compression of Ultra-High-Resolution Images,2,10,2025,-0.05793343186247617,0.3266041161465495
+360,Linking Faces and Voices Across Languages: Insights from the FAME 2026 Challenge,14,10,2025,-0.020195056677733,-0.016409120073697343
+361,CLIP Based Region-Aware Feature Fusion for Automated BBPS Scoring in Colonoscopy Images,2,10,2025,-0.07179603301819044,0.17052678182093195
+362,Cross-Population White Matter Atlas Creation for Concurrent Mapping of Brain Connections in Neonates and Adults with Diffusion MRI Tractography,11,10,2025,-0.06087703768922402,0.0926936208035909
+363,EnvSSLAM-FFN: Lightweight Layer-Fused System for ESDD 2026 Challenge,9,10,2025,-0.09380289824500505,0.04943929006226391
+364,Avoiding the Price of Adaptivity: Inference in Linear Contextual Bandits via Stability,14,10,2025,-0.16057516791731263,-0.05530561957764967
+365,Clust-PSI-PFL: A Population Stability Index Approach for Clustered Non-IID Personalized Federated Learning,3,10,2025,-0.1948757686596616,-0.035119280281801064
+366,CRAFT: Continuous Reasoning and Agentic Feedback Tuning for Multimodal Text-to-Image Generation,15,10,2025,0.32237557934476224,0.09979763855274848
+367,FAR-AVIO: Fast and Robust Schur-Complement Based Acoustic-Visual-Inertial Fusion Odometry with Sensor Calibration,12,10,2025,-0.025456815151984936,0.15996056875027606
+368,Multi-LLM Thematic Analysis with Dual Reliability Metrics: Combining Cohen's Kappa and Semantic Similarity for Qualitative Research Validation,5,10,2025,0.11647366263702082,-0.10800254751698148
+369,Field-Space Attention for Structure-Preserving Earth System Transformers,2,10,2025,-0.11709918419304732,0.0874631963209746
+370,Physics-guided Neural Network-based Shaft Power Prediction for Vessels,10,10,2025,-0.3042015319691393,-0.08931677522257139
+371,Inverse Autoregressive Flows for Zero Degree Calorimeter fast simulation,3,10,2025,-0.10167375728145144,-0.055156332313442843
+372,A Comprehensive Study of Bugs in Modern Distributed Deep Learning Systems,10,10,2025,-0.15771981974147015,-0.1325310110397585
+373,A DeepSeek-Powered AI System for Automated Chest Radiograph Interpretation in Clinical Practice,18,10,2025,0.13972806536322552,-0.016011913458791743
+374,Design and Modeling of a Simple-Structured Continuously Variable Transmission Utilizing Shape Memory Alloy Superelasticity for Twisted String Actuator,2,10,2025,-0.04645129019492953,-0.02528218366476403
+375,The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection,16,10,2025,-0.03227896122001955,0.28165495793182016
+376,MMEDIT: A Unified Framework for Multi-Type Audio Editing via Audio Language Model,3,10,2025,0.049462570239096254,0.17533547169579866
+377,Comment Traps: How Defective Commented-out Code Augment Defects in AI-Assisted Code Generation,17,10,2025,0.1818026176298619,-0.05074826731342858
+378,SynCraft: Guiding Large Language Models to Predict Edit Sequences for Molecular Synthesizability Optimization,15,10,2025,0.23623047171800474,-0.04167244404539612
+379,RIS-Empowered OTFS Modulation With Faster-than-Nyquist Signaling in High-Mobility Wireless Communications,2,10,2025,-0.09078834088754176,-0.008129108310295029
+380,FedDPC : Handling Data Heterogeneity and Partial Client Participation in Federated Learning,3,10,2025,-0.10719552767905892,0.04998081792564989
+381,Toward Explaining Large Language Models in Software Engineering Tasks,17,10,2025,0.35065601395915197,-0.08618372050762055
+382,"Top-K Exterior Power Persistent Homology: Algorithm, Structure, and Stability",14,10,2025,-0.20602393929093893,-0.09824532509829473
+383,Can LLMs Solve My Grandma's Riddle? Evaluating Multilingual Large Language Models on Reasoning Traditional Bangla Tricky Riddles,15,10,2025,0.49466293441223835,-0.1277191502891912
+384,Differentially Private Feature Release for Wireless Sensing: Adaptive Privacy Budget Allocation on CSI Spectrograms,2,10,2025,-0.14316513711570308,0.09639632527025899
+385,Pneumatic bladder links with wide range of motion joints for articulated inflatable robots,4,10,2025,-0.13662328464091306,0.04916788815440366
+386,Deep Learning Classification of EEG Responses to Multi-Dimensional Transcranial Electrical Stimulation,10,10,2025,-0.14890097838209207,-0.11032259804221746
+387,TableGPT-R1: Advancing Tabular Reasoning Through Reinforcement Learning,15,11,2025,0.33792968339484675,-0.10628981208356211
+388,Algorithm for Interpretable Graph Features via Motivic Persistent Cohomology,8,12,2025,-0.1887579912597371,-0.04008161700037079
+389,SpidR: Learning Fast and Stable Linguistic Units for Spoken Language Models Without Supervision,2,13,2025,0.07158540514565238,-0.006227845963711846
+390,Structured Visualization Design Knowledge for Grounding Generative Reasoning and Situated Feedback,15,14,2025,0.20070705580437165,-0.10995804198154747
+391,KAN-AFT: An Interpretable Nonlinear Survival Model Integrating Kolmogorov-Arnold Networks with Accelerated Failure Time Analysis,10,15,2025,-0.13050768998887988,-0.10462479313678892
+392,From the Two-Capacitor Paradox to Electromagnetic Side-Channel Mitigation in Digital Circuits,14,16,2025,0.018626315860335214,0.004007213688644271
+393,Ferroelectric FET-based Logic-in-Memory Encoder for Hyperdimensional Computing,2,17,2025,-0.08354671283642975,-0.060228714583942584
+394,KnowVal: A Knowledge-Augmented and Value-Guided Autonomous Driving System,12,18,2025,0.19888269232693626,-0.05617723010991138
+395,Patterns vs. Patients: Evaluating LLMs against Mental Health Professionals on Personality Disorder Diagnosis through First-Person Narratives,17,19,2025,0.3015306550216706,-0.15288830159394393
+396,TAVID: Text-Driven Audio-Visual Interactive Dialogue Generation,12,20,2025,0.13405345713356542,0.3230505792531044
+397,AprielGuard,15,21,2025,0.3440011559209489,-0.15292348505198908
+398,SlideTailor: Personalized Presentation Slide Generation for Scientific Papers,16,22,2025,0.09280437479658234,0.25311739856626453
+399,Mixture-of-Experts with Gradient Conflict-Driven Subspace Topology Pruning for Emergent Modularity,14,23,2025,-0.0010418901680371141,-0.01782326798490365
+400,UbiQVision: Quantifying Uncertainty in XAI for Image Recognition,10,24,2025,-0.1296362312627358,0.06463606750302918
+401,"Replacing Gas with Low-cost, Abundant Long-duration Pumped Hydro in Electricity Systems",14,10,2025,-0.06972684542068845,0.021491825026141987
+402,Auditing Reproducibility in Non-Targeted Analysis: 103 LC/GC--HRMS Tools Reveal Temporal Divergence Between Openness and Operability,3,10,2025,-0.054925177191036643,-0.08922008096136069
+403,Synthesizing Procedural Memory: Challenges and Architectures in Automated Workflow Generation,17,10,2025,0.15127536755145948,0.01341060267614185
+404,ActionFlow: A Pipelined Action Acceleration for Vision Language Models on Edge,12,10,2025,0.06547838146896885,0.07907931936985436
+405,Graph-Symbolic Policy Enforcement and Control (G-SPEC): A Neuro-Symbolic Framework for Safe Agentic AI in 5G Autonomous Networks,1,10,2025,-0.07101963392290364,-0.25571559326761695
+406,HGAN-SDEs: Learning Neural Stochastic Differential Equations with Hermite-Guided Adversarial Training,10,10,2025,-0.2409190169364731,-0.05337010582213184
+407,Automated Training of Learned Database Components with Generative AI,3,10,2025,-0.07349063297246328,-0.021497578569599263
+408,Optimality-Informed Neural Networks for Solving Parametric Optimization Problems,10,10,2025,-0.32789919668191436,-0.14772180851741928
+409,DeepONet-accelerated Bayesian inversion for moving boundary problems,10,10,2025,-0.2686003492609422,-0.07351411004128379
+410,Maximizing the Egalitarian Welfare in Friends and Enemies Games,0,10,2025,-0.08097406283675598,-0.2159046123062219
+411,${D}^{3}${ETOR}: ${D}$ebate-Enhanced Pseudo Labeling and Frequency-Aware Progressive ${D}$ebiasing for Weakly-Supervised Camouflaged Object ${D}$etection with Scribble Annotations,2,10,2025,0.03188235014196267,0.11630796468896884
+412,LADLE-MM: Limited Annotation based Detector with Learned Ensembles for Multimodal Misinformation,13,10,2025,0.0981093633525168,0.20204251378661947
+413,BiCoR-Seg: Bidirectional Co-Refinement Framework for High-Resolution Remote Sensing Image Segmentation,2,10,2025,-0.05215318044879754,0.10541559350219422
+414,Degradation-Aware Metric Prompting for Hyperspectral Image Restoration,2,10,2025,-0.038730553011202,0.19291087021427802
+415,Unified Multimodal Brain Decoding via Cross-Subject Soft-ROI Fusion,13,10,2025,0.05950499824228979,0.13849798306136205
+416,Memory as Resonance: A Biomimetic Architecture for Infinite Context Memory on Ergodic Phonetic Manifolds,2,10,2025,0.07267433583708965,-0.006431791058293447
+417,Post-Quantum Cryptography in the 5G Core,7,10,2025,-0.211650615142126,-0.1488364214232294
+418,Hierarchical Rectangle Packing Solved by Multi-Level Recursive Logic-based Benders Decomposition,14,10,2025,-0.14537453319609386,-0.015302909701701648
+419,MemR$^3$: Memory Retrieval via Reflective Reasoning for LLM Agents,5,10,2025,0.1598181868971917,-0.1300495858595485
+420,IndicDLP: A Foundational Dataset for Multi-Lingual and Multi-Domain Document Layout Parsing,2,10,2025,0.1729126501886781,0.05823182311319205
+421,Achieving Flexible and Secure Authentication with Strong Privacy in Decentralized Networks,10,10,2025,-0.1372586268472458,-0.050344397770491094
+422,How I Met Your Bias: Investigating Bias Amplification in Diffusion Models,11,10,2025,0.08474297801468632,0.21006079417262813
+423,Adaptive Multi-task Learning for Probabilistic Load Forecasting,14,10,2025,-0.18438288248925336,-0.08994431023305133
+424,Finite-Time Control Based on Differential Flatness for Wheeled Mobile Robots with Experimental Validation,14,10,2025,-0.14553069422045567,-0.005935563885401552
+425,Evaluating Moderation in Online Social Network,14,10,2025,-0.120922307640804,-0.08482459974181318
+426,UrbanV2X: A Multisensory Vehicle-Infrastructure Dataset for Cooperative Navigation in Urban Areas,3,10,2025,-0.05911276426832653,0.011214354583268108
+427,The Effect of Empathic Expression Levels in Virtual Human Interaction: A Controlled Experiment,0,10,2025,0.028760849248900842,-0.09182021499012574
+428,Generalisation in Multitask Fitted Q-Iteration and Offline Q-learning,1,10,2025,-0.15260726621869028,-0.13802830587817752
+429,Cost-TrustFL: Cost-Aware Hierarchical Federated Learning with Lightweight Reputation Evaluation across Multi-Cloud,10,10,2025,-0.14926913110433013,-0.04748212857967555
+430,LiteFusion: Taming 3D Object Detectors from Vision-Based to Multi-Modal with Minimal Adaptation,6,10,2025,-0.06111806911330626,0.2614954775424698
+431,"Error Localization, Certificates, and Hints for Probabilistic Program Verification via Slicing (Extended Version)",14,10,2025,-0.08176105317216699,-0.0815853164723485
+432,JDPNet: A Network Based on Joint Degradation Processing for Underwater Image Enhancement,2,10,2025,-0.14920700111525087,0.0866428898817403
+433,Aliasing-Free Neural Audio Synthesis,2,10,2025,-0.058924000840218094,0.06832688741991917
+434,Predictive-LoRA: A Proactive and Fragmentation-Aware Serverless Inference System for LLMs,5,10,2025,0.08991068000075787,-0.14730357151119503
+435,TongSIM: A General Platform for Simulating Intelligent Machines,0,10,2025,0.26047466704772726,-0.08041011429031263
+436,Corpus of Cross-lingual Dialogues with Minutes and Detection of Misunderstandings,9,10,2025,0.14277400803835838,0.019013501800279376
+437,Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair,5,11,2025,0.07534571297439836,-0.041317188196806375
+438,Designing Spatial Architectures for Sparse Attention: STAR Accelerator via Cross-Stage Tiling,2,12,2025,0.04591049481563734,0.046883904656767866
+439,Generative Latent Coding for Ultra-Low Bitrate Image Compression,2,13,2025,0.018078094985628252,0.2503093153712429
+440,Asynchronous Fast-Slow Vision-Language-Action Policies for Whole-Body Robotic Manipulation,12,14,2025,0.12419266390201494,0.03790459716774095
+441,Edge-Served Congestion Control for Wireless Multipath Transmission with a Transformer Agent,10,15,2025,-0.1946297221233732,-0.12694277099698723
+442,Reaching Agreement Among Reasoning LLM Agents,0,16,2025,0.2644715208748293,-0.23245082476086165
+443,FaithLens: Detecting and Explaining Faithfulness Hallucination,3,17,2025,0.1057844611230491,-0.03267941070646286
+444,Competing or Collaborating? The Role of Hackathon Formats in Shaping Team Dynamics and Project Choices,14,18,2025,-0.1929828451630403,-0.1180403150656252
+445,Approximation and parameterized algorithms for covering disjointness-compliable set families,14,19,2025,-0.14961531495806793,-0.11937216464831364
+446,RESPOND: Risk-Enhanced Structured Pattern for LLM-driven Online Node-level Decision-making,5,20,2025,0.10434070738399559,-0.11862593840389145
+447,SHIRO: Near-Optimal Communication Strategies for Distributed Sparse Matrix Multiplication,10,21,2025,-0.1585738120608542,-0.039086697494855036
+448,NeuralCrop: Combining physics and machine learning for improved crop yield predictions,3,22,2025,-0.11099733354494563,-0.04809285671705226
+449,Optimistic TEE-Rollups: A Hybrid Architecture for Scalable and Verifiable Generative AI Inference on Blockchain,2,23,2025,0.03486103801828282,-0.09088779090977198
+450,Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark,13,24,2025,0.21190686564422997,0.25052151282617413
+451,Offline Safe Policy Optimization From Heterogeneous Feedback,1,10,2025,-0.01619945921377341,-0.18352650171306406
+452,Collaborative Group-Aware Hashing for Fast Recommender Systems,2,10,2025,-0.12262420530777574,0.015759015880252462
+453,Learning to Reason in LLMs by Expectation Maximization,15,10,2025,0.39376865091655766,-0.2498028621187872
+454,Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography,13,10,2025,0.15957302291597333,-0.06311778437536178
+455,LoLA: Long Horizon Latent Action Learning for General Robot Manipulation,12,10,2025,0.15276498912968212,0.12301299401640002
+456,Spectral or spatial? Leveraging both for speaker extraction in challenging data conditions,2,10,2025,-0.16750089126212997,-0.00490928060344098
+457,AI Security Beyond Core Domains: Resume Screening as a Case Study of Adversarial Vulnerabilities in Specialized LLM Applications,17,10,2025,0.22669512755413154,-0.13431637074240127
+458,Population Protocols Revisited: Parity and Beyond,14,10,2025,-0.12779658329299867,-0.019966100794432354
+459,Concept Generalization in Humans and Large Language Models: Insights from the Number Game,17,10,2025,0.3193298898292128,-0.22188688097445877
+460,A Bidirectional Gated Recurrent Unit Model for PUE Prediction in Data Centers,3,10,2025,-0.20303903682039978,-0.06722973232045208
+461,AXIOM: Benchmarking LLM-as-a-Judge for Code via Rule-Based Perturbation and Multisource Quality Calibration,17,10,2025,0.2601492870890114,-0.02991598109413479
+462,AMoE: Agglomerative Mixture-of-Experts Vision Foundation Model,12,10,2025,0.017976430589657443,0.08550503756670894
+463,Fun-Audio-Chat Technical Report,5,10,2025,0.2743099621075178,0.10559511665239511
+464,CoDi -- an exemplar-conditioned diffusion model for low-shot counting,11,10,2025,-0.040585522356982644,0.1609585305362833
+465,QuarkAudio Technical Report,2,10,2025,0.10885578442460751,0.10845369782369506
+466,Enhancing annotations for 5D apple pose estimation through 3D Gaussian Splatting (3DGS),6,10,2025,-0.0574935495112521,0.21266822418259732
+467,Retrieval-augmented Prompt Learning for Pre-trained Foundation Models,3,10,2025,-0.01699241322846502,-0.029328523464317763
+468,Multi-hop Reasoning via Early Knowledge Alignment,15,10,2025,0.27718121787127264,-0.10099133698726652
+469,Enhancing Zero-Shot Time Series Forecasting in Off-the-Shelf LLMs via Noise Injection,17,10,2025,0.21712978370119554,-0.1410608268518998
+470,M$^3$KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation,13,10,2025,0.21967301288178726,0.09338035883263159
+471,MolAct: An Agentic RL Framework for Molecular Editing and Property Optimization,1,10,2025,0.05684360243642554,-0.1818734990820731
+472,"Dreamcrafter: Immersive Editing of 3D Radiance Fields Through Flexible, Generative Inputs and Outputs",6,10,2025,-0.021081272572857718,0.2006349243247415
+473,milliMamba: Specular-Aware Human Pose Estimation via Dual mmWave Radar with Multi-Frame Mamba Fusion,4,10,2025,0.003615372054317163,0.12837008600804203
+474,HEART-VIT: Hessian-Guided Efficient Dynamic Attention and Token Pruning in Vision Transformer,12,10,2025,-0.015159347986111614,0.11323135792066706
+475,DDAVS: Disentangled Audio Semantics and Delayed Bidirectional Alignment for Audio-Visual Segmentation,12,10,2025,0.08436715855552641,0.2393270183493444
+476,/UnmuteAll: Modeling Verbal Communication Patterns of Collaborative Contexts in MOBA Games,10,10,2025,-0.1581360427559051,-0.07727882377764643
+477,Sample-Efficient Policy Constraint Offline Deep Reinforcement Learning based on Sample Filtering,1,10,2025,-0.16003555800797037,-0.09329368578160381
+478,Multi Modal Attention Networks with Uncertainty Quantification for Automated Concrete Bridge Deck Delamination Detection,9,10,2025,-0.09324472709241671,0.11793983420436824
+479,Evolutionary Neural Architecture Search with Dual Contrastive Learning,10,10,2025,-0.24403705100225045,-0.06822715826254788
+480,ABBEL: LLM Agents Acting through Belief Bottlenecks Expressed in Language,0,10,2025,0.20325234614689833,-0.11780237177387168
+481,Generative Bayesian Spectrum Cartography: Unified Reconstruction and Active Sensing via Diffusion Models,11,10,2025,-0.062311639371370894,0.15043083980000144
+482,UMAMI: Unifying Masked Autoregressive Models and Deterministic Rendering for View Synthesis,11,10,2025,-0.09510673012835257,0.3556312103645997
+483,LiDARDraft: Generating LiDAR Point Cloud from Versatile Inputs,6,10,2025,0.013876140646480926,0.3560192460078727
+484,Effect of Activation Function and Model Optimizer on the Performance of Human Activity Recognition System Using Various Deep Learning Models,10,10,2025,-0.15605359523884765,-0.16105179559192093
+485,Developing an NTN Architecture for End-to-End Performance Evaluation,14,10,2025,-0.09724187485620786,-0.03647411092694066
+486,A Novel Graph-Sequence Learning Model for Inductive Text Classification,8,10,2025,-0.09642708444006949,0.04410785376931544
+487,Information-directed sampling for bandits: a primer,1,11,2025,-0.13126103547183615,-0.13500841989027842
+488,Jensen-Shannon Divergence Message-Passing for Rich-Text Graph Representation Learning,8,12,2025,-0.17353703789267788,0.030440298302689465
+489,Neural Compression of 360-Degree Equirectangular Videos using Quality Parameter Adaptation,16,13,2025,-0.16909470623733197,0.10102762642915221
+490,Memory-T1: Reinforcement Learning for Temporal Reasoning in Multi-session Agents,0,14,2025,0.13150747181210123,-0.052369948611448926
+491,Item Region-based Style Classification Network (IRSN): A Fashion Style Classifier Based on Domain Knowledge of Fashion Experts,2,15,2025,-0.05964340905260296,0.07714769460069817
+492,Spatio-Temporal Graphs Beyond Grids: Benchmark for Maritime Anomaly Detection,9,16,2025,-0.05556243082101923,-0.02389377397050812
+493,QE-Catalytic: A Graph-Language Multimodal Base Model for Relaxed-Energy Prediction in Catalytic Adsorption,8,17,2025,-0.016793410729448035,-0.00900743592944273
+494,Detecting Non-Optimal Decisions of Embodied Agents via Diversity-Guided Metamorphic Testing,0,18,2025,-0.024465023290464693,-0.05328406239156524
+495,"Adaptive Financial Sentiment Analysis for NIFTY 50 via Instruction-Tuned LLMs , RAG and Reinforcement Learning Approaches",1,19,2025,0.04623129035538276,-0.14634369981263554
+496,CBA: Communication-Bound-Aware Cross-Domain Resource Assignment for Pipeline-Parallel Distributed LLM Training in Dynamic Multi-DC Optical Networks,10,20,2025,-0.048416773473296516,-0.01025025734132059
+497,Fault Injection Attacks on Machine Learning-based Quantum Computer Readout Error Correction,7,21,2025,-0.18457336231380178,-0.14226528023531665
+498,Reason2Decide: Rationale-Driven Multi-Task Learning,5,22,2025,0.30784613973604813,-0.09321076226109334
+499,3D Stack In-Sensor-Computing (3DS-ISC): Accelerating Time-Surface Construction for Neuromorphic Event Cameras,6,23,2025,-0.1645530475557563,0.1778194655593441
+500,Progressive Learned Image Compression for Machine Perception,2,24,2025,-0.0696603752937163,0.0848339679922866
+501,FastMPS: Revisit Data Parallel in Large-scale Matrix Product State Sampling,3,10,2025,-0.09595547945366037,-0.06124994401836233
+502,PairFlow: Closed-Form Source-Target Coupling for Few-Step Generation in Discrete Flow Models,3,10,2025,0.03241883099066413,0.08024961338452288
+503,On the Effectiveness of Instruction-Tuning Local LLMs for Identifying Software Vulnerabilities,17,10,2025,0.2965962645454832,-0.2598930306958994
+504,Scaling Reinforcement Learning for Content Moderation with Large Language Models,1,10,2025,0.196794099908663,-0.20396810306532168
+505,DS-HGCN: A Dual-Stream Hypergraph Convolutional Network for Predicting Student Engagement via Social Contagion,2,10,2025,-0.1500407154852489,0.051876053759586066
+506,Deep Eigenspace Network and Its Application to Parametric Non-selfadjoint Eigenvalue Problems,10,10,2025,-0.22005256775099657,-0.10079677707041676
+507,Towards Generative Location Awareness for Disaster Response: A Probabilistic Cross-view Geolocalization Approach,2,10,2025,-0.019983714845618616,0.10217776142085754
+508,An Optimal Policy for Learning Controllable Dynamics by Exploration,1,10,2025,-0.18227906235722868,-0.17197183976807168
+509,Learning Skills from Action-Free Videos,16,10,2025,-0.00158362687178589,0.23274656683634617
+510,Self-motion as a structural prior for coherent and robust formation of cognitive maps,4,10,2025,-0.06465837545750364,0.11282821016954607
+511,Discovering Lie Groups with Flow Matching,3,10,2025,-0.1597223750486828,-0.024282015036172378
+512,Beyond Vision: Contextually Enriched Image Captioning with Multi-Modal Retrieva,13,10,2025,0.09558023364218446,0.32127299421226035
+513,Optimal Anytime-Valid Tests for Composite Nulls,14,10,2025,-0.19357235270160777,-0.09767347807066831
+514,VSA:Visual-Structural Alignment for UI-to-Code,12,10,2025,0.16849222217147286,0.1503402523538231
+515,FlashLips: 100-FPS Mask-Free Latent Lip-Sync using Reconstruction Instead of Diffusion or GANs,11,10,2025,-0.03338286959154398,0.25890227145225886
+516,VALLR-Pin: Dual-Decoding Visual Speech Recognition for Mandarin with Pinyin-Guided LLM Refinement,5,10,2025,0.20795932143502704,0.16762670695896809
+517,$\text{H}^2$em: Learning Hierarchical Hyperbolic Embeddings for Compositional Zero-Shot Learning,2,10,2025,-0.04527329171895637,0.12276146424457834
+518,DecoKAN: Interpretable Decomposition for Forecasting Cryptocurrency Market Dynamics,2,10,2025,-0.14343354865729266,-0.061068555158988354
+519,MAPI-GNN: Multi-Activation Plane Interaction Graph Neural Network for Multimodal Medical Diagnosis,8,10,2025,-0.16067385296702036,-0.008235003167280212
+520,A Contextual Analysis of Driver-Facing and Dual-View Video Inputs for Distraction Detection in Naturalistic Driving Environments,9,10,2025,0.0017976514885107038,0.0670660185645757
+521,All-optical 3-input OR and 2-input AND/NIMPLY logic gates in a linear planar three-core optical fiber coupler,14,10,2025,-0.16453814052060148,-0.011631950016009956
+522,LLM-Assisted Abstract Screening with OLIVER: Evaluating Calibration and Single-Model vs. Actor-Critic Configurations in Literature Reviews,5,10,2025,0.24657419125405705,-0.15881126382541022
+523,Gaussian Process Assisted Meta-learning for Image Classification and Object Detection Models,3,10,2025,-0.165775888641279,0.0469063746310548
+524,A hybrid global local computational framework for ship hull structural analysis using homogenized model and graph neural network,8,10,2025,-0.1935158455962741,-0.02007695121474956
+525,Scaling Point-based Differentiable Rendering for Large-scale Reconstruction,10,10,2025,-0.13253265189691563,0.03347676355093385
+526,HeylandCircle: A Computational Framework for the Geometric Reconstruction of the Heyland Circle Diagram,14,10,2025,-0.13514248064461692,-0.04791233162832886
+527,Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting,12,10,2025,0.1087590352329314,0.24062344506210115
+528,SegEarth-R2: Towards Comprehensive Language-guided Segmentation for Remote Sensing Images,12,10,2025,0.25216893772340765,0.06858137124720463
+529,Reliable LLM-Based Edge-Cloud-Expert Cascades for Telecom Knowledge Systems,5,10,2025,0.05505786076898426,-0.18179936642907757
+530,PaveSync: A Unified and Comprehensive Dataset for Pavement Distress Analysis and Classification,9,10,2025,0.016890852305530148,0.17018607370750746
+531,Semiparametric KSD test: unifying score and distance-based approaches for goodness-of-fit testing,14,10,2025,-0.11240565861395264,-0.06890659570840613
+532,Orthogonal Activation with Implicit Group-Aware Bias Learning for Class Imbalance,3,10,2025,-0.25553828078232277,-0.07925141788912177
+533,IoT-based Android Malware Detection Using Graph Neural Network With Adversarial Defense,8,10,2025,-0.2653529163848915,-0.1106123315962151
+534,Control Variate Score Matching for Diffusion Models,11,10,2025,-0.11417963583190328,0.07931062343112176
+535,LoFT-LLM: Low-Frequency Time-Series Forecasting with Large Language Models,5,10,2025,0.17732069153029334,-0.05311105357140229
+536,Few-Shot-Based Modular Image-to-Video Adapter for Diffusion Models,4,10,2025,0.015072145955771908,0.39694236479457656
+537,Stories That Teach: Eastern Wisdom for Human-AI Creative Partnerships,18,11,2025,0.08931837687085137,-0.06515388704206895
+538,BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations,9,12,2025,-0.19411199918469085,-0.040160957832493974
+539,Schoenfeld's Anatomy of Mathematical Reasoning by Language Models,15,13,2025,0.40678071243101915,-0.17899369164794604
+540,S$^3$IT: A Benchmark for Spatially Situated Social Intelligence Test,0,14,2025,0.3125910608566857,-0.14187785905126288
+541,Bloom Filter Encoding for Machine Learning,10,15,2025,-0.25769174484793284,-0.14515658933691125
+542,A Dual-Branch Local-Global Framework for Cross-Resolution Land Cover Mapping,2,16,2025,0.07148418939675187,0.14543959735438902
+543,A Novel CNN Gradient Boosting Ensemble for Guava Disease Detection,9,17,2025,-0.0929079242762321,-0.007873536265133681
+544,Covariance-Aware Simplex Projection for Cardinality-Constrained Portfolio Optimization,14,18,2025,-0.10038839660675247,-0.04065045178859657
+545,IGDMRec: Behavior Conditioned Item Graph Diffusion for Multimodal Recommendation,8,19,2025,-0.08630444499264625,0.11671979839307069
+546,WSD-MIL: Window Scale Decay Multiple Instance Learning for Whole Slide Image Classification,2,20,2025,-0.08825116731237705,0.09368923594000918
+547,"Neuron-Guided Interpretation of Code LLMs: Where, Why, and How?",17,21,2025,0.33284950051269696,0.012128804107786446
+548,Regression of Functions by Quantum Neural Networks Circuits,7,22,2025,-0.2122513833648151,-0.14940076755616374
+549,Prediction Air Temperature in Geothermal Heat Exchangers Using Pseudorandom Numbers: The New DARL Model,3,23,2025,-0.1887962946008196,-0.06107456321655878
+550,"Rethinking Knowledge Distillation in Collaborative Machine Learning: Memory, Knowledge, and Their Interactions",0,24,2025,-0.016970943695382257,-0.17743979525947945
+551,Spatio-Temporal Graph Neural Networks for Dairy Farm Sustainability Forecasting and Counterfactual Policy Analysis,8,10,2025,-0.2138380430665728,-0.04668799011608278
+552,Fast Deterministically Safe Proof-of-Work Consensus,14,10,2025,-0.11633874819528355,-0.06452002515912386
+553,VNF-Cache: An In-Network Key-Value Store Cache Based on Network Function Virtualization,10,10,2025,-0.22442020934779994,-0.06288149663571035
+554,FGDCC: Fine-Grained Deep Cluster Categorization -- A Framework for Intra-Class Variability Problems in Plant Classification,2,10,2025,-0.05410234960366354,0.088690954347886
+555,A Comprehensive Guide to Mesh Simplification using Edge Collapse,14,10,2025,-0.2002515405685129,-0.05808565685670145
+556,Towards Analysing Invoices and Receipts with Amazon Textract,3,10,2025,-0.04103264437402405,0.05972743747646486
+557,Zero-Shot Segmentation through Prototype-Guidance for Multi-Label Plant Species Identification,3,10,2025,-0.03337999314522842,0.158442701024959
+558,HistoWAS: A Pathomics Framework for Large-Scale Feature-Wide Association Studies of Tissue Topology and Patient Outcomes,2,10,2025,-0.07068822082950214,0.08093793317364867
+559,Efficient Mod Approximation and Its Applications to CKKS Ciphertexts,14,10,2025,-0.19847150292136434,-0.0642963094133871
+560,Bias Beneath the Tone: Empirical Characterisation of Tone Bias in LLM-Driven UX Systems,5,10,2025,0.2514715409482935,-0.16251760125777076
+561,How Much 3D Do Video Foundation Models Encode?,6,10,2025,-5.591624118971012e-05,0.34782197966014383
+562,Community Notes: Crowd Participation and Dependence on Professional Fact-Checking Across Languages,14,10,2025,0.024463243904662455,-0.024462618093762822
+563,Energy-Efficient Multi-LLM Reasoning for Binary-Free Zero-Day Detection in IoT Firmware,15,10,2025,0.2802354681846303,-0.14577700952306497
+564,SE360: Semantic Edit in 360$^\circ$ Panoramas via Hierarchical Data Construction,3,10,2025,0.01265644638667222,0.2971090903934023
+565,Block-Recurrent Dynamics in Vision Transformers,14,10,2025,-0.06030242030563749,0.0066002651737965806
+566,Interpolative Decoding: Exploring the Spectrum of Personality Traits in LLMs,17,10,2025,0.22098509492914511,-0.1909250151701724
+567,GIMLET: Generalizable and Interpretable Model Learning through Embedded Thermodynamics,10,10,2025,-0.2073334113364442,-0.14421476298198002
+568,Conditional Adversarial Fragility in Financial Machine Learning under Macroeconomic Stress,2,10,2025,-0.05349357650073675,-0.1032861523775669
+569,Vehicle-centric Perception via Multimodal Structured Pre-training,13,10,2025,0.015769709501438602,0.17899764335540164
+570,PRISM: A Personality-Driven Multi-Agent Framework for Social Media Simulation,0,10,2025,0.13324750860295978,-0.11293261671706321
+571,Unified Brain Surface and Volume Registration,2,10,2025,-0.1792774732366084,0.006365326291820904
+572,The Seismic Wavefield Common Task Framework,3,10,2025,-0.01933201105157388,-0.0013532666679113112
+573,Developers' Experience with Generative AI -- First Insights from an Empirical Mixed-Methods Field Study,18,10,2025,-0.0032622023790085607,-0.09224185891789957
+574,Mitigating LLM Hallucination via Behaviorally Calibrated Reinforcement Learning,5,10,2025,0.20606995537068995,-0.13799982673722289
+575,Widget2Code: From Visual Widgets to UI Code via Multimodal LLMs,17,10,2025,0.27879741102743655,0.13365382883904306
+576,A Time-efficient Prioritised Scheduling Algorithm to Optimise Initial Flock Formation of Drones,14,10,2025,-0.21904428508059093,-0.07481426582579738
+577,Quasiprobabilistic Density Ratio Estimation with a Reverse Engineered Classification Loss Function,14,10,2025,-0.13245884384740952,-0.06201131497830105
+578,Solving strategies for data-driven one-dimensional elasticity exhibiting nonlinear strains,14,10,2025,-0.1925326208951796,-0.09796318978965168
+579,Modeling Non-Ergodic Path Effects Using Conditional Generative Model for Fourier Amplitude Spectra,14,10,2025,-0.1488816374749766,-0.032623967161302
+580,Counterfactual LLM-based Framework for Measuring Rhetorical Style,5,10,2025,0.1667753783739235,-0.22721706292278124
+581,Mechanism-Based Intelligence (MBI): Differentiable Incentives for Rational Coordination and Guaranteed Alignment in Multi-Agent Systems,0,10,2025,-0.024972207097254544,-0.17298257154998703
+582,Demystifying LLM-as-a-Judge: Analytically Tractable Model for Inference-Time Scaling,14,10,2025,-0.003948853678974495,-0.0771136410109665
+583,How well do Large Language Models Recognize Instructional Moves? Establishing Baselines for Foundation Models in Educational Discourse,5,10,2025,0.2607403366143019,-0.10933999498833401
+584,Detecting cyberbullying in Spanish texts through deep learning techniques,10,10,2025,-0.2840858026906663,-0.1709211874145067
+585,"Free-Will vs Free-Wheel: Understanding Community Accessibility Requirements of Wheelchair Users through Interviews, Participatory Action, and Modeling",14,10,2025,-0.01319758013937081,-0.020470039204069194
+586,Efficient Learning of Lattice Gauge Theories with Fermions,14,10,2025,-0.2355319682913771,-0.13369979467563578
+587,Visualizing a Collective Student Model for Procedural Training Environments,6,11,2025,-0.08956697997445079,0.09304183419522394
+588,Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection,17,12,2025,0.17546864560786965,0.00030980626728632993
+589,A Branch-and-Price Algorithm for Fast and Equitable Last-Mile Relief Aid Distribution,14,13,2025,-0.23956249465796742,-0.13944573095407584
+590,Fine-Tuned In-Context Learners for Efficient Adaptation,3,14,2025,0.06121211035431432,0.020097303870965116
+591,HyGE-Occ: Hybrid View-Transformation with 3D Gaussian and Edge Priors for 3D Panoptic Occupancy Prediction,6,15,2025,-0.019635165366291053,0.24751610095145427
+592,"CS-Guide: Leveraging LLMs and Student Reflections to Provide Frequent, Scalable Academic Monitoring Feedback to Computer Science Students",17,16,2025,0.2372974945933793,-0.21025418393596568
+593,HARMON-E: Hierarchical Agentic Reasoning for Multimodal Oncology Notes to Extract Structured Data,0,17,2025,0.23203153759345999,-0.1277929516274495
+594,Gaussian Variational Inference with Non-Gaussian Factors for State Estimation: A UWB Localization Case Study,14,18,2025,-0.1466419221274142,-0.0706095132047783
+595,An Adaptive Distributed Stencil Abstraction for GPUs,2,19,2025,-0.02771875417005406,0.01785381634595328
+596,RANSAC Scoring Functions: Analysis and Reality Check,14,20,2025,-0.11343904750531658,-0.06145397734538956
+597,UCCL-EP: Portable Expert-Parallel Communication,10,21,2025,-0.1198085443570314,-0.016298680802897553
+598,A Class of Axis-Angle Attitude Control Laws for Rotational Systems,14,22,2025,-0.2163729756126429,-0.035242401426526675
+599,Holoscope: Open and Lightweight Distributed Telescope & Honeypot Platform,10,23,2025,-0.040288878154329556,-0.07039067256586463
+600,A Multi-Agent Retrieval-Augmented Framework for Work-in-Progress Predictio,0,24,2025,0.1660685982011826,-0.10729644696132089
+601,Towards a point-to-point CV-QKD system: Implementation challenges and perspectives,7,10,2025,-0.20159698604506468,-0.13639263918546043
+602,How Tech Workers Contend with Hazards of Humanlikeness in Generative AI,18,10,2025,0.010691542060872116,-0.1433935157135526
+603,Learning to Refocus with Video Diffusion Models,16,10,2025,0.010553827066426895,0.26216104117411876
+604,PHOTON: Hierarchical Autoregressive Modeling for Lightspeed and Memory-Efficient Language Generation,2,10,2025,0.10567018570463095,0.06194245186353009
+605,Fundamentals of quantum Boltzmann machine learning with visible and hidden units,7,10,2025,-0.17194347216284764,-0.09703944177861262
+606,"Generating the Past, Present and Future from a Motion-Blurred Image",4,10,2025,-0.02370781947003637,0.427218986346711
+607,Predicting Student Actions in a Procedural Training Environment,3,10,2025,-0.10801084069135099,0.027311002956352443
+608,Guardrailed Uplift Targeting: A Causal Optimization Playbook for Marketing Strategy,14,10,2025,-0.0677405396968525,-0.02068696145115009
+609,Reduced Order Modeling for Tsunami Forecasting with Bayesian Hierarchical Pooling,2,10,2025,-0.18153131577733658,-0.06399096734356374
+610,PhysMaster: Building an Autonomous AI Physicist for Theoretical and Computational Physics Research,0,10,2025,0.2368953964692385,-0.2033951066865468
+611,The Prism Hypothesis: Harmonizing Semantic and Pixel Representations via Unified Autoencoding,2,10,2025,-0.04357211385223987,0.12903958032142085
+612,Interact2Ar: Full-Body Human-Human Interaction Generation via Autoregressive Diffusion Models,4,10,2025,0.061568467989406614,0.1336983651271187
+613,Scalably Enhancing the Clinical Validity of a Task Benchmark with Physician Oversight,1,10,2025,0.08146767620312989,-0.07037928816179866
+614,Pushing the Frontier of Audiovisual Perception with Large-Scale Multimodal Correspondence Learning,16,10,2025,0.09332891095408793,0.29490184878112835
+615,Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models,12,10,2025,0.17406952969306852,0.3156253074452004
+616,Zero-shot Reconstruction of In-Scene Object Manipulation from Video,16,10,2025,-0.04712726971739058,0.20189693045677148
+617,From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs,15,10,2025,0.3474447469353373,0.02947201033393783
+618,GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators,0,10,2025,0.1480117764700714,-0.18107930131526886
+619,VA-$π$: Variational Policy Alignment for Pixel-Aware Autoregressive Generation,12,10,2025,0.09058326061521442,0.301253633044215
+620,WorldWarp: Propagating 3D Geometry with Asynchronous Video Diffusion,6,10,2025,-0.03498417844812098,0.428556724016633
+621,"Detecting Coordinated Activities Through Temporal, Multiplex, and Collaborative Analysis",9,10,2025,-0.14465649350376283,0.01316964472295139
+622,Efficient Vision Mamba for MRI Super-Resolution via Hybrid Selective Scanning,2,10,2025,-0.13750222086492933,0.014143352197854607
+623,Multimodal LLMs for Historical Dataset Construction from Archival Image Scans: German Patents (1877-1918),13,10,2025,0.24957837933609844,0.0021191456124032347
+624,Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies,1,10,2025,0.15249018697458305,-0.12954450489195815
+625,CORE: Compensable Reward as a Catalyst for Improving Offline RL in Wireless Networks,3,10,2025,-0.16607095525447743,-0.07018743483981567
+626,Beyond CLIP: Knowledge-Enhanced Multimodal Transformers for Cross-Modal Alignment in Diabetic Retinopathy Diagnosis,13,10,2025,0.15784935032314848,0.26818614345225283
+627,Over++: Generative Video Compositing for Layer Interaction Effects,16,10,2025,0.0484559626882941,0.33192297371530183
+628,Clustering with Label Consistency,14,10,2025,-0.06967325749419484,0.016643008867064116
+629,Exploring Zero-Shot ACSA with Unified Meaning Representation in Chain-of-Thought Prompting,3,10,2025,0.10582088120497066,-0.07531315936794203
+630,Deep Legendre Transform,10,10,2025,-0.3174660506285406,-0.1223387592694448
+631,4D Gaussian Splatting as a Learned Dynamical System,4,10,2025,-0.15823453440908822,0.10949829891110904
+632,"More code, less validation: Risk factors for over-reliance on AI coding tools among scientists",17,10,2025,0.1458576378361593,-0.032388065553951545
+633,The Best of Both Worlds: Hybridizing Neural Operators and Solvers for Stable Long-Horizon Inference,2,10,2025,-0.1479318088830442,0.03938358975014638
+634,Validation of Quantum Computing for Transition Metal Oxide-based Automotive Catalysis,7,10,2025,-0.15303445538639093,-0.07865455136532921
+635,"Generative diffusion models for agricultural AI: plant image generation, indoor-to-outdoor translation, and expert preference alignment",11,10,2025,0.04286365797024536,0.32992708837945756
+636,Diacritic Restoration for Low-Resource Indigenous Languages: Case Study with Bribri and Cook Islands Māori,3,10,2025,0.17740504692281442,-0.06678360540576313
+637,LoGoPlanner: Localization Grounded Navigation Policy with Metric-aware Visual Geometry,12,11,2025,0.013886405355192371,0.07474883198776028
+638,Exploring the features used for summary evaluation by Human and GPT,17,12,2025,0.13665723894854598,-0.06457267551490661
+639,MauBERT: Universal Phonetic Inductive Biases for Few-Shot Acoustic Units Discovery,2,13,2025,0.03897234650838689,0.042905606479708994
+640,MapTrace: Scalable Data Generation for Route Tracing on Maps,15,14,2025,0.3342207879979929,0.10923418826665932
+641,RAPID-LLM: Resilience-Aware Performance analysis of Infrastructure for Distributed LLM Training and Inference,5,15,2025,0.10867648589860636,-0.13701049826275227
+642,KerJEPA: Kernel Discrepancies for Euclidean Self-Supervised Learning,3,16,2025,-0.1036904208774243,-0.010749940974611598
+643,No Data? No Problem: Robust Vision-Tabular Learning with Missing Values,3,17,2025,-0.0445557720960021,0.08041174962509079
+644,Increasing the Thinking Budget is Not All You Need,15,18,2025,0.20458707437580392,-0.1043020658179865
+645,Patlak Parametric Image Estimation from Dynamic PET Using Diffusion Model Prior,11,19,2025,-0.07514724545527787,0.24149679087880344
+646,Learning Generalizable Hand-Object Tracking from Synthetic Demonstrations,3,20,2025,-0.10137156427834865,0.055063580685355364
+647,Deep Learning for Primordial $B$-mode Extraction,10,21,2025,-0.19623345354496538,-0.1547966251274068
+648,LeLaR: The First In-Orbit Demonstration of an AI-Based Satellite Attitude Controller,18,22,2025,-0.06281493434729599,-0.1940642177154441
+649,The Epistemological Consequences of Large Language Models: Rethinking collective intelligence and institutional knowledge,0,23,2025,0.2198770125711202,-0.23675720506194578
+650,Owning the Intelligence: Global AI Patents Landscape and Europe's Quest for Technological Sovereignty,18,24,2025,-0.022533159321513792,-0.051264882869115395
+651,LIMOncello: Revisited IKFoM on the SGal(3) Manifold for Fast LiDAR-Inertial Odometry,2,10,2025,-0.05429799825092257,0.03041622860863433
+652,Results of the 2024 CommonRoad Motion Planning Competition for Autonomous Vehicles,4,10,2025,-0.011509451963022044,0.07314536465061362
+653,On Network-Aware Semantic Communication and Edge-Cloud Collaborative Intelligence Systems,10,10,2025,-0.08152064189416054,-0.009882898641664828
+654,REALM: A Real-to-Sim Validated Benchmark for Generalization in Robotic Manipulation,12,10,2025,0.1251828531485767,0.01684109048992771
+655,BabyFlow: 3D modeling of realistic and expressive infant faces,6,10,2025,-0.08484763507658442,0.26145717703400645
+656,Augmenting Intelligence: A Hybrid Framework for Scalable and Stable Explanations,18,10,2025,0.027533281393790483,-0.12024002383497531
+657,CARE What Fails: Contrastive Anchored-REflection for Verifiable Multimodal,15,10,2025,0.1339354256292603,0.0019184235292052285
+658,Towards Closed-Loop Embodied Empathy Evolution: Probing LLM-Centric Lifelong Empathic Motion Generation in Unseen Scenarios,4,10,2025,0.07375152104017461,0.07767507952731915
+659,DFORD: Directional Feedback based Online Ordinal Regression Learning,14,10,2025,-0.21067837575120868,-0.09692212245921496
+660,ActAvatar: Temporally-Aware Precise Action Control for Talking Avatars,12,10,2025,0.037087867097672686,0.2409295649226166
+661,Algerian Dialect,3,10,2025,-0.019030752976114326,0.09215007941231915
+662,Active Convolved Illumination with Deep Transfer Learning for Complex Beam Transmission through Atmospheric Turbulence,10,10,2025,-0.2485212911876708,-0.16159302286598567
+663,StoryMem: Multi-shot Long Video Storytelling with Memory,16,10,2025,0.08611259941591343,0.2694290566071238
+664,Event Extraction in Large Language Model,5,10,2025,0.3181596601115766,-0.11878243972627843
+665,CASA: Cross-Attention via Self-Attention for Efficient Vision-Language Fusion,13,10,2025,0.15970162495108065,0.3022537657437336
+666,SlicerOrbitSurgerySim: An Open-Source Platform for Virtual Registration and Quantitative Comparison of Preformed Orbital Plates,14,10,2025,-0.0005782354041888919,0.010095301874895919
+667,Learning Continuous Solvent Effects from Transient Flow Data: A Graph Neural Network Benchmark on Catechol Rearrangement,8,10,2025,-0.18169797515834735,-0.0697502859287367
+668,Multi-Modal Soccer Scene Analysis with Masked Pre-Training,2,10,2025,-0.025714396584386224,0.17330921070259594
+669,Deep Learning for Unrelated-Machines Scheduling: Handling Variable Dimensions,10,10,2025,-0.3381496358670568,-0.14688882593737926
+670,QuantiPhy: A Quantitative Benchmark Evaluating Physical Reasoning Abilities of Vision-Language Models,12,10,2025,0.30187979404897,0.1140323670688477
+671,"Initialization of a Polyharmonic Cascade, Launch and Testing",10,10,2025,-0.2602616694995725,-0.11651595762965312
+672,A Convolutional Neural Deferred Shader for Physics Based Rendering,10,10,2025,-0.1886323811842186,0.0024265662761630996
+673,Near-optimal streaming approximation for Max-DICUT in sublinear space using two passes,14,10,2025,-0.1319618802725704,-0.029853551058061912
+674,LacaDM: A Latent Causal Diffusion Model for Multiobjective Reinforcement Learning,11,10,2025,-0.028057720262926834,0.06739223253795883
+675,Negations are powerful even in small depth,14,10,2025,-0.18772930767400994,-0.14827334074785342
+676,Anatomy-R1: Enhancing Anatomy Reasoning in Multimodal Large Language Models via Anatomical Similarity Curriculum and Group Diversity Augmentation,15,10,2025,0.3502773078389183,-0.04519044282055372
+677,Toward Scalable and Valid Conditional Independence Testing with Spectral Representations,2,10,2025,-0.19337712281800837,-0.014156415070275636
+678,Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models,17,10,2025,0.2958689223831162,-0.1431468135366434
+679,DK-STN: A Domain Knowledge Embedded Spatio-Temporal Network Model for MJO Forecast,10,10,2025,-0.17303244018684957,-0.01966212501101331
+680,FusionNet: Physics-Aware Representation Learning for Multi-Spectral and Thermal Data via Trainable Signal-Processing Priors,3,10,2025,-0.1569355955991766,0.00142255006072312
+681,Fare Zone Assignment,14,10,2025,-0.22867209061961385,-0.15155272723474147
+682,Kolmogorov-Arnold Graph Neural Networks Applied to Inorganic Nanomaterials Dataset,8,10,2025,-0.17774894960894574,-0.05534208216704687
+683,Learning from sanctioned government suppliers: A machine learning and network science approach to detecting fraud and corruption in Mexico,10,10,2025,-0.22027011097461077,-0.1565984408522603
+684,Rethinking Coupled Tensor Analysis for Hyperspectral Super-Resolution: Recoverable Modeling Under Endmember Variability,2,10,2025,-0.08911206502306206,0.11971745191501297
+685,Lightweight Intrusion Detection in IoT via SHAP-Guided Feature Pruning and Knowledge-Distilled Kronecker Networks,9,10,2025,-0.08736748814221602,-0.03602479590805324
+686,Sequential Apportionment from Stationary Divisor Methods,14,10,2025,-0.06295301657103455,0.024097836123627266
+687,Dynamic Stream Network for Combinatorial Explosion Problem in Deformable Medical Image Registration,2,11,2025,-0.13264677505568118,0.09517970716501933
+688,Structured Event Representation and Stock Return Predictability,2,12,2025,0.04236382415747588,-0.04184007301299366
+689,A Dataset and Preliminary Study of Using GPT-5 for Code-change Impact Analysis,17,13,2025,0.22909013431901154,-0.08866586956604558
+690,Emotion-Director: Bridging Affective Shortcut in Emotion-Oriented Image Generation,11,14,2025,0.11466312266422242,0.3425918667408414
+691,A Large-Language-Model Framework for Automated Humanitarian Situation Reporting,5,15,2025,0.415113025361773,-0.11257886109337989
+692,"Multi-Layer Confidence Scoring for Detection of Out-of-Distribution Samples, Adversarial Attacks, and In-Distribution Misclassifications",2,16,2025,-0.05543022716138053,0.030857488798556158
+693,GLUE: Generative Latent Unification of Expertise-Informed Engineering Models,3,17,2025,-0.004843995516382373,0.002609909922689895
+694,Fully Asynchronous Unsourced Random Access over Fading Channels,9,18,2025,-0.15761796917384804,-0.01544820311433894
+695,Epistemological Fault Lines Between Human and Artificial Intelligence,18,19,2025,0.29229891892939036,-0.20819679049453715
+696,Diffusion Models in Simulation-Based Inference: A Tutorial Review,11,20,2025,-0.0016981703433346647,0.08388272915341326
+697,An Agentic Framework for Autonomous Materials Computation,17,21,2025,0.26053071276165346,-0.18481438024388122
+698,Learned Digital Codes for Over-the-Air Computation in Federated Edge Learning,10,22,2025,-0.18242304098208156,-0.0470488908932614
+699,Activations as Features: Probing LLMs for Generalizable Essay Scoring Representations,17,23,2025,0.2860255077353815,-0.1288368311031051
+700,SiamGPT: Quality-First Fine-Tuning for Stable Thai Text Generation,3,24,2025,0.2060524109325085,0.11991782748939933
+701,MaP-AVR: A Meta-Action Planner for Agents Leveraging Vision Language Models and Retrieval-Augmented Generation,0,10,2025,0.1751710174432988,-0.0433033228258582
+702,Sign Language Recognition using Parallel Bidirectional Reservoir Computing,2,10,2025,-0.1621184489486284,-0.007379522881400273
+703,Sensitivity-Aware Mixed-Precision Quantization for ReRAM-based Computing-in-Memory,2,10,2025,-0.17418031617226304,-0.10458884108708934
+704,D2Pruner: Debiased Importance and Structural Diversity for MLLM Token Pruning,2,10,2025,0.057526302020517846,0.13030441245459481
+705,Real-Time Streamable Generative Speech Restoration with Flow Matching,11,10,2025,-0.029901378635315647,0.11408040580375915
+706,Binary Kernel Logistic Regression: a sparsity-inducing formulation and a convergent decomposition training algorithm,3,10,2025,-0.23548370747107522,-0.05470407816073817
+707,An Inverse Scattering Inspired Fourier Neural Operator for Time-Dependent PDE Learning,10,10,2025,-0.18975128675626673,-0.06840722902784535
+708,MT-Mark: Rethinking Image Watermarking via Mutual-Teacher Collaboration with Adaptive Feature Modulation,2,10,2025,-0.12407635054788932,0.1584017445981858
+709,dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models,11,10,2025,0.10736638383160237,0.27705258422721085
+710,"MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive, and MCP-Augmented Environments",0,10,2025,0.12363980829101458,-0.053779150259066676
+711,Attention Is Not What You Need,2,10,2025,0.059153900538176395,0.029674094801319523
+712,A Computationally Efficient Framework for Overlapping Community Detection in Large Bipartite Graphs,9,10,2025,-0.18510220828403448,-0.0067525011471970065
+713,CodeSimpleQA: Scaling Factuality in Code Large Language Models,17,10,2025,0.38007297661323936,-0.13310299162486477
+714,Non-Contrast CT Esophageal Varices Grading through Clinical Prior-Enhanced Multi-Organ Analysis,14,10,2025,-0.0768647339841235,-0.06169182398260936
+715,From Retrieval to Reasoning: A Framework for Cyber Threat Intelligence NER with Explicit and Adaptive Instructions,13,10,2025,0.23222165593501762,-0.02546863324230219
+716,Research Program: Theory of Learning in Dynamical Systems,14,10,2025,-0.16588369992067484,-0.14669989207016024
+717,Symplectic Reservoir Representation of Legendre Dynamics,2,10,2025,-0.19478334208691478,-0.07599069645415273
+718,Mixed formulation and structure-preserving discretization of Cosserat rod dynamics in a port-Hamiltonian framework,14,10,2025,-0.16732266491884445,-0.045099187923787476
+719,Three Tiers and Thresholds: Incentives in Private Market Investing,0,10,2025,-0.07971185829992372,-0.1956264908680149
+720,Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface,6,10,2025,-0.03767089059546425,0.24052568908077587
+721,Undecidability of theories of semirings with fixed points,14,10,2025,-0.12964634167024588,-0.027641755095081273
+722,Kunnafonidilaw ka Cadeau: an ASR dataset of present-day Bambara,17,10,2025,0.09078349009185428,-0.04346293176642893
+723,Brain-Grounded Axes for Reading and Steering LLM States,5,10,2025,0.24735765027745632,-0.09348161452015429
+724,EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration,0,10,2025,0.15398516090885203,-0.13837186545101196
+725,TwinAligner: Visual-Dynamic Alignment Empowers Physics-aware Real2Sim2Real for Robotic Manipulation,12,10,2025,-0.004414612431904215,0.09826536335546013
+726,Fair Team Contracts,14,10,2025,-0.15214654307529127,-0.19480267781085936
+727,DSTED: Decoupling Temporal Stabilization and Discriminative Enhancement for Surgical Workflow Recognition,2,10,2025,-0.1049013367711435,0.0980279572157026
+728,Real-Time Machine Learning for Embedded Anomaly Detection,9,10,2025,-0.16782957525068756,-0.07335317523348998
+729,OmniMER: Indonesian Multimodal Emotion Recognition via Auxiliary-Enhanced LLM Adaptation,13,10,2025,0.11638745059548122,0.21591022011738292
+730,HATS: High-Accuracy Triple-Set Watermarking for Large Language Models,9,10,2025,0.08415440696527139,0.08047139181975896
+731,A Critical Assessment of Pattern Comparisons Between POD and Autoencoders in Intraventricular Flows,2,10,2025,-0.15752444631775692,-0.003020715858720853
+732,DeepGESI: A Non-Intrusive Objective Evaluation Model for Predicting Speech Intelligibility in Hearing-Impaired Listeners,14,10,2025,-0.14318662413900596,-0.07545702786749554
+733,Cluster-Based Generalized Additive Models Informed by Random Fourier Features,2,10,2025,-0.21433150418191924,-0.08676211789026002
+734,Sprecher Networks: A Parameter-Efficient Kolmogorov-Arnold Architecture,10,10,2025,-0.16744818360901065,-0.08453312298722142
+735,Learning General Policies with Policy Gradient Methods,1,10,2025,-0.25707283096661493,-0.1642428884496256
+736,Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization,2,10,2025,-0.16760073354433538,0.022487226950824224
+737,From Points to Coalitions: Hierarchical Contrastive Shapley Values for Prioritizing Data Samples,3,11,2025,-0.03150796663636879,0.030459211830450448
+738,Interpretable Hybrid Deep Q-Learning Framework for IoT-Based Food Spoilage Prediction with Synthetic Data Generation and Hardware Validation,10,12,2025,-0.20387650315736378,-0.17807606237089568
+739,Generative vector search to improve pathology foundation models across multimodal vision-language tasks,13,13,2025,0.23443383572587428,0.07278735114765664
+740,First-Order Representation Languages for Goal-Conditioned RL,1,14,2025,-0.1530713134263096,-0.15641267556306374
+741,ReasonCD: A Multimodal Reasoning Large Model for Implicit Change-of-Interest Semantic Mining,15,15,2025,0.2911142720865354,-0.05106266680366811
+742,PENDULUM: A Benchmark for Assessing Sycophancy in Multimodal Large Language Models,13,16,2025,0.3102065738222577,0.20126607065384303
+743,VIGOR+: Iterative Confounder Generation and Validation via LLM-CEVAE Feedback Loop,5,17,2025,0.2529010528732236,-0.06340317984532225
+744,OMP: One-step Meanflow Policy with Directional Alignment,1,18,2025,-0.031185358817571174,0.015025832109834297
+745,Faster Distributed Inference-Only Recommender Systems via Bounded Lag Synchronous Collectives,14,19,2025,-0.0693593510565214,-0.09454404885846396
+746,Enhancing PLS of Indoor IRS-VLC Systems for Colluding and Non-Colluding Eavesdroppers,14,20,2025,-0.2507503234763767,-0.19793541550937724
+747,GANeXt: A Fully ConvNeXt-Enhanced Generative Adversarial Network for MRI- and CBCT-to-CT Synthesis,3,21,2025,-0.11022632930460982,0.12507040930901261
+748,Orthogonal Approximate Message Passing with Optimal Spectral Initializations for Rectangular Spiked Matrix Models,14,22,2025,-0.15912557359907478,-0.08477132164902473
+749,A Logical View of GNN-Style Computation and the Role of Activation Functions,14,23,2025,-0.18550199687772595,-0.13484853517876355
+750,DeltaMIL: Gated Memory Integration for Efficient and Discriminative Whole Slide Image Analysis,2,24,2025,-0.06692553937955589,0.06744485238701553
+751,Stochastic assignment games for Mobility-as-a-Service markets,14,10,2025,-0.09240484698415678,-0.11964036296681121
+752,Extended OpenTT Games Dataset: A table tennis dataset for fine-grained shot type and point outcome,16,10,2025,0.0730565492616046,0.1873202227704882
+753,Simulations between Strongly Sublinear MPC and Node-Capacitated Clique,8,10,2025,-0.05494392344820724,-0.09732893620470107
+754,Alternative positional encoding functions for neural transformers,10,10,2025,-0.22893766869352378,-0.13018615490820928
+755,Learning-Assisted Multi-Operator Variable Neighborhood Search for Urban Cable Routing,14,10,2025,-0.10522062745022559,-0.12001865609739697
+756,MAGIC: Achieving Superior Model Merging via Magnitude Calibration,2,10,2025,0.04911392986346312,0.08500151947649037
+757,SafeMed-R1: Adversarial Reinforcement Learning for Generalizable and Robust Medical Reasoning in Vision-Language Models,15,10,2025,0.2777927812038948,-0.06013438926355691
+758,Neural Implicit Heart Coordinates: 3D cardiac shape reconstruction from sparse segmentations,6,10,2025,-0.1529394609029875,0.12911044535947108
+759,Protecting Quantum Circuits Through Compiler-Resistant Obfuscation,7,10,2025,-0.15843458845673725,-0.07389297698675633
+760,Results on cubic bent and weakly regular bent $p$-ary functions leading to a class of cubic ternary non-weakly regular bent functions,14,10,2025,-0.163805240449009,-0.11684299809602021
+761,MixFlow Training: Alleviating Exposure Bias with Slowed Interpolation Mixture,3,10,2025,-0.06330846993203004,0.1540101815832583
+762,Time-Vertex Machine Learning for Optimal Sensor Placement in Temporal Graph Signals: Applications in Structural Health Monitoring,8,10,2025,-0.22060294310111078,-0.08443764679997716
+763,On the construction of Cauchy MDS matrices over Galois rings via nilpotent elements and Frobenius maps,14,10,2025,-0.15876752062781516,-0.09373654720216519
+764,CienaLLM: Generative Climate-Impact Extraction from News Articles with Autoregressive LLMs,5,10,2025,0.19942125639427521,-0.08342970039843126
+765,Binary Neural Network Implementation for Handwritten Digit Recognition on FPGA,10,10,2025,-0.16901069913316055,-0.06302655708411621
+766,Bridging Semantics and Geometry: A Decoupled LVLM-SAM Framework for Reasoning Segmentation in Remote Sensing,15,10,2025,0.32406168800162577,-0.028920068973852922
+767,RMLer: Synthesizing Novel Objects across Diverse Categories via Reinforcement Mixing Learning,1,10,2025,-0.04392681562887829,0.15040713401938954
+768,Helios: A Foundational Language Model for Smart Energy Knowledge Reasoning and Application,17,10,2025,0.3061776450045053,-0.1069295715271381
+769,Causal-Guided Detoxify Backdoor Attack of Open-Weight LoRA Models,3,10,2025,0.10370422861870061,0.0842800970098004
+770,LOCO: A Low-Cost SNU-Self-Resilient Latch Using an Output-Split C-Element,14,10,2025,-0.09591961716646319,0.025875391924579702
+771,Comparison and Evaluation of Different Simulation Environments for Rigid Body Systems,14,10,2025,-0.12231357181207056,-0.10230897157920203
+772,Vibe Reasoning: Eliciting Frontier AI Mathematical Capabilities -- A Case Study on IMO 2025 Problem 6,18,10,2025,0.27148895360882686,-0.26566294631059006
+773,GShield: Mitigating Poisoning Attacks in Federated Learning,3,10,2025,-0.18383952216565436,0.024673110411613453
+774,Hand-Aware Egocentric Motion Reconstruction with Sequence-Level Context,4,10,2025,0.017342335058625872,0.20023913189649162
+775,Digital Twin-Driven Zero-Shot Fault Diagnosis of Axial Piston Pumps Using Fluid-Borne Noise Signals,3,10,2025,-0.16544842362397766,-0.08801096167042877
+776,Laplacian Network Optimization via Information Functions,10,10,2025,-0.2649070604997326,-0.169394697554807
+777,Is Visual Realism Enough? Evaluating Gait Biometric Fidelity in Generative AI Human Animation,4,10,2025,0.12907059032160417,0.15346556312175302
+778,Sonified Quantum Seizures. Sonification of time series in epileptic seizures and simulation of seizures via quantum modelling,7,10,2025,-0.17509237384239273,-0.09744721358087521
+779,"3SGen: Unified Subject, Style, and Structure-Driven Image Generation with Adaptive Task-specific Memory",2,10,2025,0.07125635735737648,0.2614575375240019
+780,Are All Data Necessary? Efficient Data Pruning for Large-scale Autonomous Driving Dataset via Trajectory Entropy Maximization,3,10,2025,-0.1367735296469326,-0.03553713616904603
+781,Translating Flow to Policy via Hindsight Online Imitation,1,10,2025,-0.06560316030361987,0.02235901088657689
+782,Machine Unlearning in the Era of Quantum Machine Learning: An Empirical Study,7,10,2025,-0.1814171984565075,-0.13737582379738497
+783,Small Language Models as Compiler Experts: Auto-Parallelization for Heterogeneous Systems,15,10,2025,0.18195313627590437,-0.18864051630948434
+784,Auto-Prompting with Retrieval Guidance for Frame Detection in Logistics,15,10,2025,0.3512702359026424,-0.11467998258483869
+785,From Black-Box Tuning to Guided Optimization via Hyperparameters Interaction Analysis,14,10,2025,-0.05356094474303144,-0.08331439541321743
+786,Vision-Aided Relative State Estimation for Approach and Landing on a Moving Platform with Inertial Measurements,4,10,2025,-0.1490818495899112,0.15297053773675498
+787,VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis,12,11,2025,0.17836655829684206,0.2161563977478502
+788,ChemATP: A Training-Free Chemical Reasoning Framework for Large Language Models,15,12,2025,0.41905489746956714,-0.1416621671719134
+789,Identifying Features Associated with Bias Against 93 Stigmatized Groups in Language Models and Guardrail Model Safety Mitigation,5,13,2025,0.2642392854625796,-0.20784110101585904
+790,A Reverse Reachable Set Based Approach for Motif Oriented Profit maximization in Social Networks,14,14,2025,-0.19037771494042996,-0.043660947631891364
+791,Fast and Exact Least Absolute Deviations Line Fitting via Piecewise Affine Lower-Bounding,14,15,2025,-0.16873744227926205,-0.04381559363228019
+792,DeliveryBench: Can Agents Earn Profit in Real World?,0,16,2025,0.11253340426259932,-0.042127632216452215
+793,Regression generation adversarial network based on dual data evaluation strategy for industrial application,3,17,2025,-0.11823623501606055,0.003872612486898316
+794,Generation of Programmatic Rules for Document Forgery Detection Using Large Language Models,17,18,2025,0.30459170786567313,-0.10453692748809314
+795,Selective Phase-Aware Training of nnU-Net for Robust Breast Cancer Segmentation in Multi-Center DCE-MRI,3,19,2025,-0.047634832283377296,0.15853027852541485
+796,Phase-space entropy at acquisition reflects downstream learnability,3,20,2025,-0.11215993270364596,0.03494373507813336
+797,From Pixels to Predicates Structuring urban perception with scene graphs,8,21,2025,-0.08824583645330601,0.04448388266408534
+798,Towards Minimal Fine-Tuning of VLMs,13,22,2025,0.15618783337412223,0.31906668764671625
+799,Semantically-Equivalent Transformations-Based Backdoor Attacks against Neural Code Models: Characterization and Mitigation,17,23,2025,0.006347790698034823,-0.008464859017045393
+800,HippMetric: A skeletal-representation-based framework for cross-sectional and longitudinal hippocampal substructural morphometry,2,24,2025,-0.05116556336166147,0.044052449162221605
+801,InvCoSS: Inversion-driven Continual Self-supervised Learning in Medical Multi-modal Image Pre-training,3,10,2025,-0.08641700971703288,0.15387647941248397
+802,"Observer, Not Player: Simulating Theory of Mind in LLMs through Game Observation",15,10,2025,0.3783490472892981,-0.1955094213371304
+803,MixKVQ: Query-Aware Mixed-Precision KV Cache Quantization for Long-Context Reasoning,15,10,2025,0.20616620477331474,-0.06980825791348097
+804,Evaluating MCC for Low-Frequency Cyberattack Detection in Imbalanced Intrusion Detection Data,9,10,2025,-0.10650062960229321,-0.03347716938359222
+805,On the Koopman-Based Generalization Bounds for Multi-Task Deep Learning,10,10,2025,-0.23110785068509795,-0.07349829911233043
+806,Self-Consistent Probability Flow for High-Dimensional Fokker-Planck Equations,11,10,2025,-0.20540697903842522,0.021500344322971075
+807,"A K-Means, Ward and DBSCAN repeatability study",14,10,2025,-0.15763999529307288,-0.13356753490781512
+808,Causal Heterogeneous Graph Learning Method for Chronic Obstructive Pulmonary Disease Prediction,8,10,2025,-0.16672148287551602,-0.0959174632285137
+809,PEDESTRIAN: An Egocentric Vision Dataset for Obstacle Detection on Pavements,9,10,2025,-0.09483279035945724,-0.0031677308594573357
+810,Configuration Work: Four Consequences of LLMs-in-use,17,10,2025,0.15448647042212468,-0.18289759424532234
+811,Operator-Based Generalization Bound for Deep Learning: Insights on Multi-Task Learning,10,10,2025,-0.24793228567929562,-0.10597054882942926
+812,Practical Quantum-Classical Feature Fusion for complex data Classification,7,10,2025,-0.17406036127019298,-0.04551265944077521
+813,L4: Low-Latency and Load-Balanced LLM Serving via Length-Aware Scheduling,5,10,2025,0.14991880175123815,-0.07447932917757681
+814,Vision-Language-Policy Model for Dynamic Robot Task Planning,12,10,2025,0.17025318161189104,8.607003854609711e-05
+815,Semantic Communication for Rate-Limited Closed-Loop Distributed Communication-Sensing-Control Systems,10,10,2025,-0.10132012396199913,-0.0017168724010317164
+816,CycleChart: A Unified Consistency-Based Learning Framework for Bidirectional Chart Understanding and Generation,3,10,2025,0.08318594185733176,0.12636375438703995
+817,Finite-sample guarantees for data-driven forward-backward operator methods,3,10,2025,-0.1873101495894885,-0.0952200738865878
+818,JEPA-Reasoner: Decoupling Latent Reasoning from Token Generation,15,10,2025,0.2636679870172752,0.019121006371998286
+819,Towards a collaborative digital platform for railway infrastructure projects,14,10,2025,-0.05855203022083725,-0.09957064772691744
+820,From Speech to Subtitles: Evaluating ASR Models in Subtitling Italian Television Programs,3,10,2025,0.008429344179079465,-0.03486311653499526
+821,OmniMoGen: Unifying Human Motion Generation via Learning from Interleaved Text-Motion Instructions,4,10,2025,0.10547810431341634,0.22458273100951925
+822,Classical billiards can compute,4,10,2025,0.02398737624847525,-0.0403682069171683
+823,"Can We Test Consciousness Theories on AI? Ablations, Markers, and Robustness",0,10,2025,-0.01914372613418201,-0.08840221362596362
+824,Beyond Sliding Windows: Learning to Manage Memory in Non-Markovian Environments,0,10,2025,-0.09524102894099247,-0.13973604218285968
+825,University Rents Enabling Corporate Innovation: Mapping Academic Researcher Coding and Discursive Labour in the R Language Ecosystem,14,10,2025,-0.031315951601393936,-0.14225504589270985
+826,AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction,2,10,2025,0.031620663096103105,0.050674602169755265
+827,A Flexible Field-Based Policy Learning Framework for Diverse Robotic Systems and Sensors,1,10,2025,-0.09025486736339236,0.06329636640000372
+828,RP-CATE: Recurrent Perceptron-based Channel Attention Transformer Encoder for Industrial Hybrid Modeling,2,10,2025,-0.14276180868158012,0.04351607755443731
+829,A Convex Loss Function for Set Prediction with Optimal Trade-offs Between Size and Conditional Coverage,14,10,2025,-0.18986253412080722,-0.10379858717744396
+830,Understanding Chain-of-Thought in Large Language Models via Topological Data Analysis,15,10,2025,0.393524725474736,-0.16074104380329407
+831,QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation,17,10,2025,0.21247362006891024,0.09988959143408331
+832,WorldRFT: Latent World Model Planning with Reinforcement Fine-Tuning for Autonomous Driving,1,10,2025,-0.03532620972079639,-0.01692768347168768
+833,Evidential Trust-Aware Model Personalization in Decentralized Federated Learning for Wearable IoT,3,10,2025,-0.0953096164914841,-0.06687405389750292
+834,D$^{2}$Stream: Decoupled Dual-Stream Temporal-Speaker Interaction for Audio-Visual Speaker Detection,12,10,2025,-0.009294923469114064,0.2307039296863413
+835,AWPO: Enhancing Tool-Use of Large Language Models through Explicit Integration of Reasoning Rewards,15,10,2025,0.32063578197442716,-0.1562095814490699
+836,SAP: Syntactic Attention Pruning for Transformer-based Language Models,2,10,2025,0.0008736033792231607,0.05594248652196889
+837,ShadowBlock: Efficient Dynamic Anonymous Blocklisting and Its Cross-chain Application,14,11,2025,-0.0938497237981656,0.04228532304987128
+838,A Composable Channel-Adaptive Architecture for Seizure Classification,2,12,2025,-0.016420340574987344,0.05041118918803706
+839,BanglaForge: LLM Collaboration with Self-Refinement for Bangla Code Generation,17,13,2025,0.23572440567550695,0.03759005547330394
+840,Stop saying LLM: Large Discourse Models (LDM) and Artificial Discursive Agent (ADA)?,5,14,2025,0.2544821875852166,-0.21406395717018994
+841,"Generative Giants, Retrieval Weaklings: Why do Multimodal Large Language Models Fail at Multimodal Retrieval?",13,15,2025,0.1675409543031082,0.13277052027171404
+842,HyperLoad: A Cross-Modality Enhanced Large Language Model-Based Framework for Green Data Center Cooling Load Prediction,3,16,2025,0.026730546136574794,0.040408367555817816
+843,A Unified Framework and Comparative Study of Decentralized Finance Derivatives Protocols,14,17,2025,-0.12149029644798706,-0.05243261125756428
+844,Trifocal Tensor and Relative Pose Estimation with Known Vertical Direction,14,18,2025,-0.1761812958088208,0.03716716048664544
+845,GaussianImage++: Boosted Image Representation and Compression with 2D Gaussian Splatting,2,19,2025,-0.13231098229753369,0.16089160574877095
+846,FC-MIR: A Mobile Screen Awareness Framework for Intent-Aware Recommendation based on Frame-Compressed Multimodal Trajectory Reasoning,0,20,2025,0.1914251964475237,0.043828283008138014
+847,Explicit and Non-asymptotic Query Complexities of Rank-Based Zeroth-order Algorithm on Stochastic Smooth Functions,14,21,2025,-0.20584159313031833,-0.22436359247493526
+848,Timely Parameter Updating in Over-the-Air Federated Learning,10,22,2025,-0.1926747391764663,-0.08289596975992895
+849,Dual Model Deep Learning for Alzheimer Prognostication,10,23,2025,-0.18536948398790684,-0.11833694139623946
+850,DIVER-1 : Deep Integration of Vast Electrophysiological Recordings at Scale,3,24,2025,0.06309495071551537,0.04665957630715823
+851,Conditioning Accept-Desirability models in the context of AGM-like belief change,2,10,2025,0.009347696372684624,-0.02464348696525665
+852,Mamba-Based Modality Disentanglement Network for Multi-Contrast MRI Reconstruction,2,10,2025,-0.11193148269476275,0.06563147597254089
+853,Low-Latency and Low-Complexity MLSE for Short-Reach Optical Interconnects,14,10,2025,-0.12090519850620249,-0.01105254858338187
+854,Tool-Augmented Hybrid Ensemble Reasoning with Distillation for Bilingual Mathematical Problem Solving,15,10,2025,0.3062104910193323,-0.2386908177730026
+855,A Large Language Model Based Method for Complex Logical Reasoning over Knowledge Graphs,15,10,2025,0.41005765475733813,-0.19543640610240653
+856,"Auditing Significance, Metric Choice, and Demographic Fairness in Medical AI Challenges",18,10,2025,0.08020579866455863,-0.029774626291314638
+857,JoyVoice: Long-Context Conditioning for Anthropomorphic Multi-Speaker Conversational Synthesis,11,10,2025,0.09873170306606986,0.17273526526877073
+858,Retrieving Objects from 3D Scenes with Box-Guided Open-Vocabulary Instance Segmentation,6,10,2025,-0.051765172702783954,0.261002330827201
+859,"$γ(3,4)$ `Attention' in Cognitive Agents: Ontology-Free Knowledge Representations With Promise Theoretic Semantics",8,10,2025,-0.04234272621958079,-0.08272934335710956
+860,CoDrone: Autonomous Drone Navigation Assisted by Edge and Cloud Foundation Models,10,10,2025,-0.03838197845126812,-0.06662793255045373
+861,BEVCooper: Accurate and Communication-Efficient Bird's-Eye-View Perception in Vehicular Networks,2,10,2025,-0.2087313531457925,0.03513319205387558
+862,Population-Evolve: a Parallel Sampling and Evolutionary Method for LLM Math Reasoning,15,10,2025,0.34352317381281594,-0.23108453296062711
+863,On Factoring and Power Divisor Problems via Rank-3 Lattices and the Second Vector,14,10,2025,-0.19058680984061946,-0.0958385575246425
+864,Optimal 3D Directional WPT Charging via UAV for 3D Wireless Rechargeable Sensor Networks,6,10,2025,-0.16432200890628293,0.188005743131744
+865,Watch Closely: Mitigating Object Hallucinations in Large Vision-Language Models with Disentangled Decoding,12,10,2025,0.28205868744294166,0.29951829196373025
+866,Can abstract concepts from LLM improve SLM performance?,5,10,2025,0.26182234330139736,-0.0537198924717935
+867,On Cost-Aware Sequential Hypothesis Testing with Random Costs and Action Cancellation,14,10,2025,-0.04187657896521278,-0.030285814202271562
+868,Fraud Detection Through Large-Scale Graph Clustering with Heterogeneous Link Transformation,8,10,2025,-0.1602168285512995,-0.02370162212916469
+869,On the complexity of computing Strahler numbers,14,10,2025,-0.12897616103670384,-0.08491992615660854
+870,6DAttack: Backdoor Attacks in the 6DoF Pose Estimation,6,10,2025,-0.08654668925796917,0.14985526019261033
+871,Efficient Personalization of Generative Models via Optimal Experimental Design,14,10,2025,-0.09875971083727846,0.022036214800804792
+872,WaTeRFlow: Watermark Temporal Robustness via Flow Consistency,16,10,2025,-0.012114173455682798,0.4023825953534729
+873,Decoupled Generative Modeling for Human-Object Interaction Synthesis,4,10,2025,-0.008751176997307361,0.15427859374148925
+874,Advancing Accessibility: Augmented Reality Solutions for the Blind and Disabled in Bangladesh,2,10,2025,-0.06941346623440124,0.07272423375478451
+875,EGM: Efficiently Learning General Motion Tracking Policy for High Dynamic Humanoid Whole-Body Control,4,10,2025,-0.13158478832746776,0.06054601884989897
+876,Time-series Forecast for Indoor Zone Air Temperature with Long Horizons: A Case Study with Sensor-based Data from a Smart Building,14,10,2025,-0.18027936889782137,-0.04342491808803441
+877,Elevating Intrusion Detection and Security Fortification in Intelligent Networks through Cutting-Edge Machine Learning Paradigms,9,10,2025,-0.24324084729160209,-0.07460573566142646
+878,Distinguishing Visually Similar Actions: Prompt-Guided Semantic Prototype Modulation for Few-Shot Action Recognition,12,10,2025,0.06862850085137238,0.2554985983903237
+879,Automatic Neuronal Activity Segmentation in Fast Four Dimensional Spatio-Temporal Fluorescence Imaging using Bayesian Approach,9,10,2025,-0.17722592698894968,0.0008285445788786073
+880,A Surrogate-Augmented Symbolic CFD-Driven Training Framework for Accelerating Multi-objective Physical Model Development,3,10,2025,-0.06779605691683555,-0.021608319581125565
+881,A Declarative Language for Building And Orchestrating LLM-Powered Agent Workflows,0,10,2025,0.1502216552825107,-0.18616504968820716
+882,Recontextualization Mitigates Specification Gaming without Modifying the Specification,3,10,2025,0.1806941575854865,-0.03352759515710198
+883,Finer-Personalization Rank: Fine-Grained Retrieval Examines Identity Preservation for Personalized Generation,13,10,2025,0.1773202071643902,0.24358908011332409
+884,The Erasure Illusion: Stress-Testing the Generalization of LLM Forgetting Evaluation,5,10,2025,0.2650098827387086,-0.13834731329083844
+885,IndoorUAV: Benchmarking Vision-Language UAV Navigation in Continuous Indoor Environments,12,10,2025,0.19349906305287665,0.08784691223371481
+886,Steering Vision-Language Pre-trained Models for Incremental Face Presentation Attack Detection,9,10,2025,0.1010552108496376,0.028985760331569365
+887,"VLNVerse: A Benchmark for Vision-Language Navigation with Versatile, Embodied, Realistic Simulation and Evaluation",0,11,2025,0.17302236859773623,-0.041604148669615634
+888,CETCAM: Camera-Controllable Video Generation via Consistent and Extensible Tokenization,16,12,2025,0.06694108310396285,0.3928933311516179
+889,Optimizer Dynamics at the Edge of Stability with Differential Privacy,10,13,2025,-0.22539410178018102,-0.07605730196328367
+890,PEAK: A Performance Engineering AI-Assistant for GPU Kernels Powered by Natural Language Transformations,17,14,2025,0.3186585028203768,-0.20318850159382304
+891,DREAM: Dynamic Red-teaming across Environments for AI Models,0,15,2025,0.18870893063044422,-0.17697425242958484
+892,DramaBench: A Six-Dimensional Evaluation Framework for Drama Script Continuation,5,16,2025,0.19628407781142088,-0.06051325861931291
+893,Efficient Jailbreak Mitigation Using Semantic Linear Classification in a Multi-Staged Pipeline,5,17,2025,-0.0032968371729381234,-0.03239098886906971
+894,PalpAid: Multimodal Pneumatic Tactile Sensor for Tissue Palpation,13,18,2025,-0.016013815913802243,0.11841147716488404
+895,The 6th International Verification of Neural Networks Competition (VNN-COMP 2025): Summary and Results,10,19,2025,-0.2141923805530137,-0.11297846182153226
+896,Quantum-Resistant Cryptographic Models for Next-Gen Cybersecurity,7,20,2025,-0.13800074341744717,-0.10794935271114246
+897,Context-Aware Initialization for Reducing Generative Path Length in Diffusion Language Models,11,21,2025,0.06932089450134385,0.16919513596895477
+898,The stability of log-supermodularity under convolution,14,22,2025,-0.09681855792237593,-0.05505555198879173
+899,A Quantitative Entropy Power Inequality for Dependent Random Vectors,10,23,2025,-0.13510241240688106,-0.0919149173216385
+900,ORPR: An OR-Guided Pretrain-then-Reinforce Learning Model for Inventory Management,18,24,2025,-0.008560587581416045,-0.1188032428085131
+901,Evaluating the Challenges of LLMs in Real-world Medical Follow-up: A Comparative Study and An Optimized Framework,17,10,2025,0.09398856860225122,-0.10402346242953803
+902,Modular Layout Synthesis (MLS): Front-end Code via Structure Normalization and Constrained Generation,17,10,2025,0.187665056353463,0.08370232836545191
+903,Towards AI-Guided Open-World Ecological Taxonomic Classification,18,10,2025,0.005663607169103289,-0.005953994417306178
+904,ICP-4D: Bridging Iterative Closest Point and LiDAR Panoptic Segmentation,10,10,2025,-0.06549718372463588,0.018703626450726714
+905,Considering the Difference in Utility Functions of Team Players in Adversarial Team Games,14,10,2025,-0.13838451674892202,-0.10880594972153898
+906,DTCCL: Disengagement-Triggered Contrastive Continual Learning for Autonomous Bus Planners,1,10,2025,-0.1192476058771578,-0.13747206541628146
+907,Affordance RAG: Hierarchical Multimodal Retrieval with Affordance-Aware Embodied Memory for Mobile Manipulation,13,10,2025,0.07304956933033996,0.106873479597919
+908,R-GenIMA: Integrating Neuroimaging and Genetics with Interpretable Multimodal AI for Alzheimer's Disease Progression,13,10,2025,0.10032941442393194,0.1102946803458373
+909,OPBO: Order-Preserving Bayesian Optimization,14,10,2025,-0.1520021060447191,-0.033673193345330164
+910,Research on Novelty Measurement Indicator of Academic Papers Based on the Atypical Recombination of Knowledge,14,10,2025,-0.02016684291454901,-0.10087507227369741
+911,Outlier detection in mixed-attribute data: a semi-supervised approach with fuzzy approximations and relative entropy,9,10,2025,-0.147129763055924,-0.01685847474578429
+912,Consistency-guided semi-supervised outlier detection in heterogeneous data using fuzzy rough sets,9,10,2025,-0.19222918037745065,-0.01728265440803173
+913,Evolutionary Cooperation with Game Transitions via Markov Decision Chain in Networked Population,14,10,2025,-0.11131671067309262,-0.05649064342378015
+914,On Conditional Stochastic Interpolation for Generative Nonlinear Sufficient Dimension Reduction,2,10,2025,-0.008513648779938016,0.019842735229846677
+915,Self-Attention with State-Object Weighted Combination for Compositional Zero Shot Learning,3,10,2025,-0.0876467456095618,0.13159641728962274
+916,Total Curvature Regularization and its_Minimization for Surface and Image Smoothing,14,10,2025,-0.08515762212198225,0.11479003388595267
+917,Scrum Sprint Planning: LLM-based and algorithmic solutions,5,10,2025,0.2177299735559606,-0.15999077339854356
+918,Lag Operator SSMs: A Geometric Framework for Structured State Space Modeling,14,10,2025,-0.11854942838442069,-0.005451089413969127
+919,DVI: Disentangling Semantic and Visual Identity for Training-Free Personalized Generation,12,10,2025,0.08945400657834154,0.3463760485989527
+920,Scaling Online Distributionally Robust Reinforcement Learning: Sample-Efficient Guarantees with General Function Approximation,1,10,2025,-0.09372776582817752,-0.11774478627997838
+921,Training Multimodal Large Reasoning Models Needs Better Thoughts: A Three-Stage Framework for Long Chain-of-Thought Synthesis and Selection,15,10,2025,0.3225212311785483,0.007798564680394219
+922,VOIC: Visible-Occluded Decoupling for Monocular 3D Semantic Scene Completion,6,10,2025,0.0512060564867033,0.32250982716409743
+923,Symmetrization of 3D Generative Models,6,10,2025,0.01628424763290053,0.20930921261414107
+924,Learning Through Little Eyes: Attribute Discrimination Beyond Objects,12,10,2025,-0.011340200507007922,0.1264129689279786
+925,Learning Hierarchical Procedural Memory for LLM Agents through Bayesian Selection and Contrastive Refinement,5,10,2025,0.1674965421638989,-0.173680432264623
+926,Clustering-based Transfer Learning for Dynamic Multimodal MultiObjective Evolutionary Algorithm,13,10,2025,-0.08656097570064158,-0.001334160482977932
+927,FASTRIC: Prompt Specification Language for Verifiable LLM Interactions,5,10,2025,0.2862660134231483,-0.14674900863502818
+928,A Framework for Deploying Learning-based Quadruped Loco-Manipulation,1,10,2025,-0.07526447076449246,-0.04371739207485169
+929,When Less is More: 8-bit Quantization Improves Continual Learning in Large Language Models,17,10,2025,0.14019606261991424,-0.09565489124555558
+930,Point What You Mean: Visually Grounded Instruction Policy,12,10,2025,0.12474191715282824,0.15723714020151183
+931,DPSR: Differentially Private Sparse Reconstruction via Multi-Stage Denoising for Recommender Systems,3,10,2025,-0.11348309599012274,0.04404028146401267
+932,LouvreSAE: Sparse Autoencoders for Interpretable and Controllable Style Transfer,3,10,2025,0.0036524427662133646,0.14984769790207658
+933,The Ensemble Schr{ö}dinger Bridge filter for Nonlinear Data Assimilation,14,10,2025,-0.19356346272258435,-0.0037484916231512884
+934,An Empirical Study of Developer-Provided Context for AI Coding Assistants in Open-Source Projects,18,10,2025,0.16451884851176338,-0.09805823682956007
+935,Optimizing Robotic Placement via Grasp-Dependent Feasibility Prediction,1,10,2025,-0.1292371372806147,-0.04487855963481327
+936,Merging of Kolmogorov-Arnold networks trained on disjoint datasets,3,10,2025,-0.18605630468529363,-0.050254231209353004
+937,Narrative Scaffolding: Transforming Data-Driven Sensemaking Through Narrative-First Exploration,15,11,2025,0.2428372971121724,-0.11107371700858225
+938,Needles in a haystack: using forensic network science to uncover insider trading,3,12,2025,-0.21688242446175177,-0.08143397077025566
+939,QoS-Aware Load Balancing in the Computing Continuum via Multi-Player Bandits,2,13,2025,-0.12452708677479073,-0.0641779290987669
+940,Delta-LLaVA: Base-then-Specialize Alignment for Token-Efficient Vision-Language Models,12,14,2025,0.19243140966823163,0.15301376756966908
+941,Multimodal Bayesian Network for Robust Assessment of Casualties in Autonomous Triage,3,15,2025,0.005291548574411724,-0.05851247844015017
+942,Remedy-R: Generative Reasoning for Machine Translation Evaluation without Error Annotations,15,16,2025,0.3161154715747915,-0.1621273135914145
+943,Speaker Recognition -- Wavelet Packet Based Multiresolution Feature Extraction Approach,2,17,2025,-0.09892743444124276,0.0269699741354041
+944,Gabliteration: Adaptive Multi-Directional Neural Weight Modification for Selective Behavioral Alteration in Large Language Models,2,18,2025,-0.03811895040058299,0.023281180364244765
+945,Thinking Beyond Labels: Vocabulary-Free Fine-Grained Recognition using Reasoning-Augmented LMMs,15,19,2025,0.3428656060942079,0.043574052445166114
+946,A Real-Time Digital Twin for Adaptive Scheduling,14,20,2025,-0.11803817942070143,-0.024808348467700053
+947,Structural Reinforcement Learning for Heterogeneous Agent Macroeconomics,0,21,2025,-0.04493505320987128,-0.15680792162562399
+948,Household Plastic Recycling: Empirical Insights and Design Explorations,14,22,2025,-0.06132882985568479,-0.06364570744883456
+949,Localising Shortcut Learning in Pixel Space via Ordinal Scoring Correlations for Attribution Representations (OSCAR),2,23,2025,-0.10964612865795466,0.08820940077684704
+950,"Signal, Noise, and Burnout: A Human-Information Interaction Analysis of Voter Verification in a High-Volatility Environment",2,24,2025,-0.05525279757534327,-0.003596584419727146
+951,EuroHPC SPACE CoE: Redesigning Scalable Parallel Astrophysical Codes for Exascale,3,10,2025,-0.089124278564821,-0.06155853750678305
+952,Can LLMs Estimate Student Struggles? Human-AI Difficulty Alignment with Proficiency Simulation for Item Difficulty Prediction,18,10,2025,0.2520470360183942,-0.17615064166280447
+953,CrashChat: A Multimodal Large Language Model for Multitask Traffic Crash Video Analysis,16,10,2025,0.1450172750146839,0.16752043316825607
+954,"Psychometric Validation of the Sophotechnic Mediation Scale and a New Understanding of the Development of GenAI Mastery: Lessons from 3,932 Adult Brazilian Workers",11,10,2025,-0.07798108105948301,0.0008641570193302251
+955,Construction and deformation of P-hedra using control polylines,14,10,2025,-0.13379480369597496,-0.02075692749158168
+956,Application of deep learning approaches for medieval historical documents transcription,3,10,2025,-0.12119175195997407,-0.006848766799113363
+957,Cross-modal Counterfactual Explanations: Uncovering Decision Factors and Dataset Biases in Subjective Classification,13,10,2025,0.0055535252067141425,0.23036118514844636
+958,Merge on workspaces as Hopf algebra Markov chain,14,10,2025,-0.14695783256648998,-0.0413090376512015
+959,Toward Human-Centered AI-Assisted Terminology Work,18,10,2025,0.05318465333822236,-0.12037820014523486
+960,Adapting Skill Ratings to Luck-Based Hidden-Information Games,2,10,2025,-0.08857409534816639,-0.027612694256143728
+961,Automated Red-Teaming Framework for Large Language Model Security Assessment: A Comprehensive Attack Generation and Detection System,9,10,2025,0.17707816109629393,-0.10273145123449531
+962,CORE: Concept-Oriented Reinforcement for Bridging the Definition-Application Gap in Mathematical Reasoning,15,10,2025,0.3338337150600318,-0.17487476253503853
+963,VizDefender: Unmasking Visualization Tampering through Proactive Localization and Intent Inference,12,10,2025,0.08721276878262477,0.22783222224479008
+964,What Drives Issue Resolution Speed? An Empirical Study of Scientific Workflow Systems on GitHub,14,10,2025,-0.05447399815259677,-0.06091120200144756
+965,Modular Automatic Complexity Analysis of Recursive Integer Programs,14,10,2025,-0.1531055978401026,-0.10204289415745592
+966,InDRiVE: Reward-Free World-Model Pretraining for Autonomous Driving via Latent Disagreement,1,10,2025,-0.02282973862503795,-0.1185495922864217
+967,Brain-Gen: Towards Interpreting Neural Signals for Stimulus Reconstruction Using Transformers and Latent Diffusion Models,11,10,2025,-0.07160335582608865,0.24353442383772095
+968,DafnyMPI: A Dafny Library for Verifying Message-Passing Concurrent Programs,15,10,2025,0.059826655879203335,-0.1321220105256604
+969,MDToC: Metacognitive Dynamic Tree of Concepts for Boosting Mathematical Problem-Solving of Large Language Models,15,10,2025,0.38863288311723393,-0.16397491339799206
+970,Generative Modeling through Spectral Analysis of Koopman Operator,2,10,2025,-0.10658447452873342,0.10694064536615541
+971,Multimodal Classification Network Guided Trajectory Planning for Four-Wheel Independent Steering Autonomous Parking Considering Obstacle Attributes,13,10,2025,-0.08206334801787254,0.07436699241107897
+972,"AraMix: Recycling, Refiltering, and Deduplicating to Deliver the Largest Arabic Pretraining Corpus",3,10,2025,-0.0397335905407532,0.11025861772704923
+973,From Word to World: Can Large Language Models be Implicit Text-based World Models?,0,10,2025,0.10352884141881197,-0.11967261651301883
+974,HARBOR: Holistic Adaptive Risk assessment model for BehaviORal healthcare,17,10,2025,0.3103700158922002,-0.1736873345424284
+975,Hyperbolic Graph Embeddings: a Survey and an Evaluation on Anomaly Detection,9,10,2025,-0.040619385496098115,-0.02518864456959974
+976,A logic for default deontic reasoning,15,10,2025,0.12160624756112813,-0.1259370848179705
+977,Misbehavior Forecasting for Focused Autonomous Driving Systems Testing,14,10,2025,-0.09573310393498188,-0.027594228795797555
+978,Controllable Probabilistic Forecasting with Stochastic Decomposition Layers,3,10,2025,-0.09477740623749507,-0.051863277861936445
+979,EchoMotion: Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer,4,10,2025,0.08658080221407348,0.3159285172542813
+980,Revealing Perception and Generation Dynamics in LVLMs: Mitigating Hallucinations via Validated Dominance Correction,12,10,2025,0.1530499493718552,0.18628111184998128
+981,FedVideoMAE: Efficient Privacy-Preserving Federated Video Moderation,16,10,2025,-0.09920834762529217,0.15759546979259378
+982,Tempo as the Stable Cue: Hierarchical Mixture of Tempo and Beat Experts for Music to 3D Dance Generation,6,10,2025,0.04347883513829465,0.3447085160607718
+983,Quantifying the Lifelong Impact of Resilience Interventions via Agent-Based LLM Simulation,0,10,2025,0.08932096734463102,-0.20618334569920158
+984,Reliable Audio Deepfake Detection in Variable Conditions via Quantum-Kernel SVMs,7,10,2025,-0.17196408836289542,-0.06000079802503705
+985,The Dead Salmons of AI Interpretability,18,10,2025,-0.12270859838289397,-0.1104479757970146
+986,Smark: A Watermark for Text-to-Speech Diffusion Models via Discrete Wavelet Transform,11,10,2025,0.03223541516379847,0.2252547036336415
+987,RIS-Enabled Smart Wireless Environments: Fundamentals and Distributed Optimization,10,11,2025,-0.1484744892640281,-0.07611306865411739
+988,Eff-GRot: Efficient and Generalizable Rotation Estimation with Transformers,14,12,2025,-0.12172207514801381,0.16284508835950656
+989,From Natural Language to Control Signals: A Conceptual Framework for Semantic Channel Finding in Complex Experimental Infrastructure,14,13,2025,0.08656256422247782,-0.08972123771021207
+990,"""Even GPT Can Reject Me"": Conceptualizing Abrupt Refusal Secondary Harm (ARSH) and Reimagining Psychological AI Safety with Compassionate Completion Standard (CCS)",18,14,2025,0.085542619435648,-0.18197473134260117
+991,Label-Informed Outlier Detection Based on Granule Density,9,15,2025,-0.13642469201813348,-0.006348659899804341
+992,In-Context Audio Control of Video Diffusion Transformers,16,16,2025,0.005866240295149227,0.43528381598765803
+993,MaskFocus: Focusing Policy Optimization on Critical Steps for Masked Image Generation,1,17,2025,0.029782898100572924,0.10610396817844943
+994,Gaussian-Mixture-Model Q-Functions for Policy Iteration in Reinforcement Learning,1,18,2025,-0.17661110951559503,-0.18223885473264181
+995,How Many Pinching Antennas Are Enough?,10,19,2025,-0.10352810840641076,0.02603258841437314
+996,MEEA: Mere Exposure Effect-Driven Confrontational Optimization for LLM Jailbreaking,5,20,2025,0.16775151038359326,-0.060604707804348644
+997,"ISADM: An Integrated STRIDE, ATT&CK, and D3FEND Model for Threat Modeling Against Real-world Adversaries",2,21,2025,-0.0775496673605432,-0.02686079070896136
+998,Context-Aware Network Based on Multi-scale Spatio-temporal Attention for Action Recognition in Videos,2,22,2025,-0.03622059609793234,0.17718784810338434
+999,Code2Doc: A Quality-First Curated Dataset for Code Documentation,17,23,2025,0.16082192796173006,0.05561289507302339
+1000,IPCV: Information-Preserving Compression for MLLM Visual Encoders,12,24,2025,0.21676672058334384,0.24694985688427065
