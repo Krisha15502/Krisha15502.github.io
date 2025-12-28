@@ -1,0 +1,1001 @@
+paper_id,title,topic,citations,year,cluster,arxiv_id,pca_x,pca_y
+1,Minimization of image watermarking side effects through subjective optimization,Image-Images,2500,2015,10,1501.01755v1,-0.12450941416946656,0.0021966687282583166
+2,Upper and Lower Bounds for Competitive Online Routing on Delaunay Triangulations,Problem-Algorithm,2510,2015,18,1501.01783v1,-0.39666130210300116,-0.09062107650781515
+3,"Design and Implementation of rowe, a Web-Friendly Communication Library",Communication-Networks,2520,2015,17,1501.02162v1,-0.04753013767170708,-0.13357431699601202
+4,Range Queries on Uncertain Data,Data-Model,2530,2015,8,1501.02309v1,-0.14085370383733348,-0.04341897722198989
+5,The Cost of Problem-Based Learning: An Example in Information Systems Engineering,Learning-Deep,2540,2015,12,1501.01468v1,-0.16279963086844657,0.058561280241176926
+6,Improving image watermarking based on Tabu search by Chaos,Image-Images,2550,2015,10,1501.01576v3,-0.11656571118898906,-0.0020400237336521553
+7,XQOWL: An Extension of XQuery for OWL Querying and Reasoning,Data-Model,2560,2015,8,1501.02033v1,0.2502422904410023,-0.10581645567927185
+8,Low Cost Semi-Autonomous Agricultural Robots In Pakistan-Vision Based Navigation Scalable methodology for wheat harvesting,Systems-Information,2570,2015,3,1501.02378v1,-0.0494115759424608,-0.087909487923488
+9,Matching Theory for Backhaul Management in Small Cell Networks with mmWave Capabilities,Problem-Algorithm,2580,2015,18,1501.02410v1,-0.1904076332953341,0.09118317114464071
+10,Providing Long-Term Participation Incentive in Participatory Sensing,User-Users,2590,2015,13,1501.02480v2,-0.196301393882261,-0.10844649376239883
+11,Beam-searching and Transmission Scheduling in Millimeter Wave Communications,Problem-Algorithm,2600,2015,18,1501.02516v1,-0.30463417703032536,0.06558978117546015
+12,Arabic Text Categorization Algorithm using Vector Evaluation Method,Text-Datasets,2610,2015,5,1501.01318v1,-0.06113639174728443,-0.057631969490017726
+13,Generalized Eilenberg Theorem I: Local Varieties of Languages,Systems-Information,2620,2015,3,1501.02834v1,-0.05117964401459848,-0.1218220840070312
+14,The ModelCC Model-Based Parser Generator,Data-Model,2630,2015,8,1501.03458v1,0.23274651798312745,-0.19992885174235026
+15,Stochastic Gradient Based Extreme Learning Machines For Online Learning of Advanced Combustion Engines,Learning-Deep,2640,2015,12,1501.03975v1,-0.17353396534438845,0.20193980645781126
+16,Visual Analytics of Image-Centric Cohort Studies in Epidemiology,Visual-Video,2650,2015,16,1501.04009v1,0.08432876674426484,-0.028176962173572944
+17,PriCL: Creating a Precedent A Framework for Reasoning about Privacy Case Law,Systems-Information,2660,2015,3,1501.03353v1,-0.0327683204400334,-0.1466366856145268
+18,Closing the Gap -- Formally Verifying Dynamically Typed Programs like Statically Typed Ones Using Hoare Logic -- Extended Version --,Systems-Information,2670,2015,3,1501.02699v1,-0.1539273056885576,-0.12487275443365732
+19,LTE enhancements for Public Safety and Security communications to support Group Multimedia Communications,Communication-Networks,2680,2015,17,1501.03613v1,-0.15753009371778015,0.06326931721417314
+20,A Polynomial-Time Attack on the BBCRS Scheme,Systems-Information,2690,2015,3,1501.03736v1,-0.15803031134799375,-0.10738339036637859
+21,A Modified No Search Algorithm for Fractal Image Compression,Image-Images,2700,2015,10,1501.02894v2,-0.19550262502741866,0.019344039091718945
+22,Sparse Deep Stacking Network for Image Classification,Image-Images,2710,2015,10,1501.00777v1,-0.011915279117706665,0.2477975429561467
+23,Computational Feasibility of Clustering under Clusterability Assumptions,Systems-Information,2720,2015,3,1501.00437v1,-0.03047920834143897,-0.10245894479216347
+24,A Review on the Tree Edit Distance Problem and Related Path-Decomposition Algorithms,Problem-Algorithm,2730,2015,18,1501.00611v6,-0.2437258566985337,-0.11081857425279099
+25,Hierarchical Cooperation for Operator-Controlled Device-to-Device Communications: A Layered Coalitional Game Approach,Networks-Neural,2740,2015,0,1501.00620v1,-0.10515656269457627,0.10657005491886357
+26,QANUS: An Open-source Question-Answering Platform,Systems-Information,2750,2015,3,1501.00311v1,-0.030760017336240127,-0.15816896696203772
+27,Contact Representations of Sparse Planar Graphs,Graph-Graphs,2760,2015,2,1501.00318v1,-0.30655411883781425,-0.1041615275402023
+28,Multi-Access Communications with Energy Harvesting: A Multi-Armed Bandit Model and the Optimality of the Myopic Policy,Problem-Algorithm,2770,2015,18,1501.00329v1,-0.1512629760895665,0.023719867050038642
+29,Efficient 2-Step Protocol and Its Discriminative Feature Selections in Secure Similar Document Detection,Detection-Based,2780,2015,1,1501.00354v1,-0.09160022847972671,0.026689501229740235
+30,Hostile Intent Identification by Movement Pattern Analysis: Using Artificial Neural Networks,Learning-Deep,2790,2015,12,1501.00653v1,-0.14718386724274726,0.11800896460631681
+31,Spatial Spectrum and Energy Efficiency of Random Cellular Networks,Networks-Neural,2800,2015,0,1501.05368v1,-0.06676660156123634,0.13776177619857213
+32,Robust Face Recognition by Constrained Part-based Alignment,Problem-Algorithm,2810,2015,18,1501.04717v1,-0.12384135313120599,-0.03930776972303603
+33,Relative Entailment Among Probabilistic Implications,Systems-Information,2820,2015,3,1501.04826v5,-0.11170429320543411,-0.13050719737763836
+34,AAPPeC: Agent-based Architecture for Privacy Payoff in eCommerce,User-Users,2830,2015,13,1501.04850v1,-0.045326999752891305,-0.12552703532256776
+35,Clustering based on the In-tree Graph Structure and Affinity Propagation,Graph-Graphs,2840,2015,2,1501.04318v2,-0.11839710395831837,-0.007404244589969504
+36,Deep Belief Nets for Topic Modeling,User-Users,2850,2015,13,1501.04325v1,-0.003975630689374798,0.01956197222345671
+37,Transferring Rich Feature Hierarchies for Robust Visual Tracking,Visual-Video,2860,2015,16,1501.04587v2,0.14686317362971615,0.06583827616512472
+38,Optimal Fractional Repetition Codes and Fractional Repetition Batch Codes,Graph-Graphs,2870,2015,2,1501.05177v1,-0.18386408893091943,-0.12552404847132495
+39,A Direct Symbolic Execution of SQL Code for Testing of Data-Oriented Applications,Systems-Information,2880,2015,3,1501.05265v1,-0.042248269003904444,-0.08894507762849961
+40,Managing large-scale scientific hypotheses as uncertain and probabilistic data,Data-Model,2890,2015,8,1501.05290v2,0.1351232108846953,-0.1440899383162774
+41,Distributed Estimation of Generalized Matrix Rank: Efficient Algorithms and Lower Bounds,Problem-Algorithm,2900,2015,18,1502.01403v2,-0.43236362032365394,-0.09521186777788107
+42,Censoring for Improved Sensing Performance in Infrastructure-less Cognitive Radio Networks,Networks-Neural,2910,2015,0,1502.01986v1,-0.11613136547721621,0.15054117234829612
+43,The Hardness of Approximation of Euclidean k-means,Graph-Graphs,2920,2015,2,1502.03316v1,-0.48798479470552575,-0.12601900049573483
+44,Large-Scale Deep Learning on the YFCC100M Dataset,Networks-Neural,2930,2015,0,1502.03409v1,0.0939888600684555,0.3698634912280946
+45,"Dear CAV, We Need to Talk About Reproducibility",Systems-Information,2940,2015,3,1502.02448v1,-0.057087943097933656,-0.1546456060060097
+46,Deep Learning with Limited Numerical Precision,Networks-Neural,2950,2015,0,1502.02551v1,0.07314985136178007,0.33524371871210046
+47,Analysis of classifiers' robustness to adversarial perturbations,Adversarial-Attacks,2960,2015,14,1502.02590v4,-0.03995483231087816,0.122803879363745
+48,An Integrated Semantic Web Service Discovery and Composition Framework,Graph-Graphs,2970,2015,2,1502.02840v1,-0.2507130196053833,-0.0743476005648253
+49,Out-of-sample generalizations for supervised manifold learning for classification,Learning-Deep,2980,2015,12,1502.02410v1,-0.02914515804872632,0.19601873643366488
+50,An Incentivized Approach for Fair Participation in Wireless Ad hoc Networks,Networks-Neural,2990,2015,0,1503.01314v1,-0.08833227392650086,0.1475943632387293
+51,A review of mean-shift algorithms for clustering,Text-Datasets,3000,2015,5,1503.00687v1,-0.14372731873933023,-0.07519592178707668
+52,Assessing a human mediated current awareness service,Systems-Information,3000,2015,3,1503.01082v2,-0.08363641859046014,-0.0868799353216552
+53,All Who Wander: On the Prevalence and Characteristics of Multi-community Engagement,User-Users,3000,2015,13,1503.01180v2,-0.011879944747382905,-0.17476558183872243
+54,On the Number of Minimal Separators in Graphs,Graph-Graphs,3000,2015,2,1503.01203v2,-0.29040763575100725,-0.12075959574173516
+55,An Introduction to Temporal Graphs: An Algorithmic Perspective,Graph-Graphs,3000,2015,2,1503.00278v1,-0.34501205123899364,-0.1589208392798308
+56,Success factors for Crowdfunding founders and funders,Systems-Information,3000,2015,3,1503.00288v1,-0.0663222807917827,-0.1305680010783116
+57,A Sampling Technique of Proving Lower Bounds for Noisy Computations,Systems-Information,3000,2015,3,1503.00321v1,-0.18789365937108538,-0.01898789265951303
+58,NEXP-completeness and Universal Hardness Results for Justification Logic,Problem-Algorithm,3000,2015,18,1503.00362v1,-0.20241878323649853,-0.07528892051176696
+59,Phylogenetic incongruence through the lens of Monadic Second Order logic,Graph-Graphs,3000,2015,2,1503.00368v1,-0.2689724091043653,-0.13041152024073546
+60,A Simple Spectral Algorithm for Recovering Planted Partitions,Problem-Algorithm,3000,2015,18,1503.00423v4,-0.40132213128633754,-0.09598420856643884
+61,Robotic Wireless Networks in a Narrow Alley: A Game Theoretic Approach,Communication-Networks,3000,2015,17,1503.00435v1,-0.14202865063331838,0.023199340855941202
+62,Random Serial Dictatorship versus Probabilistic Serial Rule: A Tale of Two Random Mechanisms,Problem-Algorithm,3000,2015,18,1503.01488v1,-0.15354064521975988,-0.08472898127213589
+63,"Adaptively Secure Coin-Flipping, Revisited",Model-Models,3000,2015,6,1503.01588v2,-0.09149748833310069,-0.03728785878090586
+64,Computing with Tangles,Graph-Graphs,3000,2015,2,1503.00190v3,-0.2540985199968393,-0.1425146922448112
+65,Emerging Methods and Tools for Sparking New Global Creative Networks,Networks-Neural,3000,2015,0,1503.00197v1,-0.02037527452381078,0.08212284229311308
+66,"Simulating Auxiliary Inputs, Revisited",Problem-Algorithm,3000,2015,18,1503.00484v3,-0.3007962591136861,-0.12503292809732164
+67,Robustly Leveraging Prior Knowledge in Text Classification,Task-Tasks,3000,2015,15,1503.00841v1,0.06221379750010428,-0.049820336334976525
+68,Efficient FFT mapping on GPU for radar processing application: modeling and implementation,Text-Datasets,3000,2015,5,1505.08067v1,-0.10578417755818624,-0.08771273067415594
+69,Transition-Based Dependency Parsing with Stack Long Short-Term Memory,Networks-Neural,3000,2015,0,1505.08075v1,0.022754708771998682,0.21538218533285405
+70,Video (GIF) Sentiment Analysis using Large-Scale Mid-Level Ontology,Visual-Video,3000,2015,16,1506.00765v1,-0.012040562231281153,0.0010400297907553703
+71,Soft Computing Techniques for Change Detection in remotely sensed images : A Review,Detection-Based,3000,2015,1,1506.00768v2,-0.01635539358767766,0.0987250359200837
+72,Communication Efficient Secret Sharing,Communication-Networks,3000,2015,17,1505.07515v2,-0.2043402849958768,-0.1336408203238459
+73,Emotional Dynamics in the Age of Misinformation,User-Users,3000,2015,13,1505.08001v1,-0.12780474570859207,-0.14282512641611542
+74,The Research and Optimization of Parallel Finite Element Algorithm based on MiniFE,Problem-Algorithm,3000,2015,18,1505.08023v1,-0.13648654981541966,-0.031893930442453367
+75,Discovering Valuable Items from Massive Data,Task-Tasks,3000,2015,15,1506.00935v1,-0.11267869353850532,-0.08020965946676206
+76,Can network coding bridge the digital divide in the Pacific?,Networks-Neural,3000,2015,0,1506.01048v1,-0.1075201042349011,0.07278785493245377
+77,Quizz: Targeted crowdsourcing with a billion (potential) users,User-Users,3000,2015,13,1506.01062v1,-0.11610588574654244,-0.16325488868347862
+78,Formal Concept Analysis for Knowledge Discovery from Biological Data,Data-Model,3000,2015,8,1506.00366v1,0.1165325672421711,-0.04974831266456614
+79,Predicting Deep Zero-Shot Convolutional Neural Networks using Textual Descriptions,Visual-Video,3000,2015,16,1506.00511v2,0.10315086473085461,0.3345579232548758
+80,Recognition of convolutional neural network based on CUDA Technology,Networks-Neural,3000,2015,0,1506.00074v2,-0.168694447434576,0.18133376658399633
+81,On the computational complexity of evolution,Problem-Algorithm,3000,2015,18,1506.00095v2,-0.32676425613856197,-0.12686620251403716
+82,A Novel Energy Aware Node Clustering Algorithm for Wireless Sensor Networks Using a Modified Artificial Fish Swarm Algorithm,Problem-Algorithm,3000,2015,18,1506.00099v1,-0.30796480813984806,0.09770119010998042
+83,Design and implementation for automated network troubleshooting using data mining,Networks-Neural,3000,2015,0,1506.00108v1,-0.04358569173237059,0.1845309942967764
+84,Recurrent Neural Networks with External Memory for Language Understanding,Networks-Neural,3000,2015,0,1506.00195v1,0.032784156208427284,0.02558118378292786
+85,Phase Transitions for the Uniform Distribution in the PML Problem and its Bethe Approximation,Problem-Algorithm,3000,2015,18,1506.00753v1,-0.26960706539944473,-0.0871729780809858
+86,Spectrum Monitoring Using Energy Ratio Algorithm For OFDM-Based Cognitive Radio Networks,User-Users,3000,2015,13,1506.06213v1,-0.28490223474015797,0.01153843787381473
+87,Pose Estimation Based on 3D Models,Image-Images,3000,2015,10,1506.06274v1,0.021762095152644136,0.09685625450471831
+88,On Modeling Heterogeneous Wireless Networks Using Non-Poisson Point Processes,Networks-Neural,3000,2015,0,1506.06296v1,-0.1083625039388979,0.12482530944373198
+89,Graph-based compression of dynamic 3D point cloud sequences,3D-Images,3000,2015,7,1506.06096v1,-0.3066205613578144,-0.09862063229162384
+90,GRINS: A Multiphysics Framework Based on the libMesh Finite Element Library,Systems-Information,3000,2015,3,1506.06102v1,-0.07004487478043052,-0.1549141879392071
+91,Nonparametric Bayesian Double Articulation Analyzer for Direct Language Acquisition from Continuous Speech Signals,Speech-Recognition,3000,2015,9,1506.06646v2,0.2652603253919789,-0.07318625023362951
+92,Beyond Triangles: A Distributed Framework for Estimating 3-profiles of Large Graphs,Graph-Graphs,3000,2015,2,1506.06671v1,-0.4081916061343708,-0.144231833206801
+93,GraphMaps: Browsing Large Graphs as Interactive Maps,Graph-Graphs,3000,2015,2,1506.06745v1,-0.25653813814210713,-0.15250355860221682
+94,Learning Discriminative Bayesian Networks from High-dimensional Continuous Neuroimaging Data,Learning-Deep,3000,2015,12,1506.06868v1,0.10694451672950563,0.275901220178058
+95,How do OSS projects change in number and size? A large-scale analysis to test a model of project growth,Text-Datasets,3000,2015,5,1506.06924v1,-0.04972614139236447,-0.08361325767912248
+96,LCSTS: A Large Scale Chinese Short Text Summarization Dataset,Text-Datasets,3000,2015,5,1506.05865v4,0.05974677288067471,-0.11453418836790193
+97,Multi-weighted Automata and MSO Logic,Systems-Information,3000,2015,3,1506.06024v1,-0.012406944623685042,-0.046626129798178456
+98,Incremental RANSAC for Online Relocation in Large Dynamic Environments,Problem-Algorithm,3000,2015,18,1506.07236v2,-0.23419021569140866,-0.07395725617489199
+99,Ask Me Anything: Dynamic Memory Networks for Natural Language Processing,Text-Datasets,3000,2015,5,1506.07285v5,0.12464575213268929,-0.011001344554294752
+100,A Deep Memory-based Architecture for Sequence-to-Sequence Learning,Networks-Neural,3000,2015,0,1506.06442v4,0.12225279817227384,0.3263512434173516
+101,"A Theory of Local Learning, the Learning Channel, and the Optimality of Backpropagation",Learning-Deep,2500,2015,12,1506.06472v2,-0.00018380893650558265,0.4142200610392531
+102,Distributional Sentence Entailment Using Density Matrices,Model-Models,2510,2015,6,1506.06534v2,0.02978408187098198,0.0171079575567144
+103,Synchronization of Bernoulli sequences on shared letters,Systems-Information,2520,2015,3,1506.06537v2,-0.012485294587915753,-0.1342023657254906
+104,Filling the Complexity Gaps for Colouring Planar and Bounded Degree Graphs,Graph-Graphs,2530,2015,2,1506.06564v5,-0.3465063514004936,-0.16139678186322512
+105,Impact of Node Speed on Throughput of Energy-Constrained Mobile Networks with Wireless Power Transfer,Networks-Neural,2540,2015,0,1506.06575v2,-0.11963506260826412,0.05252579065095903
+106,"Parallel Multi-Dimensional LSTM, With Application to Fast Biomedical Volumetric Image Segmentation",3D-Images,2550,2015,7,1506.07452v1,-0.04771290470323507,0.1049453750819408
+107,The GPU vs Phi Debate: Risk Analytics Using Many-Core Computing,Data-Model,2560,2015,8,1501.06326v1,0.0013003802014544203,-0.07030209839776186
+108,GPU Programming - Speeding Up the 3D Surface Generator VESTA,3D-Images,2570,2015,7,1501.06364v1,-0.08775020419115426,-0.0064952072474314644
+109,On the stability of asynchronous Random Access Schemes,Systems-Information,2580,2015,3,1501.07072v1,-0.09258718790544672,-0.049305179619943865
+110,Consensus Game Acceptors and Iterated Transductions,Systems-Information,2590,2015,3,1501.07131v3,-0.05870384801948639,-0.15735023048654898
+111,Structural Patterns of the Occupy Movement on Facebook,User-Users,2600,2015,13,1501.07203v1,-0.14162635564621648,-0.12466618432898229
+112,Spatio-Temporal Techniques for User Identification by means of GPS Mobility Data,User-Users,2610,2015,13,1501.06814v3,-0.0023260891886672085,-0.10804498129794114
+113,Efficient refinement of GPS-based localization in urban areas using visual information and sensor parameter,Image-Images,2620,2015,10,1502.00319v3,0.009860751766398196,0.029018739880704227
+114,Heterogeneous Cellular Networks Using Wireless Backhaul: Fast Admission Control and Large System Analysis,Problem-Algorithm,2630,2015,18,1501.06988v2,-0.31992594460517015,-0.07000850146115607
+115,Finding Connected Dense $k$-Subgraphs,Graph-Graphs,2640,2015,2,1501.07348v1,-0.41373808432219156,-0.17643160610351022
+116,Throughput of a Cognitive Radio Network under Congestion Constraints: A Network-Level Study,Networks-Neural,2650,2015,0,1501.07510v2,-0.1432877955978977,0.10212726212845044
+117,Abelian bordered factors and periodicity,Systems-Information,2660,2015,3,1501.07464v1,-0.039857449720724206,-0.11786027805426065
+118,Scaling Recurrent Neural Network Language Models,Model-Models,2670,2015,6,1502.00512v1,0.15647706831781763,-0.07939307518644535
+119,Error-Correcting Factorization,Problem-Algorithm,2680,2015,18,1502.07976v2,-0.14345021715022488,0.02223558247542269
+120,Sequential Feature Explanations for Anomaly Detection,Detection-Based,2690,2015,1,1503.00038v1,-0.013834273244639423,0.011209917220573205
+121,Estimating the Potential Speedup of Computer Vision Applications on Embedded Multiprocessors,Systems-Information,2700,2015,3,1502.07446v1,-0.08091217611959982,-0.01746520402813486
+122,Aspect-oriented linearizability proofs,Problem-Algorithm,2710,2015,18,1502.07639v2,-0.14564108683464388,-0.04428425475868044
+123,On the complexity of computing the $k$-restricted edge-connectivity of a graph,Graph-Graphs,2720,2015,2,1502.07659v2,-0.32340668750625134,-0.14922907777845607
+124,A Comparative Study of Scheduling Techniques for Multimedia Applications on SIMD Pipelines,Systems-Information,2730,2015,3,1502.07447v1,-0.0707535115298914,-0.07786309942441565
+125,Model-checking branching-time properties of probabilistic automata and probabilistic one-counter automata,Problem-Algorithm,2740,2015,18,1502.07549v2,-0.1656587508631539,-0.06466927956780937
+126,An approximation algorithm for the longest cycle problem in solid grid graphs,Graph-Graphs,2750,2015,2,1502.07085v1,-0.4625264550566028,-0.1434565958265124
+127,Optimal Sparse Linear Auto-Encoders and Sparse PCA,Problem-Algorithm,2760,2015,18,1502.06626v1,-0.19664564405017668,-0.027406421457015828
+128,Accelerating Very Deep Convolutional Networks for Classification and Detection,Networks-Neural,2770,2015,0,1505.06798v2,-0.052672200162247516,0.2538857573904538
+129,Sequential Dimensionality Reduction for Extracting Localized Features,Image-Images,2780,2015,10,1505.06957v2,0.018217672019914262,0.058061801884598266
+130,Limit theory of discrete mathematics problems,Problem-Algorithm,2790,2015,18,1505.06984v3,-0.2902954111454933,-0.13456040241794798
+131,Image Reconstruction from Bag-of-Visual-Words,Image-Images,2800,2015,10,1505.05190v1,0.03916006857624782,0.11156766677841512
+132,Simulation Algorithms with Exponential Integration for Time-Domain Analysis of Large-Scale Power Delivery Networks,Text-Datasets,2810,2015,5,1505.06699v3,-0.10931418644042286,-0.016525113390354722
+133,Every super-polynomial proof in purely implicational minimal logic has a polynomially sized proof in classical implicational propositional logic,Systems-Information,2820,2015,3,1505.06506v3,-0.0674721717880269,-0.08680236034062197
+134,Affine and Regional Dynamic Time Warpng,Problem-Algorithm,2830,2015,18,1505.06531v1,-0.1474847889775611,0.010582827168941902
+135,Rendering-as-a-Service: Taxonomy and Comparison,3D-Images,2840,2015,7,1505.06543v1,0.08023689926077403,-0.05898983517572819
+136,Model Checking Parameterized Asynchronous Shared-Memory Systems,Systems-Information,2850,2015,3,1505.06588v1,-0.1497200731833394,-0.08960603139023385
+137,"Expresso : A user-friendly GUI for Designing, Training and Exploring Convolutional Neural Networks",Networks-Neural,2860,2015,0,1505.06605v2,0.02812006083995313,0.23536549813478608
+138,Towards Optimal Adaptive Wireless Communications in Unknown Environments,Adversarial-Attacks,2870,2015,14,1505.06608v8,-0.20096565583639267,0.07496049983901452
+139,Fair task allocation in transportation,Task-Tasks,2880,2015,15,1505.07434v3,-0.22000860439350098,-0.06690360939850823
+140,Encog: Library of Interchangeable Machine Learning Models for Java and C#,Learning-Deep,2890,2015,12,1506.04776v1,0.20128911323740184,0.19910105658641544
+141,Sequential Consistency and Concurrent Data Structures,Data-Model,2900,2015,8,1506.04910v1,0.15824938882984385,-0.014465157509662803
+142,Linear-Time Sequence Comparison Using Minimal Absent Words & Applications,Systems-Information,2910,2015,3,1506.04917v2,-0.18755329409527116,-0.030376009756014184
+143,CamFlow: Managed Data-sharing for Cloud Services,Data-Model,2920,2015,8,1506.04391v3,0.12974738569289038,-0.035143306629464646
+144,Understanding Civil War Violence through Military Intelligence: Mining Civilian Targeting Records from the Vietnam War,Data-Model,2930,2015,8,1506.05413v1,0.1134455141542714,0.08506735044939061
+145,A Decentralized Parallelization-in-Time Approach with Parareal,Communication-Networks,2940,2015,17,1506.05157v2,-0.16179337184867915,-0.044704302524557274
+146,Deep Convolutional Networks on Graph-Structured Data,Networks-Neural,2950,2015,0,1506.05163v1,-0.024453834400810066,0.20243432352263144
+147,"Anxiety, Alcohol, and Academics: A Textual Analysis of Student Facebook Confessions Pages",User-Users,2960,2015,13,1506.05193v4,-0.12169185081078399,-0.11514024550224555
+148,SAT-based Analysis of Large Real-world Feature Models is Easy,Text-Datasets,2970,2015,5,1506.05198v3,0.06468937064653596,-0.10915449858417355
+149,Defending Grey Attacks by Exploiting Wavelet Analysis in Collaborative Filtering Recommender Systems,Adversarial-Attacks,2980,2015,14,1506.05247v2,-0.008534935402818352,0.033158960850535296
+150,Decentralized Energy Allocation for Wireless Networks with Renewable Energy Powered Base Stations,Problem-Algorithm,2990,2015,18,1506.05549v1,-0.16999454594152041,0.006595617273493801
+151,Emergence of synchrony in an Adaptive Interaction Model,Model-Models,3000,2015,6,1506.05573v1,0.07936456018299275,-0.09008774853830571
+152,Asynchronous processing of Coq documents: from the kernel up to the user interface,User-Users,3000,2015,13,1506.05605v1,-0.06581436233729152,-0.11044631262327871
+153,Query Expansion for Survey Question Retrieval in the Social Sciences,Data-Model,3000,2015,8,1506.05672v1,0.03836759866036732,-0.1288661624537334
+154,Re-scale AdaBoost for Attack Detection in Collaborative Filtering Recommender Systems,Detection-Based,3000,2015,1,1506.04584v1,-0.003355680938801361,0.07192574986086014
+155,An O(m^2 log m)-Competitive Algorithm for Online Machine Minimization,Problem-Algorithm,3000,2015,18,1506.05721v1,-0.41604188686644056,-0.0828039538019665
+156,A Non-stationary Service Curve Model for Performance Analysis of Transient Phases,Networks-Neural,3000,2015,0,1506.04657v1,-0.04375378402407454,0.060277095014076465
+157,Using Hankel Matrices for Dynamics-based Facial Emotion Recognition and Pain Detection,Detection-Based,3000,2015,1,1506.05001v1,-0.0018791268066297457,0.14776411871750625
+158,Join Processing for Graph Patterns: An Old Dog with New Tricks,Graph-Graphs,3000,2015,2,1503.04169v2,-0.2868759421476986,-0.12919743268085282
+159,Short Text Hashing Improved by Integrating Multi-Granularity Topics and Tags,Text-Datasets,3000,2015,5,1503.02801v1,0.025999929942728126,-0.029503070762465645
+160,Mobile Node Localization via Pareto Optimization: Algorithm and Fundamental Performance Limitations,Problem-Algorithm,3000,2015,18,1503.02878v1,-0.17910657571224955,0.07519942958837082
+161,Financial Market Prediction,Data-Model,3000,2015,8,1503.02328v1,0.04732482689552214,0.13434276185861702
+162,Buffer Aided Relaying Improves Both Throughput and End-to-End Delay,Systems-Information,3000,2015,3,1503.02348v1,-0.08314596992867627,-0.06105899933578061
+163,Context-Dependent Translation Selection Using Convolutional Neural Network,Networks-Neural,3000,2015,0,1503.02357v2,0.09084660792498427,0.12014008195691216
+164,"Reproducibility in Research: Systems, Infrastructure, Culture",Systems-Information,3000,2015,3,1503.02388v2,-0.0383666878228477,-0.12615839515646166
+165,Starting engagement detection towards a companion robot using multimodal features,Detection-Based,3000,2015,1,1503.03732v1,-0.012618450417513258,-0.005269545795821037
+166,The Discrete Cosine Transform over Prime Finite Fields,Systems-Information,3000,2015,3,1503.03763v1,-0.17075280542083734,-0.07481343811225591
+167,Faster 64-bit universal hashing using carry-less multiplications,Systems-Information,3000,2015,3,1503.03465v8,-0.1299364464076399,-0.0869827892946033
+168,Low-Level Features for Image Retrieval Based on Extraction of Directional Binary Patterns and Its Oriented Gradients Histogram,Image-Images,3000,2015,10,1503.03606v1,-0.026541494068114683,0.11017616522450709
+169,Dynamic Service Placement for Mobile Micro-Clouds with Predicted Future Costs,Problem-Algorithm,3000,2015,18,1503.02735v2,-0.27534300214948093,-0.024973677401323714
+170,"Exploring Strategy-Proofness, Uniqueness, and Pareto Optimality for the Stable Matching Problem with Couples",Problem-Algorithm,3000,2015,18,1505.03463v1,-0.3995972441438433,-0.11854192868474724
+171,Brain Tumor Segmentation with Deep Neural Networks,Networks-Neural,3000,2015,0,1505.03540v3,-0.0028951155029553867,0.3426896894177908
+172,COROLA: A Sequential Solution to Moving Object Detection Using Low-rank Approximation,Visual-Video,3000,2015,16,1505.03566v2,-0.004232660336774302,0.04597672517032051
+173,Ontology Based Document Clustering Using MapReduce,Image-Images,3000,2015,10,1505.02891v1,-0.010112355602118199,0.04459380489145698
+174,Improving neural networks with bunches of neurons modeled by Kumaraswamy units: Preliminary study,Networks-Neural,3000,2015,0,1505.02581v1,-0.06988916429068476,0.2882325399884643
+175,Socio-Spatial Group Queries for Impromptu Activity Planning,Problem-Algorithm,3000,2015,18,1505.02681v2,-0.18461662220804692,-0.0782664208253768
+176,Hybrid data clustering approach using K-Means and Flower Pollination Algorithm,Problem-Algorithm,3000,2015,18,1505.03236v1,-0.2093249361390698,0.03138556386803722
+177,Evaluate and Compare Two Utilization-Based Schedulability-Test Frameworks for Real-Time Systems,User-Users,3000,2015,13,1505.02155v3,-0.11049487326262594,-0.09696579672617998
+178,Asymptotics and Approximation of the SIR Distribution in General Cellular Networks,Networks-Neural,3000,2015,0,1505.02310v2,-0.002557988133941522,0.06455622775122315
+179,Computing maximal autarkies with few and simple oracle queries,Problem-Algorithm,3000,2015,18,1505.02371v2,-0.19155893526803078,-0.03875245383989994
+180,Cloud for Gaming,User-Users,3000,2015,13,1505.02435v2,0.026327285477917024,-0.17423684277907983
+181,Eliminating Recursion from Monadic Datalog Programs on Trees,Problem-Algorithm,3000,2015,18,1505.02444v1,-0.3832130379891057,-0.1400946822053182
+182,Deep Learning for Medical Image Segmentation,Systems-Information,3000,2015,3,1505.02000v1,0.004842862979442721,0.1370730997986284
+183,Decomposition of Power Flow Used for Optimizing Zonal Configurations of Energy Market,Systems-Information,3000,2015,3,1505.02008v1,-0.16865818643774994,-0.047346546719249046
+184,Non-normal modalities in variants of Linear Logic,Systems-Information,3000,2015,3,1503.04193v2,0.03843625258400536,-0.19065067028696067
+185,Metric Localization using Google Street View,3D-Images,3000,2015,7,1503.04287v2,-0.007110696904620035,0.0611551465044162
+186,"Sync-Rank: Robust Ranking, Constrained Ranking and Rank Aggregation via Eigenvector and Semidefinite Programming Synchronization",Problem-Algorithm,3000,2015,18,1504.01070v1,-0.2830413333766058,-0.012734006528913409
+187,Coded Caching with Heterogenous Cache Sizes,Systems-Information,3000,2015,3,1504.01123v3,-0.06656278181227221,-0.0743262255850936
+188,Proving the Herman-Protocol Conjecture,Problem-Algorithm,3000,2015,18,1504.01130v3,-0.3357027143462856,-0.0792033634365182
+189,Ricci-Ollivier Curvature of the Rooted Phylogenetic Subtree-Prune-Regraft Graph,Graph-Graphs,3000,2015,2,1504.00304v3,-0.30937960117990815,-0.13484175014366293
+190,Low-Latency Software Polar Decoders,Systems-Information,3000,2015,3,1504.00353v2,-0.12268807966896986,-0.08529456985222492
+191,The complexity of computation in bit streams,Problem-Algorithm,3000,2015,18,1504.00834v1,-0.26333092908427863,-0.1429555832292054
+192,Evaluation Evaluation a Monte Carlo study,Systems-Information,3000,2015,3,1504.00854v1,0.03971032723182587,-0.06933468917571337
+193,Antisocial Behavior in Online Discussion Communities,User-Users,3000,2015,13,1504.00680v2,-0.14386371531398584,-0.15580493436078982
+194,Information Recovery from Pairwise Measurements,Graph-Graphs,3000,2015,2,1504.01369v4,-0.2181463498051044,-0.1562977580022043
+195,A Unified Deep Neural Network for Speaker and Language Recognition,Networks-Neural,3000,2015,0,1504.00923v1,0.1066114352582303,0.025562184176741908
+196,A Simple Way to Initialize Recurrent Networks of Rectified Linear Units,Networks-Neural,3000,2015,0,1504.00941v2,-0.16909197011509253,0.08009849972719955
+197,Monte Carlo Localization in Hand-Drawn Maps,Problem-Algorithm,3000,2015,18,1504.00522v1,-0.25718992321336376,-0.09977742331717668
+198,A Formalisation of Finite Automata using Hereditarily Finite Sets,Problem-Algorithm,3000,2015,18,1505.01662v1,-0.14868114698782964,-0.1549306958319985
+199,A Tractable Model of the LTE Access Reservation Procedure for Machine-Type Communications,Model-Models,3000,2015,6,1505.01713v3,0.03537406094736725,-0.007689837707372138
+200,Development of a Burst Buffer System for Data-Intensive Applications,Data-Model,3000,2015,8,1505.01765v1,0.12171448496271674,0.012366071417167722
+201,Will the Area Spectral Efficiency Monotonically Grow as Small Cells Go Dense?,Systems-Information,2500,2015,3,1505.01920v2,-0.05979548587934457,0.005637652441367178
+202,Wireless Multicast for Zoomable Video Streaming,User-Users,2510,2015,13,1505.01933v1,-0.18785983888962302,-0.09333934707608547
+203,Estimating the Margin of Victory of an Election using Sampling,Problem-Algorithm,2520,2015,18,1505.00566v1,-0.2923967425730561,-0.09866720706681674
+204,Higher Order Maximum Persistency and Comparison Theorems,Problem-Algorithm,2530,2015,18,1505.00571v1,-0.21152674721898743,-0.05958869670683288
+205,Estimation from Pairwise Comparisons: Sharp Minimax Bounds with Topology Dependence,Model-Models,2540,2015,6,1505.01462v1,0.12301425633113733,-0.13889027749076716
+206,140 Characters to Victory?: Using Twitter to Predict the UK 2015 General Election,Systems-Information,2550,2015,3,1505.01511v1,-0.026737321007690246,-0.024043489382464412
+207,An algebraic approach to temporal network analysis based on temporal quantities,Networks-Neural,2560,2015,0,1505.01569v2,-0.17570349005059901,0.21162664158225344
+208,Mining Measured Information from Text,Text-Datasets,2570,2015,5,1505.01072v1,-0.05550221135936985,-0.11258255243566945
+209,An event-based architecture for solving constraint satisfaction problems,Problem-Algorithm,2580,2015,18,1505.01139v1,-0.16862782640960702,0.02454597387619476
+210,Fast Differentially Private Matrix Factorization,Problem-Algorithm,2590,2015,18,1505.01419v2,-0.058500312764853485,-0.07720275549391908
+211,Growing the Digital Repository of Mathematical Formulae with Generic LaTeX Sources,Image-Images,2600,2015,10,1505.01431v4,-0.022574797072889775,-0.05204602448716633
+212,A novel plasticity rule can explain the development of sensorimotor intelligence,Systems-Information,2610,2015,3,1505.00835v1,-0.044783600174319343,-0.0063417500333671955
+213,Multi-view Convolutional Neural Networks for 3D Shape Recognition,3D-Images,2620,2015,7,1505.00880v3,-0.01711078571776886,0.021362664924482883
+214,Using higher-order Fourier analysis over general fields,Systems-Information,2630,2015,3,1505.00619v1,-0.18796944872397675,-0.08450895874371121
+215,TuPAQ: An Efficient Planner for Large-scale Predictive Analytic Queries,Text-Datasets,2640,2015,5,1502.00068v2,0.08470522839446695,-0.01385508578416966
+216,Combining k-Induction with Continuously-Refined Invariants,Systems-Information,2650,2015,3,1502.00096v1,-0.03309520838918332,-0.04524202159251815
+217,Context-aware Computing in the Internet of Things: A Survey on Internet of Things From Industrial Market Perspective,Communication-Networks,2660,2015,17,1502.00164v1,-0.0944928100098664,-0.10410274660087475
+218,Cost-Efficient Throughput Maximization in Multi-Carrier Cognitive Radio Systems,User-Users,2670,2015,13,1502.00588v1,-0.1652816695956481,-0.05818957670286484
+219,Monitoring Term Drift Based on Semantic Consistency in an Evolving Vector Field,Image-Images,2680,2015,10,1502.01753v1,-0.008735082431096304,-0.016715422126856016
+220,Bitcoin Transaction Graph Analysis,Graph-Graphs,2690,2015,2,1502.01657v1,-0.24146460581465604,-0.16136797372545067
+221,Text Understanding from Scratch,Text-Datasets,2700,2015,5,1502.01710v5,0.1834665383485774,-0.049428031352848296
+222,Optimization of Quality of Experience through File Duplication in Video Sharing Servers,Problem-Algorithm,2710,2015,18,1502.01120v1,-0.14710515745811975,-0.026380527450270103
+223,Exploiting Multimodal Biometrics in E-Privacy Scheme for Electronic Health Records,Systems-Information,2720,2015,3,1502.01233v1,-0.005293952966232046,-0.1135953567575178
+224,Incremental Knowledge Base Construction Using DeepDive,Systems-Information,2730,2015,3,1502.00731v4,-0.04565666564900606,-0.009090998498384774
+225,F0 Modeling In Hmm-Based Speech Synthesis System Using Deep Belief Network,Speech-Recognition,2740,2015,9,1502.05213v1,0.024677432775407886,0.06295595855653355
+226,Lessons from the Coinseminar,Networks-Neural,2750,2015,0,1502.05260v1,-0.14915948679234395,0.026887081924185565
+227,Scheduling Storms and Streams in the Cloud,Graph-Graphs,2760,2015,2,1502.05968v1,-0.2680757697378692,-0.09248456770746974
+228,Incentive Design and Market Evolution of Mobile User-Provided Networks,User-Users,2770,2015,13,1502.06327v2,-0.13995862722354108,0.04867025817624339
+229,Network Geometry Inference using Common Neighbors,Networks-Neural,2780,2015,0,1502.05578v2,-0.12190127254911957,0.14905870483907638
+230,Planar Linkages Following a Prescribed Motion,Problem-Algorithm,2790,2015,18,1502.05623v2,-0.3468330069362785,-0.06855028184230606
+231,NP-Hardness and Inapproximability of Sparse PCA,Systems-Information,2800,2015,3,1502.05675v2,-0.22400359800981617,-0.13065867028037295
+232,Intra-and-Inter-Constraint-based Video Enhancement based on Piecewise Tone Mapping,Visual-Video,2810,2015,16,1502.06080v1,-0.09179061171460695,0.0009468728780004785
+233,A Privacy-Preserving QoS Prediction Framework for Web Service Recommendation,User-Users,2820,2015,13,1502.06084v2,0.025788745314660275,-0.06674150983588345
+234,Reinforcement Learning in a Neurally Controlled Robot Using Dopamine Modulated STDP,Learning-Deep,2830,2015,12,1502.06096v1,-0.033797974125875443,0.26256221773749416
+235,"Rule-and Dictionary-based Solution for Variations in Written Arabic Names in Social Networks, Big Data, Accounting Systems and Large Databases",Problem-Algorithm,2840,2015,18,1502.05441v1,-0.18866674782414022,-0.04043607655103977
+236,Optimizing Text Quantifiers for Multivariate Loss Functions,Text-Datasets,2850,2015,5,1502.05491v2,0.006792675188347774,0.12782188851772103
+237,Rectified Factor Networks,Networks-Neural,2860,2015,0,1502.06464v2,-0.020177919828612476,0.19477097464867762
+238,Binary Embedding: Fundamental Limits and Fast Algorithm,Problem-Algorithm,2870,2015,18,1502.05746v2,-0.18970717189965913,-0.0718093265734123
+239,NeuroSVM: A Graphical User Interface for Identification of Liver Patients,Model-Models,2880,2015,6,1502.05534v1,0.03649809161213596,0.1033549692028309
+240,System M: A Program Logic for Code Sandboxing and Identification,Systems-Information,2890,2015,3,1501.05673v1,-0.03507309337811404,-0.13624098119621886
+241,Infinite Communication Complexity,Communication-Networks,2900,2015,17,1501.05814v1,-0.15985759718968243,-0.12133820973419646
+242,An $O(n^ε)$ Space and Polynomial Time Algorithm for Reachability in Directed Layered Planar Graphs,Graph-Graphs,2910,2015,2,1501.05828v1,-0.39171806999747877,-0.13925048142384155
+243,IFC Inside: Retrofitting Languages with Dynamic Information Flow Control (Extended Version),Systems-Information,2920,2015,3,1501.04132v1,0.01177430754330779,-0.26120685626526396
+244,Distributed Resource Allocation in D2D-Enabled Multi-tier Cellular Networks: An Auction Approach,Communication-Networks,2930,2015,17,1501.04199v2,-0.14675983465923315,0.03970513217307519
+245,Service Provisioning and Profit Maximization in Network-assisted Adaptive HTTP Streaming,Networks-Neural,2940,2015,0,1501.04254v1,-0.08767253128180327,0.09703035927114056
+246,A Hybrid Approach to Web Service Recommendation Based on QoS-Aware Rating and Ranking,Systems-Information,2950,2015,3,1501.04298v1,-0.04004557002276947,0.01226277433911245
+247,!-Graphs with Trivial Overlap are Context-Free,Graph-Graphs,2960,2015,2,1501.06059v3,-0.19998816070630443,-0.20228370452283562
+248,Constrained Extreme Learning Machines: A Study on Classification Cases,Learning-Deep,2970,2015,12,1501.06115v2,0.051686621904552324,0.3080342352355116
+249,"Dynamics of Belief: Abduction, Horn Knowledge Base And Database Updates",Systems-Information,2980,2015,3,1501.06206v2,-0.13876113446091026,-0.12785628188050252
+250,Sliding window-based Contention Resolution Diversity Slotted ALOHA,Systems-Information,2990,2015,3,1501.05902v1,-0.09281497082536604,-0.030599474146637825
+251,IAN: Combining Generative Adversarial Networks for Imaginative Face Generation,Image-Images,2000,2019,10,1904.07916v1,0.04613397219031043,0.08851571794451762
+252,Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations,Image-Images,2010,2019,10,1904.07934v2,0.027251734562898425,0.17338690072863694
+253,3D Shape Synthesis for Conceptual Design and Optimization Using Variational Autoencoders,3D-Images,2020,2019,7,1904.07964v1,0.014876140485753524,0.03395563555323534
+254,DNN Architecture for High Performance Prediction on Natural Videos Loses Submodule's Ability to Learn Discrete-World Dataset,Text-Datasets,2030,2019,5,1904.07969v1,-0.02386203895192716,0.05156814440403978
+255,Query Expansion for Cross-Language Question Re-Ranking,Systems-Information,2040,2019,3,1904.07982v1,0.026370281586619502,-0.21978146208565275
+256,How to define co-occurrence in different domains of study?,Systems-Information,2050,2019,3,1904.08010v1,-0.06460825473452551,-0.11728247457904749
+257,People infer recursive visual concepts from just a few examples,Visual-Video,2060,2019,16,1904.08034v2,0.13009472429390964,0.17575504102801465
+258,Neural Message Passing for Multi-Label Classification,Networks-Neural,2070,2019,0,1904.08049v1,-0.015241252316988646,0.20852154563313005
+259,Sparseout: Controlling Sparsity in Deep Networks,Networks-Neural,2080,2019,0,1904.08050v1,0.09462051081383566,0.3129156314383685
+260,Posterior-regularized REINFORCE for Instance Selection in Distant Supervision,Text-Datasets,2090,2019,5,1904.08051v1,0.05202379817438264,0.07252427891210196
+261,Collaboration Analysis Using Deep Learning,Learning-Deep,2100,2019,12,1904.08066v1,0.04805601399851864,0.2661572212455526
+262,Towards Smart and Reconfigurable Environment: Intelligent Reflecting Surface Aided Wireless Network,Communication-Networks,2110,2019,17,1905.00152v5,-0.11703049851573256,0.05682621116646012
+263,Automatic Dataset Augmentation Using Virtual Human Simulation,Detection-Based,2120,2019,1,1905.00261v1,0.12546981443456753,0.20831568971766196
+264,MAVSec: Securing the MAVLink Protocol for Ardupilot/PX4 Unmanned Aerial Systems,Communication-Networks,2130,2019,17,1905.00265v2,-0.17872303080601165,-0.0857668141559042
+265,Robust Dense Mapping for Large-Scale Dynamic Environments,Visual-Video,2140,2019,16,1905.02781v1,-0.006891054711638845,-0.053099311063973566
+266,A SAT-based System for Consistent Query Answering,Problem-Algorithm,2150,2019,18,1905.02828v1,-0.18896165847472696,-0.058563996675554696
+267,Feature Selection and Feature Extraction in Pattern Analysis: A Literature Review,Image-Images,2160,2019,10,1905.02845v1,0.045504058516497685,0.07803806921940341
+268,FAQ Retrieval using Query-Question Similarity and BERT-Based Query-Answer Relevance,Text-Datasets,2170,2019,5,1905.02851v2,0.03763782712077025,-0.05448644114624897
+269,Design and Optimization of Conforming Lattice Structures,3D-Images,2180,2019,7,1905.02902v1,-0.0703181908773921,-0.026365716089865175
+270,ShapeGlot: Learning Language for Shape Differentiation,3D-Images,2190,2019,7,1905.02925v1,0.26810204318467584,-0.026683125862667086
+271,Text2Node: a Cross-Domain System for Mapping Arbitrary Phrases to a Taxonomy,Text-Datasets,2200,2019,5,1905.01958v1,0.17089325462575286,-0.04146513552752557
+272,Who wrote this book? A challenge for e-commerce,Networks-Neural,2210,2019,0,1905.01973v1,0.0538782040210376,0.2349358468633929
+273,AI-Powered Text Generation for Harmonious Human-Machine Interaction: Current State and Future Directions,Text-Datasets,2220,2019,5,1905.01984v1,0.1109468545092502,-0.035634138909470627
+274,A Content-Based Approach to Email Triage Action Prediction: Exploration and Evaluation,User-Users,2230,2019,13,1905.01991v1,-0.09682585323809867,0.05488616819216153
+275,A Persona-based Multi-turn Conversation Model in an Adversarial Learning Framework,Model-Models,2240,2019,6,1905.01998v1,0.10208740043552259,0.13770342800745386
+276,Conditioning LSTM Decoder and Bi-directional Attention Based Question Answering System,Model-Models,2250,2019,6,1905.02019v1,0.008307042406999069,0.06781859464846
+277,Adversarial Image Translation: Unrestricted Adversarial Examples in Face Recognition Systems,Adversarial-Attacks,2260,2019,14,1905.03421v3,0.012625846629605223,0.08516919487819163
+278,Variable Neighborhood Search for the Bin Packing Problem with Compatible Categories,Problem-Algorithm,2270,2019,18,1905.03427v1,-0.39127978910947137,-0.09448528512472067
+279,Robust Federated Training via Collaborative Machine Teaching using Trusted Instances,Data-Model,2280,2019,8,1905.02941v1,0.2058672570637838,0.24801142995754724
+280,Deep Landscape Forecasting for Real-time Bidding Advertising,Model-Models,2290,2019,6,1905.03028v2,0.07726164778406043,0.20659464908901712
+281,PiNet: A Permutation Invariant Graph Neural Network for Graph Classification,Graph-Graphs,2300,2019,2,1905.03046v1,-0.15411804951916877,0.1642517859460187
+282,Generalized formal model of big data,Data-Model,2310,2019,8,1905.03061v1,0.28792350121689736,0.04674235472170051
+283,Training a Fast Object Detector for LiDAR Range Images Using Labeled Data from Sensors with Higher Resolution,Detection-Based,2320,2019,1,1905.03066v3,0.07368183598202778,0.21892600739300003
+284,Image-based reconstruction for the impact problems by using DPNNs,Networks-Neural,2330,2019,0,1905.03229v3,-0.053101743450720815,0.2960984438431727
+285,Universal Sound Separation,Speech-Recognition,2340,2019,9,1905.03330v2,-0.0385790632671658,0.06512636835593055
+286,Regression Equilibrium,Learning-Deep,2350,2019,12,1905.02576v1,-0.10317828121974201,0.13948810993516228
+287,Learning Unsupervised Multi-View Stereopsis via Robust Photometric Consistency,3D-Images,2360,2019,7,1905.02706v2,0.06915611260705792,0.2102940969030948
+288,Image Matters: Scalable Detection of Offensive and Non-Compliant Content / Logo in Product Images,Image-Images,2370,2019,10,1905.02234v2,0.044832865311036474,0.07831331535483352
+289,Source Generator Attribution via Inversion,Image-Images,2380,2019,10,1905.02259v2,-0.07720402599942748,0.058920761483318325
+290,CrossTrainer: Practical Domain Adaptation with Loss Reweighting,Data-Model,2390,2019,8,1905.02304v1,0.1530190912274819,-0.05405138591049914
+291,Is a Single Embedding Enough? Learning Node Representations that Capture Multiple Social Contexts,Graph-Graphs,2400,2019,2,1905.02138v1,-0.1492949385798993,0.13707030625070626
+292,Age of Information Scaling in Large Networks with Hierarchical Cooperation,User-Users,2410,2019,13,1905.02178v1,-0.17436060714749502,-0.021942261831862785
+293,Back to the Future: Predicting Traffic Shockwave Formation and Propagation Using a Convolutional Encoder-Decoder Network,Networks-Neural,2420,2019,0,1905.02197v1,-0.10326955763181134,0.21709881897100228
+294,ARCHANGEL: Tamper-proofing Video Archives using Temporal Content Hashes on the Blockchain,Visual-Video,2430,2019,16,1904.12059v1,-0.04507904112252189,0.009579116857727502
+295,Authenticated Key-Value Stores with Hardware Enclaves,Data-Model,2440,2019,8,1904.12068v3,0.0735596958050119,-0.017484586661792253
+296,A Novel Fuzzy Search Approach over Encrypted Data with Improved Accuracy and Efficiency,Systems-Information,2450,2019,3,1904.12111v2,0.008290826095874242,-0.040288424283254555
+297,Incorporating Symbolic Sequential Modeling for Speech Enhancement,Speech-Recognition,2460,2019,9,1904.13142v3,0.02675933533794851,-0.05082025223526592
+298,Test Selection for Deep Learning Systems,Learning-Deep,2470,2019,12,1904.13195v1,0.22527695463616104,0.21239922635600803
+299,Semantic Referee: A Neural-Symbolic Framework for Enhancing Geospatial Semantic Segmentation,Image-Images,2480,2019,10,1904.13196v1,0.02237687937883844,0.15889527645740245
+300,Relation-Shape Convolutional Neural Network for Point Cloud Analysis,Networks-Neural,2490,2019,0,1904.07601v3,-0.044652209389527235,0.1979831800438246
+301,Medical device surveillance with electronic health records,Data-Model,1500,2019,8,1904.07640v1,0.1857186386474618,0.15362394837603718
+302,Fast Commutative Matrix Algorithm,Problem-Algorithm,1510,2019,18,1904.07683v2,-0.358786222704063,-0.07867107665675763
+303,Advanced Customer Activity Prediction based on Deep Hierarchic Encoder-Decoders,Learning-Deep,1520,2019,12,1904.07687v4,0.05517772456294767,0.23270941164475076
+304,"Short Text Topic Modeling Techniques, Applications, and Performance: A Survey",Text-Datasets,1530,2019,5,1904.07695v1,-0.020625670627580986,-0.01642081459889666
+305,Contextual Aware Joint Probability Model Towards Question Answering System,Model-Models,1540,2019,6,1904.08109v1,0.0526562987375406,-0.06760140584839941
+306,Bayesian policy selection using active inference,Learning-Deep,1550,2019,12,1904.08149v2,-0.12187698480393729,0.10315711013907572
+307,Downhole Track Detection via Multiscale Conditional Generative Adversarial Nets,Detection-Based,1560,2019,1,1904.08177v1,-0.116511288078698,0.1275216665728603
+308,BS-Nets: An End-to-End Framework For Band Selection of Hyperspectral Image,Networks-Neural,1570,2019,0,1904.08269v1,-0.06846360115490825,0.16192724872962896
+309,Time-series Insights into the Process of Passing or Failing Online University Courses using Neural-Induced Interpretable Student States,Data-Model,1580,2019,8,1905.00422v1,0.17023234214300229,0.0052069059183268455
+310,Globally optimal vertical direction estimation in Atlanta World,Problem-Algorithm,1590,2019,18,1904.12717v2,-0.22329230815381695,-0.028280207866999266
+311,Accurate MapReduce Algorithms for $k$-median and $k$-means in General Metric Spaces,Problem-Algorithm,1600,2019,18,1904.12728v2,-0.17932988929074486,-0.06153499372797299
+312,"Localization, Detection and Tracking of Multiple Moving Sound Sources with a Convolutional Recurrent Neural Network",Detection-Based,1610,2019,1,1904.12769v1,-0.07589243044728648,0.1857775230152353
+313,Unsupervised Data Augmentation for Consistency Training,Data-Model,1620,2019,8,1904.12848v6,0.3454589578063829,0.25337074639921486
+314,Challenges of Real-World Reinforcement Learning,Text-Datasets,1630,2019,5,1904.12901v1,-0.049649738227792714,-0.03604226093261205
+315,Community Detection and Growth Potential Prediction Using the Stochastic Block Model and the Long Short-term Memory from Patent Citation Networks,Networks-Neural,1640,2019,0,1904.12986v1,-0.0026627204529200833,0.10195346400577168
+316,You can't see what you can't see: Experimental evidence for how much relevant information may be missed due to Google's Web search personalisation,Systems-Information,1650,2019,3,1904.13022v2,-0.1198853439702685,-0.1395083648984402
+317,"Please, do not decentralize the Internet with (permissionless) blockchains!",Networks-Neural,1660,2019,0,1904.13093v1,-0.1369736415555572,-0.003967225006313753
+318,Winner-Take-All Computation in Spiking Neural Networks,Networks-Neural,1670,2019,0,1904.12591v1,-0.15682475303709997,0.2287536521072576
+319,Coevo: a collaborative design platform with artificial agents,Systems-Information,1680,2019,3,1904.13333v1,0.06129075190394578,-0.2446978722094731
+320,Behavioral Program Logic and LAGC Semantics without Continuations (Technical Report),Systems-Information,1690,2019,3,1904.13338v1,0.0007511798783855488,-0.08183170874519222
+321,Gradient Coding Based on Block Designs for Mitigating Adversarial Stragglers,Adversarial-Attacks,1700,2019,14,1904.13373v1,-0.07412577547596028,0.0344001329307239
+322,GazeCorrection:Self-Guided Eye Manipulation in the wild using Self-Supervised Generative Adversarial Networks,Image-Images,1710,2019,10,1906.00805v1,0.0898067561182901,0.11187095030216984
+323,Self-supervised Body Image Acquisition Using a Deep Neural Network for Sensorimotor Prediction,Image-Images,1720,2019,10,1906.00825v1,-0.02847585608675693,0.280685871703671
+324,From Words to Sentences: A Progressive Learning Approach for Zero-resource Machine Translation with Visual Pivots,Image-Images,1730,2019,10,1906.00872v1,0.13198097168685505,0.24282822375235044
+325,User Traffic Prediction for Proactive Resource Management: Learning-Powered Approaches,Learning-Deep,1740,2019,12,1906.00951v1,-0.005909638230535294,0.2921167804350933
+326,Probabilistic Existence Results for Parent-Identifying Schemes,Systems-Information,1750,2019,3,1906.01031v1,-0.21589361605461246,-0.12983944120306407
+327,Neural networks grown and self-organized by noise,Networks-Neural,1760,2019,0,1906.01039v1,-0.14390242443720558,0.1940955098176923
+328,A Surprising Density of Illusionable Natural Speech,Speech-Recognition,1770,2019,9,1906.01040v3,0.02935964542024659,-0.03974836433885085
+329,On Romeo and Juliet Problems: Minimizing Distance-to-Sight,Problem-Algorithm,1780,2019,18,1906.01114v1,-0.3916716392786444,-0.09870188743153813
+330,Analysis and Improvement of Adversarial Training in DQN Agents With Adversarially-Guided Exploration (AGE),Adversarial-Attacks,1790,2019,14,1906.01119v1,-0.025612837608083486,0.11652642836614463
+331,Adversarial Exploitation of Policy Imitation,Adversarial-Attacks,1800,2019,14,1906.01121v1,0.09348909132790748,0.1291553258009423
+332,Sequential Triggers for Watermarking of Deep Reinforcement Learning Policies,Learning-Deep,1810,2019,12,1906.01126v1,0.07206077944835024,0.3064996517076514
+333,A Review of Automated Speech and Language Features for Assessment of Cognitive and Thought Disorders,Speech-Recognition,1820,2019,9,1906.01157v2,0.08496376632721438,-0.18469078169109177
+334,Transfer Learning with intelligent training data selection for prediction of Alzheimer's Disease,Text-Datasets,1830,2019,5,1906.01160v1,0.19858742673440385,0.27339576796521986
+335,Resolving Gendered Ambiguous Pronouns with BERT,Task-Tasks,1840,2019,15,1906.01161v2,0.01626729337159641,-0.0800096635177947
+336,Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs,Model-Models,1850,2019,6,1906.01195v1,0.006448863956063282,0.08922259780985115
+337,Anonymity Network Tor and Performance Analysis of ARANEA; an IOT Based Privacy-Preserving Router,User-Users,1860,2019,13,1906.01276v1,-0.04804191416658633,-0.03470834384735979
+338,Information Competing Process for Learning Diversified Representations,Task-Tasks,1870,2019,15,1906.01288v3,-0.01184566551290953,0.16240587415196597
+339,Optimal Unsupervised Domain Translation,Text-Datasets,1880,2019,5,1906.01292v1,-0.09600867889517342,-0.0361686416418884
+340,Rapidly-Exploring Quotient-Space Trees: Motion Planning using Sequential Simplifications,Problem-Algorithm,1890,2019,18,1906.01350v2,-0.20618271640759434,-0.03246429997410779
+341,Autonomous Reinforcement Learning of Multiple Interrelated Tasks,Task-Tasks,1900,2019,15,1906.01374v1,0.07174064239551699,0.1157750327962739
+342,Nemesyst: A Hybrid Parallelism Deep Learning-Based Framework Applied for Internet of Things Enabled Food Retailing Refrigeration Systems,Learning-Deep,1910,2019,12,1906.01600v2,0.1497907745464187,0.2563128906105324
+343,Neuromorphic Architecture Optimization for Task-Specific Dynamic Learning,Learning-Deep,1920,2019,12,1906.01668v1,0.005870867234991693,0.32937266043927393
+344,An Introduction to a New Text Classification and Visualization for Natural Language Processing Using Topological Data Analysis,Data-Model,1930,2019,8,1906.01726v1,0.15886139056869772,-0.04449534618759412
+345,Truncated Cauchy Non-negative Matrix Factorization,Text-Datasets,1940,2019,5,1906.00495v1,0.10131413302826316,0.03172311357547976
+346,Listening while Speaking and Visualizing: Improving ASR through Multimodal Chain,Speech-Recognition,1950,2019,9,1906.00579v3,0.15682507751993924,0.019986750156187432
+347,A Direct $\tilde{O}(1/ε)$ Iteration Parallel Algorithm for Optimal Transport,Problem-Algorithm,1960,2019,18,1906.00618v1,-0.3874621971008327,-0.013328646161174684
+348,Computing Valid p-values for Image Segmentation by Selective Inference,Image-Images,1970,2019,10,1906.00629v2,-0.15909006350218322,-0.003036735974514546
+349,The Adversarial Machine Learning Conundrum: Can The Insecurity of ML Become The Achilles' Heel of Cognitive Networks?,Adversarial-Attacks,1980,2019,14,1906.00679v1,-0.0062730120534787775,0.19975215936466126
+350,Hierarchical Decision Making by Generating and Following Natural Language Instructions,Llms-Language,1990,2019,4,1906.00744v5,0.24025557835862305,-0.2625097228352146
+351,Effects of Packet Loss and Jitter on VoLTE Call Quality,Systems-Information,2000,2019,3,1906.00750v1,-0.03232615478345167,0.003305725942668384
+352,RL4health: Crowdsourcing Reinforcement Learning for Knee Replacement Pathway Optimization,Learning-Deep,2010,2019,12,1906.01407v1,-0.0933824228550879,0.13397034818350317
+353,Knowledge-augmented Column Networks: Guiding Deep Learning with Advice,Learning-Deep,2020,2019,12,1906.01432v1,0.1962004023457182,0.25181960198786707
+354,Options as responses: Grounding behavioural hierarchies in multi-agent RL,Task-Tasks,2030,2019,15,1906.01470v3,-0.006502681895270859,0.1739686235073243
+355,Embedded hyper-parameter tuning by Simulated Annealing,Systems-Information,2040,2019,3,1906.01504v1,-0.1423203308624337,0.07442300996136647
+356,Text-based Editing of Talking-head Video,Visual-Video,2050,2019,16,1906.01524v1,-0.030890282657790643,-0.023251710775626325
+357,Privacy-preserving Crowd-guided AI Decision-making in Ethical Dilemmas,Ai-Systems,2060,2019,11,1906.01562v2,0.021401579750582957,-0.1286006625170491
+358,"Gamification of Enterprise Systems: A Synthesis of Mechanics, Dynamics, and Risks",User-Users,2070,2019,13,1906.01577v1,-0.09525935021343182,-0.14748313138598387
+359,DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds,Networks-Neural,2330,2018,0,1811.11397v2,-0.06256147654318239,0.14696994265195332
+360,Efficient Architecture-Aware Acceleration of BWA-MEM for Multicore Systems,Data-Model,2090,2019,8,1907.12931v1,-0.009704245475422146,-0.0812291480182799
+361,Learning through Probing: a decentralized reinforcement learning architecture for social dilemmas,Learning-Deep,2350,2018,12,1809.10007v2,0.059162130631950506,0.3354030638372851
+362,Finding Social Media Trolls: Dynamic Keyword Selection Methods for Rapidly-Evolving Online Debates,Detection-Based,2110,2019,1,1911.05332v2,-0.01102189803190514,-0.0854189592992926
+363,A Generative Model of Textures Using Hierarchical Probabilistic Principal Component Analysis,Model-Models,2370,2018,6,1810.06892v1,0.08693124900782667,0.025638379859794554
+364,Flip Distance to some Plane Configurations,Problem-Algorithm,2130,2019,18,1905.00791v1,-0.23989785133421948,-0.1194276990381836
+365,A Statistically Principled and Computationally Efficient Approach to Speech Enhancement using Variational Autoencoders,Speech-Recognition,2140,2019,9,1905.01209v2,0.030408655658234657,-0.01731595773718801
+366,Unsupervised Attention-guided Image to Image Translation,Image-Images,2400,2018,10,1806.02311v3,0.022451110083655947,0.02636095873835414
+367,Program Synthesis from Visual Specification,User-Users,2410,2018,13,1806.00938v1,-0.19288084044386117,-0.12661332377186904
+368,"Lagrange Coded Computing: Optimal Design for Resiliency, Security and Privacy",Systems-Information,2420,2018,3,1806.00939v4,-0.09942926839001844,0.011767246515115378
+369,A Game-Theoretic Approach to Recommendation Systems with Strategic Content Providers,Systems-Information,2430,2018,3,1806.00955v3,-0.09793082663521603,-0.08788560647468224
+370,Automatic Clustering of a Network Protocol with Weakly-Supervised Clustering,Networks-Neural,2440,2018,0,1806.00981v1,-0.09712732875609335,0.11414323979205188
+371,iFair: Learning Individually Fair Data Representations for Algorithmic Decision Making,Task-Tasks,2450,2018,15,1806.01059v2,0.06365147320367102,0.14865267054985218
+372,Analysis of Search Stratagem Utilisation,Systems-Information,2460,2018,3,1806.05259v1,-0.12272083816586157,-0.11073494080152638
+373,Apuntes de Redes Neuronales Artificiales,Networks-Neural,2470,2018,0,1806.05298v1,-0.14386656152285662,0.33849553900492585
+374,Convergence of Learning Dynamics in Information Retrieval Games,Learning-Deep,2480,2018,12,1806.05359v3,0.006180235198565269,0.18869392495822762
+375,ServeNet: A Deep Neural Network for Web Services Classification,Learning-Deep,2490,2018,12,1806.05437v3,0.0642164845337846,0.42724474890452147
+376,NetScore: Towards Universal Metrics for Large-scale Performance Analysis of Deep Neural Networks for Practical On-Device Edge Usage,Networks-Neural,2500,2018,0,1806.05512v2,-0.036520767502595274,0.3045316905311664
+377,Generative Neural Machine Translation,Model-Models,2510,2018,6,1806.05138v1,0.219788044872376,0.08889182535927086
+378,Generating Sentences Using a Dynamic Canvas,Text-Datasets,2520,2018,5,1806.05178v1,0.045085181085386436,-0.017426335747439094
+379,Market-Oriented Information Trading in Internet of Things (IoT) for Smart Cities,Systems-Information,2530,2018,3,1806.05583v1,-0.0909457089449158,-0.11725085155751896
+380,GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations,Task-Tasks,2540,2018,15,1806.05662v3,0.07345953554839968,0.07509945624202137
+381,Next generation portal for federated testbeds MySlice v2: from prototype to production,Systems-Information,2550,2018,3,1806.04467v1,-0.09947540725244772,-0.11349087733181126
+382,Combining Model-Free Q-Ensembles and Model-Based Approaches for Informed Exploration,Model-Models,2560,2018,6,1806.04552v1,0.09949162612016546,0.0966469282392567
+383,Directory Reconciliation,Communication-Networks,2570,2018,17,1807.09686v1,-0.23055970433014655,-0.1335619208539287
+384,Coreset-Based Neural Network Compression,Networks-Neural,2580,2018,0,1807.09810v1,-0.14503208599219464,0.2557147581899766
+385,Proceedings of the 9th International Workshop on Physics and Computation,Systems-Information,2590,2018,3,1807.10563v1,-0.032693447707233037,-0.17608295477538088
+386,LiDAR and Camera Detection Fusion in a Real Time Industrial Multi-Sensor Collision Avoidance System,Detection-Based,2600,2018,1,1807.10573v1,-0.009522824048842327,0.20703702987593198
+387,Combining Restricted Boltzmann Machines with Neural Networks for Latent Truth Discovery,Networks-Neural,2610,2018,0,1807.10680v1,-0.16093912060631643,0.0920237019427314
+388,FPGA-Based CNN Inference Accelerator Synthesized from Multi-Threaded C Software,Systems-Information,2620,2018,3,1807.10695v1,0.037991449158615444,-0.03757008060530389
+389,Bisimilarity Distances for Approximate Differential Privacy,Systems-Information,2630,2018,3,1807.10015v2,-0.04572636084656278,-0.117952229214646
+390,Domain Robust Feature Extraction for Rapid Low Resource ASR Development,Speech-Recognition,2640,2018,9,1807.10984v2,0.1518671177229969,-0.104768189724937
+391,A Benchmark of Selected Algorithmic Differentiation Tools on Some Problems in Computer Vision and Machine Learning,Learning-Deep,2650,2018,12,1807.10129v1,-0.029319060001309353,0.08919700632371097
+392,A Parity Game Tale of Two Counters,Problem-Algorithm,2660,2018,18,1807.10210v3,-0.29166492142971306,-0.06777883956465519
+393,Clause Vivification by Unit Propagation in CDCL SAT Solvers,Systems-Information,2670,2018,3,1807.11061v1,-0.07631331098776573,0.08000975940120636
+394,ReenactGAN: Learning to Reenact Faces via Boundary Transfer,Text-Datasets,2680,2018,5,1807.11079v1,-0.026626873828757253,0.14558172808235972
+395,Towards Automatic Speech Identification from Vocal Tract Shape Dynamics in Real-time MRI,Speech-Recognition,2690,2018,9,1807.11089v1,0.016734919087813743,0.08460195426082961
+396,A Survey of Machine and Deep Learning Methods for Internet of Things (IoT) Security,Systems-Information,2700,2018,3,1807.11023v1,-0.038698475526995776,0.022637993299097735
+397,Discriminative multi-view Privileged Information learning for image re-ranking,Image-Images,2710,2018,10,1808.04437v1,0.01675189413595156,0.11357440138601282
+398,Character-Level Language Modeling with Deeper Self-Attention,Model-Models,2720,2018,6,1808.04444v2,0.13852140371809157,-0.052890804138385976
+399,Low Rank Regularization: A Review,Systems-Information,2730,2018,3,1808.04521v3,0.023656067707273635,0.04432038147742655
+400,Proceedings Combined 25th International Workshop on Expressiveness in Concurrency and 15th Workshop on Structural Operational Semantics,Systems-Information,2740,2018,3,1808.08071v1,0.14914299786266574,-0.22254508655039656
+401,Looking for a Black Cat in a Dark Room: Security Visualization for Cyber-Physical System Design and Analysis,Systems-Information,1750,2018,3,1808.08081v2,-0.06990441924109439,-0.09285277114463
+402,Different but Equal: Comparing User Collaboration with Digital Personal Assistants vs. Teams of Expert Agents,User-Users,1760,2018,13,1808.08157v1,-0.09165473283363298,-0.1259530999360503
+403,Data Motifs: A Lens Towards Fully Understanding Big Data and AI Workloads,Ai-Systems,1770,2018,11,1808.08512v1,0.18104643452259586,-0.15672357878539006
+404,SOTER: A Runtime Assurance Framework for Programming Safe Robotics Systems,Systems-Information,1780,2018,3,1808.07921v3,0.010750876103707948,-0.09663685906809615
+405,Exploring Shared Structures and Hierarchies for Multiple NLP Tasks,Task-Tasks,1790,2018,15,1808.07658v1,0.06235129865263448,0.1621432973248196
+406,Improving Information Extraction from Images with Learned Semantic Models,Visual-Video,1800,2018,16,1808.08941v1,0.18506099972122278,0.028563616812989318
+407,Water Disaggregation via Shape Features based Bayesian Discriminative Sparse Coding,Model-Models,1810,2018,6,1808.08951v1,0.06668960878457689,0.13393145294350212
+408,Behavior Trees as a Representation for Medical Procedures,Systems-Information,1820,2018,3,1808.08954v1,0.097918807845932,-0.14836299668334538
+409,A Systematic Approach to Programming,Problem-Algorithm,1830,2018,18,1808.08989v3,-0.13425163492727235,-0.03405827115678994
+410,Downstream Effects of Affirmative Action,Systems-Information,1840,2018,3,1808.09004v1,-0.05452487804039785,-0.05831627132790206
+411,SOLAR: Deep Structured Representations for Model-Based Reinforcement Learning,Model-Models,1850,2018,6,1808.09105v4,0.1770521208257983,0.2632305681128377
+412,Learning Models for Shared Control of Human-Machine Systems with Unknown Dynamics,User-Users,1860,2018,13,1808.08268v1,0.02768061347179138,-0.06570732778521557
+413,An elementary introduction to information geometry,Systems-Information,1870,2018,3,1808.08271v2,-0.10985772629161678,-0.09925885582606096
+414,Deep multiscale convolutional feature learning for weakly supervised localization of chest pathologies in X-ray images,Image-Images,1880,2018,10,1808.08280v1,0.08925472302970539,0.33055953196486826
+415,Augmenting Bottleneck Features of Deep Neural Network Employing Motor State for Speech Recognition at Humanoid Robots,Speech-Recognition,1890,2018,9,1808.08702v1,-0.015190140093578422,0.21066223595646272
+416,Efficient Crowd Exploration of Large Networks: The Case of Causal Attribution,Networks-Neural,1900,2018,0,1810.03163v1,-0.06537854559017564,0.15264069096027114
+417,Unsupervised Neural Word Segmentation for Chinese via Segmental Language Modeling,Model-Models,1910,2018,6,1810.03167v1,0.25120552695954623,-0.11876058787168896
+418,Task-Embedded Control Networks for Few-Shot Imitation Learning,Task-Tasks,1920,2018,15,1810.03237v1,0.05302663794073548,0.1730798957975121
+419,Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning,Image-Images,1930,2018,10,1810.03043v1,0.1490137804625436,0.222888293336106
+420,CSI-Net: Unified Human Body Characterization and Pose Recognition,Detection-Based,1940,2018,1,1810.03064v2,0.00646909213722073,0.06408092683032306
+421,On the Inner Product Predicate and a Generalization of Matching Vector Families,Problem-Algorithm,1950,2018,18,1810.02396v1,-0.34749551992408106,-0.11193787349745737
+422,Prototyping Formal System Models with Active Objects,Model-Models,1960,2018,6,1810.02470v1,0.15410885554973675,-0.1976827745985646
+423,Unfolding of Finite Concurrent Automata,Graph-Graphs,1970,2018,2,1810.02471v1,-0.2945447388952812,-0.19019305082081925
+424,Meeting Real-Time Constraint of Spectrum Management in TV Black-Space Access,Networks-Neural,1980,2018,0,1810.02474v3,-0.17661681228151077,0.04855368479878552
+425,Hands-Free One-Time and Continuous Authentication Using Glass Wearable Devices,User-Users,1990,2018,13,1810.02496v1,-0.131324984063587,-0.1160328907852605
+426,Learning To Simulate,Data-Model,2000,2018,8,1810.02513v2,0.2788165533674084,0.24798377636315636
+427,Where Did My Optimum Go?: An Empirical Analysis of Gradient Descent Optimization in Policy Gradient Methods,Learning-Deep,2010,2018,12,1810.02525v1,-0.07036206709041189,0.2429983895536853
+428,Hows and Whys of Artificial Intelligence for Public Sector Decisions: Explanation and Evaluation,Ai-Systems,2020,2018,11,1810.02689v2,0.035891158651964856,-0.0705983494353287
+429,Human Indignity: From Legal AI Personhood to Selfish Memes,Ai-Systems,2030,2018,11,1810.02724v1,0.055936194012180626,-0.2568137023274062
+430,Alpha Entanglement Codes: Practical Erasure Codes to Archive Data in Unreliable Environments,Data-Model,2040,2018,8,1810.02974v1,0.06977633724074586,-0.06815335753847646
+431,Security Analysis of Deep Neural Networks Operating in the Presence of Cache Side-Channel Attacks,Adversarial-Attacks,2050,2018,14,1810.03487v4,0.0354588317822338,0.22041058914010897
+432,A Droplet Approach Based on Raptor Codes for Distributed Computing With Straggling Servers,Problem-Algorithm,2060,2018,18,1810.03488v1,-0.2505819805378027,0.025429644988767507
+433,Fundamental Limits of Covert Bit Insertion in Packets,Communication-Networks,2070,2018,17,1810.03510v1,-0.20329286473649233,-0.0772688479666878
+434,Episodic Curiosity through Reachability,Text-Datasets,2080,2018,5,1810.02274v5,-0.11085399047629224,0.08098487731634146
+435,Unsupervised Learning via Meta-Learning,Learning-Deep,2090,2018,12,1810.02334v6,0.20423062310490434,0.3897353025171567
+436,Transfer Learning via Unsupervised Task Discovery for Visual Question Answering,Visual-Video,2100,2018,16,1810.02358v2,0.08512767158841757,-0.05242472329051124
+437,Randen - fast backtracking-resistant random generator with AES+Feistel+Reverie,Problem-Algorithm,2110,2018,18,1810.02227v1,-0.22347473547973057,-0.09129011373485198
+438,Optimizing Waiting Thresholds Within A State Machine,Problem-Algorithm,2120,2018,18,1810.03278v1,-0.16298464586031955,-0.050046309761980205
+439,Geared Rotationally Identical and Invariant Convolutional Neural Network Systems,Networks-Neural,2130,2018,0,1808.01280v3,-0.06908745957842975,0.0492664294448264
+440,Large Scale Language Modeling: Converging on 40GB of Text in Four Hours,Text-Datasets,2140,2018,5,1808.01371v2,0.1879730604751471,0.054080418325724876
+441,Audio Tagging With Connectionist Temporal Classification Model Using Sequential Labelled Data,Systems-Information,2150,2018,3,1808.01935v1,-0.02569594057390003,0.03874632011593177
+442,Adversarial Vision Challenge,Adversarial-Attacks,2160,2018,14,1808.01976v2,0.02587137231736558,0.030769911562866094
+443,The system of cloud oriented learning tools as an element of educational and scientific environment of high school,Learning-Deep,2170,2018,12,1808.02081v1,0.0350890716211316,0.20163472664438647
+444,Learning to Share and Hide Intentions using Information Regularization,Learning-Deep,2180,2018,12,1808.02093v2,-0.013632079858798846,0.14324158962015177
+445,Structure Learning for Relational Logistic Regression: An Ensemble Approach,Learning-Deep,2190,2018,12,1808.02123v1,-0.015732825759730087,0.33478709706607473
+446,Multivariant Assertion-based Guidance in Abstract Interpretation,Systems-Information,2200,2018,3,1808.05197v3,-0.10706409848730485,-0.05617783670075974
+447,Improved Chord Recognition by Combining Duration and Harmonic Language Models,Model-Models,2210,2018,6,1808.05335v1,0.32342836184273005,-0.1291430469939077
+448,Identifying Implementation Bugs in Machine Learning based Image Classifiers using Metamorphic Testing,Learning-Deep,2220,2018,12,1808.05353v1,0.06249453610525263,0.15778572769067062
+449,On the Decision Boundary of Deep Neural Networks,Networks-Neural,2230,2018,0,1808.05385v3,0.10633852584047435,0.3902467387153766
+450,Evaluation of team dynamic in Norwegian projects for IT students,Task-Tasks,2240,2018,15,1808.05473v1,0.03148334847307352,-0.09195256905945091
+451,Why did the shape of your network change? (On detecting network anomalies via non-local curvatures),Detection-Based,2250,2018,1,1808.05676v3,-0.17558130834039087,0.13067031581267075
+452,The DALPHI annotation framework & how its pre-annotations can improve annotator efficiency,Task-Tasks,2260,2018,15,1808.05558v1,0.1739951146625829,0.09585831631593442
+453,Improved Language Modeling by Decoding the Past,Text-Datasets,2270,2018,5,1808.05908v4,0.07822605912190225,-0.06695919752659446
+454,CBinfer: Exploiting Frame-to-Frame Locality for Faster Convolutional Network Inference on Video Streams,Networks-Neural,2280,2018,0,1808.05488v2,-0.0756761762682484,0.2050149023728126
+455,A Serverless Tool for Platform Agnostic Computational Experiment Management,Data-Model,2290,2018,8,1809.07693v1,0.07642768594884562,-0.06737415533773491
+456,On the Fly Orchestration of Unikernels: Tuning and Performance Evaluation of Virtual Infrastructure Managers,Networks-Neural,2300,2018,0,1809.07701v1,-0.03542956727991825,0.06959286333805993
+457,Attacking Similarity-Based Link Prediction in Social Networks,Problem-Algorithm,2310,2018,18,1809.08368v2,-0.23893385043521131,0.06453507951641954
+458,The Struggle is Real: Analyzing Ground Truth Data of TLS (Mis-)Configurations,Communication-Networks,2320,2018,17,1809.08817v1,-0.08485781787032631,-0.07923041212642494
+459,Robotics Rights and Ethics Rules,Systems-Information,2330,2018,3,1809.08885v1,-0.03989819446394021,-0.1074952528452979
+460,Neural network approach to classifying alarming student responses to online assessment,Networks-Neural,2340,2018,0,1809.08899v1,-0.019766566343963777,0.1290867661322559
+461,Language Identification with Deep Bottleneck Features,Speech-Recognition,2350,2018,9,1809.08909v2,0.05021075062901334,0.25223724757096866
+462,Understanding Compressive Adversarial Privacy,Data-Model,2360,2018,8,1809.08911v2,0.08953848569500798,0.02899292384950183
+463,Context-Aware Systems for Sequential Item Recommendation,Networks-Neural,2370,2018,0,1809.08922v2,-0.047089077326825685,0.11661784241369336
+464,Target Transfer Q-Learning and Its Convergence Analysis,Learning-Deep,2380,2018,12,1809.08923v1,-0.012451902190279251,0.24282931631623686
+465,Lexical Bias In Essay Level Prediction,Model-Models,2390,2018,6,1809.08935v1,0.011510479432139047,0.09039393587549593
+466,Shouji: A Fast and Efficient Pre-Alignment Filter for Sequence Alignment,Systems-Information,2400,2018,3,1809.07858v4,-0.07063858788742451,-0.042522643701049155
+467,"Modalities, Cohesion, and Information Flow",Systems-Information,2410,2018,3,1809.07897v2,-0.04963846084269816,-0.1490513448762301
+468,Predicting the Programming Language of Questions and Snippets of StackOverflow Using Natural Language Processing,Systems-Information,2420,2018,3,1809.07954v1,0.13067062319385703,-0.21084293739335538
+469,Human activity recognition based on time series analysis using U-Net,Networks-Neural,2430,2018,0,1809.08113v1,-0.030616259509140046,0.1573554983642049
+470,Constructing Hard Examples for Graph Isomorphism,Graph-Graphs,2440,2018,2,1809.08154v2,-0.3087879802190633,-0.10953809949992824
+471,Domain Adaptation for Robot Predictive Maintenance Systems,Problem-Algorithm,2450,2018,18,1809.08626v3,-0.08389591855794107,0.06258179003705296
+472,Application of Machine Learning in Wireless Networks: Key Techniques and Open Issues,Communication-Networks,2460,2018,17,1809.08707v2,-0.013362451141411867,0.0534032279161167
+473,A Survey of Conventional and Artificial Intelligence / Learning based Resource Allocation and Interference Mitigation Schemes in D2D Enabled Networks,Communication-Networks,2470,2018,17,1809.08748v1,-0.06263933593722686,-0.020719911709344768
+474,DynaSOAr: Accelerating Single-Method Multiple-Objects Applications on GPUs,Text-Datasets,2480,2018,5,1809.07444v2,-0.025970163523992278,0.006942300355222202
+475,Conv-TasNet: Surpassing Ideal Time-Frequency Magnitude Masking for Speech Separation,Speech-Recognition,2490,2018,9,1809.07454v3,-0.07600087612754601,0.05926295760482097
+476,WiRe57 : A Fine-Grained Benchmark for Open Information Extraction,Systems-Information,2500,2018,3,1809.08962v2,-0.11296550410542837,-0.14508227783560027
+477,On The Utility of Conditional Generation Based Mutual Information for Characterizing Adversarial Subspaces,Adversarial-Attacks,2510,2018,14,1809.08986v1,-0.00900880091956146,0.12923543544731952
+478,SDN Flow Entry Management Using Reinforcement Learning,Learning-Deep,2520,2018,12,1809.09003v1,-0.13719962783954587,0.31774501528760263
+479,Deep Confidence: A Computationally Efficient Framework for Calculating Reliable Errors for Deep Neural Networks,Networks-Neural,2530,2018,0,1809.09060v1,0.01394164391693236,0.3773097135007838
+480,Understanding Tor Usage with Privacy-Preserving Measurement,User-Users,2540,2018,13,1809.08481v1,-0.09024680292025951,-0.08399107545991454
+481,Hard to Solve Instances of the Euclidean Traveling Salesman Problem,Problem-Algorithm,2550,2018,18,1808.02859v3,-0.2924374227101659,-0.12033305561979478
+482,Secret Sharing with Binary Shares,Systems-Information,2560,2018,3,1808.02974v3,-0.172888870293029,-0.0961888880492964
+483,Safe Stream-Based Programming with Refinement Types,Systems-Information,2570,2018,3,1808.02998v1,-0.014187010581080756,-0.06675392906106935
+484,Leveraging Motion Priors in Videos for Improving Human Segmentation,Learning-Deep,2580,2018,12,1807.11436v1,0.11119813679655231,0.2268792365374667
+485,Fair Packing and Covering on a Relative Scale,Problem-Algorithm,2590,2018,18,1808.02517v3,-0.22566125501948167,-0.07685378052659958
+486,Multi-robot Dubins Coverage with Autonomous Surface Vehicles,Problem-Algorithm,2600,2018,18,1808.02552v1,-0.19385753595014074,-0.02700841211459353
+487,Application of End-to-End Deep Learning in Wireless Communications Systems,Learning-Deep,2610,2018,12,1808.02394v1,0.06304208082941704,0.30126484326171404
+488,VerIDeep: Verifying Integrity of Deep Neural Networks through Sensitive-Sample Fingerprinting,Model-Models,2620,2018,6,1808.03277v2,0.17364013244076681,0.26306245816798424
+489,Optimizing error of high-dimensional statistical queries under differential privacy,Text-Datasets,2630,2018,5,1808.03537v1,-0.058838218185747436,0.0041481784361608745
+490,Code-division multiplexed resistive pulse sensor networks for spatio-temporal detection of particles in microfluidic devices,Networks-Neural,2640,2018,0,1808.03388v1,-0.11701632098938293,0.11062882235483827
+491,Regular omega-Languages with an Informative Right Congruence,Systems-Information,2650,2018,3,1809.03108v1,0.04875628062912772,-0.28948272196389474
+492,Certified Adversarial Robustness with Additive Noise,Adversarial-Attacks,2660,2018,14,1809.03113v6,0.2331218872925471,0.15548827291620973
+493,Memristive LSTM network hardware architecture for time-series predictive modeling problem,Networks-Neural,2670,2018,0,1809.03119v1,-0.14183784868690535,0.17668919487670176
+494,LensKit for Python: Next-Generation Software for Recommender System Experiments,Systems-Information,2680,2018,3,1809.03125v4,0.015988412181357967,-0.12927307202497218
+495,Shallow vs deep learning architectures for white matter lesion segmentation in the early stages of multiple sclerosis,Learning-Deep,2690,2018,12,1809.03185v1,0.035896625627982084,0.2631624013372258
+496,Action-conditional Sequence Modeling for Recommendation,User-Users,2700,2018,13,1809.03291v1,-0.07709288211784264,-0.05006950322786937
+497,Deep Learning Towards Mobile Applications,Learning-Deep,2710,2018,12,1809.03559v1,0.1317984388074368,0.34345191699992456
+498,Out-of-Distribution Detection Using an Ensemble of Self Supervised Leave-out Classifiers,Detection-Based,2720,2018,1,1809.03576v1,0.033071334189113455,0.19127574991907847
+499,Visualization of High-dimensional Scalar Functions Using Principal Parameterizations,3D-Images,2730,2018,7,1809.03618v1,-0.00866694315238168,0.03562351435949552
+500,Answering Visual What-If Questions: From Actions to Predicted Scene Descriptions,Systems-Information,2740,2018,3,1809.03707v2,-0.006694330738580687,-0.037892891710155606
+501,Hyperspectral Image Reconstruction via Combinatorial Embedding of Cross-Channel Spatio-Spectral Clues,Image-Images,500,2023,10,2312.11119v1,-0.01835203537264802,0.09453417934968329
+502,Rapid Open-World Adaptation by Adaptation Principles Learning,Task-Tasks,510,2023,15,2312.11138v1,0.05509609075638077,0.1655879500739393
+503,CDRH Seeks Public Comment: Digital Health Technologies for Detecting Prediabetes and Undiagnosed Type 2 Diabetes,Ai-Systems,520,2023,11,2312.11226v1,0.041931172521058026,-0.13119155475657907
+504,Leveraging Normalization Layer in Adapters With Progressive Learning and Adaptive Distillation for Cross-Domain Few-Shot Learning,Learning-Deep,530,2023,12,2312.11260v1,0.1336719151342793,0.1810772625992512
+505,Student as an Inherent Denoiser of Noisy Teacher,Model-Models,540,2023,6,2312.10185v1,0.3625497334275375,-0.05691817923176821
+506,SoloPose: One-Shot Kinematic 3D Human Pose Estimation with Video Data Augmentation,3D-Images,550,2023,7,2312.10195v1,0.12558650602674643,-0.04213207996894269
+507,VoCopilot: Voice-Activated Tracking of Everyday Interactions,User-Users,560,2023,13,2312.10265v1,0.0521852859069422,-0.04331151269448338
+508,ACCL+: an FPGA-Based Collective Engine for Distributed Applications,Communication-Networks,570,2023,17,2312.11742v1,-0.055911244258072826,0.021084166428811748
+509,Tokenization Matters: Navigating Data-Scarce Tokenization for Gender Inclusive Language Technologies,Llms-Language,580,2023,4,2312.11779v3,0.3166605493938411,-0.21518721566430588
+510,IKT-BT: Indirect Knowledge Transfer Behavior Tree Framework for Multi-Robot Systems Through Communication Eavesdropping,Communication-Networks,590,2023,17,2312.11802v1,-0.06512597021015092,-0.0796572308034071
+511,Root Cause Explanation of Outliers under Noisy Mechanisms,Text-Datasets,600,2023,5,2312.11818v1,-0.09416402610760072,0.061146506715261145
+512,SimCalib: Graph Neural Network Calibration based on Similarity between Nodes,Graph-Graphs,610,2023,2,2312.11858v1,-0.20772278259991656,0.07933283499967722
+513,Punctuation restoration Model and Spacing Model for Korean Ancient Document,Model-Models,620,2023,6,2312.11881v1,0.33690254450431695,-0.05558799166473725
+514,Hierarchical and Incremental Structural Entropy Minimization for Unsupervised Social Event Detection,Detection-Based,630,2023,1,2312.11891v1,-0.21935966809443788,-0.0037555618883017643
+515,Logic-Scaffolding: Personalized Aspect-Instructed Recommendation Explanation Generation using LLMs,Llms-Language,640,2023,4,2312.14345v2,0.2649224848186617,-0.34519770036958697
+516,Don't Believe Everything You Read: Enhancing Summarization Interpretability through Automatic Identification of Hallucinations in Large Language Models,Llms-Language,650,2023,4,2312.14346v2,0.3625437815403881,-0.257160256747122
+517,PC-Conv: Unifying Homophily and Heterophily with Two-fold Filtering,Graph-Graphs,660,2023,2,2312.14438v1,-0.25064095434224515,-0.041468768788367756
+518,Adaptive Differential Evolution with Diversification: Addressing Optimization Challenges,Systems-Information,670,2023,3,2312.14464v1,-0.10404685126670389,-0.03507496201361847
+519,Language Model is a Branch Predictor for Simultaneous Machine Translation,Model-Models,680,2023,6,2312.14488v1,0.1402527232317966,-0.0645811060752624
+520,Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks,Systems-Information,690,2023,3,2312.14499v2,-0.043551514096677915,0.049856536372404524
+521,"Concurrent Asynchronous Byzantine Agreement in Expected-Constant Rounds, Revisited",Problem-Algorithm,700,2023,18,2312.14506v1,-0.20929997928410715,-0.08631106864684572
+522,Unsupervised Harmonic Parameter Estimation Using Differentiable DSP and Spectral Optimal Transport,Networks-Neural,710,2023,0,2312.14507v3,-0.05691963067524842,0.0942192418284452
+523,Poincaré Differential Privacy for Hierarchy-Aware Graph Embedding,Graph-Graphs,720,2023,2,2312.12183v3,-0.10204742986349406,-0.032797006562760155
+524,CUDC: A Curiosity-Driven Unsupervised Data Collection Method with Adaptive Temporal Distances for Offline Reinforcement Learning,Task-Tasks,730,2023,15,2312.12191v1,0.1870559798381596,0.2407128184533438
+525,Instruct-SCTG: Guiding Sequential Controlled Text Generation through Instructions,Text-Datasets,740,2023,5,2312.12299v1,0.229641152789507,-0.2439222154746568
+526,Secure Information Embedding in Images with Hybrid Firefly Algorithm,Image-Images,750,2023,10,2312.13519v1,-0.20012234849630328,0.029398555581823093
+527,Structure-Aware Path Inference for Neural Finite State Transducers,Model-Models,760,2023,6,2312.13614v1,0.12792946280649023,0.026846212055937353
+528,Navigating the Structured What-If Spaces: Counterfactual Generation via Structured Diffusion,Model-Models,770,2023,6,2312.13616v1,0.18839565470308492,0.04095768332015261
+529,Integration Of Evolutionary Automated Machine Learning With Structural Sensitivity Analysis For Composite Pipelines,Learning-Deep,780,2023,12,2312.14770v1,-0.04650548593960698,0.1617539230400458
+530,ROS package search for robot software development: a knowledge graph-based approach,Image-Images,790,2023,10,2312.14781v1,-0.06615512802316077,-0.08495611797471637
+531,Robust Knowledge Extraction from Large Language Models using Social Choice Theory,Llms-Language,800,2023,4,2312.14877v2,0.12119841590046486,-0.2207107689052657
+532,Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning,Ai-Systems,810,2023,11,2312.14878v1,0.1996519512273302,-0.20453040895009605
+533,Liquid State Genetic Programming,Problem-Algorithm,820,2023,18,2312.14942v1,-0.17061086263250846,-0.010372853919879256
+534,AsyncMLD: Asynchronous Multi-LLM Framework for Dialogue Recommendation System,Systems-Information,830,2023,3,2312.13925v1,0.02605882711792402,-0.17226888568504525
+535,Efficient quantum algorithms for some instances of the semidirect discrete logarithm problem,Problem-Algorithm,840,2023,18,2312.14028v1,-0.43958585999888805,-0.07208457231472781
+536,Polynomial Time Convergence of the Iterative Evaluation of Datalogo Programs,Problem-Algorithm,850,2023,18,2312.14063v2,-0.15776991528007042,-0.11295843349239053
+537,Large Language Models in Medical Term Classification and Unexpected Misalignment Between Response and Reasoning,Llms-Language,860,2023,4,2312.14184v1,0.2909408297792931,-0.3021656384950033
+538,Auto311: A Confidence-guided Automated System for Non-emergency Calls,Systems-Information,870,2023,3,2312.14185v2,-0.095884213958863,-0.0763969302891081
+539,Illuminating the Black Box: A Psychometric Investigation into the Multifaceted Nature of Large Language Models,Llms-Language,880,2023,4,2312.14202v1,0.27174115109374253,-0.2884740154174756
+540,HElium: A Language and Compiler for Fully Homomorphic Encryption with Support for Proxy Re-Encryption,Data-Model,890,2023,8,2312.14250v1,0.10894770479603573,-0.11341679096597801
+541,WellFactor: Patient Profiling using Integrative Embedding of Healthcare Data,Data-Model,900,2023,8,2312.14129v1,0.15402747914067558,0.044192618866975
+542,QuadAttack: A Quadratic Programming Approach to Ordered Top-K Attacks,Adversarial-Attacks,910,2023,14,2312.11510v1,0.006734536289271091,0.20320428162311546
+543,Maatphor: Automated Variant Analysis for Prompt Injection Attacks,Adversarial-Attacks,920,2023,14,2312.11513v1,0.12700252152814392,-0.11556471412059904
+544,Analysing user sentiment data for architectural interior spaces,User-Users,930,2023,13,2312.11519v1,0.035464331844037245,-0.1106652482943539
+545,Large Language Models are Complex Table Parsers,Text-Datasets,940,2023,5,2312.11521v1,0.156884718911011,-0.1672886429842225
+546,ToViLaG: Your Visual-Language Generative Model is Also An Evildoer,Visual-Video,950,2023,16,2312.11523v1,0.28313450444902244,-0.2025047642119591
+547,ABiMed: An intelligent and visual clinical decision support system for medication reviews and polypharmacy management,Visual-Video,960,2023,16,2312.11526v1,0.03593319039461036,-0.05711752952525366
+548,Probabilistic Offline Policy Ranking with Approximate Bayesian Computation,Problem-Algorithm,970,2023,18,2312.11551v1,-0.0690349262328852,0.025098341007632162
+549,SeGA: Preference-Aware Self-Contrastive Learning with Prompts for Anomalous User Detection on Twitter,User-Users,980,2023,13,2312.11553v1,0.05294238587640652,0.0013739415426478124
+550,Regularized Conditional Alignment for Multi-Domain Text Classification,Text-Datasets,990,2023,5,2312.11572v1,0.15506823526778388,0.09059720800631452
+551,Emotion Based Prediction in the Context of Optimized Trajectory Planning for Immersive Learning,Learning-Deep,1000,2023,12,2312.11576v2,0.06341323326499108,0.3198655247368521
+552,SkillDiffuser: Interpretable Hierarchical Planning via Skill Abstractions in Diffusion-Based Task Execution,Task-Tasks,1010,2023,15,2312.11598v3,0.12183384993913533,0.029562513709197002
+553,HAAR: Text-Conditioned Generative Model of 3D Strand-based Human Hairstyles,3D-Images,1020,2023,7,2312.11666v1,0.1281217669488021,-0.07804728460570315
+554,A debiasing technique for place-based algorithmic patrol management,Data-Model,1030,2023,8,2401.06162v1,0.15292943321968033,-0.05075669915692291
+555,Can Transformers Learn Sequential Function Classes In Context?,Task-Tasks,1040,2023,15,2312.12655v2,0.07103650678890314,0.018041038761337384
+556,On the Role of Server Momentum in Federated Learning,Learning-Deep,1050,2023,12,2312.12670v1,-0.06017512133622396,0.057953146397938415
+557,Optimizing Distributed Training on Frontier for Large Language Models,Llms-Language,1060,2023,4,2312.12705v2,0.36121467663474466,-0.17010338047531282
+558,CONCSS: Contrastive-based Context Comprehension for Dialogue-appropriate Prosody in Conversational Speech Synthesis,Speech-Recognition,1070,2023,9,2312.10358v1,0.06432637358494463,0.08672648195433032
+559,Proportional Representation in Metric Spaces and Low-Distortion Committee Selection,Text-Datasets,1080,2023,5,2312.10369v2,-0.09448301658200489,-0.09047658523015532
+560,Lecture Notes in Probabilistic Diffusion Models,Data-Model,1090,2023,8,2312.10393v1,0.32480297975250283,-0.029048231910795006
+561,Rethinking Dimensional Rationale in Graph Contrastive Learning from Causal Perspective,Graph-Graphs,1100,2023,2,2312.10401v3,-0.11481017935370899,0.17036985460213128
+562,Fractional Deep Reinforcement Learning for Age-Minimal Mobile Edge Computing,Problem-Algorithm,1110,2023,18,2312.10418v2,-0.21152223382027963,0.11893402112888825
+563,RIGHT: Retrieval-augmented Generation for Mainstream Hashtag Recommendation,Image-Images,1120,2023,10,2312.10466v1,0.09358101064771379,-0.05423188807471282
+564,A new method color MS-BSIF Features learning for the robust kinship verification,Learning-Deep,1130,2023,12,2312.10482v1,0.10717515949429125,0.32573070303846546
+565,Revealing Networks: Understanding Effective Teacher Practices in AI-Supported Classrooms using Transmodal Ordered Network Analysis,Ai-Systems,1140,2023,11,2312.10826v1,0.1610003890675134,0.17209126496932495
+566,Minimal Macro-Based Rewritings of Formal Languages: Theory and Applications in Ontology Engineering (and beyond),Problem-Algorithm,1150,2023,18,2312.10857v1,-0.2295154300487346,-0.12874758977112719
+567,Auditable Algorithms for Approximate Model Counting,Problem-Algorithm,1160,2023,18,2312.12362v1,-0.31629566154659494,-0.14956572645302668
+568,What Makes Pre-Trained Visual Representations Successful for Robust Manipulation?,Visual-Video,1170,2023,16,2312.12444v1,0.19160596539093797,0.1287909427914731
+569,When Parameter-efficient Tuning Meets General-purpose Vision-language Models,Text-Datasets,1180,2023,5,2312.12458v1,0.20882638131513867,-0.1608194232145614
+570,A Study on Social Robot Behavior in Group Conversation,Systems-Information,1190,2023,3,2312.12473v2,-0.07721043726130274,-0.16619084526588887
+571,Adaptive Guidance: Training-free Acceleration of Conditional Diffusion Models,Networks-Neural,1200,2023,0,2312.12487v1,0.08411324485044518,0.05904423324039309
+572,H-ensemble: An Information Theoretic Approach to Reliable Few-Shot Multi-Source-Free Transfer,Task-Tasks,1210,2023,15,2312.12489v1,0.06602932204815574,0.09793011491338299
+573,Orientation-Constrained System for Lamp Detection in Buildings Based on Computer Vision,Systems-Information,1220,2023,3,2312.11380v1,-0.052026444922490665,0.04448682574423349
+574,Verb Categorisation for Hindi Word Problem Solving,Problem-Algorithm,1230,2023,18,2312.11395v1,-0.2484168451134352,-0.17653893277891153
+575,Mend the gap: A smart repair algorithm for noisy polygonal tilings,Problem-Algorithm,1240,2023,18,2312.11415v1,-0.3230050541034672,-0.06187274777253048
+576,Social Learning: Towards Collaborative Learning with Large Language Models,Llms-Language,1250,2023,4,2312.11441v2,0.2949501467261843,-0.11009439574348986
+577,GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning,3D-Images,1260,2023,7,2312.11461v2,0.0359193708151304,0.14272145306038617
+578,The Public Algorithms Survey in Allegheny County,Systems-Information,1270,2023,3,2312.11497v1,-0.09872299989685353,-0.12419012710773776
+579,Red AI? Inconsistent Responses from GPT3.5 Models on Political Issues in the US and China,Llms-Language,1280,2023,4,2312.09917v1,0.3515436741051183,-0.33143666122990273
+580,Data and Approaches for German Text simplification -- towards an Accessibility-enhanced Communication,Text-Datasets,1290,2023,5,2312.09966v1,0.23224025823790015,-0.14230726751278241
+581,Understanding Probe Behaviors through Variational Bounds of Mutual Information,Systems-Information,1300,2023,3,2312.10019v1,-0.003945231157434532,-0.023282897726387787
+582,A Generic Stochastic Hybrid Car-following Model Based on Approximate Bayesian Computation,Model-Models,1310,2023,6,2312.10042v1,0.1949816423398942,-0.020714637574383386
+583,Deep Metric Learning for Computer Vision: A Brief Overview,Learning-Deep,1320,2023,12,2312.10046v1,0.14785686483658717,0.41830218836928273
+584,Dynamic Collaborative Filtering for Matrix- and Tensor-based Recommender Systems,Data-Model,1330,2023,8,2312.10064v1,0.08533626376565806,-0.015827868103467677
+585,Casual Social Media Use among the Youth: Effects on Online and Offline Political Participation,User-Users,1340,2023,13,2312.10095v1,-0.07742713754151823,-0.13845140096735403
+586,ShuttleSHAP: A Turn-Based Feature Attribution Approach for Analyzing Forecasting Models in Badminton,Model-Models,1350,2023,6,2312.10942v1,0.18096688080595666,0.04647630768660501
+587,Leveraged Mel spectrograms using Harmonic and Percussive Components in Speech Emotion Recognition,Speech-Recognition,1360,2023,9,2312.10949v1,0.008387603694668691,0.0995400513463628
+588,Inducing Point Operator Transformer: A Flexible and Scalable Architecture for Solving PDEs,Text-Datasets,1370,2023,5,2312.10975v1,0.003622648370346845,0.05363238773532317
+589,Frequency Spectrum is More Effective for Multimodal Representation and Fusion: A Multimodal Spectrum Rumor Detector,Detection-Based,1380,2023,1,2312.11023v1,0.0062004809221207005,0.08165277124311682
+590,MISA: Unveiling the Vulnerabilities in Split Federated Learning,Learning-Deep,1390,2023,12,2312.11026v2,0.14920659871603084,0.1897512840128661
+591,Exact ASP Counting with Compact Encodings,Model-Models,1400,2023,6,2312.11936v1,0.0043990460622582,-0.06639583272550133
+592,Stability of Multi-Agent Learning in Competitive Networks: Delaying the Onset of Chaos,Learning-Deep,1410,2023,12,2312.11943v1,-0.02081969447835687,0.4091522515824966
+593,Fluctuation-based Adaptive Structured Pruning for Large Language Models,Llms-Language,1420,2023,4,2312.11983v1,0.2618679022614554,-0.20840488280802136
+594,Synergistic Anchored Contrastive Pre-training for Few-Shot Relation Extraction,Task-Tasks,1430,2023,15,2312.12021v3,0.16969642374683555,0.013789082003986246
+595,HyperPIE: Hyperparameter Information Extraction from Scientific Publications,Llms-Language,1440,2023,4,2312.10638v2,0.18503748995290534,-0.1963698419737104
+596,Faithful Model Explanations through Energy-Constrained Conformal Counterfactuals,Model-Models,1450,2023,6,2312.10648v1,0.29074706817281326,-0.024502417241915486
+597,Practical Non-Intrusive GUI Exploration Testing with Visual-based Robotic Arms,Systems-Information,1460,2023,3,2312.10655v1,-0.06621745581823166,-0.08042129655677625
+598,"Cross-Linguistic Offensive Language Detection: BERT-Based Analysis of Bengali, Assamese, & Bodo Conversational Hateful Content from Social Media",Speech-Recognition,1470,2023,9,2312.10528v1,0.08385783680051773,-0.1740553010447519
+599,Theoretical Aspects of Generating Instances with Unique Solutions: Pre-assignment Models for Unique Vertex Cover,Problem-Algorithm,1480,2023,18,2312.10599v1,-0.47896468831134553,-0.10571152148135293
+600,Voxceleb-ESP: preliminary experiments detecting Spanish celebrities from their voices,Detection-Based,1490,2023,1,2401.09441v1,0.07677343384419094,-0.08523292372034613
+601,CRD: Collaborative Representation Distance for Practical Anomaly Detection,Image-Images,500,2023,10,2401.09443v1,0.002015149969803231,0.095071114036245
+602,Voila-A: Aligning Vision-Language Models with User's Gaze Attention,User-Users,510,2023,13,2401.09454v1,0.22317694385387837,-0.21051748284725394
+603,MBTFNet: Multi-Band Temporal-Frequency Neural Network For Singing Voice Enhancement,Speech-Recognition,520,2023,9,2310.04369v1,0.09043417460292569,0.1439301874211138
+604,A Brief History of Prompt: Leveraging Language Models. (Through Advanced Prompting),Ai-Systems,530,2023,11,2310.04438v2,0.2908273847438605,-0.24867816534079518
+605,Human Mobility Question Answering (Vision Paper),Systems-Information,540,2023,3,2310.04443v2,0.11211371891646459,-0.10440603147235529
+606,Mean-field games among teams,Systems-Information,550,2023,3,2310.12282v1,-0.0859491564224165,-0.1087453865769924
+607,Compiler Testing With Relaxed Memory Models,Systems-Information,560,2023,3,2310.12337v3,0.06478450366733306,-0.05809727827013651
+608,Eliminating Reasoning via Inferring with Planning: A New Framework to Guide LLMs' Non-linear Thinking,Llms-Language,570,2023,4,2310.12342v2,0.17245922567257962,-0.27621743304079477
+609,Classification-Aided Robust Multiple Target Tracking Using Neural Enhanced Message Passing,Networks-Neural,580,2023,0,2310.12407v1,-0.07714862036107942,0.22435405509975256
+610,Descriptive Knowledge Graph in Biomedical Domain,Graph-Graphs,590,2023,2,2310.11681v1,-0.09173693758035982,-0.1793731746904726
+611,Runner re-identification from single-view running video in the open-world setting,Image-Images,600,2023,10,2310.11700v2,0.007962133307691348,0.05079104776868942
+612,Learning Co-Speech Gesture for Multimodal Aphasia Type Detection,Speech-Recognition,610,2023,9,2310.11710v2,0.034524992485022464,0.13794850043314325
+613,Quantifying Self-diagnostic Atomic Knowledge in Chinese Medical Foundation Model: A Computational Analysis,Data-Model,620,2023,8,2310.11722v3,0.08279951728693437,-0.09854947062716403
+614,Telecom AI Native Systems in the Age of Generative AI -- An Engineering Perspective,Ai-Systems,630,2023,11,2310.11770v1,0.1843312871756957,-0.34962548880688593
+615,De novo protein design using geometric vector field networks,Model-Models,640,2023,6,2310.11802v1,-0.011428763988114465,0.06181417101576011
+616,Classic machine learning methods,Learning-Deep,650,2023,12,2310.11470v1,-0.016048052582498664,0.26042212869992903
+617,Contracting Tsetlin Machine with Absorbing Automata,Learning-Deep,660,2023,12,2310.11481v1,0.043098382051145336,0.16967901020400877
+618,GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment,Image-Images,670,2023,10,2310.11513v1,0.23994116520237854,-0.11914089462610578
+619,Bias and Error Mitigation in Software-Generated Data: An Advanced Search and Optimization Framework Leveraging Generative Code Models,Systems-Information,680,2023,3,2310.11546v1,0.10689768447817764,-0.21521526831761567
+620,Eliciting Human Preferences with Language Models,User-Users,690,2023,13,2310.11589v1,0.2595297261154211,-0.2660729745247379
+621,FreSh: A Lock-Free Data Series Index,Data-Model,700,2023,8,2310.11602v1,0.18329007329341776,0.05307082196010961
+622,Free-text Keystroke Authentication using Transformers: A Comparative Study of Architectures and Loss Functions,Text-Datasets,710,2023,5,2310.11640v1,0.04049908364359338,0.10329971641049286
+623,On the Benefit of Generative Foundation Models for Human Activity Recognition,Ai-Systems,720,2023,11,2310.12085v1,0.3407777480213935,-0.2859923438740854
+624,A comprehensible analysis of the efficacy of Ensemble Models for Bug Prediction,Ai-Systems,730,2023,11,2310.12133v1,0.16486051400112448,-0.24917930204712757
+625,Hybrid Quantum-Classical Machine Learning for Sentiment Analysis,Learning-Deep,740,2023,12,2310.10672v1,0.08306352144005595,0.09649919529447963
+626,PS-AAS: Portfolio Selection for Automated Algorithm Selection in Black-Box Optimization,Problem-Algorithm,750,2023,18,2310.10685v1,-0.3011976519569732,-0.032681832976018364
+627,Reusing Pretrained Models by Multi-linear Operators for Efficient Training,Model-Models,760,2023,6,2310.10699v1,0.18317416736091613,-0.07425813376401222
+628,Optimized Tokenization for Transcribed Error Correction,Speech-Recognition,770,2023,9,2310.10704v1,0.2546494040038688,-0.09577606103503074
+629,Demystifying Poisoning Backdoor Attacks from a Statistical Perspective,Adversarial-Attacks,780,2023,14,2310.10780v2,0.12477719462703515,0.08143145049745076
+630,If the Sources Could Talk: Evaluating Large Language Models for Research Assistance in History,Llms-Language,790,2023,4,2310.10808v1,0.2940763562659779,-0.31041589012818743
+631,The Invisible Map: Visual-Inertial SLAM with Fiducial Markers for Smartphone-based Indoor Navigation,3D-Images,800,2023,7,2310.10862v1,-0.1863293416253589,-0.048440139175945966
+632,EXMODD: An EXplanatory Multimodal Open-Domain Dialogue dataset,Data-Model,810,2023,8,2310.10967v1,0.3193932878366556,-0.1044741178969656
+633,Why Do Students Drop Out? University Dropout Prediction and Associated Factor Analysis Using Machine Learning Techniques,Data-Model,820,2023,8,2310.10987v1,0.19995251542723486,0.16632894516066898
+634,Fast Graph Condensation with Structure-based Neural Tangent Kernel,Graph-Graphs,830,2023,2,2310.11046v2,-0.15379801570837895,0.004730949810802798
+635,United We Stand: Using Epoch-wise Agreement of Ensembles to Combat Overfit,Networks-Neural,840,2023,0,2310.11077v2,0.1434515866462319,0.2369210070376713
+636,Learning from Red Teaming: Gender Bias Provocation and Mitigation in Large Language Models,Llms-Language,850,2023,4,2310.11079v1,0.1866979985518509,-0.16784959456665582
+637,Analyzing Behavior and User Experience in Online Museum Virtual Tours,User-Users,860,2023,13,2310.11176v1,-0.06364153096120623,-0.17913649779044039
+638,Learning Comprehensive Representations with Richer Self for Text-to-Image Person Re-Identification,Image-Images,870,2023,10,2310.11210v1,0.11117476148513364,0.04813332734758872
+639,An empirical study of automatic wildlife detection using drone thermal imaging and object detection,Detection-Based,880,2023,1,2310.11257v1,0.04748250703752601,0.021003013454786956
+640,Evaluating the Fairness of Discriminative Foundation Models in Computer Vision,Task-Tasks,890,2023,15,2310.11867v1,0.17989411293334423,-0.04956243054784218
+641,AI Nushu: An Exploration of Language Emergence in Sisterhood -Through the Lens of Computational Linguistics,Ai-Systems,900,2023,11,2310.11870v1,0.11861897038450585,-0.31027892152127395
+642,Improving Generalization of Alignment with Human Preferences through Group Invariant Learning,Data-Model,910,2023,8,2310.11971v3,0.3621684051067242,0.06887754341374433
+643,InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation,Text-Datasets,920,2023,5,2310.11976v1,0.13518152312957696,-0.13400968478350972
+644,Multi-view Contrastive Learning for Entity Typing over Knowledge Graphs,Task-Tasks,930,2023,15,2310.12008v1,-0.05923906864472583,0.03473708500551453
+645,An Adaptive Framework of Geographical Group-Specific Network on O2O Recommendation,User-Users,940,2023,13,2312.17072v1,-0.016022383340104678,-0.05929143618386537
+646,Generalizable Visual Reinforcement Learning with Segment Anything Model,Visual-Video,950,2023,16,2312.17116v1,0.19558770960618962,0.14095804729740843
+647,"Probabilistic programming interfaces for random graphs: Markov categories, graphons, and nominal sets",Graph-Graphs,960,2023,2,2312.17127v1,-0.16415663371125766,-0.23414633894514758
+648,Probabilistic Programming with Exact Conditions,Systems-Information,970,2023,3,2312.17141v1,-0.02797293321769274,-0.2418005941579755
+649,Securing NextG Systems against Poisoning Attacks on Federated Learning: A Game-Theoretic Solution,Adversarial-Attacks,980,2023,14,2312.17164v1,0.14947376690812503,0.20636955245704036
+650,Can Active Sampling Reduce Causal Confusion in Offline Reinforcement Learning?,Learning-Deep,990,2023,12,2312.17168v1,0.2203958039445694,0.19350286862505267
+651,Enhancing Quantitative Reasoning Skills of Large Language Models through Dimension Perception,Llms-Language,1000,2023,4,2312.17532v1,0.23907669126572667,-0.3011669453269336
+652,Olapa-MCoT: Enhancing the Chinese Mathematical Reasoning Capability of LLMs,Llms-Language,1010,2023,4,2312.17535v1,0.08593170244688653,-0.1693690764885739
+653,Distance Guided Generative Adversarial Network for Explainable Binary Classifications,Image-Images,1020,2023,10,2312.17538v1,0.05877935193916704,0.08468405304944188
+654,Darwin3: A large-scale neuromorphic chip with a Novel ISA and On-Chip Learning,Networks-Neural,1030,2023,0,2312.17582v1,-0.023194475940531308,0.17356958725342791
+655,User Strategization and Trustworthy Algorithms,User-Users,1040,2023,13,2312.17666v1,-0.11615938040244224,-0.11854217014996189
+656,AIJack: Let's Hijack AI! Security and Privacy Risk Simulator for Machine Learning,Learning-Deep,1050,2023,12,2312.17667v2,0.1945568476471454,0.08404776336017383
+657,The six ways to build trust and reduce privacy concern in a Central Bank Digital Currency (CBDC),Systems-Information,1060,2023,3,2312.17708v1,-0.02235184930602883,-0.13348258358172624
+658,Leveraging Partial Symmetry for Multi-Agent Reinforcement Learning,Task-Tasks,1070,2023,15,2401.00167v1,-0.006546904064988073,0.09018998917885222
+659,Transformer Multivariate Forecasting: Less is More?,Text-Datasets,1080,2023,5,2401.00230v2,0.19680811153406635,-0.05664241849833019
+660,Matching of Users and Creators in Two-Sided Markets with Departures,User-Users,1090,2023,13,2401.00313v3,-0.19914784067116975,-0.15461426232682066
+661,RASP for LSASS: Preventing Mimikatz-Related Attacks,Systems-Information,1100,2023,3,2401.00316v1,-0.08954959560698891,-0.07669257620080826
+662,Rediscovering Ranganathan: A Prismatic View of His Life through the Knowledge Graph Spectrum,Graph-Graphs,1110,2023,2,2401.03343v2,-0.11655475038144934,-0.10221936130665843
+663,Grant-Free Power Allocation for Ultra-Dense Internet of Things Environments: A Mean-Field Perspective,Systems-Information,1120,2023,3,2402.00008v1,-0.008064648971281396,0.027694320188567507
+664,Choosing the Right Path for AI Integration in Engineering Companies: A Strategic Guide,Ai-Systems,1130,2023,11,2402.00011v1,0.046126916885667814,-0.22388759215909024
+665,Maintaining User Trust Through Multistage Uncertainty Aware Inference,Ai-Systems,1140,2023,11,2402.00015v2,0.009563667584210163,-0.08705928896287109
+666,Using Cooperative Game Theory to Prune Neural Networks,Networks-Neural,1150,2023,0,2311.10468v1,-0.10509847536268042,0.35653253920780553
+667,Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions,3D-Images,1160,2023,7,2311.13404v2,0.05031092956010132,-0.024636273175241148
+668,"Comparative Analysis of Linear Regression, Gaussian Elimination, and LU Decomposition for CT Real Estate Purchase Decisions",Text-Datasets,1170,2023,5,2311.13471v1,-0.08678661669795835,-0.003948600692574035
+669,Machine Translation to Control Formality Features in the Target Language,Llms-Language,1180,2023,4,2311.13475v1,0.31411129321775916,-0.20469918132671464
+670,Current Topological and Machine Learning Applications for Bias Detection in Text,Text-Datasets,1190,2023,5,2311.13495v1,0.3641154365161833,-0.0403124516164903
+671,A Survey of Serverless Machine Learning Model Inference,Ai-Systems,1200,2023,11,2311.13587v1,0.262758560659091,-0.014775437132157345
+672,Multimodal Data and Resource Efficient Device-Directed Speech Detection with Large Foundation Models,Data-Model,1210,2023,8,2312.03632v1,0.1944841246013553,-0.01779714152725676
+673,On the Role of Edge Dependency in Graph Generative Models,Graph-Graphs,1220,2023,2,2312.03691v1,0.09693619005352176,-0.18443985681726044
+674,Efficient Learning in Polyhedral Games via Best Response Oracles,Problem-Algorithm,1230,2023,18,2312.03696v1,-0.1856303454217964,0.02748912815017495
+675,"Comparative Analysis of ChatGPT, GPT-4, and Microsoft Bing Chatbots for GRE Test",Systems-Information,1240,2023,3,2312.03719v4,0.0006385505311559362,-0.07245370154836105
+676,Exploring the Robustness of Model-Graded Evaluations and Automated Interpretability,Model-Models,1250,2023,6,2312.03721v2,0.3220084587191587,-0.2180284848149891
+677,A Rank Stabilization Scaling Factor for Fine-Tuning with LoRA,Llms-Language,1260,2023,4,2312.03732v1,0.13065615361764524,-0.060347945309933176
+678,Easy Data Augmentation in Sentiment Analysis of Cyberbullying,User-Users,1270,2023,13,2312.03743v1,-0.00529840668967575,-0.009863028678786558
+679,Evaluating Large Language Model Creativity from a Literary Perspective,Llms-Language,1280,2023,4,2312.03746v1,0.19612679458520949,-0.2895248354260591
+680,Which linguistic cues make people fall for fake news? A comparison of cognitive and affective processing,User-Users,1290,2023,13,2312.03751v1,-0.05379452519292171,-0.1447395146509879
+681,Similarity-based Knowledge Transfer for Cross-Domain Reinforcement Learning,Task-Tasks,1300,2023,15,2312.03764v1,0.07244815020580166,0.0937278991306275
+682,GPT vs Human for Scientific Reviews: A Dual Source Review on Applications of ChatGPT in Science,Llms-Language,1310,2023,4,2312.03769v1,0.2006647494046255,-0.21995978819931788
+683,Sports Recommender Systems: Overview and Research Issues,Systems-Information,1320,2023,3,2312.03785v1,-0.0058021470928725045,-0.10958699695573049
+684,Generalization to New Sequential Decision Making Tasks with In-Context Learning,Task-Tasks,1330,2023,15,2312.03801v1,0.08958899162642889,0.06721293209678683
+685,Alpha-CLIP: A CLIP Model Focusing on Wherever You Want,Image-Images,1340,2023,10,2312.03818v2,0.24762616973414026,-0.10514226404631052
+686,Deliberative Technology for Alignment,Ai-Systems,1350,2023,11,2312.03893v1,0.031376402144189144,-0.24374101663222666
+687,Optimizing Closed Payment Networks on the Lightning Network: Dual Central Node Approach,Networks-Neural,1360,2023,0,2312.03920v1,-0.15514773636326606,0.14154638333834785
+688,Cost-Effective In-Context Learning for Entity Resolution: A Design Space Exploration,Task-Tasks,1370,2023,15,2312.03987v1,0.1124110490981426,-0.06108571319694163
+689,Detecting and Restoring Non-Standard Hands in Stable Diffusion Generated Images,Image-Images,1380,2023,10,2312.04236v1,0.07075501045425514,0.03880869722005276
+690,Towards Knowledge-driven Autonomous Driving,Task-Tasks,1390,2023,15,2312.04316v3,0.12482265309016456,-0.11335010756798176
+691,Accelerated Gradient Algorithms with Adaptive Subspace Search for Instance-Faster Optimization,Problem-Algorithm,1400,2023,18,2312.03218v1,-0.2627134516620772,-0.022284047612719567
+692,HEET: A Heterogeneity Measure to Quantify the Difference across Distributed Computing Systems,Systems-Information,1410,2023,3,2312.03235v1,-0.054370005958010524,0.031950573428749955
+693,A Simple Framework to Enhance the Adversarial Robustness of Deep Learning-based Intrusion Detection System,Adversarial-Attacks,1420,2023,14,2312.03245v1,0.19113139405811488,0.2468659486214817
+694,Can language agents be alternatives to PPO? A Preliminary Empirical Study On OpenAI Gym,Llms-Language,1430,2023,4,2312.03290v1,0.1518135056149987,-0.28159055843401054
+695,Deep Learning for Koopman-based Dynamic Movement Primitives,Systems-Information,1440,2023,3,2312.03328v1,-0.05686287224970084,0.09616334057641851
+696,Diffused Task-Agnostic Milestone Planner,Task-Tasks,1450,2023,15,2312.03395v1,0.0024845711635108647,0.08670259457611182
+697,MIMONets: Multiple-Input-Multiple-Output Neural Networks Exploiting Computation in Superposition,Networks-Neural,1460,2023,0,2312.02829v1,-0.003028356546126761,0.1996598905988058
+698,Exploring Error Bits for Memory Failure Prediction: An In-Depth Correlative Study,Text-Datasets,1470,2023,5,2312.02855v2,-0.05750399314780102,-0.0016155108903284122
+699,Experimental Insights Towards Explainable and Interpretable Pedestrian Crossing Prediction,Task-Tasks,1480,2023,15,2312.02872v1,0.01501448277332407,0.11011758970483747
+700,Perspectives from Naive Participants and Experienced Social Science Researchers on Addressing Embodiment in a Virtual Cyberball Task,User-Users,1490,2023,13,2312.02897v1,-0.07585308310592787,-0.1582529056226975
+701,MIND: Multi-Task Incremental Network Distillation,Learning-Deep,500,2023,12,2312.02916v2,0.1456361692719413,0.27571080053147984
+702,Diff-GO: Diffusion Goal-Oriented Communications to Achieve Ultra-High Spectrum Efficiency,Communication-Networks,510,2023,17,2312.02984v1,0.058140831015212995,-0.1265256590430114
+703,Advancing Web Accessibility -- A guide to transitioning Design Systems from WCAG 2.0 to WCAG 2.1,User-Users,520,2023,13,2312.02992v1,-0.0773194610860246,-0.17647869621655415
+704,"Deep Reinforcement Learning for Community Battery Scheduling under Uncertainties of Load, PV Generation, and Energy Prices",Problem-Algorithm,530,2023,18,2312.03008v1,-0.17993098567050358,0.16723066488597252
+705,"Crafting Realistic Virtual Humans: Unveiling Perspectives on Human Perception, Crowds, and Embodied Conversational Agents",User-Users,540,2023,13,2312.03428v1,-0.0009870961460558061,-0.15331781470119502
+706,From Detection to Action Recognition: An Edge-Based Pipeline for Robot Human Perception,Detection-Based,550,2023,1,2312.03477v1,0.07650967780809363,-0.036364142033297575
+707,Schrodinger Bridges Beat Diffusion Models on Text-to-Speech Synthesis,Speech-Recognition,560,2023,9,2312.03491v1,0.1861936944565237,-0.08510532376654398
+708,Active Wildfires Detection and Dynamic Escape Routes Planning for Humans through Information Fusion between Drones and Satellites,Problem-Algorithm,570,2023,18,2312.03519v1,-0.20215162600543218,0.015763610395117172
+709,On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm,Text-Datasets,580,2023,5,2312.03526v2,0.13840265930934312,0.10286930951257756
+710,GPT-4 Enhanced Multimodal Grounding for Autonomous Driving: Leveraging Cross-Modal Attention with Large Language Models,Visual-Video,590,2023,16,2312.03543v1,0.2969971238475951,-0.08506735192874068
+711,Personalized Face Inpainting with Diffusion Models by Parallel Visual Attention,Image-Images,600,2023,10,2312.03556v1,0.14865910548509714,-0.07426956879353515
+712,The sample complexity of multi-distribution learning,Learning-Deep,610,2023,12,2312.04027v2,-0.10123894975105749,0.15550121189656027
+713,Improved Face Representation via Joint Label Classification and Supervised Contrastive Clustering,Task-Tasks,620,2023,15,2312.04029v1,0.03878745653513701,0.025444960544636252
+714,VRPTEST: Evaluating Visual Referring Prompting in Large Multimodal Models,Visual-Video,630,2023,16,2312.04087v1,0.18473182028585589,-0.12672482942057353
+715,Augmentation-Free Dense Contrastive Knowledge Distillation for Efficient Semantic Segmentation,Image-Images,640,2023,10,2312.04168v1,0.11264560947294072,0.21794303021621117
+716,Language Model Knowledge Distillation for Efficient Question Answering in Spanish,Model-Models,650,2023,6,2312.04193v2,0.35812234169527146,-0.2642637332239607
+717,Learning Fair Division from Bandit Feedback,Learning-Deep,660,2023,12,2311.09068v1,-0.17995543090267282,0.08573257291312025
+718,Ever: Mitigating Hallucination in Large Language Models through Real-Time Verification and Rectification,Text-Datasets,670,2023,5,2311.09114v2,0.13298618025207892,-0.1945784394317445
+719,R-Spin: Efficient Speaker and Noise-invariant Representation Learning with Acoustic Pieces,Speech-Recognition,680,2023,9,2311.09117v2,0.0781086605607851,0.15989844550414373
+720,EduGym: An Environment and Notebook Suite for Reinforcement Learning Education,Learning-Deep,690,2023,12,2311.10590v2,-0.01854358796276599,0.1622171226255706
+721,Self-trained Panoptic Segmentation,Image-Images,700,2023,10,2311.10648v1,0.11289435990064303,0.09636049783432804
+722,PEFT-MedAware: Large Language Model for Medical Awareness,Model-Models,710,2023,6,2311.10697v1,0.38589820467939606,-0.1825359485720716
+723,Using linear initialisation to improve speed of convergence and fully-trained error in Autoencoders,Networks-Neural,720,2023,0,2311.10699v1,-0.023311111598683893,0.1638786336494766
+724,Should they? Mobile Biometrics and Technopolicy meet Queer Community Considerations,Data-Model,730,2023,8,2311.10725v1,0.13273902501264792,-0.15099674438711377
+725,AI-enhanced Auto-correction of Programming Exercises: How Effective is GPT-3.5?,Ai-Systems,740,2023,11,2311.10737v1,0.12842219145923606,-0.19059750337706424
+726,Safety-aware Causal Representation for Trustworthy Offline Reinforcement Learning in Autonomous Driving,Learning-Deep,750,2023,12,2311.10747v3,-0.00751379691759492,0.131372855886558
+727,Measuring Five Accountable Talk Moves to Improve Instruction at Scale,Model-Models,760,2023,6,2311.10749v1,0.12044212799986515,-0.08026273287270363
+728,On The Relationship Between Universal Adversarial Attacks And Sparse Representations,Adversarial-Attacks,770,2023,14,2311.08265v1,-0.07170596967223072,0.22148323488532676
+729,VERVE: Template-based ReflectiVE Rewriting for MotiVational IntErviewing,Text-Datasets,780,2023,5,2311.08299v2,0.05749637582100859,-0.026519564970110918
+730,The taste of IPA: Towards open-vocabulary keyword spotting and forced alignment in any language,Speech-Recognition,790,2023,9,2311.08323v2,0.09428868543981568,-0.15355353876439148
+731,Back to Basics: A Simple Recipe for Improving Out-of-Domain Retrieval in Dense Encoders,Text-Datasets,800,2023,5,2311.09765v1,0.19337718243941843,-0.01910004628667051
+732,SurvTimeSurvival: Survival Analysis On The Patient With Multiple Visits/Records,Data-Model,810,2023,8,2311.09854v1,0.1453341393932132,0.2056413245388499
+733,Contribution Evaluation in Federated Learning: Examining Current Approaches,Data-Model,820,2023,8,2311.09856v1,0.13381398836792788,0.09094016520429662
+734,The Software Genome Project: Venture to the Genomic Pathways of Open Source Software and Its Applications,Systems-Information,830,2023,3,2311.09881v1,-0.047671830562378975,-0.16523804033465403
+735,COMET: A Cross-Layer Optimized Optical Phase Change Main Memory Architecture,Text-Datasets,840,2023,5,2311.08566v1,-0.033493917751515605,-0.06333535396703194
+736,Multiple-Question Multiple-Answer Text-VQA,Text-Datasets,850,2023,5,2311.08622v1,0.06888960840638196,-0.04716059398148824
+737,Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing,Task-Tasks,860,2023,15,2311.08649v1,0.10655018712283489,-0.16459989028469532
+738,On the Calibration of Multilingual Question Answering LLMs,Llms-Language,870,2023,4,2311.08669v2,0.3086312065069986,-0.3196108617123587
+739,Scalable Federated Learning for Clients with Different Input Image Sizes and Numbers of Output Categories,Image-Images,880,2023,10,2311.08716v1,0.11376322592338066,0.38070708590085056
+740,Board-to-Board: Evaluating Moonboard Grade Prediction Generalization,Task-Tasks,890,2023,15,2311.12419v1,0.06424003743539627,0.15490856579240844
+741,How Far Have We Gone in Vulnerability Detection Using Large Language Models,Llms-Language,900,2023,4,2311.12420v3,0.24883647678422577,-0.11969346589003986
+742,MaskFlow: Object-Aware Motion Estimation,Text-Datasets,910,2023,5,2311.12476v1,-0.020006599074667182,0.16283012450720527
+743,Speaker-Adapted End-to-End Visual Speech Recognition for Continuous Spanish,Speech-Recognition,920,2023,9,2311.12480v1,0.017032880975544205,-0.05117172769434512
+744,ALPHA: AnomaLous Physiological Health Assessment Using Large Language Models,Llms-Language,930,2023,4,2311.12524v1,0.3221792445955998,-0.2849572406392947
+745,Oasis: Data Curation and Assessment System for Pretraining of Large Language Models,Data-Model,940,2023,8,2311.12537v1,0.3064826798156969,-0.11485130455889433
+746,A novel transformer-based approach for soil temperature prediction,Model-Models,950,2023,6,2311.11626v1,0.16865794108941043,0.05889869008693084
+747,MGCT: Mutual-Guided Cross-Modality Transformer for Survival Outcome Prediction using Integrative Histopathology-Genomic Features,Image-Images,960,2023,10,2311.11659v1,0.11208726876925318,0.22293580849680078
+748,A Large-Scale Car Parts (LSCP) Dataset for Lightweight Fine-Grained Detection,Detection-Based,970,2023,1,2311.11754v1,0.12307784246491373,-0.009981372520861417
+749,Responsible AI Research Needs Impact Statements Too,Ai-Systems,980,2023,11,2311.11776v1,0.04784422938141904,-0.24507082721013576
+750,PARK: Parkinson's Analysis with Remote Kinetic-tasks,User-Users,990,2023,13,2311.12654v1,-0.03757440940686579,-0.10903741185427203
+751,Causal Disentanglement for Regulating Social Influence Bias in Social Recommendation,User-Users,750,2024,13,2403.03578v1,-0.11644830147284736,-0.0833144655631136
+752,Wildest Dreams: Reproducible Research in Privacy-preserving Neural Network Training,Data-Model,760,2024,8,2403.03592v1,0.14301932560611363,0.06283379978803363
+753,A Survey on Applications of Reinforcement Learning in Spatial Resource Allocation,Learning-Deep,770,2024,12,2403.03643v2,-0.03413239799591921,0.08895252239096668
+754,General2Specialized LLMs Translation for E-commerce,Llms-Language,780,2024,4,2403.03689v2,0.20380918689794636,-0.14567642662526087
+755,In the Search of Optimal Tree Networks: Hardness and Heuristics,Communication-Networks,790,2024,17,2403.03724v1,-0.2121914727946208,0.11138087101103031
+756,Comprehensive evaluation of Mal-API-2019 dataset by machine learning in malware detection,Detection-Based,800,2024,1,2403.02232v2,0.1406591486456634,0.20461217730717038
+757,DaReNeRF: Direction-aware Representation for Dynamic Scenes,Systems-Information,810,2024,3,2403.02265v1,-0.019770560145752097,0.10611879321047636
+758,Human Robot Pacing Mismatch,Systems-Information,820,2024,3,2403.01542v1,0.024601015157610463,-0.1264532922785838
+759,IoT Device Labeling Using Large Language Models,Llms-Language,830,2024,4,2403.01586v1,0.14996596547130167,-0.139392754363851
+760,Measuring Technological Convergence in Encryption Technologies with Proximity Indices: A Text Mining and Bibliometric Analysis using OpenAlex,Text-Datasets,840,2024,5,2403.01601v1,-0.002047952192249848,-0.08750092082475265
+761,Representing Pedagogic Content Knowledge Through Rough Sets,Systems-Information,850,2024,3,2403.04772v2,0.01700970450430199,-0.1687812692011171
+762,Breaking the Language Barrier: Can Direct Inference Outperform Pre-Translation in Multilingual LLM Applications?,Systems-Information,860,2024,3,2403.04792v1,0.12398545940417918,-0.19591803832757476
+763,Found in the Middle: How Language Models Use Long Contexts Better via Plug-and-Play Positional Encoding,Llms-Language,870,2024,4,2403.04797v1,0.19424823061351126,-0.28475137043399334
+764,AI Literacy in Low-Resource Languages:Insights from creating AI in Yoruba videos,Ai-Systems,880,2024,11,2403.04799v1,0.08200805941760646,-0.28153668671259835
+765,Enhancing Security in Federated Learning through Adaptive Consensus-Based Model Update Validation,Learning-Deep,890,2024,12,2403.04803v1,0.11274430991137113,0.3012685360690913
+766,Control-based Graph Embeddings with Data Augmentation for Contrastive Learning,Graph-Graphs,900,2024,2,2403.04923v2,-0.20705065712477355,0.1624621010836503
+767,A spatiotemporal style transfer algorithm for dynamic visual stimulus generation,Visual-Video,910,2024,16,2403.04940v1,0.012194488212881128,0.0787955361749743
+768,MathScale: Scaling Instruction Tuning for Mathematical Reasoning,Llms-Language,920,2024,4,2403.02884v1,0.12795362211804737,-0.23019101039302775
+769,"Enhancing Long-Term Person Re-Identification Using Global, Local Body Part, and Head Streams",Image-Images,930,2024,10,2403.02892v1,-0.04785366408271911,0.10657244909731482
+770,Fuzzy Datalog$^\exists$ over Arbitrary t-Norms,Data-Model,940,2024,8,2403.02933v1,0.13730529468143515,-0.18230578494565466
+771,AdAM: Adaptive Fault-Tolerant Approximate Multiplier for Edge DNN Accelerators,Systems-Information,950,2024,3,2403.02936v1,-0.06572926756350227,0.030222779078794434
+772,AIx Speed: Playback Speed Optimization Using Listening Comprehension of Speech Recognition Models,Speech-Recognition,960,2024,9,2403.02938v1,-0.02333068260110316,-0.08174855055845137
+773,Modeling Collaborator: Enabling Subjective Vision Classification With Minimal Human Effort via LLM Tool-Use,Model-Models,970,2024,6,2403.02626v2,0.35068847905111716,-0.16149725514375912
+774,UFO: Uncertainty-aware LiDAR-image Fusion for Off-road Semantic Terrain Map Estimation,Image-Images,980,2024,10,2403.02642v1,0.08873695915794091,0.22197527455446503
+775,Finetuned Multimodal Language Models Are High-Quality Image-Text Data Filters,Data-Model,990,2024,8,2403.02677v1,0.36123450664561746,-0.10948784192182771
+776,Enhancing Generalization in Medical Visual Question Answering Tasks via Gradient-Guided Model Perturbation,Visual-Video,1000,2024,16,2403.02707v1,0.30825062388523283,0.018421416603152233
+777,HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?,Llms-Language,1010,2024,4,2403.02727v1,0.33892139957889245,-0.2116469484714179
+778,A Distance Metric Learning Model Based On Variational Information Bottleneck,Model-Models,1020,2024,6,2403.02794v1,0.05145609663190354,0.21470946291045503
+779,How Multimodal Integration Boost the Performance of LLM for Optimization: Case Study on Capacitated Vehicle Routing Problems,Problem-Algorithm,1030,2024,18,2403.01757v1,-0.11072786960499376,-0.11437132906323022
+780,Making Pre-trained Language Models Great on Tabular Prediction,Task-Tasks,1040,2024,15,2403.01841v2,0.23572964209945718,0.013448482643167744
+781,MTS: Bringing Multi-Tenancy to Virtual Networking,Communication-Networks,1050,2024,17,2403.01862v1,-0.09791102083781258,0.0027307250404943854
+782,DeepCRE: Transforming Drug R&D via AI-Driven Cross-drug Response Evaluation,Ai-Systems,1060,2024,11,2403.03768v3,0.1149443007954096,-0.19353806899073264
+783,A machine learning workflow to address credit default prediction,Data-Model,1070,2024,8,2403.03785v1,0.210140769468064,0.13758471189767885
+784,Effect of Ambient-Intrinsic Dimension Gap on Adversarial Vulnerability,Adversarial-Attacks,1080,2024,14,2403.03967v2,0.09465990244203405,0.07087187372365578
+785,FastPerson: Enhancing Video Learning through Effective Video Summarization that Preserves Linguistic and Visual Contexts,Visual-Video,1090,2024,16,2403.17727v1,-0.032463562855325846,0.01844857542823634
+786,EulerFormer: Sequential User Behavior Modeling with Complex Vector Attention,Image-Images,1100,2024,10,2403.17729v2,0.035550957031419125,-0.014747354099661493
+787,DataCook: Crafting Anti-Adversarial Examples for Healthcare Data Copyright Protection,Data-Model,1110,2024,8,2403.17755v1,0.34840898801103015,0.023322515361785125
+788,ArabicaQA: A Comprehensive Dataset for Arabic Question Answering,Llms-Language,1120,2024,4,2403.17848v1,0.23471515542481922,-0.28416977863523174
+789,Image-based Novel Fault Detection with Deep Learning Classifiers using Hierarchical Labels,Detection-Based,1130,2024,1,2403.17891v1,0.027364486505015113,0.2128250295561759
+790,GPTs and Language Barrier: A Cross-Lingual Legal QA Examination,Task-Tasks,1140,2024,15,2403.18098v1,0.057236058992555024,-0.14209498040858906
+791,Towards Explainable Clustering: A Constrained Declarative based Approach,Task-Tasks,1150,2024,15,2403.18101v1,0.04804580530732733,-0.011119760022801075
+792,HealthGAT: Node Classifications in Electronic Health Records using Graph Attention Networks,Data-Model,1160,2024,8,2403.18128v1,0.08212962018347335,0.0538204159430543
+793,AE SemRL: Learning Semantic Association Rules with Autoencoders,Data-Model,1170,2024,8,2403.18133v1,0.0984703185603823,0.15690074225863226
+794,Leak and Learn: An Attacker's Cookbook to Train Using Leaked Data from Federated Learning,Adversarial-Attacks,1180,2024,14,2403.18144v1,0.15829184610546182,0.11387124413417803
+795,DELTA: Pre-train a Discriminative Encoder for Legal Case Retrieval via Structural Word Alignment,Systems-Information,1190,2024,3,2403.18435v1,0.022296429949793424,-0.07004929276398214
+796,Impact of Employing Weather Forecast Data as Input to the Estimation of Evapotranspiration by Deep Neural Network Models,Data-Model,1200,2024,8,2403.18489v1,0.13918640913051067,0.14107485781983936
+797,"A Path Towards Legal Autonomy: An interoperable and explainable approach to extracting, transforming, loading and computing legal information using large language models, expert systems and Bayesian networks",Ai-Systems,1210,2024,11,2403.18537v1,0.12771682931754796,-0.2601233912311715
+798,Spikewhisper: Temporal Spike Backdoor Attacks on Federated Neuromorphic Learning over Low-power Devices,Adversarial-Attacks,1220,2024,14,2403.18607v1,-0.021775609793473007,0.2624916207131788
+799,"Antitrust, Amazon, and Algorithmic Auditing",Systems-Information,1230,2024,3,2403.18623v2,-0.08083196454468296,-0.022092805255180318
+800,Modelling the Raft Distributed Consensus Protocol in mCRL2,Problem-Algorithm,1240,2024,18,2403.18916v1,-0.38761016104084767,-0.1703205683657014
+801,"Robustness and Visual Explanation for Black Box Image, Video, and ECG Signal Classification with Reinforcement Learning",Image-Images,250,2024,10,2403.18985v2,0.12564334008980801,0.1930275828137354
+802,Towards Sustainable SecureML: Quantifying Carbon Footprint of Adversarial Machine Learning,Adversarial-Attacks,260,2024,14,2403.19009v1,0.015092665019471367,0.17517353752432968
+803,ReflectSumm: A Benchmark for Course Reflection Summarization,Text-Datasets,270,2024,5,2403.19012v2,0.09434793946558444,-0.035664361885090465
+804,AAPMT: AGI Assessment Through Prompt and Metric Transformer,Image-Images,280,2024,10,2403.19101v1,0.16393798373179488,-0.06012900907592671
+805,Synthetic Medical Imaging Generation with Generative Adversarial Networks For Plain Radiographs,Image-Images,290,2024,10,2403.19107v1,0.09075238157243934,0.017550305333161736
+806,MFORT-QA: Multi-hop Few-shot Open Rich Table Question Answering,Systems-Information,300,2024,3,2403.19116v1,0.09772296238470726,-0.1259349250447036
+807,"Annolid: Annotate, Segment, and Track Anything You Need",Systems-Information,310,2024,3,2403.18690v1,0.031032349495744578,0.0710196802951222
+808,Detection of subclinical atherosclerosis by image-based deep learning on chest x-ray,Ai-Systems,320,2024,11,2403.18756v1,0.14442459460004672,-0.015193360423515184
+809,ModaLink: Unifying Modalities for Efficient Image-to-PointCloud Place Recognition,Image-Images,330,2024,10,2403.18762v1,0.017326313095831693,0.05789522079348816
+810,Temporal Logic Formalisation of ISO 34502 Critical Scenarios: Modular Construction with the RSS Safety Distance,Systems-Information,340,2024,3,2403.18764v1,-0.04950627323773973,-0.013327829102476142
+811,RAW: A Robust and Agile Plug-and-Play Watermark Framework for AI-Generated Images with Provable Guarantees,Image-Images,350,2024,10,2403.18774v1,0.13920423045596778,0.08984077732492098
+812,Large Language Models Produce Responses Perceived to be Empathic,Llms-Language,360,2024,4,2403.18148v1,0.3826693391629359,-0.37664785249964683
+813,"Mistake, Manipulation and Margin Guarantees in Online Strategic Classification",Problem-Algorithm,370,2024,18,2403.18176v1,-0.20935680884745766,-0.024735433934081417
+814,Fourier or Wavelet bases as counterpart self-attention in spikformer for efficient visual classification,Visual-Video,380,2024,16,2403.18228v1,-0.0398969499460051,0.0807924413733952
+815,Exploring the Deceptive Power of LLM-Generated Fake News: A Study of Real-World Detection Challenges,Detection-Based,390,2024,1,2403.18249v2,0.18541137976787916,-0.11922500867692186
+816,Manipulating Neural Path Planners via Slight Perturbations,Networks-Neural,400,2024,0,2403.18256v1,-0.03230055649921851,0.16598564256189932
+817,Selective Mixup Fine-Tuning for Optimizing Non-Decomposable Objectives,Model-Models,410,2024,6,2403.18301v1,0.14937897781762677,0.02191480895193223
+818,Quantum Algorithms: A New Frontier in Financial Crime Prevention,Learning-Deep,420,2024,12,2403.18322v1,-0.07080563923337337,0.07477771668251386
+819,Generating Diverse Agricultural Data for Vision-Based Farming Applications,Data-Model,430,2024,8,2403.18351v1,0.28792533222535865,0.03903300155987149
+820,From Activation to Initialization: Scaling Insights for Optimizing Neural Fields,Networks-Neural,440,2024,0,2403.19205v1,-0.0871667554693934,0.2630322318492046
+821,Intelligent Classification and Personalized Recommendation of E-commerce Products Based on Machine Learning,User-Users,450,2024,13,2403.19345v1,-0.08050038788948284,-0.09829814642167588
+822,VDSC: Enhancing Exploration Timing with Value Discrepancy and State Counts,Systems-Information,460,2024,3,2403.17542v1,-0.009325468409724239,0.13724946787550218
+823,Parameterized Analysis of Bribery in Challenge the Champ Tournaments,Problem-Algorithm,470,2024,18,2403.17587v1,-0.3117153396182785,-0.08237341172491594
+824,Coimagining the Future of Voice Assistants with Cultural Sensitivity,User-Users,480,2024,13,2403.17599v1,-0.01927841320420898,-0.1593767969064526
+825,PruneSymNet: A Symbolic Neural Network and Pruning Algorithm for Symbolic Regression,Networks-Neural,490,2024,0,2401.15103v1,-0.22799306731925148,0.19275087438957486
+826,Efficient Online Crowdsourcing with Complex Annotations,Systems-Information,500,2024,3,2401.15116v1,-0.11374429645091125,-0.04781859910244476
+827,Interpreting Time Series Transformer Models and Sensitivity Analysis of Population Age Groups to COVID-19 Infections,Model-Models,510,2024,6,2401.15119v1,0.12423280748672652,0.10044633350354559
+828,Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection,Detection-Based,520,2024,1,2401.15123v1,0.10004278428394409,0.17885327117431618
+829,Transfer Learning for the Prediction of Entity Modifiers in Clinical Text: Application to Opioid Use Disorder Case Detection,Task-Tasks,530,2024,15,2401.15222v2,0.14836540836344114,0.12875450130507693
+830,Deep Learning with Tabular Data: A Self-supervised Approach,Data-Model,540,2024,8,2401.15238v1,0.26265632161659336,0.25883262455720313
+831,Adaptive Point Transformer,Model-Models,550,2024,6,2401.14845v1,0.15134804096102655,-0.04366948710094006
+832,Cross-Space Adaptive Filter: Integrating Graph Topology and Node Attributes for Alleviating the Over-smoothing Problem,Graph-Graphs,560,2024,2,2401.14876v2,-0.24655907907365313,0.0558212835503319
+833,Coca: Improving and Explaining Graph Neural Network-Based Vulnerability Detection Systems,Detection-Based,570,2024,1,2401.14886v1,-0.00982422221265163,0.09064031632177331
+834,Robust Dual-Modal Speech Keyword Spotting for XR Headsets,Speech-Recognition,580,2024,9,2401.14978v1,-0.02080447138691859,-0.06994451377477265
+835,Graph-based Active Learning for Entity Cluster Repair,Data-Model,590,2024,8,2401.14992v1,0.12888104897264538,0.18974750789995704
+836,Multi-Agent Coordination for a Partially Observable and Dynamic Robot Soccer Environment with Limited Communication,Communication-Networks,600,2024,17,2401.15026v1,-0.0757761405108459,-0.07747455696041214
+837,Distributed Simultaneous Localisation and Auto-Calibration using Gaussian Belief Propagation,Communication-Networks,610,2024,17,2401.15036v1,-0.09270469557376505,-0.024499564865011543
+838,Deep learning-based approach for tomato classification in complex scenes,Detection-Based,620,2024,1,2401.15055v1,0.026442010171135188,0.3125731882812161
+839,A Korean Legal Judgment Prediction Dataset for Insurance Disputes,Data-Model,630,2024,8,2401.14654v1,0.26865141631978146,-0.05165531247823796
+840,A safety risk assessment framework for children's online safety based on a novel safety weakness assessment approach,User-Users,640,2024,13,2401.14713v1,-0.09502767631610347,-0.11588083419682922
+841,Cyclic Group Projection for Enumerating Quasi-Cyclic Codes Trapping Sets,Systems-Information,650,2024,3,2401.14810v1,-0.07605566643474702,-0.006712505898953049
+842,DataFrame QA: A Universal LLM Framework on DataFrame Question Answering Without Data Exposure,Data-Model,660,2024,8,2401.15463v1,0.2910928857575142,-0.15129314596112142
+843,Data-Driven Estimation of the False Positive Rate of the Bayes Binary Classifier via Soft Labels,Problem-Algorithm,670,2024,18,2401.15500v1,-0.05944942101927004,0.04150400386083666
+844,Style-News: Incorporating Stylized News Generation and Adversarial Verification for Neural Fake News Detection,Networks-Neural,680,2024,0,2401.15509v1,0.07326127559968407,0.04888423583332048
+845,Intriguing Equivalence Structures of the Embedding Space of Vision Transformers,Model-Models,690,2024,6,2401.15568v1,0.1188635963018461,-0.07554964186049574
+846,RecDCL: Dual Contrastive Learning for Recommendation,Learning-Deep,700,2024,12,2401.15635v2,0.08847472435942974,0.21583628002013847
+847,Find the Cliffhanger: Multi-Modal Trailerness in Soap Operas,Task-Tasks,710,2024,15,2401.16076v1,-0.06456326508595456,-0.02563087602763419
+848,Fairness in Algorithmic Recourse Through the Lens of Substantive Equality of Opportunity,Ai-Systems,720,2024,11,2401.16088v1,-0.009197302286539233,-0.12118650914146291
+849,Neural Network Training on Encrypted Data with TFHE,Data-Model,730,2024,8,2401.16136v1,0.19719045609726712,0.24059080927569407
+850,A Survey on Structure-Preserving Graph Transformers,Graph-Graphs,740,2024,2,2401.16176v1,-0.20358635030897637,-0.10895905641240179
+851,LLaMandement: Large Language Models for Summarization of French Legislative Proposals,Llms-Language,750,2024,4,2401.16182v1,0.3148318438081834,-0.2238703465269505
+852,Computing High-Degree Polynomial Gradients in Memory,Problem-Algorithm,760,2024,18,2401.16204v1,-0.1981981607645264,0.026669247702397033
+853,A Comprehensive Survey of Compression Algorithms for Language Models,Llms-Language,770,2024,4,2401.15347v1,0.09189623476082268,-0.2938240570800398
+854,A microservice architecture for real-time IoT data processing: A reusable Web of things approach for smart ports,Systems-Information,780,2024,3,2401.15390v1,-0.03387299724514607,-0.026167091292228613
+855,A Survey on Data Augmentation in Large Model Era,Data-Model,790,2024,8,2401.15422v2,0.43347863621878785,-0.128287266367181
+856,GAPS: Geometry-Aware Problem Solver,Problem-Algorithm,800,2024,18,2401.16287v1,-0.10227229853499663,-0.06711322936610231
+857,Quantum-safe Encryption: A New Method to Reduce Complexity and/or Improve Security Level,Systems-Information,810,2024,3,2401.16302v1,-0.11902645932941548,-0.06339597826589874
+858,Quantum Private Membership Aggregation,Problem-Algorithm,820,2024,18,2401.16390v1,-0.37516154990235573,-0.05773894550578475
+859,Synchformer: Efficient Synchronization from Sparse Cues,Visual-Video,830,2024,16,2401.16423v1,0.18517889560431516,0.03719942206257024
+860,LLM4SecHW: Leveraging Domain Specific Large Language Model for Hardware Debugging,Llms-Language,840,2024,4,2401.16448v1,0.2694742024318147,-0.18076954877760854
+861,Hybrid Transformer and Spatial-Temporal Self-Supervised Learning for Long-term Traffic Prediction,Model-Models,850,2024,6,2401.16453v1,0.06914074053892023,0.19162846359346022
+862,Effective Controllable Bias Mitigation for Classification and Retrieval using Gate Adapters,Task-Tasks,860,2024,15,2401.16457v2,0.11976198403431489,0.014760413759733726
+863,Extracting and visualizing a new classification system for Colombia's National Administrative Department of Statistics. A visual analytics framework case study,Data-Model,870,2024,8,2401.15994v1,0.09851764481705001,-0.017043221876526942
+864,GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling,Graph-Graphs,880,2024,2,2401.16011v1,-0.1231288684940226,0.1585294576709689
+865,Phoneme-Based Proactive Anti-Eavesdropping with Controlled Recording Privilege,Speech-Recognition,890,2024,9,2401.15704v1,-0.02570929173368119,-0.051369266283661494
+866,EEG for fatigue monitoring,Systems-Information,900,2024,3,2401.15766v1,0.014657267939463977,-0.02035144791728702
+867,Integrating Differential Privacy and Contextual Integrity,Systems-Information,910,2024,3,2401.15774v1,-0.09929923984961159,-0.0807781487865127
+868,Fine-Tuned Large Language Models for Symptom Recognition from Spanish Clinical Text,Llms-Language,920,2024,4,2401.15780v1,0.2825878115034063,-0.2678106222866432
+869,GarchingSim: An Autonomous Driving Simulator with Photorealistic Scenes and Minimalist Workflow,Systems-Information,930,2024,3,2401.15803v2,-0.08168476091935291,-0.046811785648181635
+870,Ada-Retrieval: An Adaptive Multi-Round Retrieval Paradigm for Sequential Recommendations,User-Users,940,2024,13,2401.06633v2,0.12790911128890733,-0.13686176220241328
+871,LLMRS: Unlocking Potentials of LLM-Based Recommender Systems for Software Purchase,User-Users,950,2024,13,2401.06676v1,0.04356315667574536,-0.20910546678049244
+872,Model-Free Approximate Bayesian Learning for Large-Scale Conversion Funnel Optimization,Problem-Algorithm,960,2024,18,2401.06710v1,-0.13886640531625247,0.06338790449881108
+873,Reframing Tax Law Entailment as Analogical Reasoning,Llms-Language,970,2024,4,2401.06715v1,0.11154767772897149,-0.24288431602599322
+874,Seeing the roads through the trees: A benchmark for modeling spatial dependencies with aerial imagery,Model-Models,980,2024,6,2401.06762v1,0.17503594888037208,-0.06379488787530443
+875,Optimally Blending Honeypots into Production Networks: Hardness and Algorithms,Problem-Algorithm,990,2024,18,2401.06763v1,-0.29120820098493144,-0.03199108764381456
+876,Semantic Similarity Matching for Patent Documents Using Ensemble BERT-related Model and Novel Text Processing Method,Text-Datasets,1000,2024,5,2401.06782v1,0.14243228745373213,-0.07511335855736807
+877,A Span-based Model for Extracting Overlapping PICO Entities from RCT Publications,Text-Datasets,1010,2024,5,2401.06791v1,0.07223116264340122,0.05685385299595023
+878,"ChatGPT, Let us Chat Sign Language: Experiments, Architectural Elements, Challenges and Research Directions",Systems-Information,1020,2024,3,2401.06804v1,0.16525012976492623,-0.293268528378734
+879,Exploring the Reasoning Abilities of Multimodal Large Language Models (MLLMs): A Comprehensive Survey on Emerging Trends in Multimodal Reasoning,Llms-Language,1030,2024,4,2401.06805v2,0.24510903494129435,-0.2942569797428532
+880,Grounded learning for compositional vector semantics,Networks-Neural,1040,2024,0,2401.06808v1,0.040242268353206496,0.186971968841377
+881,xCoT: Cross-lingual Instruction Tuning for Cross-lingual Chain-of-Thought Reasoning,Llms-Language,1050,2024,4,2401.07037v1,0.16790003474398876,-0.2346647532637103
+882,Aquarium: A Comprehensive Framework for Exploring Predator-Prey Dynamics through Multi-Agent Reinforcement Learning Algorithms,Learning-Deep,1060,2024,12,2401.07056v1,-0.018699227768770105,0.14439550910843438
+883,Tensor Graph Convolutional Network for Dynamic Graph Representation Learning,Graph-Graphs,1070,2024,2,2401.07065v1,-0.15777011204707578,0.17210512893969332
+884,Exploring of Discrete and Continuous Input Control for AI-enhanced Assistive Robotic Arms,Task-Tasks,1080,2024,15,2401.07118v1,-0.01931158460048842,-0.09152112653879088
+885,Assessing the Effectiveness of Binary-Level CFI Techniques,Systems-Information,1090,2024,3,2401.07148v1,-0.06047186081278216,-0.04449371439952363
+886,Pipelet: Practical Streamlined Blockchain Protocol,Communication-Networks,1100,2024,17,2401.07162v2,-0.09693489703069011,-0.0006773736468636526
+887,Testing Sumsets is Hard,Problem-Algorithm,1110,2024,18,2401.07242v2,-0.3373088588393905,-0.09962142822963838
+888,Learning Unsupervised Semantic Document Representation for Fine-grained Aspect-based Sentiment Analysis,Task-Tasks,1120,2024,15,2401.06210v1,0.06969454805178772,0.11724567535447919
+889,"Joint Network Slicing, Routing, and In-Network Computing for Energy-Efficient 6G",Networks-Neural,1130,2024,0,2401.06306v1,-0.2558958150339657,0.08148287835576179
+890,Zero-shot Generative Large Language Models for Systematic Review Screening Automation,Llms-Language,1140,2024,4,2401.06320v2,0.24627011180493552,-0.30298364376310916
+891,Knowledge Translation: A New Pathway for Model Compression,Model-Models,1150,2024,6,2401.05772v1,0.28841273095086967,0.14477435655560855
+892,Bounds on the price of feedback for mistake-bounded online learning,Learning-Deep,1160,2024,12,2401.05794v2,-0.02015730267406905,0.28547474317424576
+893,STAKESURE: Proof of Stake Mechanisms with Strong Cryptoeconomic Safety,Systems-Information,1170,2024,3,2401.05797v1,-0.13818613876876093,-0.07464405990961366
+894,The Role of Deep Learning in Advancing Proactive Cybersecurity Measures for Smart Grid Networks: A Survey,Systems-Information,1180,2024,3,2401.05896v1,-0.009717528814369776,0.058027841139487134
+895,Time Series Forecasting of HIV/AIDS in the Philippines Using Deep Learning: Does COVID-19 Epidemic Matter?,Networks-Neural,1190,2024,0,2401.05933v1,0.030506102554333073,0.18654055057318625
+896,How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs,Llms-Language,1200,2024,4,2401.06373v2,0.18047683809310078,-0.36345093953947943
+897,PersianMind: A Cross-Lingual Persian-English Large Language Model,Llms-Language,1210,2024,4,2401.06466v1,0.304416571362486,-0.22999859961394667
+898,Temporal and Between-Group Variability in College Dropout Prediction,Data-Model,1220,2024,8,2401.06498v1,0.13197398786234724,0.015537865827795207
+899,An Optimal Randomized Algorithm for Finding the Saddlepoint,Problem-Algorithm,1230,2024,18,2401.06512v1,-0.3616643140299268,-0.08371369647377337
+900,A General Benchmark Framework is Dynamic Graph Neural Network Need,Graph-Graphs,1240,2024,2,2401.06559v1,-0.10055150828174092,0.007815943199633985
+901,"UniRQR: A Unified Model for Retrieval Decision, Query, and Response Generation in Internet-Based Knowledge Dialogue Systems",Task-Tasks,250,2024,15,2401.06811v1,0.14258147558983197,-0.09391011064383425
+902,"XLS-R Deep Learning Model for Multilingual ASR on Low- Resource Languages: Indonesian, Javanese, and Sundanese",Model-Models,260,2024,6,2401.06832v1,0.19735161977081325,-0.09573518415672914
+903,Scaling While Privacy Preserving: A Comprehensive Synthetic Tabular Data Generation and Evaluation in Learning Analytics,Data-Model,270,2024,8,2401.06883v1,0.17276882841889238,-0.023759031769197116
+904,Reinforcement Learning for Scalable Train Timetable Rescheduling with Graph Representation,Graph-Graphs,280,2024,2,2401.06952v1,-0.14917847842074722,0.12488351794674146
+905,Progressive Feature Fusion Network for Enhancing Image Quality Assessment,Image-Images,290,2024,10,2401.06992v1,0.000525565792372726,0.11278314344979322
+906,"SPARC-LoRa: A Scalable, Power-efficient, Affordable, Reliable, and Cloud Service-enabled LoRa Networking System for Agriculture Applications",Communication-Networks,300,2024,17,2401.13569v1,-0.07877454594896509,-0.06348354338569909
+907,Engineering Yeast Cells to Facilitate Information Exchange,Systems-Information,310,2024,3,2401.13712v2,-0.0001388922959500368,-0.06713207821902513
+908,Inference Attacks Against Face Recognition Model without Classification Layers,Model-Models,320,2024,6,2401.13719v1,0.19702138320798715,0.049415203186362326
+909,Supporting Sensemaking of Large Language Model Outputs at Scale,User-Users,330,2024,13,2401.13726v1,0.12622621643910514,-0.2042142758440795
+910,Fuzzy Logic Function as a Post-hoc Explanator of the Nonlinear Classifier,Systems-Information,340,2024,3,2401.14417v1,-0.07347973581423999,0.025832466646771864
+911,No Longer Trending on Artstation: Prompt Analysis of Generative AI Art,Ai-Systems,350,2024,11,2401.14425v1,0.14671692258794133,-0.17030126293528053
+912,M$^3$TN: Multi-gate Mixture-of-Experts based Multi-valued Treatment Network for Uplift Modeling,Task-Tasks,360,2024,15,2401.14426v1,-0.02312478554529456,0.08527976798013075
+913,"Trust model of privacy-concerned, emotionally-aware agents in a cooperative logistics problem",Model-Models,370,2024,6,2401.14436v1,-0.05947840079174594,-0.10061006662380001
+914,Toward Family-Robot Interactions: A Family-Centered Framework in HRI,User-Users,380,2024,13,2401.14478v1,0.020147805863747387,-0.1937663053884163
+915,Mitigating Smishing: Challenges and Future Work,Systems-Information,390,2024,3,2401.14520v1,-0.053397028006124565,-0.10760502517019584
+916,Unsealing the secrets of blockchain consensus: A systematic comparison of the formal security of proof-of-work and proof-of-stake,Systems-Information,400,2024,3,2401.14527v2,-0.07019041629080146,-0.060813053173023275
+917,POUR-Net: A Population-Prior-Aided Over-Under-Representation Network for Low-Count PET Attenuation Map Generation,Systems-Information,410,2024,3,2401.14285v1,0.00991677205426681,0.035222442093386826
+918,"Deep Learning Model Reuse in the HuggingFace Community: Challenges, Benefit and Trends",Model-Models,420,2024,6,2401.13177v1,0.17926192977068744,-0.04732766769724164
+919,AdCorDA: Classifier Refinement via Adversarial Correction and Domain Adaptation,Adversarial-Attacks,430,2024,14,2401.13212v1,0.007366888743802543,0.12421500310362293
+920,RefreshNet: Learning Multiscale Dynamics through Hierarchical Refreshing,Systems-Information,440,2024,3,2401.13282v1,-0.03242861071343605,0.07965602620592653
+921,A proof theory of right-linear (omega-)grammars via cyclic proofs,Systems-Information,450,2024,3,2401.13382v1,-0.026092548744356604,-0.14928066385142158
+922,Expressive Acoustic Guitar Sound Synthesis with an Instrument-Specific Input Representation and Diffusion Outpainting,Model-Models,460,2024,6,2401.13498v1,0.11876262207925804,0.07701352980307037
+923,SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation,Speech-Recognition,470,2024,9,2401.13527v2,0.05197473381975098,-0.11430978541600262
+924,Multilingual and Fully Non-Autoregressive ASR with Large Language Model Fusion: A Comprehensive Study,Speech-Recognition,480,2024,9,2401.12789v1,0.12217366062527216,-0.2112316983092439
+925,Binary structured physics-informed neural networks for solving equations with rapidly changing solutions,Networks-Neural,490,2024,0,2401.12806v2,-0.008109764454205165,0.38129834447393157
+926,Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding,Task-Tasks,500,2024,15,2401.12954v1,0.1822146226648622,-0.14843328097015657
+927,Traffic Learning and Proactive UAV Trajectory Planning for Data Uplink in Markovian IoT Models,Learning-Deep,510,2024,12,2401.13827v1,0.00703198479898268,0.2806718291786439
+928,Algorithmically Curated Lies: How Search Engines Handle Misinformation about US Biolabs in Ukraine,Systems-Information,520,2024,3,2401.13832v1,-0.1476575210884535,-0.17882460712202874
+929,Embedding Attack Project (Work Report),Model-Models,530,2024,6,2401.13854v1,0.21172650528513703,-0.12162642338412265
+930,A comparative study of zero-shot inference with large language models and supervised modeling in breast cancer pathology classification,Llms-Language,540,2024,4,2401.13887v1,0.337929288197605,-0.14187042691596982
+931,Learning to Manipulate Artistic Images,Image-Images,550,2024,10,2401.13976v1,0.08505084037146028,0.19386592808234562
+932,In-Context Language Learning: Architectures and Algorithms,Model-Models,560,2024,6,2401.12973v2,0.3184502809771169,-0.06364486513646102
+933,Locality Sensitive Sparse Encoding for Learning World Models Online,Model-Models,570,2024,6,2401.13034v4,0.1951519798906409,0.1577664958744997
+934,TCE at Qur'an QA 2023 Shared Task: Low Resource Enhanced Transformer-based Ensemble Approach for Qur'anic QA,Task-Tasks,580,2024,15,2401.13060v1,0.1660421432162643,0.12766547814173615
+935,Local Background Estimation for Improved Gas Plume Identification in Hyperspectral Images,Image-Images,590,2024,10,2401.13068v1,0.0006486787853990917,0.1960483241462011
+936,IndiText Boost: Text Augmentation for Low Resource India Languages,Text-Datasets,600,2024,5,2401.13085v1,0.1786655997241943,-0.19710980440224277
+937,The Language Barrier: Dissecting Safety Challenges of LLMs in Multilingual Contexts,Llms-Language,610,2024,4,2401.13136v1,0.17525353695572407,-0.29029096640399965
+938,The Adaptive Architectural Layout: How the Control of a Semi-Autonomous Mobile Robotic Partition was Shared to Mediate the Environmental Demands and Resources of an Open-Plan Office,Systems-Information,620,2024,3,2401.14078v1,-0.012511114835140077,-0.09199310056432959
+939,McUDI: Model-Centric Unsupervised Degradation Indicator for Failure Prediction AIOps Solutions,Data-Model,630,2024,8,2401.14093v1,0.15963050933142497,0.06302263346117956
+940,FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design,Model-Models,640,2024,6,2401.14112v2,0.09324882626439016,-0.1682319177555378
+941,Friendly Attacks to Improve Channel Coding Reliability,Networks-Neural,650,2024,0,2401.14184v1,-0.06850381678675566,0.18796378137267689
+942,DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence,Model-Models,660,2024,6,2401.14196v2,0.2315818022242308,-0.23063315559282535
+943,The Mikado Filesystem: An experimental RPC filesystem running over gRPC,Systems-Information,670,2024,3,2401.09186v1,-0.007536393811108059,-0.1307181868896467
+944,Tight Fusion of Events and Inertial Measurements for Direct Velocity Estimation,Visual-Video,680,2024,16,2401.09296v1,-0.036739300116788186,0.015324195755731034
+945,Weakly-Private Information Retrieval From MDS-Coded Distributed Storage,Data-Model,690,2024,8,2401.09412v1,-0.09593041516033943,-0.11601577936958515
+946,TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion,3D-Images,700,2024,7,2401.09416v1,0.0764249835584583,0.11136715564155908
+947,Business and ethical concerns in domestic Conversational Generative AI-empowered multi-robot systems,Ai-Systems,710,2024,11,2401.09473v1,0.08573722180784156,-0.18346800971414248
+948,LoMA: Lossless Compressed Memory Attention,Text-Datasets,720,2024,5,2401.09486v2,0.09325082779083009,-0.11671563561470816
+949,Enhancing Surveillance Camera FOV Quality via Semantic Line Detection and Classification with Deep Hough Transform,Image-Images,730,2024,10,2401.09515v1,0.06520811583044836,0.1005545970981373
+950,"Improving Classification Performance With Human Feedback: Label a few, we label the rest",Model-Models,740,2024,6,2401.09555v1,0.444144826191465,-0.10332610215053437
+951,MedBlindTuner: Towards Privacy-preserving Fine-tuning on Biomedical Images with Transformers and Fully Homomorphic Encryption,Image-Images,750,2024,10,2401.09604v1,0.1897369129775275,0.044219529010764515
+952,Mobility Accelerates Learning: Convergence Analysis on Hierarchical Federated Learning in Vehicular Networks,Data-Model,760,2024,8,2401.09656v1,0.25616874982886445,0.28205479961698643
+953,MicroNAS: Zero-Shot Neural Architecture Search for MCUs,Networks-Neural,770,2024,0,2401.08996v1,-0.061348350441036294,0.09769571046819019
+954,Data assimilation approach for addressing imperfections in people flow measurement techniques using particle filter,Data-Model,780,2024,8,2401.09014v1,0.15309441871675875,0.05915312970129029
+955,Exploring the Diversity of Music Experiences for Deaf and Hard of Hearing People,Visual-Video,790,2024,16,2401.09025v1,-0.03463793578412652,-0.14046887283166465
+956,Algorithmic amplification of biases on Google Search,Systems-Information,800,2024,3,2401.09044v1,-0.12227093279966002,-0.1424875894778433
+957,SM$^3$: Self-Supervised Multi-task Modeling with Multi-view 2D Images for Articulated Objects,3D-Images,810,2024,7,2401.09133v1,0.034593686295054916,0.04156601049802501
+958,Harnessing Transparent Learning Analytics for Individualized Support through Auto-detection of Engagement in Face-to-Face Collaborative Learning,Learning-Deep,820,2024,12,2401.10264v1,0.09101609130996431,0.357128215868598
+959,Migrating Birds Optimization-Based Feature Selection for Text Classification,Text-Datasets,830,2024,5,2401.10270v1,-0.007389335336275882,0.023338973675897684
+960,gFaaS: Enabling Generic Functions in Serverless Computing,Systems-Information,840,2024,3,2401.10367v1,-0.010077067025668598,-0.09612620183344006
+961,MutaBot: A Mutation Testing Approach for Chatbots,Systems-Information,850,2024,3,2401.10372v1,-0.02082791059646128,-0.15908386245386544
+962,A Stable Matching Assignment for Cancer Treatment Centers using Survival Analysis,Problem-Algorithm,860,2024,18,2401.10469v1,-0.179734566556856,-0.05995790127140199
+963,LDReg: Local Dimensionality Regularized Self-Supervised Learning,Task-Tasks,870,2024,15,2401.10474v2,-0.029003115638454285,0.1379302698193805
+964,Enhancing Scalability in Recommender Systems through Lottery Ticket Hypothesis and Knowledge Distillation-based Neural Network Pruning,Networks-Neural,880,2024,0,2401.10484v1,0.15448136707175367,0.13513003229358933
+965,Cross-lingual Editing in Multilingual Language Models,Llms-Language,890,2024,4,2401.10521v2,0.31901639261231357,-0.3133073685704467
+966,I-SplitEE: Image classification in Split Computing DNNs with Early Exits,Networks-Neural,900,2024,0,2401.10541v1,-0.05149733433842534,0.11190149410401432
+967,Fast Butterfly-Core Community Search For Large Labeled Graphs,Graph-Graphs,910,2024,2,2401.10642v1,-0.21944854013502507,-0.11208100649834961
+968,Attentive Fusion: A Transformer-based Approach to Multimodal Hate Speech Detection,Speech-Recognition,920,2024,9,2401.10653v1,-0.018697603578147856,-0.07886845859440626
+969,Imitation Learning Inputting Image Feature to Each Layer of Neural Network,Data-Model,930,2024,8,2401.09691v2,0.22034654959881492,0.34778597039313636
+970,EfficientRec an unlimited user-item scale recommendation system based on clustering and users interaction embedding profile,User-Users,940,2024,13,2401.09693v1,-0.10052373747312349,-0.010514385831490086
+971,HCVP: Leveraging Hierarchical Contrastive Visual Prompt for Domain Generalization,Visual-Video,950,2024,16,2401.09716v1,0.15633379320155716,0.1338310409747377
+972,Enhancing Image-Text Matching with Adaptive Feature Aggregation,Image-Images,960,2024,10,2401.09725v1,0.09840277203212411,0.0712268597049718
+973,Improving Speaker-independent Speech Emotion Recognition Using Dynamic Joint Distribution Adaptation,Speech-Recognition,970,2024,9,2401.09752v1,0.11223696193772914,0.08597014037048523
+974,A Comparative Study on Annotation Quality of Crowdsourcing and LLM via Label Aggregation,Text-Datasets,980,2024,5,2401.09760v1,0.13251962921084362,-0.13406767097006123
+975,On the Effectiveness of Function-Level Vulnerability Detectors for Inter-Procedural Vulnerabilities,Systems-Information,990,2024,3,2401.09767v2,-0.07514534410602786,-0.013896213919576583
+976,PPNet: A Two-Stage Neural Network for End-to-end Path Planning,Networks-Neural,1000,2024,0,2401.09819v2,-0.10846606648788264,0.1400154670519063
+977,Enhanced Automated Quality Assessment Network for Interactive Building Segmentation in High-Resolution Remote Sensing Imagery,Image-Images,1010,2024,10,2401.09828v1,-0.007125929159250804,0.05556738188242988
+978,Model Compression Techniques in Biometrics Applications: A Survey,Model-Models,1020,2024,6,2401.10139v1,0.16363740374098384,0.056370821738080126
+979,Comprehensive OOD Detection Improvements,Detection-Based,1030,2024,1,2401.10176v1,0.07504418710227612,0.19885198782090055
+980,Divide and not forget: Ensemble of selectively trained experts in Continual Learning,Task-Tasks,1040,2024,15,2401.10191v3,0.1777524993581672,0.1333656870057914
+981,XAI-Enhanced Semantic Segmentation Models for Visual Quality Inspection,Visual-Video,1050,2024,16,2401.09900v1,0.2468515008410078,-0.001710349669544443
+982,"Multi-task Learning for Joint Re-identification, Team Affiliation, and Role Classification for Sports Visual Tracking",Task-Tasks,1060,2024,15,2401.09942v1,0.01314234662108381,0.18962074316450656
+983,WindSeer: Real-time volumetric wind prediction over complex terrain aboard a small UAV,Data-Model,1070,2024,8,2401.09944v1,0.0194978475627604,0.04098090404168698
+984,Multiobjective Optimization Analysis for Finding Infrastructure-as-Code Deployment Configurations,Problem-Algorithm,1080,2024,18,2401.09983v1,-0.25803703297584535,-0.04307872452511001
+985,Developing an AI-based Integrated System for Bee Health Evaluation,Networks-Neural,1090,2024,0,2401.09988v1,0.059302863628449595,0.1768623663448752
+986,Overview of the 2023 ICON Shared Task on Gendered Abuse Detection in Indic Languages,Detection-Based,1100,2024,1,2401.03677v1,-0.01526713196305834,-0.0710951330546684
+987,"On Lattices, Learning with Errors, Random Linear Codes, and Cryptography",Problem-Algorithm,1110,2024,18,2401.03703v1,-0.24701219313644748,0.0704419873199658
+988,Interpersonal Relationship Analysis with Dyadic EEG Signals via Learning Spatial-Temporal Patterns,Networks-Neural,1120,2024,0,2401.03250v1,-0.06563007491488848,0.20304285231325317
+989,RustNeRF: Robust Neural Radiance Field with Low-Quality Images,3D-Images,1130,2024,7,2401.03257v1,0.020611280857631885,0.08862657856983264
+990,LLMs for Robotic Object Disambiguation,Llms-Language,1140,2024,4,2401.03388v1,0.16416474660021763,-0.23667019554745056
+991,Image-based Deep Learning for Smart Digital Twins: a Review,Image-Images,1150,2024,10,2401.02523v1,0.18615915055755888,0.09435088808530553
+992,Long-term Fairness For Real-time Decision Making: A Constrained Online Optimization Approach,Problem-Algorithm,1160,2024,18,2401.02552v1,-0.16671561973467786,0.008215122677717391
+993,Regular Abstractions for Array Systems,Systems-Information,1170,2024,3,2401.02618v1,-0.0674230237973202,-0.08537523195220881
+994,Progress and Prospects in 3D Generative AI: A Technical Overview including 3D human,3D-Images,1180,2024,7,2401.02620v1,0.13443055095400575,-0.14487541116014047
+995,Modelling Open-Source Software Reliability Incorporating Swarm Intelligence-Based Techniques,Systems-Information,1190,2024,3,2401.02664v1,-0.053272231612291714,-0.1518373720724552
+996,Zero-shot Microclimate Prediction with Deep Learning,Learning-Deep,1200,2024,12,2401.02665v1,0.11421758088588736,0.2181317780760226
+997,Towards Integrated Fine-tuning and Inference when Generative AI meets Edge Intelligence,Task-Tasks,1210,2024,15,2401.02668v1,0.08116097110387771,-0.06685509820430204
+998,MusicAOG: an Energy-Based Model for Learning and Sampling a Hierarchical Representation of Symbolic Music,Model-Models,1220,2024,6,2401.02678v1,0.011092557456726052,0.0488084326306391
+999,Decentralized Federated Policy Gradient with Byzantine Fault-Tolerance and Provably Fast Convergence,Problem-Algorithm,1230,2024,18,2401.03489v1,-0.16264793176343503,0.06573926458646617
+1000,RoBERTurk: Adjusting RoBERTa for Turkish,Task-Tasks,1240,2024,15,2401.03515v1,0.17466499203455185,-0.04463430112191267
