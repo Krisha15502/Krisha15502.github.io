@@ -1,0 +1,109 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "UK Food Price Evolution (2000-2025)",
+    "subtitle": "Average price by product and year",
+    "fontSize": 18,
+    "subtitleFontSize": 13,
+    "anchor": "middle",
+    "font": "Times New Roman",
+    "fontWeight": "bold"
+  },
+  "width": 700,
+  "height": 350,
+  "config": {"font": "Times New Roman"},
+  "params": [
+    {
+      "name": "show_Milk",
+      "value": true,
+      "bind": {"input": "checkbox", "name": "Milk "}
+    },
+    {
+      "name": "show_Bread",
+      "value": true,
+      "bind": {"input": "checkbox", "name": "Bread "}
+    },
+    {
+      "name": "show_Eggs",
+      "value": true,
+      "bind": {"input": "checkbox", "name": "Eggs "}
+    },
+    {
+      "name": "show_Rice",
+      "value": true,
+      "bind": {"input": "checkbox", "name": "Rice "}
+    },
+    {
+      "name": "show_Chicken",
+      "value": true,
+      "bind": {"input": "checkbox", "name": "Chicken "}
+    }
+  ],
+  "data": {
+    "url": "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/main/data/uk_prices_heatmap.csv"
+  },
+  "transform": [
+    {
+      "filter": "(datum.product == 'Milk' && show_Milk) || (datum.product == 'Bread' && show_Bread) || (datum.product == 'Eggs' && show_Eggs) || (datum.product == 'Rice' && show_Rice) || (datum.product == 'Chicken' && show_Chicken)"
+    }
+  ],
+  "mark": {
+    "type": "rect",
+    "stroke": "white",
+    "strokeWidth": 2,
+    "tooltip": true
+  },
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "ordinal",
+      "title": "Year",
+      "axis": {
+        "titleFont": "Times New Roman",
+        "titleFontSize": 14,
+        "titleFontWeight": "bold",
+        "labelFont": "Times New Roman",
+        "labelFontSize": 10,
+        "labelAngle": -45
+      }
+    },
+    "y": {
+      "field": "product",
+      "type": "nominal",
+      "title": "Product",
+      "axis": {
+        "titleFont": "Times New Roman",
+        "titleFontSize": 14,
+        "titleFontWeight": "bold",
+        "labelFont": "Times New Roman",
+        "labelFontSize": 12
+      }
+    },
+    "color": {
+      "field": "avg_price",
+      "type": "quantitative",
+      "scale": {"scheme": "redyellowgreen", "reverse": true},
+      "legend": {
+        "title": "Avg Price (£)",
+        "titleFont": "Times New Roman",
+        "titleFontSize": 12,
+        "titleFontWeight": "bold",
+        "labelFont": "Times New Roman",
+        "labelFontSize": 10,
+        "orient": "right",
+        "gradientLength": 200,
+        "direction": "vertical"
+      }
+    },
+    "tooltip": [
+      {"field": "product", "type": "nominal", "title": "Product"},
+      {"field": "year", "type": "ordinal", "title": "Year"},
+      {
+        "field": "avg_price",
+        "type": "quantitative",
+        "title": "Avg Price (£)",
+        "format": ".2f"
+      }
+    ]
+  }
+}

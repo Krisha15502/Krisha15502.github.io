@@ -1,0 +1,113 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Seasonal Price Patterns: UK Food Prices by Month",
+    "subtitle": {
+      "expr": "'Year: ' + year_select + ' | Months: ' + month_labels[start_month] + ' to ' + month_labels[end_month]"
+    },
+    "fontSize": 18,
+    "subtitleFontSize": 13,
+    "anchor": "middle",
+    "font": "Times New Roman",
+    "fontWeight": "bold"
+  },
+  "width": 650,
+  "height": 420,
+  "config": {"font": "Times New Roman"},
+  "params": [
+    {
+      "name": "year_select",
+      "value": 2024,
+      "bind": {
+        "input": "select",
+        "options": [2000, 2005, 2010, 2015, 2020, 2021, 2022, 2023, 2024, 2025],
+        "name": "Year: "
+      }
+    },
+    {
+      "name": "start_month",
+      "value": 0,
+      "bind": {
+        "input": "range",
+        "min": 0,
+        "max": 11,
+        "step": 1,
+        "name": "Start month: "
+      }
+    },
+    {
+      "name": "end_month",
+      "value": 11,
+      "bind": {
+        "input": "range",
+        "min": 0,
+        "max": 11,
+        "step": 1,
+        "name": "End month: "
+      }
+    },
+    {
+      "name": "month_labels",
+      "value": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+      ]
+    }
+  ],
+  "data": {
+    "url": "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/main/data/uk_prices_monthly.csv"
+  },
+  "transform": [
+    {"filter": "datum.year == year_select"},
+    {"filter": "datum.product != 'Other'"},
+    {
+      "calculate": "indexof(['January','February','March','April','May','June','July','August','September','October','November','December'], datum.month)",
+      "as": "month_order"
+    },
+    {
+      "filter": "datum.month_order >= start_month && datum.month_order <= end_month"
+    }
+  ],
+  "mark": {"type": "bar"},
+  "encoding": {
+    "x": {
+      "field": "month",
+      "type": "ordinal",
+      "sort": {"field": "month_order", "order": "ascending"},
+      "title": "Month"
+    },
+    "y": {
+      "field": "avg_price",
+      "type": "quantitative",
+      "title": "Average Price (£)"
+    },
+    "color": {
+      "field": "product",
+      "type": "nominal",
+      "title": "Product",
+      "legend": {"orient": "right"},
+      "scale": {"scheme": "dark2"}
+    },
+    "tooltip": [
+      {"field": "product", "type": "nominal", "title": "Product"},
+      {"field": "month", "type": "nominal", "title": "Month"},
+      {"field": "year", "type": "quantitative", "title": "Year"},
+      {
+        "field": "avg_price",
+        "type": "quantitative",
+        "title": "Avg Price (£)",
+        "format": ".2f"
+      }
+    ]
+  }
+}
