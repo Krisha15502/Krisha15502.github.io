@@ -1,0 +1,37 @@
+state_name,warming_rate_per_century,lat_center,lon_center,region
+Andaman and Nicobar,0.48,11.7,92.7,Islands
+Andhra Pradesh,0.62,15.9,80.0,South
+Arunachal Pradesh,0.68,28.2,94.7,Northeast
+Assam,0.79,26.2,92.9,Northeast
+Bihar,0.85,25.1,85.3,East
+Chandigarh,0.70,30.7,76.8,North
+Chhattisgarh,0.65,21.3,81.9,Central
+Dadra and Nagar Haveli and Daman and Diu,0.58,20.4,73.0,West
+Delhi,0.04,28.7,77.1,North
+Goa,0.59,15.3,74.1,West Coast
+Gujarat,0.61,22.3,71.6,West
+Haryana,0.04,29.1,76.1,North
+Himachal Pradesh,0.71,31.1,77.2,North
+Jammu and Kashmir,0.52,33.3,75.6,North
+Jharkhand,0.77,23.6,85.3,East
+Karnataka,0.65,15.3,75.7,South
+Kerala,0.99,10.8,76.3,South
+Ladakh,0.42,34.2,77.6,North
+Lakshadweep,0.46,10.6,72.6,Islands
+Madhya Pradesh,0.28,22.9,78.7,Central
+Maharashtra,0.49,19.8,75.8,West
+Manipur,1.1,24.7,93.9,Northeast
+Meghalaya,1.13,25.5,91.4,Northeast
+Mizoram,1.19,23.2,92.9,Northeast
+Nagaland,1.08,26.2,94.6,Northeast
+Orissa,0.93,20.9,85.1,East
+Puducherry,0.56,11.9,79.8,South
+Punjab,0.72,31.1,75.3,North
+Rajasthan,0.22,27.0,74.2,Northwest
+Sikkim,0.75,27.5,88.5,Northeast
+Tamil Nadu,0.65,11.1,78.7,South
+Telangana,0.54,18.1,79.1,South
+Tripura,0.94,23.9,91.9,Northeast
+Uttar Pradesh,0.53,26.8,80.9,North
+Uttarakhal,1.12,30.1,79.0,North
+West Bengal,0.67,22.9,87.9,East
