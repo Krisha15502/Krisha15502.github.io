@@ -1,0 +1,13 @@
+state,total_loss_ha,rank,total_loss_sq_km,pct_of_india_total
+Assam,324000,1,3240.0,13.9
+Mizoram,312000,2,3120.0,13.4
+Arunachal Pradesh,262000,3,2620.0,11.2
+Nagaland,259000,4,2590.0,11.1
+Manipur,240000,5,2400.0,10.3
+Meghalaya,180000,6,1800.0,7.7
+Odisha,165000,7,1650.0,7.1
+Chhattisgarh,145000,8,1450.0,6.2
+Madhya Pradesh,130000,9,1300.0,5.6
+Karnataka,95000,10,950.0,4.1
+Maharashtra,88000,11,880.0,3.8
+Jharkhand,75000,12,750.0,3.2
