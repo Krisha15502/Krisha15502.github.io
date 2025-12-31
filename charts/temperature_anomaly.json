@@ -1,0 +1,222 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "white",
+  "padding": 5,
+  "spacing": 50,
+  "bounds": "flush",
+  "config": {
+    "view": {"strokeWidth": 0},
+    "axis": {
+      "labelFontSize": 11,
+      "titleFontSize": 13,
+      "labelColor": "#555",
+      "titleColor": "#333",
+      "labelFont": "Times New Roman",
+      "titleFont": "Times New Roman"
+    },
+    "legend": {"labelFont": "Times New Roman", "titleFont": "Times New Roman"},
+    "title": {"font": "Times New Roman", "subtitleFont": "Times New Roman"}
+  },
+  "vconcat": [
+    {
+      "width": 900,
+      "height": 480,
+      "title": {
+        "text": "Warming Rates Across India",
+        "subtitle": "Click on cities to view their temperature anomalies since 1951",
+        "fontSize": 20,
+        "subtitleFontSize": 14,
+        "fontWeight": 600,
+        "anchor": "middle",
+        "color": "#2c3e50",
+        "font": "Times New Roman",
+        "offset": 5
+      },
+      "layer": [
+        {
+          "data": {
+            "url": "https://raw.githubusercontent.com/rheapy/rheapy.github.io/refs/heads/main/India_states.json",
+            "format": {"type": "json", "property": "features"}
+          },
+          "transform": [
+            {
+              "lookup": "properties.name",
+              "from": {
+                "data": {
+                  "url": "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/data/state_warming_PERFECT_MATCH.csv"
+                },
+                "key": "state_name",
+                "fields": ["warming_rate_per_century"]
+              }
+            },
+            {
+              "calculate": "toNumber(datum.warming_rate_per_century)",
+              "as": "warming_rate"
+            }
+          ],
+          "projection": {
+            "type": "mercator",
+            "center": [81.5, 37.5],
+            "scale": 820
+          },
+          "mark": {"type": "geoshape", "stroke": "white", "strokeWidth": 1.5},
+          "encoding": {
+            "color": {
+              "field": "warming_rate",
+              "type": "quantitative",
+              "scale": {
+                "domain": [-0.8, 0, 1.2],
+                "range": ["#6B0F1A", "#D8CFC4", "#5FA27A"]
+              },
+              "legend": {
+                "title": "Warming Rate (°C/century)",
+                "orient": "top-left",
+                "direction": "vertical",
+                "gradientLength": 220,
+                "titleFontSize": 12,
+                "labelFontSize": 10,
+                "offset": 10
+              }
+            },
+            "tooltip": [
+              {"field": "properties.name", "type": "nominal", "title": "State"},
+              {
+                "field": "warming_rate",
+                "type": "quantitative",
+                "title": "Warming Rate (°C/century)",
+                "format": ".2f"
+              }
+            ]
+          }
+        },
+        {
+          "data": {
+            "values": [
+              {"name": "Delhi", "lat": 28.7, "lon": 77.1},
+              {"name": "Mumbai", "lat": 19.1, "lon": 72.9},
+              {"name": "Chennai", "lat": 13.1, "lon": 80.3},
+              {"name": "Kolkata", "lat": 22.6, "lon": 88.4},
+              {"name": "Bengaluru", "lat": 12.97, "lon": 77.6},
+              {"name": "Hyderabad", "lat": 17.4, "lon": 78.5},
+              {"name": "Pune", "lat": 18.5, "lon": 73.9}
+            ]
+          },
+          "projection": {
+            "type": "mercator",
+            "center": [81.5, 37.5],
+            "scale": 850
+          },
+          "params": [
+            {
+              "name": "city_select",
+              "select": {"type": "point", "fields": ["name"]}
+            }
+          ],
+          "mark": {
+            "type": "circle",
+            "stroke": "black",
+            "strokeWidth": 1,
+            "cursor": "pointer"
+          },
+          "encoding": {
+            "longitude": {"field": "lon", "type": "quantitative"},
+            "latitude": {"field": "lat", "type": "quantitative"},
+            "size": {
+              "condition": {
+                "param": "city_select",
+                "empty": false,
+                "value": 400
+              },
+              "value": 200
+            },
+            "color": {
+              "condition": {
+                "param": "city_select",
+                "empty": false,
+                "value": "white"
+              },
+              "value": "black"
+            },
+            "tooltip": [{"field": "name", "type": "nominal", "title": "City"}]
+          }
+        }
+      ]
+    },
+    {
+      "width": 900,
+      "height": 250,
+      "title": {
+        "text": "Annual Temperature Anomalies",
+        "subtitle": "Rrelative to 1951–2024 baseline",
+        "fontSize": 20,
+        "subtitleFontSize": 14,
+        "fontWeight": 600,
+        "anchor": "middle",
+        "color": "#2c3e50",
+        "font": "Times New Roman",
+        "offset": 10
+      },
+      "data": {
+        "url": "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/data/anomalies.csv"
+      },
+      "transform": [
+        {
+          "filter": "!city_select.name ? datum.City == 'All India' : datum.City == city_select.name"
+        },
+        {"calculate": "toNumber(datum.Year)", "as": "year_num"},
+        {"calculate": "toNumber(datum.Temp_Anomaly)", "as": "anomaly_num"},
+        {"calculate": "min(datum.anomaly_num, 1.5)", "as": "anomaly_capped"}
+      ],
+      "mark": {"type": "bar", "tooltip": true},
+      "encoding": {
+        "x": {
+          "field": "year_num",
+          "type": "quantitative",
+          "axis": {
+            "title": "Year",
+            "labelAngle": -45,
+            "labelFontSize": 10,
+            "format": "d",
+            "tickCount": 20
+          }
+        },
+        "y": {
+          "field": "anomaly_capped",
+          "type": "quantitative",
+          "axis": {
+            "title": "Temperature Anomaly (°C)",
+            "titleFontSize": 13,
+            "gridOpacity": 0.3
+          },
+          "scale": {"domain": [-1.2, 1.5], "zero": true, "nice": false}
+        },
+        "color": {
+          "field": "anomaly_capped",
+          "type": "quantitative",
+          "scale": {
+            "domain": [-0.2, 0.5, 1.1],
+            "range": ["#6B0F1A", "#D8CFC4", "#5FA27A"],
+            "clamp": true,
+            "reverse": true
+          },
+          "legend": null
+        },
+        "tooltip": [
+          {
+            "field": "year_num",
+            "type": "quantitative",
+            "title": "Year",
+            "format": "d"
+          },
+          {
+            "field": "anomaly_num",
+            "type": "quantitative",
+            "title": "Actual Temperature Anomaly (°C)",
+            "format": ".3f"
+          },
+          {"field": "City", "type": "nominal", "title": "Location"}
+        ]
+      }
+    }
+  ]
+}
