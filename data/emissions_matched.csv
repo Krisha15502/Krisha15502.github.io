@@ -1,0 +1,701 @@
+,state_name,type,year,value
+0,Andaman and Nicobar,Emissions,2013,428142.61
+1,Andaman and Nicobar,Removals,2013,-7211025.4
+2,Andhra Pradesh,Emissions,2013,112142594.76
+3,Andhra Pradesh,Removals,2013,-15800787.5
+4,Arunachal Pradesh,Emissions,2013,559406.17
+5,Arunachal Pradesh,Removals,2013,-21701281.76
+6,Assam,Emissions,2013,9723888.85
+7,Assam,Removals,2013,-3673042.39
+8,Bihar,Emissions,2013,17427629.93
+9,Bihar,Removals,2013,708430.02
+10,Chandigarh,Emissions,2013,622674.48
+11,Chandigarh,Removals,2013,-2034.12
+12,Chhattisgarh,Emissions,2013,71934967.14
+13,Chhattisgarh,Removals,2013,-4898293.3
+14,Dadra and Nagar Haveli and Daman and Diu,Emissions,2013,917672.38
+15,Dadra and Nagar Haveli and Daman and Diu,Removals,2013,49470.68
+16,NCT of Delhi,Emissions,2013,22185871.97
+17,NCT of Delhi,Removals,2013,-42511.59
+18,Goa,Emissions,2013,2701612.45
+19,Goa,Removals,2013,-1193988.73
+20,Gujarat,Emissions,2013,103716002.8
+21,Gujarat,Removals,2013,1101733.36
+22,Haryana,Emissions,2013,29955206.99
+23,Haryana,Removals,2013,179248.58
+24,Himachal Pradesh,Emissions,2013,5510825.16
+25,Himachal Pradesh,Removals,2013,-3496198.07
+26,Jammu and Kashmir,Emissions,2013,3944575.78
+27,Jammu and Kashmir,Removals,2013,-5339802.78
+28,Jharkhand,Emissions,2013,48926790.87
+29,Jharkhand,Removals,2013,-3895703.34
+30,Karnataka,Emissions,2013,52669878.03
+31,Karnataka,Removals,2013,-4665441.14
+32,Kerala,Emissions,2013,12357148.71
+33,Kerala,Removals,2013,-3723884.33
+34,Lakshadweep,Emissions,2013,41318.72
+35,Lakshadweep,Removals,2013,-3477.38
+36,Madhya Pradesh,Emissions,2013,70987562.36
+37,Madhya Pradesh,Removals,2013,157949.94
+38,Maharashtra,Emissions,2013,124218362.73
+39,Maharashtra,Removals,2013,8462169.06
+40,Manipur,Emissions,2013,460064.41
+41,Manipur,Removals,2013,-1656614.08
+42,Meghalaya,Emissions,2013,1479716.93
+43,Meghalaya,Removals,2013,-3252353.97
+44,Mizoram,Emissions,2013,317375.5
+45,Mizoram,Removals,2013,-1101954.74
+46,Nagaland,Emissions,2013,345932.02
+47,Nagaland,Removals,2013,-680463.26
+48,Orissa,Emissions,2013,80305965.23
+49,Orissa,Removals,2013,-9597421.61
+50,Puducherry,Emissions,2013,1371052.59
+51,Puducherry,Removals,2013,-28149.01
+52,Punjab,Emissions,2013,33611320.1
+53,Punjab,Removals,2013,-475894.1
+54,Rajasthan,Emissions,2013,59224317.65
+55,Rajasthan,Removals,2013,276193.48
+56,Sikkim,Emissions,2013,183149.43
+57,Sikkim,Removals,2013,-4215050.17
+58,Tamil Nadu,Emissions,2013,82831598.7
+59,Tamil Nadu,Removals,2013,2057491.03
+60,Telangana,Emissions,2013,675882.07
+61,Telangana,Removals,2013,632694.52
+62,Tripura,Emissions,2013,1790022.4
+63,Tripura,Removals,2013,-2943536.91
+64,Uttar Pradesh,Emissions,2013,123954119.86
+65,Uttar Pradesh,Removals,2013,-5114465.83
+66,Uttaranchal,Emissions,2013,3410409.05
+67,Uttaranchal,Removals,2013,-540083.35
+68,West Bengal,Emissions,2013,86923132.02
+69,West Bengal,Removals,2013,-20476044.52
+70,Andaman and Nicobar,Emissions,2014,484855.21
+71,Andaman and Nicobar,Removals,2014,-7211025.4
+72,Andhra Pradesh,Emissions,2014,121559042.39
+73,Andhra Pradesh,Removals,2014,-15800787.5
+74,Arunachal Pradesh,Emissions,2014,591102.63
+75,Arunachal Pradesh,Removals,2014,-21701281.76
+76,Assam,Emissions,2014,9671746.64
+77,Assam,Removals,2014,-3673042.39
+78,Bihar,Emissions,2014,18080206.36
+79,Bihar,Removals,2014,708430.02
+80,Chandigarh,Emissions,2014,640138.93
+81,Chandigarh,Removals,2014,-2034.12
+82,Chhattisgarh,Emissions,2014,94423531.12
+83,Chhattisgarh,Removals,2014,-4898293.3
+84,Dadra and Nagar Haveli and Daman and Diu,Emissions,2014,1217512.18
+85,Dadra and Nagar Haveli and Daman and Diu,Removals,2014,49470.68
+86,NCT of Delhi,Emissions,2014,23175569.16
+87,NCT of Delhi,Removals,2014,-42511.59
+88,Goa,Emissions,2014,3167071.21
+89,Goa,Removals,2014,-1193988.73
+90,Gujarat,Emissions,2014,113645740.98
+91,Gujarat,Removals,2014,1101733.36
+92,Haryana,Emissions,2014,33057915.46
+93,Haryana,Removals,2014,179248.58
+94,Himachal Pradesh,Emissions,2014,6075043.42
+95,Himachal Pradesh,Removals,2014,-3496198.07
+96,Jammu and Kashmir,Emissions,2014,4129045.17
+97,Jammu and Kashmir,Removals,2014,-5339802.78
+98,Jharkhand,Emissions,2014,53670836.22
+99,Jharkhand,Removals,2014,-3895703.34
+100,Karnataka,Emissions,2014,58184726.31
+101,Karnataka,Removals,2014,-4665441.14
+102,Kerala,Emissions,2014,13113755.97
+103,Kerala,Removals,2014,-3723884.33
+104,Lakshadweep,Emissions,2014,55281.41
+105,Lakshadweep,Removals,2014,-3477.38
+106,Madhya Pradesh,Emissions,2014,78506949.78
+107,Madhya Pradesh,Removals,2014,157949.94
+108,Maharashtra,Emissions,2014,133517416.89
+109,Maharashtra,Removals,2014,8462169.06
+110,Manipur,Emissions,2014,479405.3
+111,Manipur,Removals,2014,-1656614.08
+112,Meghalaya,Emissions,2014,1906241.29
+113,Meghalaya,Removals,2014,-3252353.97
+114,Mizoram,Emissions,2014,318584.98
+115,Mizoram,Removals,2014,-1101954.74
+116,Nagaland,Emissions,2014,372400.42
+117,Nagaland,Removals,2014,-680463.26
+118,Orissa,Emissions,2014,86778156.67
+119,Orissa,Removals,2014,-9597421.61
+120,Puducherry,Emissions,2014,1384043.61
+121,Puducherry,Removals,2014,-28149.01
+122,Punjab,Emissions,2014,35587700.48
+123,Punjab,Removals,2014,-475894.1
+124,Rajasthan,Emissions,2014,63536268.72
+125,Rajasthan,Removals,2014,276193.48
+126,Sikkim,Emissions,2014,183613.13
+127,Sikkim,Removals,2014,-4215050.17
+128,Tamil Nadu,Emissions,2014,89047685.04
+129,Tamil Nadu,Removals,2014,2057491.03
+130,Telangana,Emissions,2014,675882.07
+131,Telangana,Removals,2014,632694.52
+132,Tripura,Emissions,2014,1769660.45
+133,Tripura,Removals,2014,-2943536.91
+134,Uttar Pradesh,Emissions,2014,132537671.41
+135,Uttar Pradesh,Removals,2014,-5114465.83
+136,Uttaranchal,Emissions,2014,3588972.99
+137,Uttaranchal,Removals,2014,-540083.35
+138,West Bengal,Emissions,2014,91203824.08
+139,West Bengal,Removals,2014,-20476044.52
+140,Andaman and Nicobar,Emissions,2015,387933.21
+141,Andaman and Nicobar,Removals,2015,-7211030.22
+142,Andhra Pradesh,Emissions,2015,130034586.24
+143,Andhra Pradesh,Removals,2015,-15771405.03
+144,Arunachal Pradesh,Emissions,2015,446300.0
+145,Arunachal Pradesh,Removals,2015,-21825884.95
+146,Assam,Emissions,2015,10425250.9
+147,Assam,Removals,2015,-3685674.56
+148,Bihar,Emissions,2015,21588741.65
+149,Bihar,Removals,2015,586926.94
+150,Chandigarh,Emissions,2015,658739.14
+151,Chandigarh,Removals,2015,-2034.86
+152,Chhattisgarh,Emissions,2015,108788443.24
+153,Chhattisgarh,Removals,2015,-4843636.53
+154,Dadra and Nagar Haveli and Daman and Diu,Emissions,2015,1160322.76
+155,Dadra and Nagar Haveli and Daman and Diu,Removals,2015,49620.02
+156,NCT of Delhi,Emissions,2015,23032161.06
+157,NCT of Delhi,Removals,2015,-41984.08
+158,Goa,Emissions,2015,3429850.93
+159,Goa,Removals,2015,-1193947.66
+160,Gujarat,Emissions,2015,122689027.52
+161,Gujarat,Removals,2015,1259834.74
+162,Haryana,Emissions,2015,36178522.81
+163,Haryana,Removals,2015,189665.38
+164,Himachal Pradesh,Emissions,2015,6082057.41
+165,Himachal Pradesh,Removals,2015,-3533202.14
+166,Jammu and Kashmir,Emissions,2015,4067549.94
+167,Jammu and Kashmir,Removals,2015,-5412308.18
+168,Jharkhand,Emissions,2015,47973205.21
+169,Jharkhand,Removals,2015,-3869150.4
+170,Karnataka,Emissions,2015,61598833.89
+171,Karnataka,Removals,2015,-4560733.98
+172,Kerala,Emissions,2015,14121810.55
+173,Kerala,Removals,2015,-3729035.11
+174,Lakshadweep,Emissions,2015,65070.0
+175,Lakshadweep,Removals,2015,-3471.82
+176,Madhya Pradesh,Emissions,2015,83716342.69
+177,Madhya Pradesh,Removals,2015,207883.27
+178,Maharashtra,Emissions,2015,143015705.46
+179,Maharashtra,Removals,2015,8446392.31
+180,Manipur,Emissions,2015,529719.78
+181,Manipur,Removals,2015,-1660575.58
+182,Meghalaya,Emissions,2015,2024406.23
+183,Meghalaya,Removals,2015,-3251439.1
+184,Mizoram,Emissions,2015,316559.54
+185,Mizoram,Removals,2015,-1117232.91
+186,Nagaland,Emissions,2015,414853.17
+187,Nagaland,Removals,2015,-663860.55
+188,Orissa,Emissions,2015,94823365.65
+189,Orissa,Removals,2015,-9628148.19
+190,Puducherry,Emissions,2015,1448868.54
+191,Puducherry,Removals,2015,-27910.72
+192,Punjab,Emissions,2015,36050960.07
+193,Punjab,Removals,2015,-477514.37
+194,Rajasthan,Emissions,2015,68341537.35
+195,Rajasthan,Removals,2015,287990.29
+196,Sikkim,Emissions,2015,189895.32
+197,Sikkim,Removals,2015,-4126348.69
+198,Tamil Nadu,Emissions,2015,95185662.23
+199,Tamil Nadu,Removals,2015,2101333.28
+200,Telangana,Emissions,2015,625272.11
+201,Telangana,Removals,2015,653762.96
+202,Tripura,Emissions,2015,1706802.2
+203,Tripura,Removals,2015,-2947467.91
+204,Uttar Pradesh,Emissions,2015,138204545.91
+205,Uttar Pradesh,Removals,2015,-4448152.85
+206,Uttaranchal,Emissions,2015,4468435.87
+207,Uttaranchal,Removals,2015,-560224.84
+208,West Bengal,Emissions,2015,96503943.27
+209,West Bengal,Removals,2015,-20476134.44
+210,Andaman and Nicobar,Emissions,2016,451618.97
+211,Andaman and Nicobar,Removals,2016,-7211030.22
+212,Andhra Pradesh,Emissions,2016,132710167.94
+213,Andhra Pradesh,Removals,2016,-15771405.03
+214,Arunachal Pradesh,Emissions,2016,499867.7
+215,Arunachal Pradesh,Removals,2016,-21825884.95
+216,Assam,Emissions,2016,11431305.78
+217,Assam,Removals,2016,-3685674.56
+218,Bihar,Emissions,2016,26223318.0
+219,Bihar,Removals,2016,586926.94
+220,Chandigarh,Emissions,2016,702916.61
+221,Chandigarh,Removals,2016,-2034.86
+222,Chhattisgarh,Emissions,2016,126990563.56
+223,Chhattisgarh,Removals,2016,-4843636.53
+224,Dadra and Nagar Haveli and Daman and Diu,Emissions,2016,890685.49
+225,Dadra and Nagar Haveli and Daman and Diu,Removals,2016,49620.02
+226,NCT of Delhi,Emissions,2016,21879820.28
+227,NCT of Delhi,Removals,2016,-41984.08
+228,Goa,Emissions,2016,4273470.1
+229,Goa,Removals,2016,-1193947.66
+230,Gujarat,Emissions,2016,137136636.9
+231,Gujarat,Removals,2016,1259834.74
+232,Haryana,Emissions,2016,41847338.53
+233,Haryana,Removals,2016,189665.38
+234,Himachal Pradesh,Emissions,2016,6398208.11
+235,Himachal Pradesh,Removals,2016,-3533202.14
+236,Jammu and Kashmir,Emissions,2016,4259882.3
+237,Jammu and Kashmir,Removals,2016,-5412308.18
+238,Jharkhand,Emissions,2016,60364664.57
+239,Jharkhand,Removals,2016,-3869150.4
+240,Karnataka,Emissions,2016,71543137.63
+241,Karnataka,Removals,2016,-4560733.98
+242,Kerala,Emissions,2016,15607613.08
+243,Kerala,Removals,2016,-3729035.11
+244,Lakshadweep,Emissions,2016,69097.13
+245,Lakshadweep,Removals,2016,-3471.82
+246,Madhya Pradesh,Emissions,2016,85027595.05
+247,Madhya Pradesh,Removals,2016,207883.27
+248,Maharashtra,Emissions,2016,144527100.03
+249,Maharashtra,Removals,2016,8446392.31
+250,Manipur,Emissions,2016,583574.21
+251,Manipur,Removals,2016,-1660575.58
+252,Meghalaya,Emissions,2016,2284725.27
+253,Meghalaya,Removals,2016,-3251439.1
+254,Mizoram,Emissions,2016,334636.36
+255,Mizoram,Removals,2016,-1117232.91
+256,Nagaland,Emissions,2016,393885.0
+257,Nagaland,Removals,2016,-663860.55
+258,Orissa,Emissions,2016,99981219.0
+259,Orissa,Removals,2016,-9628148.19
+260,Puducherry,Emissions,2016,1544321.2
+261,Puducherry,Removals,2016,-27910.72
+262,Punjab,Emissions,2016,40865238.02
+263,Punjab,Removals,2016,-477514.37
+264,Rajasthan,Emissions,2016,73320562.98
+265,Rajasthan,Removals,2016,287990.29
+266,Sikkim,Emissions,2016,239769.47
+267,Sikkim,Removals,2016,-4126348.69
+268,Tamil Nadu,Emissions,2016,102970103.99
+269,Tamil Nadu,Removals,2016,2101333.28
+270,Telangana,Emissions,2016,625272.11
+271,Telangana,Removals,2016,653762.96
+272,Tripura,Emissions,2016,1781964.34
+273,Tripura,Removals,2016,-2947467.91
+274,Uttar Pradesh,Emissions,2016,143857705.88
+275,Uttar Pradesh,Removals,2016,-4448152.85
+276,Uttaranchal,Emissions,2016,4693251.55
+277,Uttaranchal,Removals,2016,-560224.84
+278,West Bengal,Emissions,2016,99452610.16
+279,West Bengal,Removals,2016,-20476134.44
+280,Andaman and Nicobar,Emissions,2017,506495.38
+281,Andaman and Nicobar,Removals,2017,-7211030.22
+282,Andhra Pradesh,Emissions,2017,143854951.62
+283,Andhra Pradesh,Removals,2017,-15771405.03
+284,Arunachal Pradesh,Emissions,2017,530585.76
+285,Arunachal Pradesh,Removals,2017,-21825884.95
+286,Assam,Emissions,2017,10862060.01
+287,Assam,Removals,2017,-3685674.56
+288,Bihar,Emissions,2017,30036834.58
+289,Bihar,Removals,2017,586926.94
+290,Chandigarh,Emissions,2017,724564.44
+291,Chandigarh,Removals,2017,-2034.86
+292,Chhattisgarh,Emissions,2017,127870434.18
+293,Chhattisgarh,Removals,2017,-4843636.53
+294,Dadra and Nagar Haveli and Daman and Diu,Emissions,2017,1182139.6
+295,Dadra and Nagar Haveli and Daman and Diu,Removals,2017,49620.02
+296,NCT of Delhi,Emissions,2017,21390692.11
+297,NCT of Delhi,Removals,2017,-41984.08
+298,Goa,Emissions,2017,3347624.99
+299,Goa,Removals,2017,-1193947.66
+300,Gujarat,Emissions,2017,142792138.25
+301,Gujarat,Removals,2017,1259834.74
+302,Haryana,Emissions,2017,44250773.26
+303,Haryana,Removals,2017,189665.38
+304,Himachal Pradesh,Emissions,2017,8482976.69
+305,Himachal Pradesh,Removals,2017,-3533202.14
+306,Jammu and Kashmir,Emissions,2017,4463029.96
+307,Jammu and Kashmir,Removals,2017,-5412308.18
+308,Jharkhand,Emissions,2017,63986531.34
+309,Jharkhand,Removals,2017,-3869150.4
+310,Karnataka,Emissions,2017,84646883.4
+311,Karnataka,Removals,2017,-4560733.98
+312,Kerala,Emissions,2017,16417588.34
+313,Kerala,Removals,2017,-3729035.11
+314,Lakshadweep,Emissions,2017,71241.21
+315,Lakshadweep,Removals,2017,-3471.82
+316,Madhya Pradesh,Emissions,2017,88542384.66
+317,Madhya Pradesh,Removals,2017,207883.27
+318,Maharashtra,Emissions,2017,145729668.87
+319,Maharashtra,Removals,2017,8446392.31
+320,Manipur,Emissions,2017,529127.64
+321,Manipur,Removals,2017,-1660575.58
+322,Meghalaya,Emissions,2017,2844409.73
+323,Meghalaya,Removals,2017,-3251439.1
+324,Mizoram,Emissions,2017,351918.42
+325,Mizoram,Removals,2017,-1117232.91
+326,Nagaland,Emissions,2017,419557.3
+327,Nagaland,Removals,2017,-663860.55
+328,Orissa,Emissions,2017,112946491.39
+329,Orissa,Removals,2017,-9628148.19
+330,Puducherry,Emissions,2017,1530629.6
+331,Puducherry,Removals,2017,-27910.72
+332,Punjab,Emissions,2017,40684343.6
+333,Punjab,Removals,2017,-477514.37
+334,Rajasthan,Emissions,2017,77317845.91
+335,Rajasthan,Removals,2017,287990.29
+336,Sikkim,Emissions,2017,298590.58
+337,Sikkim,Removals,2017,-4126348.69
+338,Tamil Nadu,Emissions,2017,105872887.47
+339,Tamil Nadu,Removals,2017,2101333.28
+340,Telangana,Emissions,2017,625272.11
+341,Telangana,Removals,2017,653762.96
+342,Tripura,Emissions,2017,1881311.45
+343,Tripura,Removals,2017,-2947467.91
+344,Uttar Pradesh,Emissions,2017,150166937.76
+345,Uttar Pradesh,Removals,2017,-4448152.85
+346,Uttaranchal,Emissions,2017,6038934.5
+347,Uttaranchal,Removals,2017,-560224.84
+348,West Bengal,Emissions,2017,106983267.34
+349,West Bengal,Removals,2017,-20476134.44
+350,Andaman and Nicobar,Emissions,2018,528225.44
+351,Andaman and Nicobar,Removals,2018,-7211032.03
+352,Andhra Pradesh,Emissions,2018,153231733.58
+353,Andhra Pradesh,Removals,2018,-15868060.3
+354,Arunachal Pradesh,Emissions,2018,583617.62
+355,Arunachal Pradesh,Removals,2018,-21692813.54
+356,Assam,Emissions,2018,10867157.88
+357,Assam,Removals,2018,-3705298.33
+358,Bihar,Emissions,2018,31465083.98
+359,Bihar,Removals,2018,631592.98
+360,Chandigarh,Emissions,2018,729745.61
+361,Chandigarh,Removals,2018,-2034.12
+362,Chhattisgarh,Emissions,2018,132382719.78
+363,Chhattisgarh,Removals,2018,-5079285.8
+364,Dadra and Nagar Haveli and Daman and Diu,Emissions,2018,1174932.01
+365,Dadra and Nagar Haveli and Daman and Diu,Removals,2018,49401.75
+366,NCT of Delhi,Emissions,2018,22809770.01
+367,NCT of Delhi,Removals,2018,-42270.99
+368,Goa,Emissions,2018,3163865.22
+369,Goa,Removals,2018,-1191971.51
+370,Gujarat,Emissions,2018,156993441.05
+371,Gujarat,Removals,2018,1195390.67
+372,Haryana,Emissions,2018,48852410.55
+373,Haryana,Removals,2018,179184.66
+374,Himachal Pradesh,Emissions,2018,8634858.12
+375,Himachal Pradesh,Removals,2018,-3448629.05
+376,Jammu and Kashmir,Emissions,2018,4826799.92
+377,Jammu and Kashmir,Removals,2018,-5335637.69
+378,Jharkhand,Emissions,2018,68525311.07
+379,Jharkhand,Removals,2018,-3897689.22
+380,Karnataka,Emissions,2018,87084007.03
+381,Karnataka,Removals,2018,-4646858.68
+382,Kerala,Emissions,2018,17057079.99
+383,Kerala,Removals,2018,-3759936.98
+384,Lakshadweep,Emissions,2018,352277.59
+385,Lakshadweep,Removals,2018,-3554.68
+386,Madhya Pradesh,Emissions,2018,92496136.77
+387,Madhya Pradesh,Removals,2018,474451.77
+388,Maharashtra,Emissions,2018,155155198.31
+389,Maharashtra,Removals,2018,8072192.08
+390,Manipur,Emissions,2018,562915.51
+391,Manipur,Removals,2018,-1650205.19
+392,Meghalaya,Emissions,2018,3282060.96
+393,Meghalaya,Removals,2018,-3242799.8
+394,Mizoram,Emissions,2018,355367.07
+395,Mizoram,Removals,2018,-1101871.12
+396,Nagaland,Emissions,2018,459439.15
+397,Nagaland,Removals,2018,-661050.02
+398,Orissa,Emissions,2018,132469464.02
+399,Orissa,Removals,2018,-9698948.45
+400,Puducherry,Emissions,2018,1584692.18
+401,Puducherry,Removals,2018,-27828.44
+402,Punjab,Emissions,2018,39058765.41
+403,Punjab,Removals,2018,-480729.55
+404,Rajasthan,Emissions,2018,84164854.46
+405,Rajasthan,Removals,2018,593766.66
+406,Sikkim,Emissions,2018,340614.96
+407,Sikkim,Removals,2018,-4099778.56
+408,Tamil Nadu,Emissions,2018,107782904.46
+409,Tamil Nadu,Removals,2018,2049733.22
+410,Telangana,Emissions,2018,655341.18
+411,Telangana,Removals,2018,584457.15
+412,Tripura,Emissions,2018,2126107.18
+413,Tripura,Removals,2018,-2941977.15
+414,Uttar Pradesh,Emissions,2018,158850290.25
+415,Uttar Pradesh,Removals,2018,-4789678.03
+416,Uttaranchal,Emissions,2018,6041648.81
+417,Uttaranchal,Removals,2018,-554636.74
+418,West Bengal,Emissions,2018,111560978.07
+419,West Bengal,Removals,2018,-20510052.71
+420,Andaman and Nicobar,Emissions,2019,563570.72
+421,Andaman and Nicobar,Removals,2019,-1252199.5
+422,Andhra Pradesh,Emissions,2019,160350558.13
+423,Andhra Pradesh,Removals,2019,-29042427.42
+424,Arunachal Pradesh,Emissions,2019,602025.36
+425,Arunachal Pradesh,Removals,2019,4510663.87
+426,Assam,Emissions,2019,11289699.39
+427,Assam,Removals,2019,203166.41
+428,Bihar,Emissions,2019,32199993.89
+429,Bihar,Removals,2019,108025.19
+430,Chandigarh,Emissions,2019,700987.68
+431,Chandigarh,Removals,2019,-75546.71
+432,Chhattisgarh,Emissions,2019,144060811.1
+433,Chhattisgarh,Removals,2019,708703.11
+434,Dadra and Nagar Haveli and Daman and Diu,Emissions,2019,1122075.12
+435,Dadra and Nagar Haveli and Daman and Diu,Removals,2019,-355.5
+436,NCT of Delhi,Emissions,2019,23478636.74
+437,NCT of Delhi,Removals,2019,-88037.23
+438,Goa,Emissions,2019,3228044.94
+439,Goa,Removals,2019,108934.32
+440,Gujarat,Emissions,2019,174095635.06
+441,Gujarat,Removals,2019,-1025327.31
+442,Haryana,Emissions,2019,55098531.73
+443,Haryana,Removals,2019,46115.56
+444,Himachal Pradesh,Emissions,2019,9281977.76
+445,Himachal Pradesh,Removals,2019,-630652.72
+446,Jammu and Kashmir,Emissions,2019,5109131.64
+447,Jammu and Kashmir,Removals,2019,-10007852.07
+448,Jharkhand,Emissions,2019,77307678.32
+449,Jharkhand,Removals,2019,-1131327.77
+450,Karnataka,Emissions,2019,92230669.01
+451,Karnataka,Removals,2019,-8923517.25
+452,Kerala,Emissions,2019,17762238.11
+453,Kerala,Removals,2019,-32684334.31
+454,Lakshadweep,Emissions,2019,737861.31
+455,Lakshadweep,Removals,2019,-120.22
+456,Madhya Pradesh,Emissions,2019,93922246.6
+457,Madhya Pradesh,Removals,2019,1319622.1
+458,Maharashtra,Emissions,2019,160240237.21
+459,Maharashtra,Removals,2019,-2611426.97
+460,Manipur,Emissions,2019,666175.03
+461,Manipur,Removals,2019,-1427478.76
+462,Meghalaya,Emissions,2019,2927328.27
+463,Meghalaya,Removals,2019,406398.34
+464,Mizoram,Emissions,2019,373333.48
+465,Mizoram,Removals,2019,3223575.59
+466,Nagaland,Emissions,2019,467283.61
+467,Nagaland,Removals,2019,1917556.62
+468,Orissa,Emissions,2019,134288888.81
+469,Orissa,Removals,2019,-2280655.05
+470,Puducherry,Emissions,2019,1470462.15
+471,Puducherry,Removals,2019,-106474.8
+472,Punjab,Emissions,2019,39633210.57
+473,Punjab,Removals,2019,-86410.72
+474,Rajasthan,Emissions,2019,91704496.75
+475,Rajasthan,Removals,2019,-1156213.91
+476,Sikkim,Emissions,2019,351787.34
+477,Sikkim,Removals,2019,132281.3
+478,Tamil Nadu,Emissions,2019,118996426.21
+479,Tamil Nadu,Removals,2019,-38853901.92
+480,Telangana,Emissions,2019,10490950.34
+481,Telangana,Removals,2019,31045411.75
+482,Tripura,Emissions,2019,2453455.39
+483,Tripura,Removals,2019,-418813.39
+484,Uttar Pradesh,Emissions,2019,167986224.0
+485,Uttar Pradesh,Removals,2019,-1959366.5
+486,Uttaranchal,Emissions,2019,6822843.9
+487,Uttaranchal,Removals,2019,4991870.73
+488,West Bengal,Emissions,2019,126221706.68
+489,West Bengal,Removals,2019,-1151911.97
+490,Andaman and Nicobar,Emissions,2020,670591.73
+491,Andaman and Nicobar,Removals,2020,-1252199.5
+492,Andhra Pradesh,Emissions,2020,162359030.62
+493,Andhra Pradesh,Removals,2020,-29042427.42
+494,Arunachal Pradesh,Emissions,2020,659414.09
+495,Arunachal Pradesh,Removals,2020,4510663.87
+496,Assam,Emissions,2020,11777946.56
+497,Assam,Removals,2020,203166.41
+498,Bihar,Emissions,2020,33854479.43
+499,Bihar,Removals,2020,108025.19
+500,Chandigarh,Emissions,2020,690608.14
+501,Chandigarh,Removals,2020,-75546.71
+502,Chhattisgarh,Emissions,2020,149296373.17
+503,Chhattisgarh,Removals,2020,708703.11
+504,Dadra and Nagar Haveli and Daman and Diu,Emissions,2020,1370140.08
+505,Dadra and Nagar Haveli and Daman and Diu,Removals,2020,-355.5
+506,NCT of Delhi,Emissions,2020,21971417.54
+507,NCT of Delhi,Removals,2020,-88037.23
+508,Goa,Emissions,2020,3362834.65
+509,Goa,Removals,2020,108934.32
+510,Gujarat,Emissions,2020,181432676.65
+511,Gujarat,Removals,2020,-1025327.31
+512,Haryana,Emissions,2020,55528140.3
+513,Haryana,Removals,2020,46115.56
+514,Himachal Pradesh,Emissions,2020,9291192.96
+515,Himachal Pradesh,Removals,2020,-630652.72
+516,Jammu and Kashmir,Emissions,2020,5254520.35
+517,Jammu and Kashmir,Removals,2020,-10007852.07
+518,Jharkhand,Emissions,2020,78415654.88
+519,Jharkhand,Removals,2020,-1131327.77
+520,Karnataka,Emissions,2020,99058826.34
+521,Karnataka,Removals,2020,-8923517.25
+522,Kerala,Emissions,2020,18815207.13
+523,Kerala,Removals,2020,-32684334.31
+524,Lakshadweep,Emissions,2020,280983.12
+525,Lakshadweep,Removals,2020,-120.22
+526,Madhya Pradesh,Emissions,2020,98332134.63
+527,Madhya Pradesh,Removals,2020,1319622.1
+528,Maharashtra,Emissions,2020,167378809.99
+529,Maharashtra,Removals,2020,-2611426.97
+530,Manipur,Emissions,2020,756775.5
+531,Manipur,Removals,2020,-1427478.76
+532,Meghalaya,Emissions,2020,3076175.08
+533,Meghalaya,Removals,2020,406398.34
+534,Mizoram,Emissions,2020,387542.57
+535,Mizoram,Removals,2020,3223575.59
+536,Nagaland,Emissions,2020,489567.78
+537,Nagaland,Removals,2020,1917556.62
+538,Orissa,Emissions,2020,131954870.4
+539,Orissa,Removals,2020,-2280655.05
+540,Puducherry,Emissions,2020,1421570.45
+541,Puducherry,Removals,2020,-106474.8
+542,Punjab,Emissions,2020,39924913.27
+543,Punjab,Removals,2020,-86410.72
+544,Rajasthan,Emissions,2020,96032761.66
+545,Rajasthan,Removals,2020,-1156213.91
+546,Sikkim,Emissions,2020,354103.31
+547,Sikkim,Removals,2020,132281.3
+548,Tamil Nadu,Emissions,2020,119383773.36
+549,Tamil Nadu,Removals,2020,-38853901.92
+550,Telangana,Emissions,2020,14404323.47
+551,Telangana,Removals,2020,31045411.75
+552,Tripura,Emissions,2020,2112069.39
+553,Tripura,Removals,2020,-418813.39
+554,Uttar Pradesh,Emissions,2020,182521025.23
+555,Uttar Pradesh,Removals,2020,-1959366.5
+556,Uttaranchal,Emissions,2020,7518426.06
+557,Uttaranchal,Removals,2020,4991870.73
+558,West Bengal,Emissions,2020,133756582.19
+559,West Bengal,Removals,2020,-1151911.97
+560,Andaman and Nicobar,Emissions,2021,724605.02
+561,Andaman and Nicobar,Removals,2021,281075.83
+562,Andhra Pradesh,Emissions,2021,141520497.28
+563,Andhra Pradesh,Removals,2021,-37460793.42
+564,Arunachal Pradesh,Emissions,2021,716816.15
+565,Arunachal Pradesh,Removals,2021,5136881.03
+566,Assam,Emissions,2021,12962307.02
+567,Assam,Removals,2021,-7872850.26
+568,Bihar,Emissions,2021,37233386.1
+569,Bihar,Removals,2021,-1033155.14
+570,Chandigarh,Emissions,2021,726863.16
+571,Chandigarh,Removals,2021,955.54
+572,Chhattisgarh,Emissions,2021,155345189.13
+573,Chhattisgarh,Removals,2021,-217038.56
+574,Dadra and Nagar Haveli and Daman and Diu,Emissions,2021,1684734.57
+575,Dadra and Nagar Haveli and Daman and Diu,Removals,2021,-22394.0
+576,NCT of Delhi,Emissions,2021,21271731.15
+577,NCT of Delhi,Removals,2021,-39885.03
+578,Goa,Emissions,2021,3648123.9
+579,Goa,Removals,2021,-328990.35
+580,Gujarat,Emissions,2021,204292759.78
+581,Gujarat,Removals,2021,-887808.98
+582,Haryana,Emissions,2021,58392117.52
+583,Haryana,Removals,2021,-154520.77
+584,Himachal Pradesh,Emissions,2021,9275312.99
+585,Himachal Pradesh,Removals,2021,-8505789.22
+586,Jammu and Kashmir,Emissions,2021,5350147.79
+587,Jammu and Kashmir,Removals,2021,-5720081.4
+588,Jharkhand,Emissions,2021,68662159.48
+589,Jharkhand,Removals,2021,-749653.44
+590,Karnataka,Emissions,2021,108296113.21
+591,Karnataka,Removals,2021,-27108658.58
+592,Kerala,Emissions,2021,19808919.06
+593,Kerala,Removals,2021,-25458624.98
+594,Lakshadweep,Emissions,2021,101680.63
+595,Lakshadweep,Removals,2021,-557.51
+596,Madhya Pradesh,Emissions,2021,114913685.49
+597,Madhya Pradesh,Removals,2021,-64221.9
+598,Maharashtra,Emissions,2021,180879677.26
+599,Maharashtra,Removals,2021,-1113314.97
+600,Manipur,Emissions,2021,872632.78
+601,Manipur,Removals,2021,-3998728.76
+602,Meghalaya,Emissions,2021,3179333.06
+603,Meghalaya,Removals,2021,1906083.34
+604,Mizoram,Emissions,2021,395960.43
+605,Mizoram,Removals,2021,5082289.59
+606,Nagaland,Emissions,2021,497946.56
+607,Nagaland,Removals,2021,8250779.12
+608,Orissa,Emissions,2021,144110025.39
+609,Orissa,Removals,2021,-14765310.38
+610,Puducherry,Emissions,2021,1416772.26
+611,Puducherry,Removals,2021,49248.24
+612,Punjab,Emissions,2021,41944857.87
+613,Punjab,Removals,2021,-1158868.55
+614,Rajasthan,Emissions,2021,109308116.35
+615,Rajasthan,Removals,2021,-5581425.91
+616,Sikkim,Emissions,2021,365300.52
+617,Sikkim,Removals,2021,238717.3
+618,Tamil Nadu,Emissions,2021,126715574.54
+619,Tamil Nadu,Removals,2021,-2203247.59
+620,Telangana,Emissions,2021,35632485.15
+621,Telangana,Removals,2021,-9976759.92
+622,Tripura,Emissions,2021,2140592.77
+623,Tripura,Removals,2021,2409865.94
+624,Uttar Pradesh,Emissions,2021,190243206.28
+625,Uttar Pradesh,Removals,2021,-5491143.84
+626,Uttaranchal,Emissions,2021,12390105.73
+627,Uttaranchal,Removals,2021,-571751.43
+628,West Bengal,Emissions,2021,134922435.96
+629,West Bengal,Removals,2021,-1151911.97
+630,Andaman and Nicobar,Emissions,2022,745623.42
+631,Andaman and Nicobar,Removals,2022,281075.83
+632,Andhra Pradesh,Emissions,2022,132270604.25
+633,Andhra Pradesh,Removals,2022,-37460793.42
+634,Arunachal Pradesh,Emissions,2022,758465.59
+635,Arunachal Pradesh,Removals,2022,5136881.03
+636,Assam,Emissions,2022,13438401.14
+637,Assam,Removals,2022,-7872850.26
+638,Bihar,Emissions,2022,41031943.24
+639,Bihar,Removals,2022,-1033155.14
+640,Chandigarh,Emissions,2022,823403.94
+641,Chandigarh,Removals,2022,955.54
+642,Chhattisgarh,Emissions,2022,156315461.86
+643,Chhattisgarh,Removals,2022,-217038.56
+644,Dadra and Nagar Haveli and Daman and Diu,Emissions,2022,1894786.88
+645,Dadra and Nagar Haveli and Daman and Diu,Removals,2022,-22394.0
+646,NCT of Delhi,Emissions,2022,20363580.66
+647,NCT of Delhi,Removals,2022,-39885.03
+648,Goa,Emissions,2022,3142813.27
+649,Goa,Removals,2022,-328990.35
+650,Gujarat,Emissions,2022,197887331.81
+651,Gujarat,Removals,2022,-887808.98
+652,Haryana,Emissions,2022,54667732.18
+653,Haryana,Removals,2022,-154520.77
+654,Himachal Pradesh,Emissions,2022,10107863.16
+655,Himachal Pradesh,Removals,2022,-8505789.22
+656,Jammu and Kashmir,Emissions,2022,5502461.13
+657,Jammu and Kashmir,Removals,2022,-5720081.4
+658,Jharkhand,Emissions,2022,70803375.92
+659,Jharkhand,Removals,2022,-749653.44
+660,Karnataka,Emissions,2022,104730290.88
+661,Karnataka,Removals,2022,-27108658.58
+662,Kerala,Emissions,2022,19792081.77
+663,Kerala,Removals,2022,-25458624.98
+664,Lakshadweep,Emissions,2022,107768.03
+665,Lakshadweep,Removals,2022,-557.51
+666,Madhya Pradesh,Emissions,2022,132295296.63
+667,Madhya Pradesh,Removals,2022,-64221.9
+668,Maharashtra,Emissions,2022,190569634.62
+669,Maharashtra,Removals,2022,-1113314.97
+670,Manipur,Emissions,2022,916087.48
+671,Manipur,Removals,2022,-3998728.76
+672,Meghalaya,Emissions,2022,2597515.58
+673,Meghalaya,Removals,2022,1906083.34
+674,Mizoram,Emissions,2022,405960.52
+675,Mizoram,Removals,2022,5082289.59
+676,Nagaland,Emissions,2022,512316.11
+677,Nagaland,Removals,2022,8250779.12
+678,Orissa,Emissions,2022,159499746.48
+679,Orissa,Removals,2022,-14765310.38
+680,Puducherry,Emissions,2022,1580484.08
+681,Puducherry,Removals,2022,49248.24
+682,Punjab,Emissions,2022,43623796.68
+683,Punjab,Removals,2022,-1158868.55
+684,Rajasthan,Emissions,2022,109352472.79
+685,Rajasthan,Removals,2022,-5581425.91
+686,Sikkim,Emissions,2022,363578.29
+687,Sikkim,Removals,2022,238717.3
+688,Tamil Nadu,Emissions,2022,126477445.6
+689,Tamil Nadu,Removals,2022,-2203247.59
+690,Telangana,Emissions,2022,43366386.69
+691,Telangana,Removals,2022,-9976759.92
+692,Tripura,Emissions,2022,2457515.22
+693,Tripura,Removals,2022,2409865.94
+694,Uttar Pradesh,Emissions,2022,187543285.5
+695,Uttar Pradesh,Removals,2022,-5491143.84
+696,Uttaranchal,Emissions,2022,8372477.9
+697,Uttaranchal,Removals,2022,-571751.43
+698,West Bengal,Emissions,2022,130388697.77
+699,West Bengal,Removals,2022,-1151911.97
