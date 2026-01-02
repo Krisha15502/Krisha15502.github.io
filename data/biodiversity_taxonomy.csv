@@ -1,0 +1,199 @@
+year,category,taxonomic_group,count
+1990,Critically Endangered,Mammals,6
+1990,Critically Endangered,Birds,8
+1990,Critically Endangered,Reptiles,3
+1990,Critically Endangered,Amphibians,10
+1990,Critically Endangered,Fish,6
+1990,Critically Endangered,Plants,30
+1990,Endangered,Mammals,25
+1990,Endangered,Birds,35
+1990,Endangered,Reptiles,12
+1990,Endangered,Amphibians,18
+1990,Endangered,Fish,20
+1990,Endangered,Plants,70
+1990,Vulnerable,Mammals,37
+1990,Vulnerable,Birds,45
+1990,Vulnerable,Reptiles,30
+1990,Vulnerable,Amphibians,25
+1990,Vulnerable,Fish,35
+1990,Vulnerable,Plants,78
+1995,Critically Endangered,Mammals,6
+1995,Critically Endangered,Birds,9
+1995,Critically Endangered,Reptiles,3
+1995,Critically Endangered,Amphibians,11
+1995,Critically Endangered,Fish,7
+1995,Critically Endangered,Plants,34
+1995,Endangered,Mammals,31
+1995,Endangered,Birds,43
+1995,Endangered,Reptiles,14
+1995,Endangered,Amphibians,22
+1995,Endangered,Fish,25
+1995,Endangered,Plants,85
+1995,Vulnerable,Mammals,42
+1995,Vulnerable,Birds,51
+1995,Vulnerable,Reptiles,34
+1995,Vulnerable,Amphibians,28
+1995,Vulnerable,Fish,39
+1995,Vulnerable,Plants,91
+2000,Critically Endangered,Mammals,7
+2000,Critically Endangered,Birds,10
+2000,Critically Endangered,Reptiles,3
+2000,Critically Endangered,Amphibians,12
+2000,Critically Endangered,Fish,8
+2000,Critically Endangered,Plants,38
+2000,Endangered,Mammals,37
+2000,Endangered,Birds,52
+2000,Endangered,Reptiles,17
+2000,Endangered,Amphibians,26
+2000,Endangered,Fish,30
+2000,Endangered,Plants,101
+2000,Vulnerable,Mammals,48
+2000,Vulnerable,Birds,57
+2000,Vulnerable,Reptiles,38
+2000,Vulnerable,Amphibians,32
+2000,Vulnerable,Fish,44
+2000,Vulnerable,Plants,101
+2005,Critically Endangered,Mammals,7
+2005,Critically Endangered,Birds,11
+2005,Critically Endangered,Reptiles,4
+2005,Critically Endangered,Amphibians,13
+2005,Critically Endangered,Fish,9
+2005,Critically Endangered,Plants,42
+2005,Endangered,Mammals,44
+2005,Endangered,Birds,60
+2005,Endangered,Reptiles,20
+2005,Endangered,Amphibians,30
+2005,Endangered,Fish,35
+2005,Endangered,Plants,117
+2005,Vulnerable,Mammals,53
+2005,Vulnerable,Birds,63
+2005,Vulnerable,Reptiles,42
+2005,Vulnerable,Amphibians,35
+2005,Vulnerable,Fish,49
+2005,Vulnerable,Plants,113
+2010,Critically Endangered,Mammals,8
+2010,Critically Endangered,Birds,12
+2010,Critically Endangered,Reptiles,4
+2010,Critically Endangered,Amphibians,15
+2010,Critically Endangered,Fish,10
+2010,Critically Endangered,Plants,47
+2010,Endangered,Mammals,50
+2010,Endangered,Birds,69
+2010,Endangered,Reptiles,23
+2010,Endangered,Amphibians,35
+2010,Endangered,Fish,40
+2010,Endangered,Plants,132
+2010,Vulnerable,Mammals,58
+2010,Vulnerable,Birds,70
+2010,Vulnerable,Reptiles,46
+2010,Vulnerable,Amphibians,39
+2010,Vulnerable,Fish,54
+2010,Vulnerable,Plants,123
+2012,Critically Endangered,Mammals,8
+2012,Critically Endangered,Birds,12
+2012,Critically Endangered,Reptiles,4
+2012,Critically Endangered,Amphibians,15
+2012,Critically Endangered,Fish,11
+2012,Critically Endangered,Plants,48
+2012,Endangered,Mammals,53
+2012,Endangered,Birds,72
+2012,Endangered,Reptiles,24
+2012,Endangered,Amphibians,36
+2012,Endangered,Fish,42
+2012,Endangered,Plants,139
+2012,Vulnerable,Mammals,60
+2012,Vulnerable,Birds,72
+2012,Vulnerable,Reptiles,48
+2012,Vulnerable,Amphibians,40
+2012,Vulnerable,Fish,56
+2012,Vulnerable,Plants,128
+2015,Critically Endangered,Mammals,10
+2015,Critically Endangered,Birds,15
+2015,Critically Endangered,Reptiles,6
+2015,Critically Endangered,Amphibians,19
+2015,Critically Endangered,Fish,14
+2015,Critically Endangered,Plants,66
+2015,Endangered,Mammals,57
+2015,Endangered,Birds,77
+2015,Endangered,Reptiles,26
+2015,Endangered,Amphibians,39
+2015,Endangered,Fish,45
+2015,Endangered,Plants,148
+2015,Vulnerable,Mammals,63
+2015,Vulnerable,Birds,76
+2015,Vulnerable,Reptiles,51
+2015,Vulnerable,Amphibians,42
+2015,Vulnerable,Fish,59
+2015,Vulnerable,Plants,134
+2018,Critically Endangered,Mammals,10
+2018,Critically Endangered,Birds,15
+2018,Critically Endangered,Reptiles,6
+2018,Critically Endangered,Amphibians,19
+2018,Critically Endangered,Fish,14
+2018,Critically Endangered,Plants,73
+2018,Endangered,Mammals,61
+2018,Endangered,Birds,83
+2018,Endangered,Reptiles,28
+2018,Endangered,Amphibians,42
+2018,Endangered,Fish,48
+2018,Endangered,Plants,158
+2018,Vulnerable,Mammals,66
+2018,Vulnerable,Birds,80
+2018,Vulnerable,Reptiles,53
+2018,Vulnerable,Amphibians,44
+2018,Vulnerable,Fish,62
+2018,Vulnerable,Plants,141
+2020,Critically Endangered,Mammals,10
+2020,Critically Endangered,Birds,15
+2020,Critically Endangered,Reptiles,6
+2020,Critically Endangered,Amphibians,19
+2020,Critically Endangered,Fish,14
+2020,Critically Endangered,Plants,78
+2020,Endangered,Mammals,63
+2020,Endangered,Birds,86
+2020,Endangered,Reptiles,29
+2020,Endangered,Amphibians,43
+2020,Endangered,Fish,50
+2020,Endangered,Plants,164
+2020,Vulnerable,Mammals,69
+2020,Vulnerable,Birds,82
+2020,Vulnerable,Reptiles,55
+2020,Vulnerable,Amphibians,46
+2020,Vulnerable,Fish,64
+2020,Vulnerable,Plants,144
+2023,Critically Endangered,Mammals,10
+2023,Critically Endangered,Birds,15
+2023,Critically Endangered,Reptiles,6
+2023,Critically Endangered,Amphibians,19
+2023,Critically Endangered,Fish,14
+2023,Critically Endangered,Plants,85
+2023,Endangered,Mammals,67
+2023,Endangered,Birds,91
+2023,Endangered,Reptiles,30
+2023,Endangered,Amphibians,46
+2023,Endangered,Fish,53
+2023,Endangered,Plants,173
+2023,Vulnerable,Mammals,72
+2023,Vulnerable,Birds,86
+2023,Vulnerable,Reptiles,57
+2023,Vulnerable,Amphibians,48
+2023,Vulnerable,Fish,67
+2023,Vulnerable,Plants,151
+2025,Critically Endangered,Mammals,11
+2025,Critically Endangered,Birds,17
+2025,Critically Endangered,Reptiles,7
+2025,Critically Endangered,Amphibians,20
+2025,Critically Endangered,Fish,15
+2025,Critically Endangered,Plants,88
+2025,Endangered,Mammals,70
+2025,Endangered,Birds,95
+2025,Endangered,Reptiles,32
+2025,Endangered,Amphibians,48
+2025,Endangered,Fish,55
+2025,Endangered,Plants,180
+2025,Vulnerable,Mammals,74
+2025,Vulnerable,Birds,89
+2025,Vulnerable,Reptiles,59
+2025,Vulnerable,Amphibians,49
+2025,Vulnerable,Fish,69
+2025,Vulnerable,Plants,155
