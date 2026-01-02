@@ -1,0 +1,107 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Population Exposure to Climate Hazards",
+    "subtitle": "Hazards are segregated by risk level",
+    "font": "Times New Roman",
+    "subtitleFont": "Times New Roman",
+    "fontSize": 20,
+    "subtitleFontSize": 13,
+    "subtitlePadding": 4,
+    "fontWeight": 600,
+    "color": "#2c3e50",
+    "anchor": "middle"
+  },
+  "background": "white",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/data/hazard.csv"
+  },
+  "params": [
+    {
+      "name": "risk_select",
+      "select": {"type": "point", "fields": ["risk_level"]}
+    }
+  ],
+  "columns": 3,
+  "facet": {
+    "field": "hazard_type",
+    "type": "nominal",
+    "title": null,
+    "sort": [
+      "Flood",
+      "Drought",
+      "Cyclone",
+      "Flood + Drought",
+      "Drought + Cyclone",
+      "Flood + Cyclone",
+      "All Three Combined"
+    ],
+    "header": {
+      "labelFont": "Times New Roman",
+      "labelFontSize": 13,
+      "labelFontWeight": "bold",
+      "labelColor": "#2c3e50"
+    }
+  },
+  "spec": {
+    "width": 250,
+    "height": 250,
+    "mark": {
+      "type": "arc",
+      "innerRadius": 30,
+      "stroke": "white",
+      "strokeWidth": 2
+    },
+    "encoding": {
+      "theta": {"field": "pop_pct", "type": "quantitative", "stack": true},
+      "color": {
+        "field": "risk_level",
+        "type": "nominal",
+        "scale": {
+          "domain": ["Very Low", "Low", "Moderate", "High", "Very High"],
+          "range": ["#1F4D0C", "#5FA27A", "#D8CFC4", "#9B2C2C", "#4A0E0E"]
+        },
+        "legend": {
+          "title": "Risk Level (click to highlight across all)",
+          "orient": "bottom",
+          "direction": "horizontal",
+          "titleFontSize": 12
+        }
+      },
+      "opacity": {
+        "condition": {"param": "risk_select", "value": 1},
+        "value": 0.2
+      },
+      "tooltip": [
+        {"field": "hazard_type", "type": "nominal", "title": "Hazard Type"},
+        {"field": "risk_level", "type": "nominal", "title": "Risk Level"},
+        {
+          "field": "pop_pct",
+          "type": "quantitative",
+          "title": "Population (%)",
+          "format": ".1f"
+        },
+        {
+          "field": "pop_millions",
+          "type": "quantitative",
+          "title": "Population (Millions)",
+          "format": ".1f"
+        }
+      ],
+      "order": {
+        "field": "risk_level",
+        "type": "ordinal",
+        "sort": ["Very High", "High", "Moderate", "Low", "Very Low"]
+      }
+    }
+  },
+  "config": {
+    "view": {"stroke": null},
+    "legend": {
+      "labelFont": "Times New Roman",
+      "titleFont": "Times New Roman",
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    }
+  }
+}
