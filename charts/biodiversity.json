@@ -1,0 +1,156 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "India's Biodiversity Under Pressure (1990–2025)",
+    "subtitle": "Threatened species by taxonomic group",
+    "fontSize": 20,
+    "subtitleFontSize": 13,
+    "font": "Times New Roman",
+    "subtitleFont": "Times New Roman",
+    "fontWeight": 600,
+    "color": "#2c3e50",
+    "anchor": "middle"
+  },
+  "background": "white",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/data/biodiversity_taxonomy.csv"
+  },
+  "params": [
+    {
+      "name": "species_filter",
+      "value": "All Groups",
+      "bind": {
+        "input": "select",
+        "options": [
+          "All Groups",
+          "Mammals",
+          "Birds",
+          "Reptiles",
+          "Amphibians",
+          "Fish",
+          "Plants"
+        ],
+        "labels": [
+          "All Groups",
+          "Mammals",
+          "Birds",
+          "Reptiles",
+          "Amphibians",
+          "Fish",
+          "Plants"
+        ],
+        "name": "Species: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "species_filter == 'All Groups' || datum.taxonomic_group == species_filter"
+    }
+  ],
+  "facet": {
+    "column": {
+      "field": "category",
+      "type": "nominal",
+      "title": null,
+      "sort": ["Critically Endangered", "Endangered", "Vulnerable"],
+      "header": {
+        "labelFont": "Times New Roman",
+        "labelFontSize": 15,
+        "labelFontWeight": "bold",
+        "labelColor": "#2c3e50"
+      }
+    }
+  },
+  "spec": {
+    "width": 280,
+    "height": 400,
+    "mark": {
+      "type": "area",
+      "interpolate": "monotone",
+      "line": {"strokeWidth": 2},
+      "point": {"size": 50, "filled": true}
+    },
+    "encoding": {
+      "x": {
+        "field": "year",
+        "type": "quantitative",
+        "axis": {
+          "title": "Year",
+          "format": "d",
+          "labelAngle": -45,
+          "tickCount": 6
+        }
+      },
+      "y": {
+        "field": "count",
+        "type": "quantitative",
+        "stack": "zero",
+        "axis": {"title": "Number of Species", "grid": true, "gridOpacity": 0.2}
+      },
+      "color": {
+        "field": "taxonomic_group",
+        "type": "nominal",
+        "scale": {
+          "domain": [
+            "Plants",
+            "Fish",
+            "Amphibians",
+            "Reptiles",
+            "Birds",
+            "Mammals"
+          ],
+          "range": [
+            "#294936",
+            "beige",
+            "#96031A",
+            "black",
+            "#93E5AB",
+            "#250001"
+          ]
+        },
+        "legend": {
+          "title": "Taxonomic Group",
+          "orient": "top",
+          "direction": "horizontal",
+          "columns": 3,
+          "titleFontSize": 12
+        }
+      },
+      "order": {
+        "field": "taxonomic_group",
+        "type": "nominal",
+        "sort": ["Plants", "Fish", "Amphibians", "Reptiles", "Birds", "Mammals"]
+      },
+      "tooltip": [
+        {"field": "category", "type": "nominal", "title": "Threat Level"},
+        {
+          "field": "year",
+          "type": "quantitative",
+          "title": "Year",
+          "format": "d"
+        },
+        {"field": "taxonomic_group", "type": "nominal", "title": "Group"},
+        {"field": "count", "type": "quantitative", "title": "Species Count"}
+      ]
+    }
+  },
+  "resolve": {"scale": {"y": "independent"}},
+  "config": {
+    "view": {"strokeWidth": 0},
+    "axis": {
+      "labelFont": "Times New Roman",
+      "titleFont": "Times New Roman",
+      "labelFontSize": 11,
+      "titleFontSize": 13,
+      "labelColor": "#555",
+      "titleColor": "#333"
+    },
+    "legend": {
+      "labelFont": "Times New Roman",
+      "titleFont": "Times New Roman",
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    }
+  }
+}

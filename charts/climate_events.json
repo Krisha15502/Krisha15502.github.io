@@ -1,0 +1,118 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Population Exposure to Climate Hazards by Risk Level",
+    "subtitle": "About 80% of Indian population is at the risk of extreme climate events",
+    "font": "Times New Roman",
+    "subtitleFont": "Times New Roman",
+    "fontSize": 20,
+    "subtitleFontSize": 13,
+    "fontWeight": 600,
+    "color": "#2c3e50",
+    "anchor": "middle"
+  },
+  "background": "white",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/data/hazard.csv"
+  },
+  "params": [
+    {
+      "name": "risk_select",
+      "select": {
+        "type": "point",
+        "fields": ["risk_level"],
+        "on": "click",
+        "clear": "dblclick"
+      }
+    }
+  ],
+  "facet": {
+    "field": "hazard_type",
+    "type": "nominal",
+    "title": null,
+    "sort": [
+      "Flood",
+      "Drought",
+      "Cyclone",
+      "Flood + Drought",
+      "Drought + Cyclone",
+      "Flood + Cyclone",
+      "All Three Combined"
+    ],
+    "header": {
+      "labelFont": "Times New Roman",
+      "labelFontSize": 13,
+      "labelFontWeight": "bold",
+      "labelColor": "#2c3e50"
+    }
+  },
+  "columns": 3,
+  "spec": {
+    "width": 240,
+    "height": 240,
+    "mark": {
+      "type": "arc",
+      "innerRadius": 40,
+      "stroke": "white",
+      "strokeWidth": 1
+    },
+    "encoding": {
+      "theta": {"field": "pop_pct", "type": "quantitative", "stack": true},
+      "color": {
+        "field": "risk_level",
+        "type": "nominal",
+        "scale": {
+          "domain": ["Very Low", "Low", "Moderate", "High", "Very High"],
+          "range": ["#1F4D0C", "#5FA27A", "#D8CFC4", "#9B2C2C", "#4A0E0E"]
+        },
+        "legend": {
+          "title": "Risk Level",
+          "orient": "bottom",
+          "direction": "horizontal"
+        }
+      },
+      "opacity": {
+        "condition": {"param": "risk_select", "value": 1},
+        "value": 0.25
+      },
+      "stroke": {
+        "condition": {"param": "risk_select", "value": "white"},
+        "value": "white"
+      },
+      "strokeWidth": {
+        "condition": {"param": "risk_select", "value": 3},
+        "value": 1
+      },
+      "order": {
+        "field": "risk_level",
+        "type": "ordinal",
+        "sort": ["Very High", "High", "Moderate", "Low", "Very Low"]
+      },
+      "tooltip": [
+        {"field": "hazard_type", "type": "nominal", "title": "Hazard Type"},
+        {"field": "risk_level", "type": "nominal", "title": "Risk Level"},
+        {
+          "field": "pop_pct",
+          "type": "quantitative",
+          "title": "Population (%)",
+          "format": ".1f"
+        },
+        {
+          "field": "pop_millions",
+          "type": "quantitative",
+          "title": "Population (Millions)",
+          "format": ".1f"
+        }
+      ]
+    }
+  },
+  "config": {
+    "view": {"stroke": null},
+    "legend": {
+      "labelFont": "Times New Roman",
+      "titleFont": "Times New Roman",
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    }
+  }
+}

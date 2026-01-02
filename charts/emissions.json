@@ -1,0 +1,147 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Carbom Emissions vs Carbon Removals of Indian States (2013–2022)",
+    "subtitle": "Bubble size represents population",
+    "fontSize": 20,
+    "subtitleFontSize": 13,
+    "fontWeight": 600,
+    "subtitleFont": "Times New Roman",
+    "color": "#2c3e50",
+    "font": "Times New Roman",
+    "anchor": "middle"
+  },
+  "width": 800,
+  "height": 600,
+  "background": "white",
+  "config": {
+    "view": {"strokeWidth": 0},
+    "axis": {
+      "labelFont": "Times New Roman",
+      "titleFont": "Times New Roman",
+      "labelFontSize": 12,
+      "titleFontSize": 13,
+      "grid": true,
+      "gridOpacity": 0.2
+    },
+    "legend": {"labelFont": "Times New Roman", "titleFont": "Times New Roman"}
+  },
+  "params": [
+    {
+      "name": "year_select",
+      "value": 2022,
+      "bind": {
+        "input": "range",
+        "min": 2013,
+        "max": 2022,
+        "step": 1,
+        "name": "Year: "
+      }
+    }
+  ],
+  "data": {
+    "url": "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/data/emissions_with_pop_TIME.csv"
+  },
+  "transform": [
+    {"filter": "datum.year == year_select"},
+    {"calculate": "abs(datum.Removals)", "as": "removals_abs"}
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "circle",
+        "opacity": 0.7,
+        "stroke": "#333",
+        "strokeWidth": 1.5
+      },
+      "encoding": {
+        "x": {
+          "field": "Emissions",
+          "type": "quantitative",
+          "scale": {"domain": [0, 210000000]},
+          "axis": {"title": "CO₂ Emissions (tonnes)", "format": ".2s"}
+        },
+        "y": {
+          "field": "removals_abs",
+          "type": "quantitative",
+          "scale": {"domain": [0, 40000000]},
+          "axis": {
+            "title": "CO₂ Removals - Absolute Value (tonnes)",
+            "format": ".2s"
+          }
+        },
+        "size": {
+          "field": "population_millions",
+          "type": "quantitative",
+          "scale": {"type": "sqrt", "domain": [0.1, 250], "range": [50, 4000]},
+          "legend": {
+            "title": "Population (millions)",
+            "orient": "bottom",
+            "direction": "horizontal",
+            "values": [1, 10, 50, 100, 200],
+            "symbolSize": 200
+          }
+        },
+        "color": {
+          "field": "Emissions",
+          "type": "quantitative",
+          "scale": {
+            "type": "linear",
+            "domain": [0, 100000000, 200000000],
+            "range": ["#5FA27A", "#D8CFC4", "#4A0E0E"]
+          },
+          "legend": {
+            "title": "Emissions Level",
+            "orient": "top",
+            "gradientLength": 200,
+            "format": ".2s"
+          }
+        },
+        "tooltip": [
+          {"field": "state_name", "type": "nominal", "title": "State"},
+          {"field": "year", "type": "quantitative", "title": "Year"},
+          {
+            "field": "population_millions",
+            "type": "quantitative",
+            "title": "Population (millions)",
+            "format": ".2f"
+          },
+          {
+            "field": "Emissions",
+            "type": "quantitative",
+            "title": "Emissions (tCO₂)",
+            "format": ",.0f"
+          },
+          {
+            "field": "Removals",
+            "type": "quantitative",
+            "title": "Removals (tCO₂)",
+            "format": ",.0f"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 5,
+        "dy": -5,
+        "fontSize": 10,
+        "fontWeight": "bold",
+        "font": "Times New Roman"
+      },
+      "transform": [
+        {
+          "filter": "datum.Emissions > 120000000 || datum.removals_abs > 25000000 || datum.population_millions > 150"
+        }
+      ],
+      "encoding": {
+        "x": {"field": "Emissions", "type": "quantitative"},
+        "y": {"field": "removals_abs", "type": "quantitative"},
+        "text": {"field": "state_name", "type": "nominal"},
+        "color": {"value": "#2c3e50"}
+      }
+    }
+  ]
+}
