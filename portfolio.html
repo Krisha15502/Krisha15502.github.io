@@ -78,7 +78,22 @@
     <!-- Placeholder sections for remaining tasks -->
     <section class="task-section">
       <h2>CC3: Debate - Use Visualisation in Policy Commentary</h2>
-      <p class="coming-soon">Coming soon... Policy-related charts with commentary.</p>
+      <h3>Chart 1: Top 10 Carbon Dioxide Emitting Countries</h3>
+      <div class="chart-container">
+        <figure id="chart1_week3"></figure>
+      </div>
+      
+      <h3>Chart 2: Climate Vulnerability vs CO2 Emissions per Capita</h3>
+      <div class="chart-container">
+        <figure id="chart2_week3"></figure>
+      </div>
+      <script>
+        let chart1_week3_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/chart1_wk3.json";
+        vegaEmbed('#chart1_week3', chart1_week3_spec);
+        
+        let chart2_week3_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/chart2_wk3.json";
+        vegaEmbed('#chart2_week3', chart2_week3_spec);
+      </script>     
     </section>
 
     <section class="task-section">
