@@ -39,21 +39,20 @@
       <h2>CC1: Hosting</h2>
       
       <div class="task-description">
-        <p>Task: Set up a GitHub Pages site and embed two charts using the vegaEmbed function.</p>
-        <p>[Add your explanation/analysis text here]</p>
+        <p><strong>Task:</strong> Set up a GitHub Pages site and embed two charts using the vegaEmbed function.</p>
       </div>
       
       <h3>Chart 1: Food - CO2 Greenhouse Gas Emissions</h3>
       <div class="chart-container chart-centered">
         <figure id="chart1_week1"></figure>
       </div>
-      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      <p class="chart-source"><strong>Source:</strong> Economics Observatory Chart Library</p>
       
       <h3>Chart 2: Declining Populations</h3>
       <div class="chart-container chart-centered">
         <figure id="chart2_week1"></figure>
       </div>
-      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      <p class="chart-source"><strong>Source:</strong> Economics Observatory Chart Library</p>
       
       <script>
         let chart1_week1_spec = "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/refs/heads/main/charts/library/chartBar4.json";
@@ -69,21 +68,20 @@
       <h2>CC2: Building</h2>
       
       <div class="task-description">
-        <p>Task: Create custom visualisations using the Economics Observatory's "create" tool.</p>
-        <p>[Add your explanation/analysis text here]</p>
+        <p><strong>Task:</strong> Create custom visualisations using the Economics Observatory's "create" tool.</p>
       </div>
       
       <h3>Chart 1: Output of Renewables in India</h3>
       <div class="chart-container chart-centered">
         <figure id="chart1_week2"></figure>
       </div>
-      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      <p class="chart-source"><strong>Source:</strong> Economics Observatory Data Hub</p>
       
       <h3>Chart 2: Phone Subscriber Count in India</h3>
       <div class="chart-container chart-centered">
         <figure id="chart2_week2"></figure>
       </div>
-      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      <p class="chart-source"><strong>Source:</strong> Economics Observatory Data Hub</p>
       
       <script>
         let chart1_week2_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/chart1_wk2.json";
@@ -99,21 +97,23 @@
       <h2>CC3: Debate</h2>
       
       <div class="task-description">
-        <p>Task: Create visualisations that support or refute a policy debate.</p>
-        <p>[Add your explanation/analysis text here]</p>
+        <p><strong>Task:</strong> Create visualisations that support or refute a policy debate.</p>
+        <p><strong><u>Policy Topic:</u></strong> Do major CO2 emitters bear the brunt of climate change? Analysis reveals developing nations face severe climate vulnerability despite contributing minimal per-capita emissions compared to developed countries.</p>
       </div>
       
       <h3>Chart 1: Top 10 Carbon Dioxide Emitting Countries</h3>
       <div class="chart-container chart-centered">
         <figure id="chart1_week3"></figure>
       </div>
-      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      <p class="chart-source"><strong>Source:</strong> Our World in Data - CO2 Emissions Dataset (2022)</p>
       
       <h3>Chart 2: Climate Vulnerability vs CO2 Emissions per Capita</h3>
       <div class="chart-container chart-centered">
         <figure id="chart2_week3"></figure>
       </div>
-      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      <p class="chart-source"><strong>Source:</strong> ND-GAIN Climate Vulnerability Index & Global Carbon Atlas</p>
+      
+      <p><strong><em>Commentary:</em></strong> Charts reveal climate injustice: developing nations with highest vulnerability scores emit far less CO2 per capita than developed countries, who cause most emissions yet face lower vulnerability.</p>
       
       <script>
         let chart1_week3_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/chart1_wk3.json";
@@ -129,33 +129,42 @@
       <h2>CC4: Replication</h2>
       
       <div class="task-description">
-        <p>Task: Find a published chart, replicate it in Vega-Lite, then improve upon the original design.</p>
-        <p>[Add your explanation/analysis text here]</p>
+        <p><strong>Task:</strong> Find a published chart, replicate it in Vega-Lite, then improve upon the original design.</p>
+        <p><strong><u>Improvements Made:</u></strong></p>
+        <ul>
+          <li><strong>Consolidated visualisation:</strong> Combined 7 separate small multiples into a single unified line chart, significantly improving data-to-ink ratio and enabling direct comparison across banks.</li>
+          <li><strong>Enhanced temporal clarity:</strong> Transformed discrete year snapshots into continuous time series, revealing full 2018-2022 trends more effectively.</li>
+          <li><strong>Improved colour differentiation:</strong> Replaced Financial Times' limited dual-colour scheme with distinct colours for each bank, making individual performance immediately identifiable.</li>
+          <li><strong>Added zero baseline reference:</strong> Included prominent dotted line at zero in net income chart, making losses and profitability visually obvious at a glance.</li>
+          <li><strong>Clearer titles:</strong> Made chart purpose explicit with descriptive titles instead of vague headlines.</li>
+          <li><strong>Better legend placement:</strong> Positioned interactive legend on right side to reduce chart clutter whilst maintaining accessibility.</li>
+          <li><strong>Simplified axes:</strong> Eliminated redundant y-axes across multiple panels for cleaner, more professional design.</li>
+        </ul>
       </div>
       
       <h3>Original Chart</h3>
       <div class="chart-container chart-centered">
         <img src="images/image1_wk4.png" alt="Original Chart" class="uniform-image">
       </div>
-      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      <p class="chart-source"><strong>Source:</strong> Financial Times</p>
       
       <h3>Replication</h3>
       <div class="chart-container chart-centered">
         <figure id="chart1_week4"></figure>
       </div>
-      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      <p class="chart-source"><strong>Source:</strong> Data traced from Financial Times original chart</p>
       
       <h3>Improvement 1</h3>
       <div class="chart-container chart-centered">
         <figure id="chart2_week4"></figure>
       </div>
-      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      <p class="chart-source"><strong>Source:</strong> Data traced from Financial Times original chart</p>
       
       <h3>Improvement 2</h3>
       <div class="chart-container chart-centered">
         <figure id="chart3_week4"></figure>
       </div>
-      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      <p class="chart-source"><strong>Source:</strong> Data traced from Financial Times original chart</p>
       
       <script>
         let chart1_week4_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/chart1_wk4.json";
@@ -174,26 +183,35 @@
       <h2>CC5: Accessing Data</h2>
       
       <div class="task-description">
-        <p>Task (API): Add a chart that uses a live link to an API.</p>
-        <p>[Add your explanation/analysis text here]</p>
+        <p><strong>Task (API):</strong> Add a chart that uses a live link to an API.</p>
+        <p><strong><u>API Functional Description:</u></strong></p>
+        <p style="font-family: 'Courier New', monospace; background: #f5f5f5; padding: 10px; border-radius: 3px;">
+          <strong>Base URL:</strong> https://api.data.gov.in/resource<br>
+          <strong>Resource ID:</strong> 440dbca7-86ce-4bf6-b1af-83af2855757e<br>
+          <strong>Format Parameter:</strong> &format=json<br>
+          <strong>Limit Parameter:</strong> &limit=10000<br>
+          <strong>API Key:</strong> Required (free registration)<br><br>
+          <strong>Full URL used:</strong><br>
+          https://api.data.gov.in/resource/440dbca7-86ce-4bf6-b1af-83af2855757e?format=json&limit=10000&api-key=[KEY]
+        </p>
       </div>
       
       <h3>Chart 1: API Data</h3>
       <div class="chart-container chart-centered">
         <figure id="chart1_week5"></figure>
       </div>
-      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      <p class="chart-source"><strong>Source:</strong> Open Government Data Platform India (data.gov.in)</p>
       
       <div class="task-description">
-        <p>Task (Web Scraping): Scrape data from a website using Python, clean it, then create a visualisation.</p>
-        <p>[Add your explanation/analysis text here]</p>
+        <p><strong>Task (Web Scraping):</strong> Scrape data from a website using Python, clean it, then create a visualisation.</p>
+        <p><strong><em>Analysis:</em></strong> Scraped music streaming statistics from Exploding Topics using Python BeautifulSoup. Data cleaned, normalised to tidy format, then visualised. <a href="https://colab.research.google.com/drive/1bpbtyH3CrQXAjYYTeijXo2IxkZ7eOVqW" target="_blank"><strong>View Python code on Google Colab →</strong></a></p>
       </div>
       
       <h3>Chart 2: Scraped Data</h3>
       <div class="chart-container chart-centered">
         <figure id="chart2_week5"></figure>
       </div>
-      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      <p class="chart-source"><strong>Source:</strong> Exploding Topics (<a href="https://explodingtopics.com/blog/music-streaming-stats" target="_blank">explodingtopics.com/blog/music-streaming-stats</a>)</p>
       
       <script>
         let chart1_week5_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/chart1_wk5.json";
@@ -209,8 +227,8 @@
       <h2>CC6: Loops</h2>
       
       <div class="task-description">
-        <p>Task: Comparative analysis of satisfaction rates across major UK universities in 2019 using batch API downloads and embedding using a loop.</p>
-        <p>[Add your explanation/analysis text here]</p>
+        <p><strong>Task:</strong> Use a loop to batch download six different series as JSON files and build a dashboard.</p>
+        <p><strong><em>Analysis:</em></strong> Dashboard compares student satisfaction percentages across 10 UK universities for six academic subjects using UniDb API. Data batch-downloaded via Python loops. <a href="https://colab.research.google.com/drive/1WFGu2tSW1EoHKxPY51woacRfabfo4brd" target="_blank"><strong>View Python code on Google Colab →</strong></a></p>
       </div>
       
       <div class="chart-grid">
@@ -238,7 +256,7 @@
           <figure id="chart6_week6"></figure>
         </div>
       </div>
-      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      <p class="chart-source"><strong>Source:</strong> UniDb API (UK University Statistics)</p>
       
       <script>
         let chart1_week6_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/chart1_wk6.json";
@@ -266,21 +284,22 @@
       <h2>CC7: Maps</h2>
       
       <div class="task-description">
-        <p>Task: Produce two maps - one of Scotland (coordinates map) and one of Wales (choropleth map).</p>
-        <p>[Add your explanation/analysis text here]</p>
+        <p><strong>Task:</strong> Produce two maps - one of Scotland (coordinates map) and one of Wales (choropleth map).</p>
       </div>
       
-      <h3>Chart 1: Whiskey Distilleries in Scotland</h3>
+      <h3>Chart 1: Whisky Distilleries in Scotland</h3>
+      <p><em>This point map displays whisky distilleries across Scotland. The locations are colour-coded by the smokiness of the whisky they produce.</em></p>
       <div class="chart-container chart-centered">
         <figure id="chart1_week7"></figure>
       </div>
-      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      <p class="chart-source"><strong>Source:</strong> Scottish Whisky Association & OpenStreetMap</p>
       
       <h3>Chart 2: Welsh Speakers in Local Authorities of Wales</h3>
+      <p><em>This choropleth map shows the percentage of Welsh speakers in different local authorities in Wales.</em></p>
       <div class="chart-container chart-centered">
         <figure id="chart2_week7"></figure>
       </div>
-      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      <p class="chart-source"><strong>Source:</strong> UK Census 2021 (Office for National Statistics)</p>
       
       <script>
         let chart1_week7_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/chart1_wk7.json";
@@ -296,21 +315,21 @@
       <h2>CC8: Big Data</h2>
       
       <div class="task-description">
-        <p>Task: Produce two charts using the UK prices datasets (LRPD or AutoCPI).</p>
-        <p>[Add your explanation/analysis text here]</p>
+        <p><strong>Task:</strong> Produce two charts using UK prices datasets (LRPD or AutoCPI).</p>
+        <p><strong><em>Analysis:</em></strong> Analysis of UK LRPD dataset reveals divergent price trends for basic food items from 2018-2022. Whilst staples like bread, milk, and rice remained stable, protein sources showed significant increases—particularly chicken, which rose faster than eggs. Monthly price variation analysis indicates basic food prices remain relatively consistent throughout the year. <a href="https://colab.research.google.com/drive/1d_vWbBBFG55qe6HF_-MQfYRY3QKUPtX1" target="_blank"><strong>View Chart 1 code →</strong></a> | <a href="https://colab.research.google.com/drive/19fRDotlD5NtAfCXUB_O7ZLuEJCrw3qVd" target="_blank"><strong>View Chart 2 code →</strong></a></p>
       </div>
       
       <h3>Chart 1: Evolution of UK Food Prices</h3>
       <div class="chart-container chart-centered">
         <figure id="chart1_week8"></figure>
       </div>
-      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      <p class="chart-source"><strong>Source:</strong> Long Run Prices Database (LRPD) - Davies (2021)</p>
       
       <h3>Chart 2: UK Food Prices by Month</h3>
       <div class="chart-container chart-centered">
         <figure id="chart2_week8"></figure>
       </div>
-      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      <p class="chart-source"><strong>Source:</strong> Long Run Prices Database (LRPD) - Davies (2021)</p>
       
       <script>
         let chart1_week8_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/chart1_wk8.json";
@@ -326,17 +345,16 @@
       <h2>CC9: Interactivity</h2>
       
       <div class="task-description">
-        <p>Task: Produce two interactive charts.</p>
-        <p>[Add your explanation/analysis text here]</p>
+        <p><strong>Task:</strong> Produce two charts that include interactivity (slider, drop-down box, clickable legend, etc.).</p>
       </div>
       
-      <h3>Chart 1: Box Office Revenue by Genre Over Two Decades</h3>
+      <h3>Chart 1: Interactive Visualisation</h3>
       <div class="chart-container chart-centered">
         <figure id="chart1_week9"></figure>
       </div>
       <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
       
-      <h3>Chart 2: Intenational Tourist Arrivals by Region of Origin</h3>
+      <h3>Chart 2: Interactive Dashboard</h3>
       <div class="chart-container chart-centered">
         <figure id="chart2_week9"></figure>
       </div>
@@ -356,21 +374,22 @@
       <h2>CC10: Advanced Analytics and Machine Learning</h2>
       
       <div class="task-description">
-        <p>Task (Machine Learning): Conduct an applied machine learning analysis using supervised or unsupervised learning techniques.</p>
-        <p>[Add your explanation/analysis text here]</p>
+        <p><strong>Task:</strong> Conduct an applied machine learning analysis using supervised or unsupervised learning techniques.</p>
+        <p><strong><u>Hypothesis:</u></strong> Can unsupervised K-means clustering identify distinct research topics and methodological patterns within machine learning literature from arXiv papers?</p>
+        <p><strong><u>Findings:</u></strong> Clustering analysis of 1,000 arXiv ML papers identified 19 as optimal cluster count, revealing distinct research themes and methodological approaches within machine learning literature. <a href="https://colab.research.google.com/drive/19T8OKC9AP1eiY_-BKqDO1yaTW7ekGVGb" target="_blank"><strong>View Python code on Google Colab →</strong></a></p>
       </div>
       
       <h3>Chart 1: Clustering Machine Learning Papers by Topic</h3>
       <div class="chart-container chart-centered">
         <figure id="chart1_week10"></figure>
       </div>
-      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      <p class="chart-source"><strong>Source:</strong> arXiv API (1,000 Machine Learning Papers)</p>
       
       <h3>Chart 2: Distribution Analysis</h3>
       <div class="chart-container chart-centered">
         <figure id="chart2_week10"></figure>
       </div>
-      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      <p class="chart-source"><strong>Source:</strong> arXiv API (K-means Clustering Results)</p>
       
       <script>
         let chart1_week10_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/chart1_wk10.json";
