@@ -15,7 +15,7 @@
 <body>
   <!-- Top Navigation Band -->
   <div class="top-nav">
-    <div class="container">
+    <div class="nav-container">
       <a href="index.html" class="site-name">Krisha Chandnani</a>
       <nav>
         <a href="index.html">Home</a>
@@ -33,7 +33,7 @@
   </header>
   
   <div class="container">
-    <!-- CC1 Section -->
+    <!-- CC1 Section - SIDE BY SIDE -->
     <section class="task-section">
       <h2>CC1: Hosting</h2>
       
@@ -41,21 +41,24 @@
         <p>Task: Set up a GitHub Pages site and embed two charts using the vegaEmbed function.</p>
       </div>
       
-      <h3>Chart 1: Food - CO2 Greenhouse Gas Emissions</h3>
-      <div class="chart-container chart-centered">
-        <figure id="chart1_week1"></figure>
+      <div class="chart-grid">
+        <div class="chart-container chart-centered">
+          <h3>Chart 1: Food - CO2 Emissions</h3>
+          <figure id="chart1_week1"></figure>
+        </div>
+        
+        <div class="chart-container chart-centered">
+          <h3>Chart 2: Declining Populations</h3>
+          <figure id="chart2_week1"></figure>
+        </div>
       </div>
       
-      <h3>Chart 2: Declining Populations</h3>
-      <div class="chart-container chart-centered">
-        <figure id="chart2_week1"></figure>
-      </div>
       <script>
         let chart1_week1_spec = "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/refs/heads/main/charts/library/chartBar4.json";
-        vegaEmbed('#chart1_week1', chart1_week1_spec, {width: 600, height: 400});
+        vegaEmbed('#chart1_week1', chart1_week1_spec, {width: 500, height: 350});
         
         let chart2_week1_spec = "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/refs/heads/main/charts/library/chartLine3.json";
-        vegaEmbed('#chart2_week1', chart2_week1_spec, {width: 600, height: 400});
+        vegaEmbed('#chart2_week1', chart2_week1_spec, {width: 500, height: 350});
       </script>
     </section>
     
@@ -111,7 +114,7 @@
       </script>     
     </section>
 
-    <!-- CC4 Section -->
+    <!-- CC4 Section - IMPROVEMENTS STACKED VERTICALLY -->
     <section class="task-section">
       <h2>CC4: Replication</h2>
       
@@ -129,17 +132,14 @@
         <figure id="chart1_week4"></figure>
       </div>
       
-      <h3>Improvements</h3>
-      <div class="chart-grid">
-        <div class="chart-container chart-centered">
-          <h4>Improvement 1</h4>
-          <figure id="chart2_week4"></figure>
-        </div>
-        
-        <div class="chart-container chart-centered">
-          <h4>Improvement 2</h4>
-          <figure id="chart3_week4"></figure>
-        </div>
+      <h3>Improvement 1</h3>
+      <div class="chart-container chart-centered">
+        <figure id="chart2_week4"></figure>
+      </div>
+      
+      <h3>Improvement 2</h3>
+      <div class="chart-container chart-centered">
+        <figure id="chart3_week4"></figure>
       </div>
       
       <script>
@@ -147,10 +147,10 @@
         vegaEmbed('#chart1_week4', chart1_week4_spec, {width: 600, height: 400});
         
         let chart2_week4_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/chart2_wk4.json";
-        vegaEmbed('#chart2_week4', chart2_week4_spec, {width: 500, height: 350});
+        vegaEmbed('#chart2_week4', chart2_week4_spec, {width: 600, height: 400});
         
         let chart3_week4_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/chart3_wk4.json";
-        vegaEmbed('#chart3_week4', chart3_week4_spec, {width: 500, height: 350});
+        vegaEmbed('#chart3_week4', chart3_week4_spec, {width: 600, height: 400});
       </script>
     </section>
 
@@ -184,7 +184,7 @@
       </script>
     </section>
 
-    <!-- CC6 Section - 2x3 GRID (Dashboard - no centering) -->
+    <!-- CC6 Section - 2x3 GRID -->
     <section class="task-section">
       <h2>CC6: Loops</h2>
       
