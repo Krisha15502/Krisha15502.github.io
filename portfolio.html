@@ -98,7 +98,11 @@
       
       <div class="task-description">
         <p><strong>Task:</strong> Create visualisations that support or refute a policy debate.</p>
-        <p><strong><u>Policy Topic:</u></strong> Do major CO2 emitters bear the brunt of climate change? Analysis reveals developing nations face severe climate vulnerability despite contributing minimal per-capita emissions compared to developed countries.</p>
+      </div>
+
+      <div class="analysis-box">
+        <p><strong><u>Policy Topic:</u></strong> Do major CO2 emitters bear the brunt of climate change?</p>
+        <p><strong><em>Commentary:</em></strong> Charts reveal climate injustice: developing nations with highest vulnerability scores emit far less CO2 per capita than developed countries, who cause most emissions yet face lower vulnerability.</p>
       </div>
       
       <h3>Chart 1: Top 10 Carbon Dioxide Emitting Countries</h3>
@@ -113,9 +117,6 @@
       </div>
       <p class="chart-source"><strong>Source:</strong> ND-GAIN Climate Vulnerability Index & Global Carbon Atlas</p>
       
-      <div class="analysis-box">
-        <p><strong><em>Commentary:</em></strong> Charts reveal climate injustice: developing nations with highest vulnerability scores emit far less CO2 per capita than developed countries, who cause most emissions yet face lower vulnerability.</p>
-      </div>
       
       <script>
         let chart1_week3_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/chart1_wk3.json";
@@ -134,6 +135,18 @@
         <p><strong>Task:</strong> Find a published chart, replicate it in Vega-Lite, then improve upon the original design.</p>
       </div>
       
+      <h3>Original Chart</h3>
+      <div class="chart-container chart-centered">
+        <img src="images/image1_wk4.png" alt="Original Chart" class="uniform-image">
+      </div>
+      <p class="chart-source"><strong>Source:</strong> Financial Times</p>
+      
+      <h3>Replication</h3>
+      <div class="chart-container chart-centered">
+        <figure id="chart1_week4"></figure>
+      </div>
+      <p class="chart-source"><strong>Source:</strong> Data traced from Financial Times original chart</p>
+
       <div class="analysis-box">
         <p><strong><u>Improvements Made:</u></strong></p>
         <ul>
@@ -146,18 +159,6 @@
           <li><strong>Simplified axes:</strong> Eliminated redundant y-axes across multiple panels for cleaner, more professional design.</li>
         </ul>
       </div>
-      
-      <h3>Original Chart</h3>
-      <div class="chart-container chart-centered">
-        <img src="images/image1_wk4.png" alt="Original Chart" class="uniform-image">
-      </div>
-      <p class="chart-source"><strong>Source:</strong> Financial Times</p>
-      
-      <h3>Replication</h3>
-      <div class="chart-container chart-centered">
-        <figure id="chart1_week4"></figure>
-      </div>
-      <p class="chart-source"><strong>Source:</strong> Data traced from Financial Times original chart</p>
       
       <h3>Improvement 1</h3>
       <div class="chart-container chart-centered">
@@ -190,6 +191,9 @@
       <div class="task-description">
         <p><strong>Task (API):</strong> Add a chart that uses a live link to an API.</p>
         <p><strong><u>API Functional Description:</u></strong></p>
+      </div>
+
+      <div class="analysis-box">
         <p style="font-family: 'Courier New', monospace; background: #f5f5f5; padding: 10px; border-radius: 3px;">
           <strong>Base URL:</strong> https://api.data.gov.in/resource<br>
           <strong>Resource ID:</strong> 440dbca7-86ce-4bf6-b1af-83af2855757e<br>
@@ -212,7 +216,7 @@
       </div>
       
       <div class="analysis-box">
-        <p><strong><em>Analysis:</em></strong> Scraped music streaming statistics from Exploding Topics using Python BeautifulSoup. Data cleaned, normalised to tidy format, then visualised. <a href="https://colab.research.google.com/drive/1bpbtyH3CrQXAjYYTeijXo2IxkZ7eOVqW" target="_blank"><strong>View Python code on Google Colab →</strong></a></p>
+        <p><strong><u>Specifics:</u></strong> Scraped music streaming statistics from Exploding Topics using Python BeautifulSoup. Data cleaned, normalised to tidy format, then visualised. <a href="https://colab.research.google.com/drive/1bpbtyH3CrQXAjYYTeijXo2IxkZ7eOVqW" target="_blank"><strong>View Python code on Google Colab →</strong></a></p>
       </div>
       
       <h3>Chart 2: Scraped Data</h3>
@@ -239,7 +243,7 @@
       </div>
       
       <div class="analysis-box">
-        <p><strong><em>Analysis:</em></strong> Dashboard compares student satisfaction percentages across 10 UK universities for six academic subjects using UniDb API. Data batch-downloaded via Python loops. <a href="https://colab.research.google.com/drive/1WFGu2tSW1EoHKxPY51woacRfabfo4brd" target="_blank"><strong>View Python code on Google Colab →</strong></a></p>
+        <p><strong><u>Specifics:</u></strong> Dashboard compares student satisfaction percentages across 10 UK universities for six academic subjects using UniDb API. Data batch-downloaded via Python loops. <a href="https://colab.research.google.com/drive/1WFGu2tSW1EoHKxPY51woacRfabfo4brd" target="_blank"><strong>View Python code on Google Colab →</strong></a></p>
       </div>
       
       <div class="chart-grid">
@@ -300,7 +304,7 @@
       
       <h3>Chart 1: Whisky Distilleries in Scotland</h3>
       <div class="analysis-box">
-        <p><em>This point map displays whisky distilleries across Scotland. The locations are colour-coded by the smokiness of the whisky they produce.</em></p>
+        <p>This point map displays whisky distilleries across Scotland. The locations are colour-coded by the smokiness of the whisky they produce.</p>
       </div>
       <div class="chart-container chart-centered">
         <figure id="chart1_week7"></figure>
@@ -309,7 +313,7 @@
       
       <h3>Chart 2: Welsh Speakers in Local Authorities of Wales</h3>
       <div class="analysis-box">
-        <p><em>This choropleth map shows the percentage of Welsh speakers in different local authorities in Wales.</em></p>
+        <p>This choropleth map shows the percentage of Welsh speakers in different local authorities in Wales.</p>
       </div>
       <div class="chart-container chart-centered">
         <figure id="chart2_week7"></figure>
@@ -334,7 +338,7 @@
       </div>
       
       <div class="analysis-box">
-        <p><strong><em>Analysis:</em></strong> Analysis of UK LRPD dataset reveals divergent price trends for basic food items from 2000-2025. Whilst staples like bread, milk, and rice remained stable, protein sources showed significant increases—particularly chicken, which rose faster than eggs. Monthly price variation analysis indicates basic food prices remain relatively consistent throughout the year. <a href="https://colab.research.google.com/drive/1d_vWbBBFG55qe6HF_-MQfYRY3QKUPtX1" target="_blank"><strong>View Chart 1 code →</strong></a> | <a href="https://colab.research.google.com/drive/19fRDotlD5NtAfCXUB_O7ZLuEJCrw3qVd" target="_blank"><strong>View Chart 2 code →</strong></a></p>
+        <p><strong><u>Analysis:</u></strong> Analysis of UK LRPD dataset reveals divergent price trends for basic food items from 2000-2025. Whilst staples like bread, milk, and rice remained stable, protein sources showed significant increases (particularly chicken, which rose faster than eggs). Monthly price variation analysis indicates basic food prices remain relatively consistent throughout the year. <a href="https://colab.research.google.com/drive/1d_vWbBBFG55qe6HF_-MQfYRY3QKUPtX1" target="_blank"><strong>View Chart 1 code →</strong></a> | <a href="https://colab.research.google.com/drive/19fRDotlD5NtAfCXUB_O7ZLuEJCrw3qVd" target="_blank"><strong>View Chart 2 code →</strong></a></p>
       </div>
       
       <h3>Chart 1: Evolution of UK Food Prices</h3>
