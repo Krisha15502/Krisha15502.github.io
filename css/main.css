@@ -98,6 +98,7 @@ a:hover {
 
 .site-name:hover {
     opacity: 0.8;
+    color: white;
 }
 
 .top-nav nav {
@@ -118,6 +119,7 @@ a:hover {
 
 .top-nav nav a:hover {
     border-bottom: 2px solid white;
+    color: white;
 }
 
 /* ==================== HEADER ==================== */
@@ -337,7 +339,7 @@ figure {
 
 /* Charts blend into page */
 #chart1_week1, #chart2_week1, #chart1_week2, #chart2_week2,
-#chart1_week3, #chart2_week3, #chart2_week4, #chart3_week4, #chart4_week4,
+#chart1_week3, #chart2_week3, #chart1_week4, #chart2_week4, #chart3_week4,
 #chart1_week5, #chart2_week5, #chart1_week6, #chart2_week6, #chart3_week6,
 #chart4_week6, #chart5_week6, #chart6_week6, #chart1_week7, #chart2_week7,
 #chart1_week8, #chart2_week8, #chart1_week9, #chart2_week9, #chart1_week10, #chart2_week10,
@@ -366,6 +368,15 @@ figure {
     margin: 0 auto;
     max-width: 90%;
     height: auto;
+}
+
+/* ==================== UNIFORM CHART AND IMAGE SIZING ==================== */
+.uniform-image {
+    width: 600px;
+    height: auto;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
 }
 
 /* ==================== VEGA-LITE TOOLTIP STYLING ==================== */
