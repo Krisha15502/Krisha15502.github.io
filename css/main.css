@@ -244,6 +244,13 @@ section {
     font-style: normal;
 }
 
+/* Text content paragraphs - ensure they're on white background */
+.task-section > p {
+    background: white;
+    padding: 0;
+    margin: 15px 0;
+}
+
 /* Project chart sections */
 .chart-section {
     background: white;
@@ -276,6 +283,17 @@ section {
 .task-description p {
     margin-bottom: 8px;
     font-style: normal;
+}
+
+/* Only the first p in task-description gets green background */
+.task-description p:first-child {
+    background: #f0f7f4;
+}
+
+/* Additional text paragraphs outside task-description stay on white */
+.task-description ~ p:not(.chart-source) {
+    background: white;
+    padding: 0;
 }
 
 /* ==================== CARDS (for index page) ==================== */
@@ -401,6 +419,17 @@ figure {
     max-width: 100%;
     display: block;
     margin: 0 auto;
+}
+
+/* ==================== CHART SOURCES ==================== */
+.chart-source {
+    text-align: center;
+    font-size: 0.95em;
+    color: #5a6c7d;
+    margin-top: -5px;
+    margin-bottom: 20px;
+    font-style: italic;
+    background: white;
 }
 
 /* ==================== VEGA-LITE TOOLTIP STYLING ==================== */
