@@ -1,4 +1,7 @@
-{
+/* Main Stylesheet for Krisha Chandnani's Portfolio */
+
+/* ==================== GLOBAL STYLES ==================== */
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -223,6 +226,22 @@ section {
     text-align: center;
 }
 
+/* ==================== TASK DESCRIPTIONS ==================== */
+.task-description {
+    background: #f0f7f4;
+    padding: 20px 25px;
+    margin: 20px 0 30px 0;
+    border-radius: 2px;
+    border-left: 3px solid #4a7c59;
+    font-size: 1.05em;
+    line-height: 1.8;
+    color: #2c3e50;
+}
+
+.task-description p {
+    margin-bottom: 10px;
+}
+
 /* ==================== CARDS (for index page) ==================== */
 .cards {
     display: grid;
@@ -295,11 +314,51 @@ figure {
 
 /* Charts blend into page */
 #chart1_week1, #chart2_week1, #chart1_week2, #chart2_week2,
+#chart1_week3, #chart2_week3, #chart1_week4, #chart2_week4, #chart3_week4,
+#chart1_week5, #chart2_week5, #chart1_week6, #chart2_week6, #chart3_week6,
+#chart4_week6, #chart5_week6, #chart6_week6, #chart1_week7, #chart2_week7,
+#chart1_week8, #chart2_week8, #chart1_week9, #chart2_week9, #chart1_week10, #chart2_week10,
 #project_chart_1, #project_chart_2, #project_chart_3, #project_chart_4, #project_chart_5 {
     border: none;
     border-radius: 0;
     padding: 0;
     background: transparent;
+}
+
+/* ==================== VEGA-LITE TOOLTIP STYLING ==================== */
+/* Force Times New Roman for all Vega tooltips */
+#vg-tooltip-element {
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+#vg-tooltip-element table {
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+#vg-tooltip-element td {
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+#vg-tooltip-element th {
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+/* Also style any text elements in the charts themselves */
+.vega-embed text {
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+.vega-embed .vega-bind {
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+.vega-embed .vega-bind label {
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+.vega-embed .vega-bind input,
+.vega-embed .vega-bind select {
+    font-family: 'Times New Roman', Times, serif !important;
 }
 
 /* ==================== SPECIAL BOXES ==================== */
