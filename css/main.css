@@ -18,13 +18,13 @@ body {
 .container {
     max-width: 1100px;
     margin: 0 auto;
-    padding: 30px 20px;
+    padding: 20px;
     text-align: left;
 }
 
 /* ==================== TYPOGRAPHY ==================== */
 h1, h2, h3, h4, h5, h6 {
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     font-weight: 600;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
@@ -45,8 +45,16 @@ h3 {
     color: #5a6c7d;
 }
 
+h4 {
+    font-size: 1.2em;
+    color: #4a7c59;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 p {
-    margin-bottom: 15px;
+    margin-bottom: 12px;
     line-height: 1.8;
     font-size: 1.05em;
     text-align: justify;
@@ -66,7 +74,7 @@ a:hover {
 /* ==================== TOP NAVIGATION BAND ==================== */
 .top-nav {
     background: #2d5016;
-    padding: 15px 0;
+    padding: 12px 0;
     position: sticky;
     top: 0;
     z-index: 1000;
@@ -75,17 +83,32 @@ a:hover {
 
 .top-nav .container {
     padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.site-name {
+    color: white;
+    font-size: 1.3em;
+    font-weight: bold;
+    text-decoration: none;
+    transition: opacity 0.3s ease;
+}
+
+.site-name:hover {
+    opacity: 0.8;
 }
 
 .top-nav nav {
-    text-align: center;
+    text-align: right;
 }
 
 .top-nav nav a {
     color: white;
     text-decoration: none;
-    padding: 10px 20px;
-    margin: 0 5px;
+    padding: 8px 18px;
+    margin: 0 3px;
     display: inline-block;
     font-size: 1em;
     font-weight: 500;
@@ -101,36 +124,36 @@ a:hover {
 header {
     background: white;
     color: #2c3e50;
-    padding: 60px 20px;
+    padding: 40px 20px;
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     border-bottom: 1px solid #e8e8e8;
 }
 
 header h1 {
-    font-size: 2.8em;
-    margin-bottom: 15px;
-    letter-spacing: 1px;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    letter-spacing: 0.5px;
     color: #2d5016;
 }
 
 header p {
-    font-size: 1.2em;
-    margin-bottom: 20px;
+    font-size: 1.1em;
+    margin-bottom: 0;
     color: #5a6c7d;
     font-style: italic;
     text-align: center;
 }
 
-/* Portfolio page header - soft sage green */
+/* Portfolio page header - subtle cream */
 .portfolio-header {
-    background: #a8b5a0;
+    background: #f9f9f7;
     color: #2c3e50;
-    border-bottom: 3px solid #8b9d83;
+    border-bottom: 1px solid #e8e8e8;
 }
 
 .portfolio-header h1 {
-    color: #2c3e50;
+    color: #2d5016;
 }
 
 /* Project page header - medium forest green */
@@ -150,27 +173,27 @@ header p {
 
 /* ==================== SECTIONS ==================== */
 section {
-    margin: 40px 0;
+    margin: 30px 0;
 }
 
 .intro-section {
     background: white;
-    padding: 40px;
-    margin: 40px auto;
+    padding: 30px;
+    margin: 30px auto;
     border-radius: 2px;
     border-left: 3px solid #4a7c59;
 }
 
 .intro-section h2 {
     color: #2d5016;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     font-size: 2em;
     text-align: center;
 }
 
 .intro-section p {
     font-size: 1.1em;
-    margin-bottom: 15px;
+    margin-bottom: 12px;
     line-height: 1.8;
     color: #34495e;
 }
@@ -178,8 +201,8 @@ section {
 /* Portfolio task sections */
 .task-section {
     background: white;
-    padding: 40px;
-    margin: 40px auto;
+    padding: 30px;
+    margin: 30px auto;
     border-radius: 2px;
     transition: all 0.2s ease;
 }
@@ -190,19 +213,19 @@ section {
 
 .task-section h2 {
     color: #2d5016;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     font-size: 1.8em;
     border-bottom: 2px solid #a8b5a0;
-    padding-bottom: 10px;
+    padding-bottom: 8px;
     text-align: center;
 }
 
 .task-section h3 {
     color: #4a7c59;
-    margin-top: 30px;
-    margin-bottom: 15px;
+    margin-top: 20px;
+    margin-bottom: 12px;
     font-size: 1.3em;
-    text-align: left;
+    text-align: center;
 }
 
 .task-section p {
@@ -212,25 +235,25 @@ section {
 /* Project chart sections */
 .chart-section {
     background: white;
-    padding: 40px;
-    margin: 40px auto;
+    padding: 30px;
+    margin: 30px auto;
     border-radius: 2px;
 }
 
 .chart-section h3 {
     color: #2d5016;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     font-size: 1.6em;
     border-bottom: 2px solid #4a7c59;
-    padding-bottom: 10px;
+    padding-bottom: 8px;
     text-align: center;
 }
 
 /* ==================== TASK DESCRIPTIONS ==================== */
 .task-description {
     background: #f0f7f4;
-    padding: 20px 25px;
-    margin: 20px 0 30px 0;
+    padding: 15px 20px;
+    margin: 15px 0 20px 0;
     border-radius: 2px;
     border-left: 3px solid #4a7c59;
     font-size: 1.05em;
@@ -239,20 +262,20 @@ section {
 }
 
 .task-description p {
-    margin-bottom: 10px;
+    margin-bottom: 8px;
 }
 
 /* ==================== CARDS (for index page) ==================== */
 .cards {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    gap: 30px;
-    margin: 40px auto;
+    gap: 25px;
+    margin: 30px auto;
 }
 
 .card {
     background: white;
-    padding: 35px;
+    padding: 30px;
     border-radius: 2px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.08);
     transition: all 0.3s ease;
@@ -266,13 +289,13 @@ section {
 
 .card h3 {
     color: #2d5016;
-    margin-bottom: 15px;
+    margin-bottom: 12px;
     font-size: 1.6em;
     text-align: center;
 }
 
 .card p {
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     font-size: 1.05em;
     text-align: justify;
 }
@@ -295,26 +318,26 @@ section {
 
 /* ==================== CHARTS ==================== */
 .chart-container {
-    margin: 30px 0;
+    margin: 20px 0;
     padding: 0;
     background: transparent;
 }
 
 figure {
-    margin: 20px auto;
+    margin: 15px auto;
     text-align: center;
 }
 
 .chart-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
-    gap: 25px;
-    margin: 25px 0;
+    gap: 20px;
+    margin: 20px 0;
 }
 
 /* Charts blend into page */
 #chart1_week1, #chart2_week1, #chart1_week2, #chart2_week2,
-#chart1_week3, #chart2_week3, #chart1_week4, #chart2_week4, #chart3_week4,
+#chart1_week3, #chart2_week3, #chart2_week4, #chart3_week4, #chart4_week4,
 #chart1_week5, #chart2_week5, #chart1_week6, #chart2_week6, #chart3_week6,
 #chart4_week6, #chart5_week6, #chart6_week6, #chart1_week7, #chart2_week7,
 #chart1_week8, #chart2_week8, #chart1_week9, #chart2_week9, #chart1_week10, #chart2_week10,
@@ -323,6 +346,26 @@ figure {
     border-radius: 0;
     padding: 0;
     background: transparent;
+}
+
+/* ==================== CHART CENTERING ==================== */
+.chart-centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.chart-centered figure {
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.chart-centered img {
+    display: block;
+    margin: 0 auto;
+    max-width: 90%;
+    height: auto;
 }
 
 /* ==================== VEGA-LITE TOOLTIP STYLING ==================== */
@@ -364,27 +407,27 @@ figure {
 /* ==================== SPECIAL BOXES ==================== */
 .coming-soon {
     background: #fff9e6;
-    padding: 20px;
+    padding: 15px;
     border-radius: 2px;
     border-left: 3px solid #ffc107;
     color: #856404;
     font-style: italic;
-    margin: 20px 0;
+    margin: 15px 0;
     text-align: center;
     font-size: 1em;
 }
 
 .research-question {
     background: #f0f7f4;
-    padding: 30px;
+    padding: 25px;
     border-radius: 2px;
     border-left: 3px solid #4a7c59;
-    margin: 30px 0;
+    margin: 25px 0;
 }
 
 .research-question h3 {
     color: #2d5016;
-    margin-bottom: 15px;
+    margin-bottom: 12px;
     font-size: 1.5em;
     text-align: center;
 }
@@ -396,15 +439,15 @@ figure {
 
 .data-sources {
     background: #fafaf8;
-    padding: 30px;
+    padding: 25px;
     border-radius: 2px;
     border-left: 3px solid #8b9d83;
-    margin: 35px 0;
+    margin: 25px 0;
 }
 
 .data-sources h3 {
     color: #2d5016;
-    margin-bottom: 15px;
+    margin-bottom: 12px;
     font-size: 1.4em;
     text-align: left;
 }
@@ -416,7 +459,7 @@ figure {
 }
 
 .data-sources li {
-    margin-bottom: 10px;
+    margin-bottom: 8px;
     font-size: 1.05em;
     line-height: 1.7;
 }
@@ -424,21 +467,21 @@ figure {
 /* ==================== FOOTER ==================== */
 footer {
     text-align: center;
-    padding: 35px 20px;
+    padding: 30px 20px;
     color: #5a6c7d;
-    margin-top: 50px;
+    margin-top: 40px;
     background: white;
     border-top: 1px solid #e8e8e8;
 }
 
 footer p {
     font-size: 1em;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
     text-align: center;
 }
 
 .social-links {
-    margin-top: 15px;
+    margin-top: 12px;
 }
 
 .social-links a {
@@ -460,8 +503,13 @@ footer p {
         padding: 15px;
     }
     
+    .top-nav .container {
+        flex-direction: column;
+        gap: 10px;
+    }
+    
     header {
-        padding: 40px 15px;
+        padding: 30px 15px;
     }
     
     header h1 {
@@ -483,6 +531,6 @@ footer p {
     }
     
     .task-section, .chart-section, .intro-section {
-        padding: 25px;
+        padding: 20px;
     }
 }
