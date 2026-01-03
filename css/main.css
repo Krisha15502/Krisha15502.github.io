@@ -74,15 +74,17 @@ a:hover {
 /* ==================== TOP NAVIGATION BAND ==================== */
 .top-nav {
     background: #2d5016;
-    padding: 12px 0;
+    padding: 15px 0;
     position: sticky;
     top: 0;
     z-index: 1000;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
-.top-nav .container {
-    padding: 0 20px;
+.nav-container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 30px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -90,29 +92,30 @@ a:hover {
 
 .site-name {
     color: white;
-    font-size: 1.3em;
-    font-weight: bold;
+    font-size: 1.4em;
+    font-weight: 600;
+    letter-spacing: 0.3px;
     text-decoration: none;
     transition: opacity 0.3s ease;
 }
 
 .site-name:hover {
-    opacity: 0.8;
+    opacity: 0.85;
     color: white;
 }
 
 .top-nav nav {
-    text-align: right;
+    display: flex;
+    gap: 5px;
 }
 
 .top-nav nav a {
     color: white;
     text-decoration: none;
-    padding: 8px 18px;
-    margin: 0 3px;
+    padding: 8px 20px;
     display: inline-block;
     font-size: 1em;
-    font-weight: 500;
+    font-weight: 400;
     transition: all 0.3s ease;
     border-bottom: 2px solid transparent;
 }
@@ -126,32 +129,34 @@ a:hover {
 header {
     background: white;
     color: #2c3e50;
-    padding: 40px 20px;
+    padding: 50px 20px;
     text-align: center;
     margin-bottom: 20px;
     border-bottom: 1px solid #e8e8e8;
 }
 
 header h1 {
-    font-size: 2.5em;
-    margin-bottom: 10px;
-    letter-spacing: 0.5px;
+    font-size: 2.8em;
+    margin-bottom: 12px;
+    letter-spacing: 0.3px;
     color: #2d5016;
+    font-weight: 600;
 }
 
 header p {
-    font-size: 1.1em;
+    font-size: 1.2em;
     margin-bottom: 0;
     color: #5a6c7d;
     font-style: italic;
     text-align: center;
+    font-weight: 400;
 }
 
-/* Portfolio page header - subtle cream */
+/* Portfolio page header - clean white */
 .portfolio-header {
-    background: #f9f9f7;
+    background: white;
     color: #2c3e50;
-    border-bottom: 1px solid #e8e8e8;
+    border-bottom: 1px solid #d4d4d4;
 }
 
 .portfolio-header h1 {
@@ -332,9 +337,12 @@ figure {
 
 .chart-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
-    gap: 20px;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
     margin: 20px 0;
+    max-width: 850px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Charts blend into page */
@@ -373,7 +381,8 @@ figure {
 /* ==================== UNIFORM CHART AND IMAGE SIZING ==================== */
 .uniform-image {
     width: 600px;
-    height: auto;
+    height: 400px;
+    object-fit: contain;
     max-width: 100%;
     display: block;
     margin: 0 auto;
@@ -514,9 +523,15 @@ footer p {
         padding: 15px;
     }
     
-    .top-nav .container {
+    .nav-container {
         flex-direction: column;
         gap: 10px;
+        padding: 0 15px;
+    }
+    
+    .top-nav nav {
+        flex-wrap: wrap;
+        justify-content: center;
     }
     
     header {
@@ -525,12 +540,6 @@ footer p {
     
     header h1 {
         font-size: 2em !important;
-    }
-    
-    .top-nav nav a {
-        display: block;
-        margin: 5px auto;
-        max-width: 200px;
     }
     
     .cards {
