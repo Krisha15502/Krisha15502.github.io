@@ -29,8 +29,8 @@
   
   <!-- Portfolio Header -->
   <header class="portfolio-header">
-    <h1>Portfolio - Coding Challenges</h1>
-    <p>10 Weekly Tasks</p>
+    <h1>Data Visualisation Portfolio</h1>
+    <p>This portfolio was created through the coding challenges assigned as part of LSE PP434 - Automated Data Visualisation taught by Professor Richard Davies. Each challenge demonstrates progressive mastery of data visualisation techniques, from basic chart embedding to advanced API integration and web scraping.</p>
   </header>
   
   <div class="container">
@@ -113,7 +113,9 @@
       </div>
       <p class="chart-source"><strong>Source:</strong> ND-GAIN Climate Vulnerability Index & Global Carbon Atlas</p>
       
-      <p><strong><em>Commentary:</em></strong> Charts reveal climate injustice: developing nations with highest vulnerability scores emit far less CO2 per capita than developed countries, who cause most emissions yet face lower vulnerability.</p>
+      <div class="analysis-box">
+        <p><strong><em>Commentary:</em></strong> Charts reveal climate injustice: developing nations with highest vulnerability scores emit far less CO2 per capita than developed countries, who cause most emissions yet face lower vulnerability.</p>
+      </div>
       
       <script>
         let chart1_week3_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/chart1_wk3.json";
@@ -130,6 +132,9 @@
       
       <div class="task-description">
         <p><strong>Task:</strong> Find a published chart, replicate it in Vega-Lite, then improve upon the original design.</p>
+      </div>
+      
+      <div class="analysis-box">
         <p><strong><u>Improvements Made:</u></strong></p>
         <ul>
           <li><strong>Consolidated visualisation:</strong> Combined 7 separate small multiples into a single unified line chart, significantly improving data-to-ink ratio and enabling direct comparison across banks.</li>
@@ -204,6 +209,9 @@
       
       <div class="task-description">
         <p><strong>Task (Web Scraping):</strong> Scrape data from a website using Python, clean it, then create a visualisation.</p>
+      </div>
+      
+      <div class="analysis-box">
         <p><strong><em>Analysis:</em></strong> Scraped music streaming statistics from Exploding Topics using Python BeautifulSoup. Data cleaned, normalised to tidy format, then visualised. <a href="https://colab.research.google.com/drive/1bpbtyH3CrQXAjYYTeijXo2IxkZ7eOVqW" target="_blank"><strong>View Python code on Google Colab →</strong></a></p>
       </div>
       
@@ -228,6 +236,9 @@
       
       <div class="task-description">
         <p><strong>Task:</strong> Use a loop to batch download six different series as JSON files and build a dashboard.</p>
+      </div>
+      
+      <div class="analysis-box">
         <p><strong><em>Analysis:</em></strong> Dashboard compares student satisfaction percentages across 10 UK universities for six academic subjects using UniDb API. Data batch-downloaded via Python loops. <a href="https://colab.research.google.com/drive/1WFGu2tSW1EoHKxPY51woacRfabfo4brd" target="_blank"><strong>View Python code on Google Colab →</strong></a></p>
       </div>
       
@@ -288,14 +299,18 @@
       </div>
       
       <h3>Chart 1: Whisky Distilleries in Scotland</h3>
-      <p><em>This point map displays whisky distilleries across Scotland. The locations are colour-coded by the smokiness of the whisky they produce.</em></p>
+      <div class="analysis-box">
+        <p><em>This point map displays whisky distilleries across Scotland. The locations are colour-coded by the smokiness of the whisky they produce.</em></p>
+      </div>
       <div class="chart-container chart-centered">
         <figure id="chart1_week7"></figure>
       </div>
       <p class="chart-source"><strong>Source:</strong> Scottish Whisky Association & OpenStreetMap</p>
       
       <h3>Chart 2: Welsh Speakers in Local Authorities of Wales</h3>
-      <p><em>This choropleth map shows the percentage of Welsh speakers in different local authorities in Wales.</em></p>
+      <div class="analysis-box">
+        <p><em>This choropleth map shows the percentage of Welsh speakers in different local authorities in Wales.</em></p>
+      </div>
       <div class="chart-container chart-centered">
         <figure id="chart2_week7"></figure>
       </div>
@@ -316,7 +331,10 @@
       
       <div class="task-description">
         <p><strong>Task:</strong> Produce two charts using UK prices datasets (LRPD or AutoCPI).</p>
-        <p><strong><em>Analysis:</em></strong> Analysis of UK LRPD dataset reveals divergent price trends for basic food items from 2018-2022. Whilst staples like bread, milk, and rice remained stable, protein sources showed significant increases—particularly chicken, which rose faster than eggs. Monthly price variation analysis indicates basic food prices remain relatively consistent throughout the year. <a href="https://colab.research.google.com/drive/1d_vWbBBFG55qe6HF_-MQfYRY3QKUPtX1" target="_blank"><strong>View Chart 1 code →</strong></a> | <a href="https://colab.research.google.com/drive/19fRDotlD5NtAfCXUB_O7ZLuEJCrw3qVd" target="_blank"><strong>View Chart 2 code →</strong></a></p>
+      </div>
+      
+      <div class="analysis-box">
+        <p><strong><em>Analysis:</em></strong> Analysis of UK LRPD dataset reveals divergent price trends for basic food items from 2000-2025. Whilst staples like bread, milk, and rice remained stable, protein sources showed significant increases—particularly chicken, which rose faster than eggs. Monthly price variation analysis indicates basic food prices remain relatively consistent throughout the year. <a href="https://colab.research.google.com/drive/1d_vWbBBFG55qe6HF_-MQfYRY3QKUPtX1" target="_blank"><strong>View Chart 1 code →</strong></a> | <a href="https://colab.research.google.com/drive/19fRDotlD5NtAfCXUB_O7ZLuEJCrw3qVd" target="_blank"><strong>View Chart 2 code →</strong></a></p>
       </div>
       
       <h3>Chart 1: Evolution of UK Food Prices</h3>
@@ -375,8 +393,11 @@
       
       <div class="task-description">
         <p><strong>Task:</strong> Conduct an applied machine learning analysis using supervised or unsupervised learning techniques.</p>
+      </div>
+      
+      <div class="analysis-box">
         <p><strong><u>Hypothesis:</u></strong> Can unsupervised K-means clustering identify distinct research topics and methodological patterns within machine learning literature from arXiv papers?</p>
-        <p><strong><u>Findings:</u></strong> Clustering analysis of 1,000 arXiv ML papers identified 19 as optimal cluster count, revealing distinct research themes and methodological approaches within machine learning literature. <a href="https://colab.research.google.com/drive/19T8OKC9AP1eiY_-BKqDO1yaTW7ekGVGb" target="_blank"><strong>View Python code on Google Colab →</strong></a></p>
+        <p><strong><u>Key Findings:</u></strong> Clustering analysis of 1,000 arXiv ML papers identified 19 as optimal cluster count, revealing distinct research themes and methodological approaches within machine learning literature. <a href="https://colab.research.google.com/drive/19T8OKC9AP1eiY_-BKqDO1yaTW7ekGVGb" target="_blank"><strong>View Python code on Google Colab →</strong></a></p>
       </div>
       
       <h3>Chart 1: Clustering Machine Learning Papers by Topic</h3>
