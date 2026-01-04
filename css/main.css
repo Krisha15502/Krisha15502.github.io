@@ -125,7 +125,7 @@ a:hover {
     color: white;
 }
 
-/* ==================== HERO SECTION (LANDING PAGE) ==================== */
+/* ==================== HERO SECTION ==================== */
 .hero {
     min-height: 85vh;
     display: flex;
@@ -193,7 +193,7 @@ a:hover {
     }
 }
 
-/* ==================== ABOUT SECTION (LANDING PAGE) ==================== */
+/* ==================== ABOUT SECTION ==================== */
 .about-section {
     padding: 80px 0;
     background: white;
@@ -258,7 +258,7 @@ a:hover {
     font-weight: 300;
 }
 
-/* ==================== SHOWCASE SECTION (LANDING PAGE) ==================== */
+/* ==================== SHOWCASE SECTION ==================== */
 .showcase-section {
     padding: 80px 0;
     background: #f9faf8;
@@ -296,6 +296,9 @@ a:hover {
     transition: all 0.3s ease;
     border-top: 4px solid #4a7c59;
     position: relative;
+    display: block;
+    text-decoration: none;
+    cursor: pointer;
 }
 
 .showcase-card:hover {
@@ -327,7 +330,7 @@ a:hover {
     text-align: left;
 }
 
-.card-link {
+.showcase-card .card-link {
     display: inline-block;
     color: #4a7c59;
     font-size: 1.1em;
@@ -336,7 +339,7 @@ a:hover {
     border-bottom: 2px solid transparent;
 }
 
-.card-link:hover {
+.showcase-card:hover .card-link {
     color: #2d5016;
     border-bottom: 2px solid #2d5016;
     transform: translateX(5px);
@@ -380,7 +383,7 @@ header {
 }
 
 header h1 {
-    font-size: 2.8em;
+    font-size: 2.8;
     margin-bottom: 12px;
     letter-spacing: 0.3px;
     color: #2d5016;
@@ -388,7 +391,7 @@ header h1 {
 }
 
 header p {
-    font-size: 1.2em;
+    font-size: 1.2;
     margin-bottom: 0;
     color: #5a6c7d;
     font-style: normal;
@@ -410,7 +413,7 @@ header p {
 .portfolio-header p {
     font-style: normal;
     color: #4a7c59;
-    font-size: 1.1em;
+    font-size: 1.1;
     font-weight: 400;
 }
 
@@ -568,7 +571,7 @@ section {
     margin-bottom: 10px;
 }
 
-/* ==================== CARDS (for old index page style) ==================== */
+/* ==================== CARDS (old style, kept for compatibility) ==================== */
 .cards {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
