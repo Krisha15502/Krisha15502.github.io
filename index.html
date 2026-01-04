@@ -14,6 +14,7 @@
     <div class="nav-container">
       <a href="index.html" class="site-name">Krisha Chandnani</a>
       <nav>
+        <a href="index.html">Home</a>
         <a href="portfolio.html">Portfolio</a>
         <a href="project.html">Project</a>
         <a href="https://www.linkedin.com/in/krisha-chandnani/" target="_blank">LinkedIn</a>
@@ -22,76 +23,109 @@
     </div>
   </div>
 
-  <!-- Hero Section -->
-  <section class="hero">
-    <div class="hero-content">
-      <h1 class="hero-name">Krisha Chandnani</h1>
-      <p class="hero-tagline">Data Science & Sustainability</p>
-      <div class="hero-scroll-hint">↓</div>
+  <!-- Hero Section with Green Background -->
+  <section class="hero-landing">
+    <div class="hero-overlay">
+      <h1 class="hero-title">Krisha Chandnani</h1>
+      <p class="hero-subtitle">Data Science & Sustainability</p>
+      <div class="hero-links">
+        <a href="https://www.linkedin.com/in/krisha-chandnani/" target="_blank">LinkedIn</a>
+        <a href="https://github.com/Krisha15502" target="_blank">GitHub</a>
+      </div>
+      <button class="scroll-down-btn" onclick="document.querySelector('.about-landing').scrollIntoView({behavior: 'smooth'})">
+        Scroll down
+      </button>
     </div>
   </section>
 
   <!-- About Me Section -->
-  <section class="about-section">
+  <section class="about-landing">
     <div class="container">
-      <div class="about-content">
-        <div class="about-image">
-          <img src="images/profile.jpg" alt="Krisha Chandnani">
+      <h2 class="section-heading">ABOUT ME</h2>
+      <div class="about-profile">
+        <img src="images/profile.jpg" alt="Krisha Chandnani" class="profile-circle">
+      </div>
+      <p class="about-bio">
+        Hi! I'm Krisha, an MPA-Data Science student at the London School of Economics, driven by a passion for applying data science to real-world sustainability challenges. My work focuses on turning complex environmental and climate data into clear, actionable insights through data storytelling.
+      </p>
+      
+      <h3 class="explore-heading">EXPLORE MY WORK</h3>
+      
+      <div class="about-buttons">
+        <a href="portfolio.html" class="about-btn">Data Visualisation Portfolio</a>
+        <a href="project.html" class="about-btn">Project: Nature Degradation & Climate Vulnerability in India</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- More Section -->
+  <section class="more-section">
+    <div class="container">
+      <h2 class="section-heading">MORE</h2>
+      <div class="more-grid">
+        <div class="more-column">
+          <h3>Software</h3>
+          <ul class="more-list">
+            <li>Python (Advanced)</li>
+            <li>R (Advanced)</li>
+            <li>SQL (Intermediate)</li>
+            <li>Stata (Intermediate)</li>
+            <li>GitHub (Advanced)</li>
+            <li>Vega-Lite (advanced)</li>
+            <li>Excel (advanced)</li>
+          </ul>
         </div>
-        <div class="about-text">
-          <h2>About Me</h2>
-          <p>I'm a data science student passionate about using visualisation and analytics to understand complex sustainability challenges. My work focuses on the intersection of environmental data and policy, exploring how data-driven insights can inform climate action and sustainable development.</p>
-          <p>Through automated visualisation techniques and machine learning, I transform raw data into compelling narratives that bridge the gap between technical analysis and accessible communication. My portfolio showcases projects spanning climate vulnerability, nature degradation, and data-driven policy analysis.</p>
-          <p>Currently completing PP434 - Automated Data Visualisation, I specialise in creating elegant, interactive visualisations using Vega-Lite, Python, and modern web technologies.</p>
+        <div class="more-column">
+          <h3>Interests</h3>
+          <ul class="more-list">
+            <li>Data Analysis</li>
+            <li>Data Visualisation</li>
+            <li>Machine Learning</li>
+            <li>Climate and Nature Policy</li>
+            <li>Climate Modelling</li>
+            <li>Sustainable Development</li>
+          </ul>
+        </div>
+        <div class="more-column">
+          <h3>Languages</h3>
+          <ul class="more-list">
+            <li>English (Fluent)</li>
+            <li>Hindi (Native)</li>
+            <li>Sindhi (Native)</li>
+          </ul>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Portfolio Showcase Section -->
-  <section class="showcase-section">
+  <!-- Contact Section -->
+  <section class="contact-landing">
     <div class="container">
-      <h2 class="section-title">Explore My Work</h2>
-      <div class="showcase-cards">
-        <div class="showcase-card">
-          <div class="card-icon">📊</div>
-          <h3>Portfolio</h3>
-          <p>10 weekly coding challenges demonstrating skills in data visualisation, web scraping, API integration, and interactive dashboard creation.</p>
-          <a href="portfolio.html" class="card-link">View Portfolio →</a>
-        </div>
-        <div class="showcase-card">
-          <div class="card-icon">🌍</div>
-          <h3>Project</h3>
-          <p>An in-depth analysis of nature degradation and climate vulnerability in India.</p>
-          <a href="project.html" class="card-link">View Project →</a>
-        </div>
-      </div>
+      <h2 class="section-heading">CONTACT</h2>
+      <a href="mailto:k.chandnani@lse.ac.uk" class="contact-email">k.chandnani@lse.ac.uk</a>
     </div>
   </section>
 
-  <!-- Get in Touch Section -->
-  <section class="contact-section">
-    <div class="container">
-      <h2 class="section-title">Get in Touch</h2>
-      <div class="contact-links">
-        <a href="https://www.linkedin.com/in/krisha-chandnani/" target="_blank" class="contact-link">
-          <span class="contact-icon">💼</span>
-          <span>LinkedIn</span>
-        </a>
-        <a href="https://github.com/Krisha15502" target="_blank" class="contact-link">
-          <span class="contact-icon">💻</span>
-          <span>GitHub</span>
-        <a href="k.chandnani@lse.ac.uk" target="_blank" class="contact-link">
-          <span class="contact-icon">✉️</span>
-          <span>GitHub</span>
-        </a>
-      </div>
-    </div>
-  </section>
+  <!-- Scroll to Top Button -->
+  <button class="scroll-top-btn" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" id="scrollTopBtn">
+    ↑
+  </button>
 
   <!-- Footer -->
   <footer>
     <p>&copy; 2025 Krisha Chandnani | Data Science & Sustainability</p>
   </footer>
+
+  <script>
+    // Show/hide scroll to top button
+    window.onscroll = function() {
+      const btn = document.getElementById('scrollTopBtn');
+      if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+        btn.style.display = "flex";
+      } else {
+        btn.style.display = "none";
+      }
+    };
+  </script>
 </body>
 </html>
