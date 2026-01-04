@@ -1,126 +1,97 @@
-<!-- This HTML file provides a simple example of a portfolio page. It contains a header, a few sections, and a few charts. -->
-<!-- It works with the three css files in this folder: example1.css, example2.css and example3.css. -->
-<!-- The HTML file defines the structure of the page, and the CSS files define how it looks. -->
-<!-- The CSS examples are all designed to work with this page. Try swapping them out on line 29 and see what happens. -->
-
-<!-- Take a look around and make your own copy to adapt for your own use. -->
-
-<!-- This is a comment -->
-<!-- Comments are not displayed in the browser -->
-<!-- They can be used to leave notes in the code -->
-
 <!DOCTYPE html>
-<html> 
-    <!-- HTML is heirarchial: tags like this define elements on the page. 
-    Each tag does something different. For example:
-        - The <html> tag defines the whole document.
-        - The <h1> tag defines a large heading
-        - The <p> tag defines a paragraph
-        - Tags appear as an opening <div> and closing </div> pair
-    -->
-
-<head>    
-    <!-- The head tag links to resources our page needs and defines information about it. Tags in the <head> aren't displayed on the page. -->
-
-    <!-- This is a link to a stylesheet which contains rules about how each element on the page should be defined-->
-    <!-- Try swapping example1.css to another, and take a look at example1.css to see if you understand it-->
-    <link rel="stylesheet" type="text/css" href="example3.css">
-    <title>My Portfolio</title> <!-- The title displayed in the browser tab, not on the page itself -->
-
-    <!-- This is a link to the vega-lite which we're using to make graphs -->
-    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-
-    <style>
-        #chartGrid {
-            display: flex;
-        }
-        
-    </style>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Krisha Chandnani | Data Science & Sustainability</title>
+  
+  <!-- Link to CSS file -->
+  <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
+<body>
+  <!-- Top Navigation Band -->
+  <div class="top-nav">
+    <div class="nav-container">
+      <a href="index.html" class="site-name">Krisha Chandnani</a>
+      <nav>
+        <a href="portfolio.html">Portfolio</a>
+        <a href="project.html">Project</a>
+        <a href="https://www.linkedin.com/in/krisha-chandnani/" target="_blank">LinkedIn</a>
+        <a href="https://github.com/Krisha15502" target="_blank">GitHub</a>
+      </nav>
+    </div>
+  </div>
 
-<body> 
-<!-- The body tag contains the elements that visitors to our page will see. -->
-    <h1 class="big" style="margin-bottom: 0px;"> <!-- We have added a class to the header called "big" which we can use to style it in the CSS -->
-        <!-- This is a header, it is the largest text on the page -->
-        Krisha Chandnani
-    </h1>
-    <p style="margin-top: 0px; color: darkblue">
-        <!-- we're setting the margin to 0px so the header and authour name are close together -->
-        Krisha Chandnani | <a href="https://www.linkedin.com/in/krisha-chandnani/">LinkedIn</a> | <a
-            href="https://www.github.com/Krisha15502">GitHub</a>
-    </p>
-    <h3 class="small"> <!-- We have added a class to the header called "small" which we can use to style it in the CSS -->
-        This page acts as your portfolio of charts. You can use it as a good starting point to display your work but make sure to customise it to make it your own, or even start from scratch.  
-    </h3>
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-content">
+      <h1 class="hero-name">Krisha Chandnani</h1>
+      <p class="hero-tagline">Data Science & Sustainability</p>
+      <div class="hero-scroll-hint">↓</div>
+    </div>
+  </section>
 
-    <!-- We're organising the page into sections, with each section containing a chart, title and a description -->
-    <section>
-        <div class="chart-description">
-            <h2>Section 1: Lecture Chart</h2>
-            <p> <!-- This is a paragraph, it's the main way to display text on a web page -->
-                This section contains a chart from the EconomicsObservatory repository. It is a basic chart added in the lecture only for the purpose of learning how to make a portfolio page.
-            </p>
+  <!-- About Me Section -->
+  <section class="about-section">
+    <div class="container">
+      <div class="about-content">
+        <div class="about-image">
+          <img src="images/profile.jpg" alt="Krisha Chandnani">
         </div>
-        <figure id="Location1"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
-    </section>
-
-    <!-- Do you want to add more sections? -->
-        <!-- Try copying pasting the section above -->
-        <!-- You'll need to change the id of the figure "<figure id="Location3"... -->
-        <!-- ... and add a new variable for the graph spec in the script at the bottom of the page -->
-
-    <section>
-         <div class="chart-description">
-            <h2>Section 2: Seminar Chart 1</h2>
-             <p> <!-- This is a paragraph, it's the main way to display text on a web page -->
-                This section contains a chart from the current github repository. It is a basic chart added in the seminar only for the purpose of learning how to make a portfolio page.
-            </p>
+        <div class="about-text">
+          <h2>About Me</h2>
+          <p>I'm a data science student passionate about using visualisation and analytics to understand complex sustainability challenges. My work focuses on the intersection of environmental data and policy, exploring how data-driven insights can inform climate action and sustainable development.</p>
+          <p>Through automated visualisation techniques and machine learning, I transform raw data into compelling narratives that bridge the gap between technical analysis and accessible communication. My portfolio showcases projects spanning climate vulnerability, nature degradation, and data-driven policy analysis.</p>
+          <p>Currently completing PP434 - Automated Data Visualisation, I specialise in creating elegant, interactive visualisations using Vega-Lite, Python, and modern web technologies.</p>
         </div>
-        <figure id="Location2"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
-    </section>
+      </div>
+    </div>
+  </section>
 
+  <!-- Portfolio Showcase Section -->
+  <section class="showcase-section">
+    <div class="container">
+      <h2 class="section-title">Explore My Work</h2>
+      <div class="showcase-cards">
+        <div class="showcase-card">
+          <div class="card-icon">📊</div>
+          <h3>Portfolio</h3>
+          <p>10 weekly coding challenges demonstrating skills in data visualisation, web scraping, API integration, and interactive dashboard creation.</p>
+          <a href="portfolio.html" class="card-link">View Portfolio →</a>
+        </div>
+        <div class="showcase-card">
+          <div class="card-icon">🌍</div>
+          <h3>Project</h3>
+          <p>An in-depth analysis of nature degradation and climate vulnerability in India.</p>
+          <a href="project.html" class="card-link">View Project →</a>
+        </div>
+      </div>
+    </div>
+  </section>
 
-    <section>
-        <div class="chart-description">
-           <h2>Section 3: Seminar Chart 2</h2>
-            <p> <!-- This is a paragraph, it's the main way to display text on a web page -->
-               This section contains a chart from the chart library. It is a chart added in the lecture only for the purpose of learning how to make a portfolio page.
-               This chart is interactive. Click on the legend to isolate items of interest. Zoom in and out of crowded areas to inspect the data.
-           </p>
-       </div>
-       <figure id="Location3"></figure> <!-- we give it an id so we can put a vega-lite graph here with VegaEmbed -->
-   </section>
+  <!-- Get in Touch Section -->
+  <section class="contact-section">
+    <div class="container">
+      <h2 class="section-title">Get in Touch</h2>
+      <div class="contact-links">
+        <a href="https://www.linkedin.com/in/krisha-chandnani/" target="_blank" class="contact-link">
+          <span class="contact-icon">💼</span>
+          <span>LinkedIn</span>
+        </a>
+        <a href="https://github.com/Krisha15502" target="_blank" class="contact-link">
+          <span class="contact-icon">💻</span>
+          <span>GitHub</span>
+        <a href="k.chandnani@lse.ac.uk" target="_blank" class="contact-link">
+          <span class="contact-icon">✉️</span>
+          <span>GitHub</span>
+        </a>
+      </div>
+    </div>
+  </section>
 
-    <!-- This is a script, it's a way to run JavaScript code on the page -->
-    <script>
-        // This is a comment in JavaScript - it's a different language to HTML and CSS
-
-        let figure_1_spec = "https://raw.githubusercontent.com/EconomicsObservatory/courses/main/2/s2_chart2.json"; // We're storing the URL of the graph we want to display in a variable
-                                                                                                                    // You should have a spec for a graph in this same folder. Just specify its name here, e.g. let figure_1_spec = "chart1.json"
-
-        vegaEmbed('#Location1', figure_1_spec) // We're using the vegaEmbed function to put a graph in the element with id figure_1
-
-        let figure_2_spec = "wk1_chart1.json"; // We're storing the URL of the graph we want to display in a variable
-                                                                                                                    // You should have a spec for a graph in this same folder. Just specify its name here, e.g. let figure_1_spec = "chart1.json"
-
-        vegaEmbed('#Location2', figure_2_spec)
-        
-        let figure_3_spec = "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/refs/heads/main/charts/library/chartScatter6.json"; // We're storing the URL of the graph we want to display in a variable
-                                                                                                                    // You should have a spec for a graph in this same folder. Just specify its name here, e.g. let figure_1_spec = "chart1.json"
-
-        vegaEmbed('#Location3', figure_3_spec)
-        // We're using the vegaEmbed function to put a graph in the element with id figure_1
-        // Do you want to add more graphs?
-        // try defining a new variable for figure_3_spec, adding VegaEmbed for Location3, and adding a new section in the HTML
-        // e.g. 
-        // let figure_3_spec = ...
-        // vegaEmbed('#Location3', figure_3_spec)
-
-
-    </script>
-
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Krisha Chandnani | Data Science & Sustainability</p>
+  </footer>
 </body>
-    
 </html>
