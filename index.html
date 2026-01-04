@@ -9,8 +9,8 @@
   <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
-  <!-- Top Navigation Band -->
-  <div class="top-nav">
+  <!-- Top Navigation Band (appears on scroll) -->
+  <div class="top-nav" id="topNav">
     <div class="nav-container">
       <a href="index.html" class="site-name">Krisha Chandnani</a>
       <nav>
@@ -28,6 +28,11 @@
     <div class="hero-content">
       <h1 class="hero-name">Krisha Chandnani</h1>
       <p class="hero-tagline">Data Science & Sustainability</p>
+      <div class="hero-links">
+        <a href="https://github.com/Krisha15502" target="_blank">GitHub</a>
+        <span class="hero-divider">|</span>
+        <a href="https://www.linkedin.com/in/krisha-chandnani/" target="_blank">LinkedIn</a>
+      </div>
       <div class="hero-scroll-hint" onclick="document.querySelector('.about-section').scrollIntoView({behavior: 'smooth'})">↓</div>
     </div>
   </section>
@@ -44,11 +49,6 @@
           <p>I'm a data science student passionate about using visualisation and analytics to understand complex sustainability challenges. My work focuses on the intersection of environmental data and policy, exploring how data-driven insights can inform climate action and sustainable development.</p>
           <p>Through automated visualisation techniques and machine learning, I transform raw data into compelling narratives that bridge the gap between technical analysis and accessible communication. My portfolio showcases projects spanning climate vulnerability, nature degradation, and data-driven policy analysis.</p>
           <p>Currently completing PP434 - Automated Data Visualisation, I specialise in creating elegant, interactive visualisations using Vega-Lite, Python, and modern web technologies.</p>
-          <div class="about-buttons">
-            <a href="mailto:k.chandnani@lse.ac.uk" class="contact-btn">Email</a>
-            <span class="button-divider">|</span>
-            <a href="https://www.linkedin.com/in/krisha-chandnani/" target="_blank" class="contact-btn">LinkedIn</a>
-          </div>
         </div>
       </div>
     </div>
@@ -75,6 +75,36 @@
     </div>
   </section>
 
+  <!-- More Section -->
+  <section class="more-section">
+    <div class="container">
+      <h2 class="section-title">More</h2>
+      
+      <div class="more-category">
+        <h3>Software</h3>
+        <p class="more-items">Python (advanced) | R (advanced) | SQL (intermediate) | GitHub (intermediate) | Vega-Lite (advanced) | Excel (advanced)</p>
+      </div>
+      
+      <div class="more-category">
+        <h3>Interests</h3>
+        <p class="more-items">Climate Policy | Data Visualisation | Machine Learning | Environmental Analytics | Sustainable Development</p>
+      </div>
+      
+      <div class="more-category">
+        <h3>Languages</h3>
+        <p class="more-items">English (Fluent) | Hindi (Native) | Gujarati (Intermediate)</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Get in Touch Section -->
+  <section class="contact-section">
+    <div class="container">
+      <h2 class="section-title">Get in Touch</h2>
+      <a href="mailto:k.chandnani@lse.ac.uk" class="contact-email">k.chandnani@lse.ac.uk</a>
+    </div>
+  </section>
+
   <!-- Scroll to Top Button -->
   <button class="scroll-top-btn" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" id="scrollTopBtn">
     ↑
@@ -85,13 +115,23 @@
   </footer>
 
   <script>
-    // Show/hide scroll to top button
+    // Show/hide navigation and scroll to top button on scroll
     window.onscroll = function() {
-      const btn = document.getElementById('scrollTopBtn');
-      if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
-        btn.style.display = "flex";
+      const topNav = document.getElementById('topNav');
+      const scrollBtn = document.getElementById('scrollTopBtn');
+      
+      // Show top nav after scrolling down 100px
+      if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+        topNav.classList.add('visible');
       } else {
-        btn.style.display = "none";
+        topNav.classList.remove('visible');
+      }
+      
+      // Show scroll to top button after scrolling down 300px
+      if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+        scrollBtn.style.display = "flex";
+      } else {
+        scrollBtn.style.display = "none";
       }
     };
   </script>
