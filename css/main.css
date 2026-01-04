@@ -75,10 +75,17 @@ a:hover {
 .top-nav {
     background: #2d5016;
     padding: 15px 0;
-    position: sticky;
-    top: 0;
+    position: fixed;
+    top: -100px;
+    left: 0;
+    right: 0;
     z-index: 1000;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: top 0.3s ease;
+}
+
+.top-nav.visible {
+    top: 0;
 }
 
 .nav-container {
@@ -127,7 +134,7 @@ a:hover {
 
 /* ==================== HERO SECTION ==================== */
 .hero {
-    min-height: 85vh;
+    min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -143,7 +150,7 @@ a:hover {
 .hero-name {
     font-size: 4.5em;
     color: white;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     font-weight: 600;
     letter-spacing: 1px;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
@@ -153,9 +160,31 @@ a:hover {
     font-size: 1.6em;
     color: white;
     font-weight: 400;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
     letter-spacing: 0.5px;
     text-align: center !important;
+}
+
+.hero-links {
+    margin-bottom: 50px;
+}
+
+.hero-links a {
+    color: white;
+    font-size: 1.2em;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: all 0.3s ease;
+}
+
+.hero-links a:hover {
+    border-bottom: 2px solid white;
+}
+
+.hero-divider {
+    color: white;
+    margin: 0 15px;
+    font-size: 1.2em;
 }
 
 .hero-scroll-hint {
@@ -229,33 +258,6 @@ a:hover {
     line-height: 1.9;
     color: #34495e;
     margin-bottom: 20px;
-}
-
-.about-buttons {
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    margin-top: 30px;
-}
-
-.contact-btn {
-    color: #4a7c59;
-    font-size: 1.1em;
-    font-weight: 600;
-    text-decoration: none;
-    transition: all 0.3s ease;
-    border-bottom: 2px solid transparent;
-}
-
-.contact-btn:hover {
-    color: #2d5016;
-    border-bottom: 2px solid #2d5016;
-}
-
-.button-divider {
-    color: #4a7c59;
-    font-size: 1.2em;
-    font-weight: 300;
 }
 
 /* ==================== SHOWCASE SECTION ==================== */
@@ -345,6 +347,51 @@ a:hover {
     transform: translateX(5px);
 }
 
+/* ==================== MORE SECTION (HORIZONTAL) ==================== */
+.more-section {
+    padding: 80px 0;
+    background: white;
+}
+
+.more-category {
+    margin-bottom: 40px;
+}
+
+.more-category h3 {
+    color: #2d5016;
+    font-size: 1.8em;
+    margin-bottom: 15px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.more-items {
+    text-align: center;
+    font-size: 1.1em;
+    color: #5a6c7d;
+    line-height: 1.8;
+}
+
+/* ==================== CONTACT SECTION ==================== */
+.contact-section {
+    padding: 80px 0;
+    background: #f9faf8;
+}
+
+.contact-email {
+    display: block;
+    text-align: center;
+    font-size: 1.8em;
+    color: #2c3e50;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.contact-email:hover {
+    color: #4a7c59;
+}
+
 /* ==================== SCROLL TO TOP BUTTON ==================== */
 .scroll-top-btn {
     position: fixed;
@@ -383,7 +430,7 @@ header {
 }
 
 header h1 {
-    font-size: 2.8;
+    font-size: 2.8em;
     margin-bottom: 12px;
     letter-spacing: 0.3px;
     color: #2d5016;
@@ -808,7 +855,7 @@ footer {
     text-align: center;
     padding: 30px 20px;
     color: #5a6c7d;
-    margin-top: 40px;
+    margin-top: 0;
     background: white;
     border-top: 1px solid #e8e8e8;
 }
@@ -867,6 +914,10 @@ footer p {
     
     .hero-tagline {
         font-size: 1.2em !important;
+    }
+    
+    .hero-links {
+        margin-bottom: 30px;
     }
     
     .about-content {
