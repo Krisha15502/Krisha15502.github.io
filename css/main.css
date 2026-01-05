@@ -75,16 +75,22 @@ a:hover {
 .top-nav {
     background: #2d5016;
     padding: 15px 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Only on landing page - make it fixed and hidden initially */
+body.landing-page .top-nav {
     position: fixed;
     top: -100px;
     left: 0;
     right: 0;
-    z-index: 1000;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     transition: top 0.3s ease;
 }
 
-.top-nav.visible {
+body.landing-page .top-nav.visible {
     top: 0;
 }
 
@@ -438,7 +444,7 @@ header h1 {
 }
 
 header p {
-    font-size: 1.2;
+    font-size: 1.2em;
     margin-bottom: 0;
     color: #5a6c7d;
     font-style: normal;
@@ -460,7 +466,7 @@ header p {
 .portfolio-header p {
     font-style: normal;
     color: #4a7c59;
-    font-size: 1.1;
+    font-size: 1.1em;
     font-weight: 400;
 }
 
