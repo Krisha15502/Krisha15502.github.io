@@ -138,7 +138,7 @@ body.landing-page .top-nav.visible {
     color: white;
 }
 
-/* ==================== HERO SECTION ==================== */
+/* ==================== HERO SECTION (LANDING PAGE) ==================== */
 .hero {
     min-height: 100vh;
     display: flex;
@@ -228,7 +228,7 @@ body.landing-page .top-nav.visible {
     }
 }
 
-/* ==================== ABOUT SECTION ==================== */
+/* ==================== ABOUT SECTION (LANDING PAGE) ==================== */
 .about-section {
     padding: 80px 0;
     background: white;
@@ -266,7 +266,7 @@ body.landing-page .top-nav.visible {
     margin-bottom: 20px;
 }
 
-/* ==================== SHOWCASE SECTION ==================== */
+/* ==================== SHOWCASE SECTION (LANDING PAGE) ==================== */
 .showcase-section {
     padding: 80px 0;
     background: #f9faf8;
@@ -359,6 +359,15 @@ body.landing-page .top-nav.visible {
     background: white;
 }
 
+.section-heading {
+    text-align: center;
+    font-size: 1.8em;
+    color: #7a7a7a;
+    font-weight: 400;
+    letter-spacing: 3px;
+    margin-bottom: 50px;
+}
+
 .more-category {
     margin-bottom: 40px;
 }
@@ -378,7 +387,7 @@ body.landing-page .top-nav.visible {
     line-height: 1.8;
 }
 
-/* ==================== CONTACT SECTION ==================== */
+/* ==================== CONTACT SECTION (LANDING PAGE) ==================== */
 .contact-section {
     padding: 80px 0;
     background: #f9faf8;
@@ -396,6 +405,62 @@ body.landing-page .top-nav.visible {
 
 .contact-email:hover {
     color: #4a7c59;
+}
+
+.explore-heading {
+    text-align: center;
+    font-size: 1.8em;
+    color: #2d5016;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin: 50px 0 30px;
+}
+
+.about-profile {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.profile-circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.15);
+    border: 4px solid #4a7c59;
+}
+
+.about-bio {
+    max-width: 800px;
+    margin: 0 auto 40px;
+    text-align: center;
+    font-size: 1.15em;
+    line-height: 1.8;
+    color: #2c3e50;
+}
+
+.about-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.about-btn {
+    background: #4a7c59;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-size: 1em;
+    transition: all 0.3s ease;
+    font-weight: 500;
+}
+
+.about-btn:hover {
+    background: #2d5016;
+    transform: scale(1.08);
+    box-shadow: 0 6px 20px rgba(45, 80, 22, 0.3);
 }
 
 /* ==================== SCROLL TO TOP BUTTON ==================== */
@@ -444,7 +509,7 @@ header h1 {
 }
 
 header p {
-    font-size: 1.2em;
+    font-size: 1.2;
     margin-bottom: 0;
     color: #5a6c7d;
     font-style: normal;
@@ -466,7 +531,7 @@ header p {
 .portfolio-header p {
     font-style: normal;
     color: #4a7c59;
-    font-size: 1.1em;
+    font-size: 1.1;
     font-weight: 400;
 }
 
@@ -571,6 +636,10 @@ section {
     text-align: center;
 }
 
+.chart-section p {
+    text-align: justify;
+}
+
 /* ==================== TASK DESCRIPTIONS ==================== */
 .task-description {
     background: #f0f7f4;
@@ -622,6 +691,131 @@ section {
 
 .analysis-box li {
     margin-bottom: 10px;
+}
+
+/* ==================== KEY TAKEAWAYS (PROJECT PAGE) ==================== */
+.key-takeaways {
+    background: #f0f7f4;
+    padding: 15px 20px;
+    margin: 20px 0;
+    border-radius: 2px;
+    border-left: 3px solid #4a7c59;
+    font-size: 1.05em;
+    line-height: 1.8;
+    color: #2c3e50;
+}
+
+.key-takeaways h4 {
+    color: #2d5016;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.key-takeaways p {
+    margin-bottom: 8px;
+    text-align: justify;
+}
+
+/* ==================== APPENDIX TOGGLE BUTTON ==================== */
+.appendix-toggle-container {
+    text-align: center;
+    margin: 50px 0 30px;
+}
+
+.appendix-toggle {
+    background: #4a7c59;
+    color: white;
+    border: none;
+    padding: 15px 40px;
+    font-size: 1.1em;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+    font-weight: 600;
+}
+
+.appendix-toggle:hover {
+    background: #2d5016;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(45, 80, 22, 0.3);
+}
+
+/* ==================== APPENDIX SECTION ==================== */
+.appendix-section {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease-out, padding 0.5s ease-out;
+    background: white;
+    border-radius: 2px;
+    padding: 0 30px;
+}
+
+.appendix-section.expanded {
+    max-height: 2000px;
+    padding: 30px;
+    border-left: 3px solid #4a7c59;
+    margin-bottom: 30px;
+}
+
+.appendix-section h2 {
+    color: #2d5016;
+    font-size: 2em;
+    margin-bottom: 30px;
+    text-align: center;
+    border-bottom: 2px solid #4a7c59;
+    padding-bottom: 10px;
+}
+
+.appendix-subsection {
+    margin-bottom: 30px;
+}
+
+.appendix-subsection h3 {
+    color: #4a7c59;
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.appendix-subsection ul {
+    list-style-position: inside;
+    margin-left: 20px;
+}
+
+.appendix-subsection li {
+    font-size: 1.05em;
+    color: #34495e;
+    margin-bottom: 10px;
+    line-height: 1.7;
+}
+
+.appendix-subsection p {
+    font-size: 1.05em;
+    color: #34495e;
+    line-height: 1.8;
+}
+
+/* ==================== PROJECT FOOTER WITH GREEN BAND ==================== */
+.project-footer {
+    background: #2d5016;
+    color: white;
+    border-top: none;
+    margin-top: 60px;
+}
+
+.project-footer p {
+    color: white;
+}
+
+.project-footer a {
+    color: white;
+    text-decoration: underline;
+}
+
+.project-footer a:hover {
+    opacity: 0.8;
 }
 
 /* ==================== CARDS (old style, kept for compatibility) ==================== */
@@ -701,7 +895,7 @@ figure {
 #chart1_week5, #chart2_week5, #chart1_week6, #chart2_week6, #chart3_week6,
 #chart4_week6, #chart5_week6, #chart6_week6, #chart1_week7, #chart2_week7,
 #chart1_week8, #chart2_week8, #chart1_week9, #chart2_week9, #chart1_week10, #chart2_week10,
-#project_chart_1, #project_chart_2, #project_chart_3, #project_chart_4, #project_chart_5 {
+#project_chart_1, #project_chart_2, #project_chart_3, #project_chart_4, #project_chart_5, #project_chart_6 {
     border: none;
     border-radius: 0;
     padding: 0;
