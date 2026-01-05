@@ -537,17 +537,20 @@ header p {
 
 /* Project page header - medium forest green */
 .project-header {
-    background: #4a7c59;
-    color: white;
-    border-bottom: 3px solid #3a5a40;
+    background: white;
+    color: #2c3e50;
+    border-bottom: 3px solid #4a7c59;
 }
 
 .project-header h1 {
-    color: white;
+    color: #2d5016;
 }
 
 .project-header p {
-    color: #f0f0f0;
+    font-style: normal;
+    color: #4a7c59;
+    font-size: 1.1;
+    font-weight: 400;
 }
 
 /* ==================== SECTIONS ==================== */
