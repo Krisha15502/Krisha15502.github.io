@@ -37,7 +37,7 @@
     <!-- Introduction Section -->
     <section class="intro-section">
       <h2>Introduction</h2>
-      <p>[Add your introduction text here - context, background, why this topic matters]</p>
+      <p> </p>
       
       <div class="research-question">
         <h3>Research Question</h3>
@@ -49,23 +49,23 @@
 
     <!-- Chart 1 Section -->
     <section class="chart-section">
-      <h3>Chart 1: [Chart Title]</h3>
-      <p>[Add chart description here - what does this chart show, why is it important]</p>
-      
+      <h3>Chart 1: Warming Rates Across India (1901-2024)</h3>
+      <p>This dual-panel visualisation presents India's warming trajectory.  The choropleth map (top panel) shows warming rates measured in degrees Celsius per century across Indian states, with interactive city markers allowing the exploration of individual urban temperature anomalies since 1951. It also presents geographical contrast in warming with northeastern states and parts of the Indo-Gangetic plain exhibiting darker hues indicating warming rates exceeding 1°C per century, whilst some western and southern regions show comparatively moderate rates.</p>
+      <p>The bottom panel presents annual temperature anomalies from 1900 to 2024. The data reveal an inflection point around the late 1970s, after which negative anomalies virtually disappear. Warming appears to have spiked especially post-2000s.</p>
+      <p>Click on specific cities to see their individual warming trajectory.</p>
       <div class="chart-container chart-centered">
         <figure id="project_chart_1"></figure>
       </div>
-      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      <p class="chart-source"><strong>Source:</strong> Indian Meteorological Department (<a href>https://mausam.imd.gov.in</a>)</p>
       
       <div class="key-takeaways">
-        <h4>Key Takeaways</h4>
-        <p>[Add key insights from this chart]</p>
+        <p><strong>Key Takeaway:</strong> India's warming is accerlerating, especially over the last two decade, consistent with global climate change patterns documented in IPCC assessmentss. The spatial variation in warming rates suggests that climate impacts will not be uniformly distributed; states experiencing the most rapid warming may face disproportionate adaptation challenges.</p>
       </div>
     </section>
 
     <!-- Chart 2 Section -->
     <section class="chart-section">
-      <h3>Chart 2: [Chart Title]</h3>
+      <h3>Chart 2: Extreme Heat Days in India (1967-2024)</h3>
       <p>[Add chart description here]</p>
       
       <div class="chart-container chart-centered">
@@ -195,22 +195,22 @@
   <script>
     // Placeholder chart embeds - replace with your actual chart URLs
     let project_chart_1_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/temperature_anomaly.json";
-    vegaEmbed('#project_chart_1', project_chart_1_spec, {width: 600, height: 400});
+    vegaEmbed('#project_chart_1', project_chart_1_spec, {width: 900, height: 500});
     
     let project_chart_2_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/heatwave_days.json";
-    vegaEmbed('#project_chart_2', project_chart_2_spec, {width: 600, height: 400});
+    vegaEmbed('#project_chart_2', project_chart_2_spec, {width: 900, height: 500});
     
     let project_chart_3_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/rainfall_variability.json";
-    vegaEmbed('#project_chart_3', project_chart_3_spec, {width: 600, height: 400});
+    vegaEmbed('#project_chart_3', project_chart_3_spec, {width: 900, height: 500});
     
     let project_chart_4_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/hazards.json";
-    vegaEmbed('#project_chart_4', project_chart_4_spec, {width: 600, height: 400});
+    vegaEmbed('#project_chart_4', project_chart_4_spec, {width: 900, height: 500});
     
     let project_chart_5_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/emissions.json";
-    vegaEmbed('#project_chart_5', project_chart_5_spec, {width: 600, height: 400});
+    vegaEmbed('#project_chart_5', project_chart_5_spec, {width: 900, height: 500});
     
     let project_chart_6_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/biodiversity.json";
-    vegaEmbed('#project_chart_6', project_chart_6_spec, {width: 600, height: 400});
+    vegaEmbed('#project_chart_6', project_chart_6_spec, {width: 900, height: 500});
 
     // Appendix toggle function
     function toggleAppendix() {
