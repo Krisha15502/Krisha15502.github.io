@@ -1,1 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Project | Krisha Chandnani</title>
+  
+  <!--Vega Dependencies-->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  
+  <!-- Link to CSS file -->
+  <link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+<body>
+  <!-- Top Navigation Band -->
+  <div class="top-nav">
+    <div class="nav-container">
+      <a href="index.html" class="site-name">Krisha Chandnani</a>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="portfolio.html">Portfolio</a>
+        <a href="project.html">Project</a>
+        <a href="https://www.linkedin.com/in/krisha-chandnani/" target="_blank">LinkedIn</a>
+        <a href="https://github.com/Krisha15502" target="_blank">GitHub</a>
+      </nav>
+    </div>
+  </div>
 
+  <!-- Project Header -->
+  <header class="project-header">
+    <h1>Climate Vulnerability in India</h1>
+    <p>A data-driven analysis of India's compromising climate position.</p>
+  </header>
+  
+  <div class="container">
+    <!-- Introduction Section -->
+    <section class="intro-section">
+      <h2>Introduction</h2>
+      <p>[Add your introduction text here - context, background, why this topic matters]</p>
+      
+      <div class="research-question">
+        <h3>Research Question</h3>
+        <p>[Add your specific research question here]</p>
+      </div>
+      
+      <p>[Continue introduction if needed - methodology overview, data sources overview, etc.]</p>
+    </section>
+
+    <!-- Chart 1 Section -->
+    <section class="chart-section">
+      <h3>Chart 1: [Chart Title]</h3>
+      <p>[Add chart description here - what does this chart show, why is it important]</p>
+      
+      <div class="chart-container chart-centered">
+        <figure id="project_chart_1"></figure>
+      </div>
+      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      
+      <div class="key-takeaways">
+        <h4>Key Takeaways</h4>
+        <p>[Add key insights from this chart]</p>
+      </div>
+    </section>
+
+    <!-- Chart 2 Section -->
+    <section class="chart-section">
+      <h3>Chart 2: [Chart Title]</h3>
+      <p>[Add chart description here]</p>
+      
+      <div class="chart-container chart-centered">
+        <figure id="project_chart_2"></figure>
+      </div>
+      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      
+      <div class="key-takeaways">
+        <h4>Key Takeaways</h4>
+        <p>[Add key insights from this chart]</p>
+      </div>
+    </section>
+
+    <!-- Chart 3 Section -->
+    <section class="chart-section">
+      <h3>Chart 3: [Chart Title]</h3>
+      <p>[Add chart description here]</p>
+      
+      <div class="chart-container chart-centered">
+        <figure id="project_chart_3"></figure>
+      </div>
+      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      
+      <div class="key-takeaways">
+        <h4>Key Takeaways</h4>
+        <p>[Add key insights from this chart]</p>
+      </div>
+    </section>
+
+    <!-- Chart 4 Section -->
+    <section class="chart-section">
+      <h3>Chart 4: [Chart Title]</h3>
+      <p>[Add chart description here]</p>
+      
+      <div class="chart-container chart-centered">
+        <figure id="project_chart_4"></figure>
+      </div>
+      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      
+      <div class="key-takeaways">
+        <h4>Key Takeaways</h4>
+        <p>[Add key insights from this chart]</p>
+      </div>
+    </section>
+
+    <!-- Chart 5 Section -->
+    <section class="chart-section">
+      <h3>Chart 5: [Chart Title]</h3>
+      <p>[Add chart description here]</p>
+      
+      <div class="chart-container chart-centered">
+        <figure id="project_chart_5"></figure>
+      </div>
+      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      
+      <div class="key-takeaways">
+        <h4>Key Takeaways</h4>
+        <p>[Add key insights from this chart]</p>
+      </div>
+    </section>
+
+    <!-- Chart 6 Section -->
+    <section class="chart-section">
+      <h3>Chart 6: [Chart Title]</h3>
+      <p>[Add chart description here]</p>
+      
+      <div class="chart-container chart-centered">
+        <figure id="project_chart_6"></figure>
+      </div>
+      <p class="chart-source"><strong>Source:</strong> [Add source here]</p>
+      
+      <div class="key-takeaways">
+        <h4>Key Takeaways</h4>
+        <p>[Add key insights from this chart]</p>
+      </div>
+    </section>
+
+    <!-- Conclusion Section -->
+    <section class="intro-section">
+      <h2>Conclusion</h2>
+      <p>[Add your conclusion text here - main findings, implications, final thoughts]</p>
+    </section>
+
+    <!-- Appendix Toggle Button -->
+    <div class="appendix-toggle-container">
+      <button class="appendix-toggle" onclick="toggleAppendix()">
+        <span id="appendixText">Show Appendix ↓</span>
+      </button>
+    </div>
+
+    <!-- Appendix Section (Initially Hidden) -->
+    <section class="appendix-section" id="appendixSection">
+      <h2>Appendix</h2>
+      
+      <div class="appendix-subsection">
+        <h3>Data Sources</h3>
+        <ul>
+          <li>[Data Source 1 - with link if available]</li>
+          <li>[Data Source 2]</li>
+          <li>[Data Source 3]</li>
+          <li>[Add more as needed]</li>
+        </ul>
+      </div>
+      
+      <div class="appendix-subsection">
+        <h3>Code Files & Notebooks</h3>
+        <ul>
+          <li><a href="[Colab Link 1]" target="_blank">Python Notebook - Data Collection →</a></li>
+          <li><a href="[Colab Link 2]" target="_blank">Python Notebook - Data Cleaning →</a></li>
+          <li><a href="[Colab Link 3]" target="_blank">Python Notebook - Analysis →</a></li>
+          <li>[Add more links as needed]</li>
+        </ul>
+      </div>
+      
+      <div class="appendix-subsection">
+        <h3>Analytical Challenges</h3>
+        <p>[Describe challenges you faced - data quality issues, missing data, computational constraints, etc.]</p>
+      </div>
+    </section>
+  </div>
+
+  <!-- Footer with Green Band -->
+  <footer class="project-footer">
+    <p>&copy; Krisha Chandnani | <a href="https://github.com/Krisha15502">GitHub</a> | <a href="https://www.linkedin.com/in/krisha-chandnani/">LinkedIn</a></p>
+  </footer>
+
+  <script>
+    // Placeholder chart embeds - replace with your actual chart URLs
+    let project_chart_1_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/project_chart_1.json";
+    vegaEmbed('#project_chart_1', project_chart_1_spec, {width: 600, height: 400});
+    
+    let project_chart_2_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/project_chart_2.json";
+    vegaEmbed('#project_chart_2', project_chart_2_spec, {width: 600, height: 400});
+    
+    let project_chart_3_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/project_chart_3.json";
+    vegaEmbed('#project_chart_3', project_chart_3_spec, {width: 600, height: 400});
+    
+    let project_chart_4_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/project_chart_4.json";
+    vegaEmbed('#project_chart_4', project_chart_4_spec, {width: 600, height: 400});
+    
+    let project_chart_5_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/project_chart_5.json";
+    vegaEmbed('#project_chart_5', project_chart_5_spec, {width: 600, height: 400});
+    
+    let project_chart_6_spec = "https://raw.githubusercontent.com/Krisha15502/Krisha15502.github.io/refs/heads/main/charts/project_chart_6.json";
+    vegaEmbed('#project_chart_6', project_chart_6_spec, {width: 600, height: 400});
+
+    // Appendix toggle function
+    function toggleAppendix() {
+      const appendixSection = document.getElementById('appendixSection');
+      const appendixText = document.getElementById('appendixText');
+      
+      if (appendixSection.classList.contains('expanded')) {
+        appendixSection.classList.remove('expanded');
+        appendixText.innerHTML = 'Show Appendix ↓';
+      } else {
+        appendixSection.classList.add('expanded');
+        appendixText.innerHTML = 'Hide Appendix ↑';
+        appendixSection.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      }
+    }
+  </script>
+</body>
+</html>
