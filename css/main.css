@@ -1055,18 +1055,14 @@ figure {
 
 /* ==================== FOOTER ==================== */
 footer {
-    text-align: center;
-    padding: 30px 20px;
-    color: #5a6c7d;
-    margin-top: 0;
-    background: white;
-    border-top: 1px solid #e8e8e8;
+    background: #2d5016;
+    color: white;
+    border-top: none;
+    margin-top: 60px;
 }
 
 footer p {
-    font-size: 1em;
-    margin-bottom: 8px;
-    text-align: center;
+    color: white;
 }
 
 .social-links {
