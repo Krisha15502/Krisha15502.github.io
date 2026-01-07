@@ -266,6 +266,26 @@ body.landing-page .top-nav.visible {
     margin-bottom: 20px;
 }
 
+.contact-btn {
+    color: #4a7c59;
+    font-size: 1.1em;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    border-bottom: 2px solid transparent;
+}
+
+.contact-btn:hover {
+    color: #2d5016;
+    border-bottom: 2px solid #2d5016;
+}
+
+.button-divider {
+    color: #4a7c59;
+    font-size: 1.2em;
+    font-weight: 300;
+}
+
 /* ==================== SHOWCASE SECTION (LANDING PAGE) ==================== */
 .showcase-section {
     padding: 80px 0;
@@ -509,7 +529,7 @@ header h1 {
 }
 
 header p {
-    font-size: 1.2;
+    font-size: 1.2em;
     margin-bottom: 0;
     color: #5a6c7d;
     font-style: normal;
@@ -531,11 +551,11 @@ header p {
 .portfolio-header p {
     font-style: normal;
     color: #4a7c59;
-    font-size: 1.1;
+    font-size: 1.1em;
     font-weight: 400;
 }
 
-/* Project page header - medium forest green */
+/* Project page header - white with green border */
 .project-header {
     background: white;
     color: #2c3e50;
@@ -549,7 +569,7 @@ header p {
 .project-header p {
     font-style: normal;
     color: #4a7c59;
-    font-size: 1.1;
+    font-size: 1.1em;
     font-weight: 400;
 }
 
@@ -570,6 +590,14 @@ section {
     color: #2d5016;
     margin-bottom: 15px;
     font-size: 2em;
+    text-align: center;
+}
+
+.intro-section h3 {
+    color: #2d5016;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-size: 1.6em;
     text-align: center;
 }
 
@@ -776,7 +804,7 @@ section {
 }
 
 .appendix-subsection h3 {
-    color: #4a7c59;
+    color: #2d5016;
     font-size: 1.5em;
     margin-bottom: 15px;
     text-align: left;
@@ -806,15 +834,22 @@ section {
     color: white;
     border-top: none;
     margin-top: 60px;
+    padding: 40px 20px;
+    text-align: center;
 }
 
 .project-footer p {
     color: white;
+    text-align: center;
+    font-size: 1em;
+    margin-bottom: 0;
 }
 
 .project-footer a {
     color: white;
-    text-decoration: underline;
+    text-decoration: none;
+    font-weight: bold;
+    transition: opacity 0.3s ease;
 }
 
 .project-footer a:hover {
@@ -1024,6 +1059,7 @@ figure {
 .research-question p {
     font-size: 1.1em;
     line-height: 1.8;
+    text-align: center;
 }
 
 .data-sources {
@@ -1057,12 +1093,28 @@ figure {
 footer {
     background: #2d5016;
     color: white;
-    border-top: none;
+    text-align: center;
+    padding: 40px 20px;
     margin-top: 60px;
+    border-top: none;
 }
 
 footer p {
     color: white;
+    font-size: 1em;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: opacity 0.3s ease;
+}
+
+footer a:hover {
+    opacity: 0.8;
 }
 
 .social-links {
@@ -1070,7 +1122,7 @@ footer p {
 }
 
 .social-links a {
-    color: #4a7c59;
+    color: white;
     text-decoration: none;
     margin: 0 12px;
     font-weight: bold;
@@ -1079,7 +1131,7 @@ footer p {
 }
 
 .social-links a:hover {
-    color: #2d5016;
+    opacity: 0.8;
 }
 
 /* ==================== RESPONSIVE DESIGN ==================== */
